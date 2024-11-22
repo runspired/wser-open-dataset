@@ -1,5 +1,9 @@
 # wser-open-dataset
 
+## Usage
+
+## Contributing
+
 To install dependencies:
 
 ```bash
