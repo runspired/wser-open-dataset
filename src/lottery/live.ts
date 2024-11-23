@@ -6,7 +6,7 @@ export async function fetchLatestLiveLotteryResults(
 ) {
   // we always serve from cache unless asked to force generate
   const file = Bun.file(
-    `./data-cache/raw/${yearHint}/live-lottery-results.json`,
+    `./.data-cache/raw/${yearHint}/live-lottery-results.json`,
   );
   const forceGenerate = force || Bun.env.FORCE_GENERATE === 'true';
   const exists = await file.exists();
