@@ -22,6 +22,8 @@
 This project collects publicly available data for the [Western States Endurance Run](https://wser.org)
 and formats it into [{json:api}](https://jsonapi.org) for ease of consumption.
 
+Currently it supports data as far back as 2013.
+
 ## Goals
 
 The goal for this project is to provide
