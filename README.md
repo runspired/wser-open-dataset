@@ -1,5 +1,18 @@
 <p align="center">
-  <img src="./assets/wser.png" background="white" width=150>
+  <img
+    class="project-logo"
+    src="./assets/wser.png#gh-light-mode-only"
+    alt="WSER"
+    width="150px"
+    title="WSER"
+    />
+  <img
+    class="project-logo"
+    src="./assets/wser-dark-mode.png#gh-dark-mode-only"
+    alt="WSER"
+    width="150px"
+    title="WSER"
+    />
 </p>
 
 ---
