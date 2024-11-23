@@ -28,12 +28,64 @@ Currently it supports data as far back as 2013.
 
 The goal for this project is to provide
 
+- a raw, minimally processed dataset
 - a normalized relational dataset
-- cdn based access to that dataset
-- git/npm based access to that dataset
-- a sqlite seed of the dataset
-- typescript types for the data in the dataset
-- request builders and schemas for the data for use with [warp-drive.io](https://warp-drive.io)
+- cdn based access to both datasets
+- git/npm based access to both datasets
+- a sqlite seed of the normalized dataset
+- typescript types for the data in both datasets
+- request builders and schemas for both datasets for use with [warp-drive.io](https://warp-drive.io)
+
+## Raw Dataset
+
+The raw dataset is the result of injesting various public sources and transforming it into well-structured [{json:api}](https://jsonapi.org) . This dataset stores each source in isolation. `type+id` information in the dataset is unique by given race year and data source.
+
+The following data sources are currently available:
+
+> [!IMPORTANT]
+> In the url and filepath schemes below, replace `{YYYY}` with the
+> desired year. E.g. `2013`
+
+### 2013 →
+
+- `applicants` 
+  - source: `https://www.wser.org/lottery{YYYY}.html`
+  - output: `./.data-cache/raw/{YYYY}/applicants.json`
+
+> [!TIP]
+> Beginning in 2020 the race began assigning each applicant
+> an ID. We are unsure yet if this is stable across years.
+
+- `entrants`
+  - source: `https://www.wser.org/{YYYY}-entrants-list/`
+  - output: `./.data-cache/raw/{YYYY}/entrants.json`
+
+> [!TIP]
+> The entrants list contains non-lottery entrant data as well
+> as individuals who were selected from the waitlist. It does
+> not represent fully the lottery outcome.
+
+### 2017 →
+
+- `wait-list`
+  - source: `https://www.wser.org/{YYYY}-wait-list/`
+  - output: `./.data-cache/raw/{YYYY}/wait-list.json`
+
+> [!TIP]
+> The waitlist in 2020 became the 2021 waitlist,
+> But it can be useful for tracking who withdrew
+> and did not rollover.
+
+### 2024 →
+
+- `live` (lottery outcome)
+  - source: `https://lottery.wser.org/`
+  - output: `./.data-cache/raw/{YYYY}/live-lottery-results.json`
+
+> [!TIP]
+> The live dataset can only be collected the year of the
+> given lottery. It can be useful for tracking the delta
+> of who withdrew from the entrants list.
 
 ## Contributing
 
