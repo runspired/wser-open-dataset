@@ -1,0 +1,36 @@
+{
+  "data": {
+    "type": "finishers-list",
+    "id": "1974",
+    "attributes": {
+      "year": 1974
+    },
+    "relationships": {
+      "applicants": {
+        "data": [
+          {
+            "type": "finisher",
+            "id": "1974:0"
+          }
+        ]
+      }
+    }
+  },
+  "included": [
+    {
+      "type": "finisher",
+      "id": "1974:0",
+      "attributes": {
+        "place": 1,
+        "time": "23:42",
+        "bib": "",
+        "firstName": "Ainsleigh",
+        "lastName": "Gordy",
+        "gender": "M",
+        "age": 26,
+        "city": "",
+        "stateOrCountry": "CA"
+      }
+    }
+  ]
+}

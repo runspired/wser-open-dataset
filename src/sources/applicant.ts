@@ -1,4 +1,9 @@
-import { extractTableData, getHtmlIfNeeded, ticketsToYears } from './-shared';
+import {
+  extractTableData,
+  getHtmlIfNeeded,
+  inverseMap,
+  ticketsToYears,
+} from './-shared';
 
 type YearlyLottery = {
   type: 'lottery';
@@ -52,14 +57,12 @@ const ApplicantFieldMappingDict = {
   qualifier: 'Qualifier',
   years: 'Years',
   tickets: 'Tickets',
-} as const;
+};
 
 const ApplicantFieldTransformMap = new Map(
   Object.entries(ApplicantFieldMappingDict),
 ) as Map<EntrantField, string>;
-const ApplicantFieldReverseTransformMap = new Map(
-  Object.entries(ApplicantFieldMappingDict).map(([key, value]) => [value, key]),
-) as Map<string, EntrantField>;
+const ApplicantFieldReverseTransformMap = inverseMap(ApplicantFieldMappingDict);
 
 function isNumberField(field: EntrantField): field is 'years' | 'tickets' {
   return field === 'years' || field === 'tickets';

@@ -1,4 +1,9 @@
-import { extractTableData, getHtmlIfNeeded, ticketsToYears } from './-shared';
+import {
+  extractTableData,
+  getHtmlIfNeeded,
+  inverseMap,
+  ticketsToYears,
+} from './-shared';
 
 type WaitlistResult = {
   data: Waitlist;
@@ -52,18 +57,9 @@ const FieldMappingDict = {
   tickets: ['Tickets', 'Ticket Count'],
   years: ['Years', 'Years In Lottery', 'Years in Lottery'],
   bib: 'Bib',
-} as const;
+};
 
-const InverseFieldMap = new Map<string, EntrantField>();
-for (const [key, value] of Object.entries(FieldMappingDict)) {
-  if (Array.isArray(value)) {
-    for (const v of value) {
-      InverseFieldMap.set(v, key as EntrantField);
-    }
-  } else {
-    InverseFieldMap.set(value as string, key as EntrantField);
-  }
-}
+const InverseFieldMap = inverseMap(FieldMappingDict);
 
 function isNumberField(
   field: EntrantField,

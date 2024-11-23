@@ -1,0 +1,36 @@
+{
+  "data": {
+    "type": "finishers-list",
+    "id": "1976",
+    "attributes": {
+      "year": 1976
+    },
+    "relationships": {
+      "applicants": {
+        "data": [
+          {
+            "type": "finisher",
+            "id": "1976:0"
+          }
+        ]
+      }
+    }
+  },
+  "included": [
+    {
+      "type": "finisher",
+      "id": "1976:0",
+      "attributes": {
+        "place": 1,
+        "time": "24:30",
+        "bib": "",
+        "firstName": "Ken \"Cowman\"",
+        "lastName": "Shirk",
+        "gender": "M",
+        "age": 0,
+        "city": "",
+        "stateOrCountry": null
+      }
+    }
+  ]
+}

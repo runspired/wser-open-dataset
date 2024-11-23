@@ -1,0 +1,5451 @@
+{
+  "data": {
+    "type": "finishers-list",
+    "id": "2024",
+    "attributes": {
+      "year": 2024
+    },
+    "relationships": {
+      "applicants": {
+        "data": [
+          {
+            "type": "finisher",
+            "id": "2024:0"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:1"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:2"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:3"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:4"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:5"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:6"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:7"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:8"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:9"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:10"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:11"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:12"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:13"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:14"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:15"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:16"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:17"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:18"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:19"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:20"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:21"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:22"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:23"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:24"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:25"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:26"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:27"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:28"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:29"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:30"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:31"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:32"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:33"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:34"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:35"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:36"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:37"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:38"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:39"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:40"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:41"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:42"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:43"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:44"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:45"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:46"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:47"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:48"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:49"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:50"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:51"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:52"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:53"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:54"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:55"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:56"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:57"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:58"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:59"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:60"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:61"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:62"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:63"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:64"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:65"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:66"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:67"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:68"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:69"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:70"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:71"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:72"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:73"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:74"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:75"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:76"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:77"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:78"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:79"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:80"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:81"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:82"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:83"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:84"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:85"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:86"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:87"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:88"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:89"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:90"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:91"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:92"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:93"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:94"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:95"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:96"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:97"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:98"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:99"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:100"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:101"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:102"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:103"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:104"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:105"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:106"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:107"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:108"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:109"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:110"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:111"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:112"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:113"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:114"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:115"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:116"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:117"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:118"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:119"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:120"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:121"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:122"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:123"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:124"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:125"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:126"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:127"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:128"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:129"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:130"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:131"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:132"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:133"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:134"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:135"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:136"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:137"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:138"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:139"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:140"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:141"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:142"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:143"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:144"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:145"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:146"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:147"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:148"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:149"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:150"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:151"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:152"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:153"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:154"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:155"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:156"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:157"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:158"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:159"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:160"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:161"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:162"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:163"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:164"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:165"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:166"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:167"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:168"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:169"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:170"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:171"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:172"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:173"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:174"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:175"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:176"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:177"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:178"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:179"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:180"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:181"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:182"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:183"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:184"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:185"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:186"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:187"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:188"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:189"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:190"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:191"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:192"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:193"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:194"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:195"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:196"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:197"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:198"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:199"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:200"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:201"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:202"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:203"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:204"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:205"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:206"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:207"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:208"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:209"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:210"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:211"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:212"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:213"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:214"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:215"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:216"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:217"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:218"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:219"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:220"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:221"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:222"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:223"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:224"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:225"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:226"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:227"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:228"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:229"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:230"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:231"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:232"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:233"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:234"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:235"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:236"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:237"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:238"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:239"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:240"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:241"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:242"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:243"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:244"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:245"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:246"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:247"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:248"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:249"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:250"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:251"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:252"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:253"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:254"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:255"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:256"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:257"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:258"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:259"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:260"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:261"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:262"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:263"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:264"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:265"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:266"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:267"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:268"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:269"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:270"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:271"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:272"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:273"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:274"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:275"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:276"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:277"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:278"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:279"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:280"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:281"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:282"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:283"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:284"
+          },
+          {
+            "type": "finisher",
+            "id": "2024:285"
+          }
+        ]
+      }
+    }
+  },
+  "included": [
+    {
+      "type": "finisher",
+      "id": "2024:0",
+      "attributes": {
+        "place": 1,
+        "time": "14:13:45",
+        "bib": "21",
+        "firstName": "Jim",
+        "lastName": "Walmsley",
+        "gender": "M",
+        "age": 34,
+        "city": "Flagstaff",
+        "stateOrCountry": "AZ"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:1",
+      "attributes": {
+        "place": 2,
+        "time": "14:24:15",
+        "bib": "39",
+        "firstName": "Rod",
+        "lastName": "Farvard",
+        "gender": "M",
+        "age": 28,
+        "city": "Mammoth Lakes",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:2",
+      "attributes": {
+        "place": 3,
+        "time": "14:24:31",
+        "bib": "34",
+        "firstName": "Hayden",
+        "lastName": "Hawks",
+        "gender": "M",
+        "age": 33,
+        "city": "Cedar City",
+        "stateOrCountry": "UT"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:3",
+      "attributes": {
+        "place": 4,
+        "time": "14:32:29",
+        "bib": "M5",
+        "firstName": "Daniel",
+        "lastName": "Jones",
+        "gender": "M",
+        "age": 33,
+        "city": "Wellington",
+        "stateOrCountry": "NZL"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:4",
+      "attributes": {
+        "place": 5,
+        "time": "14:40:12",
+        "bib": "17",
+        "firstName": "Caleb",
+        "lastName": "Olson",
+        "gender": "M",
+        "age": 28,
+        "city": "Draper",
+        "stateOrCountry": "UT"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:5",
+      "attributes": {
+        "place": 6,
+        "time": "14:57:01",
+        "bib": "13",
+        "firstName": "Jonathan",
+        "lastName": "Albon",
+        "gender": "M",
+        "age": 35,
+        "city": "Isfjorden",
+        "stateOrCountry": "NOR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:6",
+      "attributes": {
+        "place": 7,
+        "time": "15:05:39",
+        "bib": "M2",
+        "firstName": "Tyler",
+        "lastName": "Green",
+        "gender": "M",
+        "age": 40,
+        "city": "Portland",
+        "stateOrCountry": "OR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:7",
+      "attributes": {
+        "place": 8,
+        "time": "15:09:49",
+        "bib": "M4",
+        "firstName": "Jiasheng",
+        "lastName": "Shen",
+        "gender": "M",
+        "age": 29,
+        "city": "Kunming",
+        "stateOrCountry": "CHN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:8",
+      "attributes": {
+        "place": 9,
+        "time": "15:13:10",
+        "bib": "25",
+        "firstName": "Jonathan",
+        "lastName": "Rea",
+        "gender": "M",
+        "age": 32,
+        "city": "Boulder",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:9",
+      "attributes": {
+        "place": 10,
+        "time": "15:18:25",
+        "bib": "36",
+        "firstName": "Chris",
+        "lastName": "Myers",
+        "gender": "M",
+        "age": 28,
+        "city": "Nederland",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:10",
+      "attributes": {
+        "place": 11,
+        "time": "15:18:57",
+        "bib": "26",
+        "firstName": "Blake",
+        "lastName": "Slattengren",
+        "gender": "M",
+        "age": 28,
+        "city": "Seattle",
+        "stateOrCountry": "WA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:11",
+      "attributes": {
+        "place": 12,
+        "time": "15:35:30",
+        "bib": "29",
+        "firstName": "Ji",
+        "lastName": "Duo",
+        "gender": "M",
+        "age": 31,
+        "city": "Fuzhou",
+        "stateOrCountry": "CHN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:12",
+      "attributes": {
+        "place": 13,
+        "time": "15:46:57",
+        "bib": "F2",
+        "firstName": "Katie",
+        "lastName": "Schide",
+        "gender": "F",
+        "age": 32,
+        "city": "Gardiner",
+        "stateOrCountry": "ME"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:13",
+      "attributes": {
+        "place": 14,
+        "time": "16:20:03",
+        "bib": "46",
+        "firstName": "Fuzhao",
+        "lastName": "Xiang",
+        "gender": "F",
+        "age": 32,
+        "city": "CHONGQING",
+        "stateOrCountry": "CHN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:14",
+      "attributes": {
+        "place": 15,
+        "time": "16:22:36",
+        "bib": "40",
+        "firstName": "Petter",
+        "lastName": "Engdahl",
+        "gender": "M",
+        "age": 29,
+        "city": "Isfjorden",
+        "stateOrCountry": "NOR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:15",
+      "attributes": {
+        "place": 16,
+        "time": "16:37:08",
+        "bib": "170",
+        "firstName": "Guomin",
+        "lastName": "Deng",
+        "gender": "M",
+        "age": 34,
+        "city": "ShenZhen",
+        "stateOrCountry": "CHN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:16",
+      "attributes": {
+        "place": 17,
+        "time": "16:42:17",
+        "bib": "F3",
+        "firstName": "Eszter",
+        "lastName": "Csillag",
+        "gender": "F",
+        "age": 39,
+        "city": "Hong Kong",
+        "stateOrCountry": "HUN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:17",
+      "attributes": {
+        "place": 18,
+        "time": "16:44:36",
+        "bib": "M9",
+        "firstName": "Cole",
+        "lastName": "Watson",
+        "gender": "M",
+        "age": 32,
+        "city": "Rancho Cordova",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:18",
+      "attributes": {
+        "place": 19,
+        "time": "16:48:43",
+        "bib": "F5",
+        "firstName": "Emily",
+        "lastName": "Hawgood",
+        "gender": "F",
+        "age": 29,
+        "city": "Beatrice",
+        "stateOrCountry": "ZWE"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:19",
+      "attributes": {
+        "place": 20,
+        "time": "16:50:39",
+        "bib": "11",
+        "firstName": "Yngvild",
+        "lastName": "Kaspersen",
+        "gender": "F",
+        "age": 29,
+        "city": "Tromsø",
+        "stateOrCountry": "NOR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:20",
+      "attributes": {
+        "place": 21,
+        "time": "16:56:52",
+        "bib": "F7",
+        "firstName": "Ida",
+        "lastName": "Nilsson",
+        "gender": "F",
+        "age": 42,
+        "city": "Kalmar",
+        "stateOrCountry": "SWE"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:21",
+      "attributes": {
+        "place": 22,
+        "time": "17:04:13",
+        "bib": "22",
+        "firstName": "Simon",
+        "lastName": "Gosselin",
+        "gender": "M",
+        "age": 28,
+        "city": "Beaufort",
+        "stateOrCountry": "FRA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:22",
+      "attributes": {
+        "place": 23,
+        "time": "17:14:05",
+        "bib": "35",
+        "firstName": "Jupiter",
+        "lastName": "Carera Casas",
+        "gender": "M",
+        "age": 30,
+        "city": "estado de Mexico",
+        "stateOrCountry": "MEX"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:23",
+      "attributes": {
+        "place": 24,
+        "time": "17:16:43",
+        "bib": "23",
+        "firstName": "Heather",
+        "lastName": "Jackson",
+        "gender": "F",
+        "age": 40,
+        "city": "Bend",
+        "stateOrCountry": "OR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:24",
+      "attributes": {
+        "place": 25,
+        "time": "17:28:35",
+        "bib": "31",
+        "firstName": "Rachel",
+        "lastName": "Drake",
+        "gender": "F",
+        "age": 33,
+        "city": "Salt Lake City",
+        "stateOrCountry": "UT"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:25",
+      "attributes": {
+        "place": 26,
+        "time": "17:30:24",
+        "bib": "F8",
+        "firstName": "Priscilla",
+        "lastName": "Forgie",
+        "gender": "F",
+        "age": 33,
+        "city": "Edmonton",
+        "stateOrCountry": "AB"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:26",
+      "attributes": {
+        "place": 27,
+        "time": "17:33:54",
+        "bib": "F9",
+        "firstName": "Leah",
+        "lastName": "Yingling",
+        "gender": "F",
+        "age": 33,
+        "city": "Salt Lake City",
+        "stateOrCountry": "UT"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:27",
+      "attributes": {
+        "place": 28,
+        "time": "17:41:07",
+        "bib": "14",
+        "firstName": "Dakota",
+        "lastName": "Jones",
+        "gender": "M",
+        "age": 33,
+        "city": "Salt Lake City",
+        "stateOrCountry": "UT"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:28",
+      "attributes": {
+        "place": 29,
+        "time": "17:53:10",
+        "bib": "38",
+        "firstName": "Anna",
+        "lastName": "Louden",
+        "gender": "F",
+        "age": 31,
+        "city": "San Francisco",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:29",
+      "attributes": {
+        "place": 30,
+        "time": "18:22:04",
+        "bib": "343",
+        "firstName": "Devin",
+        "lastName": "Vennard",
+        "gender": "M",
+        "age": 31,
+        "city": "Leadville",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:30",
+      "attributes": {
+        "place": 31,
+        "time": "18:34:39",
+        "bib": "M7",
+        "firstName": "Ryan",
+        "lastName": "Montgomery",
+        "gender": "M (X)",
+        "age": 30,
+        "city": "Wanship",
+        "stateOrCountry": "UT"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:31",
+      "attributes": {
+        "place": 32,
+        "time": "18:37:48",
+        "bib": "352",
+        "firstName": "Henrik",
+        "lastName": "Westerlin",
+        "gender": "M",
+        "age": 49,
+        "city": "Winterthur",
+        "stateOrCountry": "CHE"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:32",
+      "attributes": {
+        "place": 33,
+        "time": "18:39:55",
+        "bib": "12",
+        "firstName": "Emily",
+        "lastName": "Schmitz",
+        "gender": "F",
+        "age": 43,
+        "city": "Wauwatosa",
+        "stateOrCountry": "WI"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:33",
+      "attributes": {
+        "place": 34,
+        "time": "18:52:25",
+        "bib": "33",
+        "firstName": "Lauren",
+        "lastName": "Puretz",
+        "gender": "F",
+        "age": 41,
+        "city": "Colorado Springs",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:34",
+      "attributes": {
+        "place": 35,
+        "time": "18:53:39",
+        "bib": "37",
+        "firstName": "Careth",
+        "lastName": "Arnold",
+        "gender": "F",
+        "age": 34,
+        "city": "Paonia",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:35",
+      "attributes": {
+        "place": 36,
+        "time": "18:53:39",
+        "bib": "15",
+        "firstName": "Lotti",
+        "lastName": "Brinks",
+        "gender": "F",
+        "age": 28,
+        "city": "Boise",
+        "stateOrCountry": "ID"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:36",
+      "attributes": {
+        "place": 37,
+        "time": "18:59:25",
+        "bib": "173",
+        "firstName": "Joseph",
+        "lastName": "Dorph",
+        "gender": "M",
+        "age": 30,
+        "city": "BRIGHT",
+        "stateOrCountry": "AUS"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:37",
+      "attributes": {
+        "place": 38,
+        "time": "19:02:55",
+        "bib": "18",
+        "firstName": "Caleb",
+        "lastName": "Bowen",
+        "gender": "M",
+        "age": 30,
+        "city": "Huntington",
+        "stateOrCountry": "WV"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:38",
+      "attributes": {
+        "place": 39,
+        "time": "19:06:49",
+        "bib": "30",
+        "firstName": "Robert",
+        "lastName": "Hajnal",
+        "gender": "M",
+        "age": 34,
+        "city": "petrila",
+        "stateOrCountry": "ROU"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:39",
+      "attributes": {
+        "place": 40,
+        "time": "19:21:46",
+        "bib": "44",
+        "firstName": "Harvey",
+        "lastName": "Lewis",
+        "gender": "M",
+        "age": 48,
+        "city": "Cincinnati",
+        "stateOrCountry": "OH"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:40",
+      "attributes": {
+        "place": 41,
+        "time": "19:23:28",
+        "bib": "392",
+        "firstName": "Tj",
+        "lastName": "David",
+        "gender": "M",
+        "age": 37,
+        "city": "Carbondale",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:41",
+      "attributes": {
+        "place": 42,
+        "time": "19:25:01",
+        "bib": "335",
+        "firstName": "Mathias",
+        "lastName": "Thenaisie",
+        "gender": "M",
+        "age": 34,
+        "city": "PLERIN",
+        "stateOrCountry": "FRA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:42",
+      "attributes": {
+        "place": 43,
+        "time": "19:31:30",
+        "bib": "247",
+        "firstName": "Charles",
+        "lastName": "MacNulty",
+        "gender": "M",
+        "age": 50,
+        "city": "Auburn",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:43",
+      "attributes": {
+        "place": 44,
+        "time": "19:38:41",
+        "bib": "32",
+        "firstName": "Becca",
+        "lastName": "Windell",
+        "gender": "F",
+        "age": 38,
+        "city": "Fort Collins",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:44",
+      "attributes": {
+        "place": 45,
+        "time": "19:47:22",
+        "bib": "41",
+        "firstName": "Kellie",
+        "lastName": "Angel",
+        "gender": "F",
+        "age": 38,
+        "city": "Melbourne",
+        "stateOrCountry": "AUS"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:45",
+      "attributes": {
+        "place": 46,
+        "time": "19:51:11",
+        "bib": "202",
+        "firstName": "Paul",
+        "lastName": "Jacobs",
+        "gender": "M",
+        "age": 46,
+        "city": "Washington",
+        "stateOrCountry": "DC"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:46",
+      "attributes": {
+        "place": 47,
+        "time": "20:16:04",
+        "bib": "337",
+        "firstName": "John",
+        "lastName": "Tidd",
+        "gender": "M",
+        "age": 60,
+        "city": "San Lorenzo de el Escorial",
+        "stateOrCountry": "ESP"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:47",
+      "attributes": {
+        "place": 48,
+        "time": "20:34:21",
+        "bib": "373",
+        "firstName": "Gaël",
+        "lastName": "Ninot",
+        "gender": "M",
+        "age": 46,
+        "city": "Montpellier",
+        "stateOrCountry": null
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:48",
+      "attributes": {
+        "place": 49,
+        "time": "20:38:23",
+        "bib": "182",
+        "firstName": "Taylor",
+        "lastName": "Edwards",
+        "gender": "M",
+        "age": 33,
+        "city": "Auburn",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:49",
+      "attributes": {
+        "place": 50,
+        "time": "20:45:21",
+        "bib": "43",
+        "firstName": "Kaci",
+        "lastName": "Lickteig",
+        "gender": "F",
+        "age": 37,
+        "city": "Omaha",
+        "stateOrCountry": "NE"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:50",
+      "attributes": {
+        "place": 51,
+        "time": "20:46:40",
+        "bib": "20",
+        "firstName": "Giulia",
+        "lastName": "Vinco",
+        "gender": "F",
+        "age": 33,
+        "city": "Sommacampagna",
+        "stateOrCountry": "ITA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:51",
+      "attributes": {
+        "place": 52,
+        "time": "21:07:41",
+        "bib": "122",
+        "firstName": "Jacob",
+        "lastName": "Rydman",
+        "gender": "M",
+        "age": 39,
+        "city": "Auburn",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:52",
+      "attributes": {
+        "place": 53,
+        "time": "21:13:03",
+        "bib": "119",
+        "firstName": "Thorsten",
+        "lastName": "Preiss",
+        "gender": "M",
+        "age": 47,
+        "city": "Ebsdorfergrund",
+        "stateOrCountry": "DEU"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:53",
+      "attributes": {
+        "place": 54,
+        "time": "21:14:49",
+        "bib": "110",
+        "firstName": "Christopher",
+        "lastName": "Harrington",
+        "gender": "M",
+        "age": 40,
+        "city": "Golden",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:54",
+      "attributes": {
+        "place": 55,
+        "time": "21:22:42",
+        "bib": "255",
+        "firstName": "Gerome",
+        "lastName": "Fernandez",
+        "gender": "M",
+        "age": 33,
+        "city": "Les 2 Alpes",
+        "stateOrCountry": "FRA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:55",
+      "attributes": {
+        "place": 56,
+        "time": "21:23:58",
+        "bib": "270",
+        "firstName": "Tomas",
+        "lastName": "Nordlöf",
+        "gender": "M",
+        "age": 38,
+        "city": "Umeå",
+        "stateOrCountry": "SWE"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:56",
+      "attributes": {
+        "place": 57,
+        "time": "21:24:25",
+        "bib": "271",
+        "firstName": "Todd",
+        "lastName": "Nott",
+        "gender": "M",
+        "age": 60,
+        "city": "Plattsmouth",
+        "stateOrCountry": "NE"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:57",
+      "attributes": {
+        "place": 58,
+        "time": "21:32:42",
+        "bib": "90",
+        "firstName": "Jack",
+        "lastName": "Davis",
+        "gender": "M",
+        "age": 47,
+        "city": "Johannesburg",
+        "stateOrCountry": "ZAF"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:58",
+      "attributes": {
+        "place": 59,
+        "time": "21:35:03",
+        "bib": "313",
+        "firstName": "Brian",
+        "lastName": "Miller",
+        "gender": "M",
+        "age": 48,
+        "city": "El Dorado Hills",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:59",
+      "attributes": {
+        "place": 60,
+        "time": "21:36:31",
+        "bib": "288",
+        "firstName": "Riley",
+        "lastName": "Robertson",
+        "gender": "M",
+        "age": 34,
+        "city": "San Diego",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:60",
+      "attributes": {
+        "place": 61,
+        "time": "21:58:58",
+        "bib": "211",
+        "firstName": "Patrick",
+        "lastName": "Heine",
+        "gender": "M",
+        "age": 35,
+        "city": "Bethlehem",
+        "stateOrCountry": "PA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:61",
+      "attributes": {
+        "place": 62,
+        "time": "21:59:31",
+        "bib": "127",
+        "firstName": "Alina",
+        "lastName": "Edwards",
+        "gender": "F",
+        "age": 44,
+        "city": "Grass Valley",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:62",
+      "attributes": {
+        "place": 63,
+        "time": "22:00:58",
+        "bib": "24",
+        "firstName": "Ragna",
+        "lastName": "Debats",
+        "gender": "F",
+        "age": 45,
+        "city": "Matadepera",
+        "stateOrCountry": "ESP"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:63",
+      "attributes": {
+        "place": 64,
+        "time": "22:01:56",
+        "bib": "165",
+        "firstName": "Todd",
+        "lastName": "Curtis",
+        "gender": "M",
+        "age": 51,
+        "city": "GREAT BARRINGTON",
+        "stateOrCountry": "MA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:64",
+      "attributes": {
+        "place": 65,
+        "time": "22:09:59",
+        "bib": "169",
+        "firstName": "Romain",
+        "lastName": "Demare",
+        "gender": "M",
+        "age": 38,
+        "city": "Geneva",
+        "stateOrCountry": "FR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:65",
+      "attributes": {
+        "place": 66,
+        "time": "22:22:23",
+        "bib": "87",
+        "firstName": "Joshua",
+        "lastName": "Nichols",
+        "gender": "M",
+        "age": 36,
+        "city": "Manchester",
+        "stateOrCountry": "MI"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:66",
+      "attributes": {
+        "place": 67,
+        "time": "22:24:28",
+        "bib": "195",
+        "firstName": "Josh",
+        "lastName": "Gall",
+        "gender": "M",
+        "age": 33,
+        "city": "Longmont",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:67",
+      "attributes": {
+        "place": 68,
+        "time": "22:27:33",
+        "bib": "413",
+        "firstName": "Jeffrey",
+        "lastName": "Adams",
+        "gender": "M",
+        "age": 46,
+        "city": "Kenmore",
+        "stateOrCountry": "NY"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:68",
+      "attributes": {
+        "place": 69,
+        "time": "22:29:19",
+        "bib": "178",
+        "firstName": "Steve",
+        "lastName": "Rowbury",
+        "gender": "M",
+        "age": 56,
+        "city": "Mill Valley",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:69",
+      "attributes": {
+        "place": 70,
+        "time": "22:45:40",
+        "bib": "223",
+        "firstName": "Eric",
+        "lastName": "Johnson",
+        "gender": "M",
+        "age": 43,
+        "city": "Phoenix",
+        "stateOrCountry": "AZ"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:70",
+      "attributes": {
+        "place": 71,
+        "time": "22:46:45",
+        "bib": "141",
+        "firstName": "Michael",
+        "lastName": "Busada",
+        "gender": "M",
+        "age": 34,
+        "city": "Linden",
+        "stateOrCountry": "PA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:71",
+      "attributes": {
+        "place": 72,
+        "time": "22:48:36",
+        "bib": "341",
+        "firstName": "Matthew",
+        "lastName": "Urbanski",
+        "gender": "M",
+        "age": 43,
+        "city": "Denver",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:72",
+      "attributes": {
+        "place": 73,
+        "time": "22:49:41",
+        "bib": "126",
+        "firstName": "Dennis",
+        "lastName": "Boic",
+        "gender": "M",
+        "age": 48,
+        "city": "Redding",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:73",
+      "attributes": {
+        "place": 74,
+        "time": "22:51:26",
+        "bib": "199",
+        "firstName": "Andrew",
+        "lastName": "McDowall",
+        "gender": "M",
+        "age": 46,
+        "city": "Auckland",
+        "stateOrCountry": "NZL"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:74",
+      "attributes": {
+        "place": 75,
+        "time": "22:53:29",
+        "bib": "350",
+        "firstName": "Shingo",
+        "lastName": "Watanabe",
+        "gender": "M",
+        "age": 40,
+        "city": "Nihonmatu",
+        "stateOrCountry": "JPN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:75",
+      "attributes": {
+        "place": 76,
+        "time": "22:54:04",
+        "bib": "302",
+        "firstName": "Francesco",
+        "lastName": "Sgarlata",
+        "gender": "M",
+        "age": 35,
+        "city": "Milano",
+        "stateOrCountry": "ITA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:76",
+      "attributes": {
+        "place": 77,
+        "time": "23:00:06",
+        "bib": "117",
+        "firstName": "Stephen",
+        "lastName": "Blea",
+        "gender": "M",
+        "age": 38,
+        "city": "San Diego",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:77",
+      "attributes": {
+        "place": 78,
+        "time": "23:02:50",
+        "bib": "64",
+        "firstName": "Shaun",
+        "lastName": "Daylor",
+        "gender": "M",
+        "age": 45,
+        "city": "Lakeville",
+        "stateOrCountry": "MA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:78",
+      "attributes": {
+        "place": 79,
+        "time": "23:05:34",
+        "bib": "200",
+        "firstName": "Dominic",
+        "lastName": "Grossman",
+        "gender": "M",
+        "age": 37,
+        "city": "Wrightwood",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:79",
+      "attributes": {
+        "place": 80,
+        "time": "23:06:17",
+        "bib": "238",
+        "firstName": "Hélène",
+        "lastName": "Léger",
+        "gender": "F",
+        "age": 41,
+        "city": "Saint Lumine de Clisson",
+        "stateOrCountry": "FRA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:80",
+      "attributes": {
+        "place": 81,
+        "time": "23:18:11",
+        "bib": "297",
+        "firstName": "Philip",
+        "lastName": "Sanderson",
+        "gender": "M",
+        "age": 56,
+        "city": "Mill Valley",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:81",
+      "attributes": {
+        "place": 82,
+        "time": "23:22:25",
+        "bib": "207",
+        "firstName": "Matthew",
+        "lastName": "Hagenah",
+        "gender": "M",
+        "age": 51,
+        "city": "Boise",
+        "stateOrCountry": "ID"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:82",
+      "attributes": {
+        "place": 83,
+        "time": "23:26:14",
+        "bib": "99",
+        "firstName": "Michael",
+        "lastName": "Daly",
+        "gender": "M",
+        "age": 48,
+        "city": "La Jolla",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:83",
+      "attributes": {
+        "place": 84,
+        "time": "23:28:22",
+        "bib": "325",
+        "firstName": "Auston",
+        "lastName": "Sterling",
+        "gender": "M",
+        "age": 31,
+        "city": "Manitou Springs",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:84",
+      "attributes": {
+        "place": 85,
+        "time": "23:28:44",
+        "bib": "254",
+        "firstName": "Jo",
+        "lastName": "Meek",
+        "gender": "F",
+        "age": 47,
+        "city": "Moretonhampstead",
+        "stateOrCountry": "GBR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:85",
+      "attributes": {
+        "place": 86,
+        "time": "23:32:15",
+        "bib": "315",
+        "firstName": "Flemming",
+        "lastName": "Sondergaard",
+        "gender": "M",
+        "age": 46,
+        "city": "Saskatoon",
+        "stateOrCountry": "SK"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:86",
+      "attributes": {
+        "place": 87,
+        "time": "23:33:34",
+        "bib": "381",
+        "firstName": "Hans",
+        "lastName": "Van Horn",
+        "gender": "M",
+        "age": 40,
+        "city": "Sacramento",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:87",
+      "attributes": {
+        "place": 88,
+        "time": "23:34:02",
+        "bib": "114",
+        "firstName": "Chandler",
+        "lastName": "Blake",
+        "gender": "M",
+        "age": 48,
+        "city": "Saratoga Springs",
+        "stateOrCountry": "UT"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:88",
+      "attributes": {
+        "place": 89,
+        "time": "23:34:29",
+        "bib": "180",
+        "firstName": "Joshua",
+        "lastName": "Eddy",
+        "gender": "M",
+        "age": 43,
+        "city": "Henderson",
+        "stateOrCountry": "NV"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:89",
+      "attributes": {
+        "place": 90,
+        "time": "23:37:01",
+        "bib": "279",
+        "firstName": "Andy",
+        "lastName": "Pearson",
+        "gender": "M",
+        "age": 39,
+        "city": "Los Angeles",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:90",
+      "attributes": {
+        "place": 91,
+        "time": "23:37:46",
+        "bib": "163",
+        "firstName": "Brandon",
+        "lastName": "Crews",
+        "gender": "M",
+        "age": 41,
+        "city": "Asheville",
+        "stateOrCountry": "NC"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:91",
+      "attributes": {
+        "place": 92,
+        "time": "23:38:16",
+        "bib": "383",
+        "firstName": "Shawn",
+        "lastName": "McDermott",
+        "gender": "M",
+        "age": 44,
+        "city": "Leesburg",
+        "stateOrCountry": "VA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:92",
+      "attributes": {
+        "place": 93,
+        "time": "23:39:04",
+        "bib": "353",
+        "firstName": "Madeline",
+        "lastName": "Wighardt",
+        "gender": "F",
+        "age": 23,
+        "city": "Ancaster",
+        "stateOrCountry": "ON"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:93",
+      "attributes": {
+        "place": 94,
+        "time": "23:40:02",
+        "bib": "394",
+        "firstName": "Jesse",
+        "lastName": "Peragine",
+        "gender": "M",
+        "age": 35,
+        "city": "Golden",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:94",
+      "attributes": {
+        "place": 95,
+        "time": "23:41:24",
+        "bib": "280",
+        "firstName": "Joel",
+        "lastName": "Pennington",
+        "gender": "M",
+        "age": 43,
+        "city": "Fairfax",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:95",
+      "attributes": {
+        "place": 96,
+        "time": "23:41:32",
+        "bib": "55",
+        "firstName": "Takeshi",
+        "lastName": "Noda",
+        "gender": "M",
+        "age": 39,
+        "city": "Yokohama",
+        "stateOrCountry": "JPN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:96",
+      "attributes": {
+        "place": 97,
+        "time": "23:41:47",
+        "bib": "316",
+        "firstName": "Kedric",
+        "lastName": "Osborne",
+        "gender": "M",
+        "age": 47,
+        "city": "Littleton",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:97",
+      "attributes": {
+        "place": 98,
+        "time": "23:42:12",
+        "bib": "76",
+        "firstName": "James",
+        "lastName": "Poole",
+        "gender": "M",
+        "age": 48,
+        "city": "London",
+        "stateOrCountry": "GBR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:98",
+      "attributes": {
+        "place": 99,
+        "time": "23:43:15",
+        "bib": "242",
+        "firstName": "Khris",
+        "lastName": "Vickroy",
+        "gender": "M",
+        "age": 48,
+        "city": "Iowa City",
+        "stateOrCountry": "IA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:99",
+      "attributes": {
+        "place": 100,
+        "time": "23:44:24",
+        "bib": "377",
+        "firstName": "Johan",
+        "lastName": "Edenteg",
+        "gender": "M",
+        "age": 47,
+        "city": "Tierp",
+        "stateOrCountry": "SWE"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:100",
+      "attributes": {
+        "place": 101,
+        "time": "23:44:59",
+        "bib": "300",
+        "firstName": "Edward",
+        "lastName": "Scott",
+        "gender": "M",
+        "age": 30,
+        "city": "London",
+        "stateOrCountry": "GBR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:101",
+      "attributes": {
+        "place": 102,
+        "time": "23:45:56",
+        "bib": "219",
+        "firstName": "Bob",
+        "lastName": "Luther",
+        "gender": "M",
+        "age": 48,
+        "city": "Barboursville",
+        "stateOrCountry": "WV"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:102",
+      "attributes": {
+        "place": 103,
+        "time": "23:47:23",
+        "bib": "116",
+        "firstName": "John",
+        "lastName": "Bruno",
+        "gender": "M",
+        "age": 38,
+        "city": "Easley",
+        "stateOrCountry": "SC"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:103",
+      "attributes": {
+        "place": 104,
+        "time": "23:48:20",
+        "bib": "306",
+        "firstName": "Noah",
+        "lastName": "Simcoff",
+        "gender": "M",
+        "age": 36,
+        "city": "Boulder",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:104",
+      "attributes": {
+        "place": 105,
+        "time": "23:48:34",
+        "bib": "133",
+        "firstName": "Jonathan",
+        "lastName": "Bretan",
+        "gender": "M",
+        "age": 41,
+        "city": "San Rafael",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:105",
+      "attributes": {
+        "place": 106,
+        "time": "23:49:33",
+        "bib": "167",
+        "firstName": "Madeline",
+        "lastName": "Hirschfeld",
+        "gender": "F",
+        "age": 31,
+        "city": "Telluride",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:106",
+      "attributes": {
+        "place": 107,
+        "time": "23:55:33",
+        "bib": "366",
+        "firstName": "Nobuyasu",
+        "lastName": "Tajime",
+        "gender": "M",
+        "age": 41,
+        "city": "Hamura",
+        "stateOrCountry": "JPN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:107",
+      "attributes": {
+        "place": 108,
+        "time": "23:58:48",
+        "bib": "380",
+        "firstName": "Yuki",
+        "lastName": "Ohama",
+        "gender": "F",
+        "age": 41,
+        "city": "setagayaku",
+        "stateOrCountry": "JPN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:108",
+      "attributes": {
+        "place": 109,
+        "time": "23:58:56",
+        "bib": "187",
+        "firstName": "Mike",
+        "lastName": "Fakler",
+        "gender": "M",
+        "age": 36,
+        "city": "Lakewood",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:109",
+      "attributes": {
+        "place": 110,
+        "time": "24:00:25",
+        "bib": "248",
+        "firstName": "Jean-Francois",
+        "lastName": "Delbecq",
+        "gender": "M",
+        "age": 43,
+        "city": "CHENOVE",
+        "stateOrCountry": "FRA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:110",
+      "attributes": {
+        "place": 111,
+        "time": "24:25:37",
+        "bib": "132",
+        "firstName": "Kevin",
+        "lastName": "Cannaday",
+        "gender": "M",
+        "age": 45,
+        "city": "Conifer",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:111",
+      "attributes": {
+        "place": 112,
+        "time": "24:29:04",
+        "bib": "57",
+        "firstName": "Heidi",
+        "lastName": "Rounds",
+        "gender": "F",
+        "age": 43,
+        "city": "Roseville",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:112",
+      "attributes": {
+        "place": 113,
+        "time": "24:47:05",
+        "bib": "51",
+        "firstName": "Nobuyori",
+        "lastName": "Takeda",
+        "gender": "M",
+        "age": 44,
+        "city": "Old Tappan",
+        "stateOrCountry": "NJ"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:113",
+      "attributes": {
+        "place": 114,
+        "time": "24:49:50",
+        "bib": "234",
+        "firstName": "Nathan",
+        "lastName": "Kurz",
+        "gender": "M",
+        "age": 41,
+        "city": "Longmont",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:114",
+      "attributes": {
+        "place": 115,
+        "time": "24:51:27",
+        "bib": "259",
+        "firstName": "Eric",
+        "lastName": "Moe",
+        "gender": "M",
+        "age": 55,
+        "city": "Orcutt",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:115",
+      "attributes": {
+        "place": 116,
+        "time": "25:05:43",
+        "bib": "59",
+        "firstName": "Rudy",
+        "lastName": "Wedlarski",
+        "gender": "M",
+        "age": 44,
+        "city": "Charcé-Saint-Ellier-sur-Aubance",
+        "stateOrCountry": "FRA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:116",
+      "attributes": {
+        "place": 117,
+        "time": "25:07:36",
+        "bib": "241",
+        "firstName": "Todd",
+        "lastName": "Logan",
+        "gender": "M",
+        "age": 41,
+        "city": "Oakland",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:117",
+      "attributes": {
+        "place": 118,
+        "time": "25:12:18",
+        "bib": "73",
+        "firstName": "Xavier",
+        "lastName": "Berruel",
+        "gender": "M",
+        "age": 51,
+        "city": "Montréal",
+        "stateOrCountry": "QC"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:118",
+      "attributes": {
+        "place": 119,
+        "time": "25:14:53",
+        "bib": "45",
+        "firstName": "Nick",
+        "lastName": "Coury",
+        "gender": "M",
+        "age": 36,
+        "city": "Scottsdale",
+        "stateOrCountry": "AZ"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:119",
+      "attributes": {
+        "place": 120,
+        "time": "25:25:35",
+        "bib": "382",
+        "firstName": "Francisco",
+        "lastName": "Porto",
+        "gender": "M",
+        "age": 50,
+        "city": "Belo Horizonte",
+        "stateOrCountry": "BRA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:120",
+      "attributes": {
+        "place": 121,
+        "time": "25:31:15",
+        "bib": "192",
+        "firstName": "Gordon",
+        "lastName": "Freeman",
+        "gender": "M",
+        "age": 39,
+        "city": "Hood River",
+        "stateOrCountry": "OR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:121",
+      "attributes": {
+        "place": 122,
+        "time": "25:34:06",
+        "bib": "281",
+        "firstName": "Maxime",
+        "lastName": "Petazzoni",
+        "gender": "M",
+        "age": 37,
+        "city": "San Francisco",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:122",
+      "attributes": {
+        "place": 123,
+        "time": "25:34:20",
+        "bib": "370",
+        "firstName": "Kashing",
+        "lastName": "Cheung",
+        "gender": "M",
+        "age": 44,
+        "city": "Mount Parker",
+        "stateOrCountry": "HKG"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:123",
+      "attributes": {
+        "place": 124,
+        "time": "25:39:34",
+        "bib": "314",
+        "firstName": "Whitney",
+        "lastName": "Solomon",
+        "gender": "F",
+        "age": 42,
+        "city": "Auburn",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:124",
+      "attributes": {
+        "place": 125,
+        "time": "25:42:09",
+        "bib": "265",
+        "firstName": "Ryan",
+        "lastName": "Mylymuk",
+        "gender": "M",
+        "age": 30,
+        "city": "Edmonton",
+        "stateOrCountry": "AB"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:125",
+      "attributes": {
+        "place": 126,
+        "time": "25:44:03",
+        "bib": "311",
+        "firstName": "Emil",
+        "lastName": "Soderlund",
+        "gender": "M",
+        "age": 48,
+        "city": "Mariehamn",
+        "stateOrCountry": "FIN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:126",
+      "attributes": {
+        "place": 127,
+        "time": "25:44:39",
+        "bib": "340",
+        "firstName": "Robin",
+        "lastName": "Ucelli",
+        "gender": "M",
+        "age": 43,
+        "city": "75014",
+        "stateOrCountry": "FRA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:127",
+      "attributes": {
+        "place": 128,
+        "time": "25:49:57",
+        "bib": "215",
+        "firstName": "Sean",
+        "lastName": "Hoover",
+        "gender": "M",
+        "age": 41,
+        "city": "Bend",
+        "stateOrCountry": "OR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:128",
+      "attributes": {
+        "place": 129,
+        "time": "25:50:04",
+        "bib": "193",
+        "firstName": "Mattia",
+        "lastName": "Frigeri",
+        "gender": "M",
+        "age": 43,
+        "city": "Parma",
+        "stateOrCountry": "ITA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:129",
+      "attributes": {
+        "place": 130,
+        "time": "25:53:24",
+        "bib": "399",
+        "firstName": "Jason",
+        "lastName": "Midlock",
+        "gender": "M",
+        "age": 40,
+        "city": "Joliet",
+        "stateOrCountry": "IL"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:130",
+      "attributes": {
+        "place": 131,
+        "time": "25:56:03",
+        "bib": "130",
+        "firstName": "Josh",
+        "lastName": "Rutowski",
+        "gender": "M",
+        "age": 28,
+        "city": "Chicago",
+        "stateOrCountry": "IL"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:131",
+      "attributes": {
+        "place": 132,
+        "time": "25:59:09",
+        "bib": "347",
+        "firstName": "Chelsea",
+        "lastName": "Ward-Waller",
+        "gender": "F",
+        "age": 34,
+        "city": "Anchorage",
+        "stateOrCountry": "AK"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:132",
+      "attributes": {
+        "place": 133,
+        "time": "26:02:16",
+        "bib": "201",
+        "firstName": "Mae",
+        "lastName": "Barker",
+        "gender": "F",
+        "age": 47,
+        "city": "Orange Park",
+        "stateOrCountry": "FL"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:133",
+      "attributes": {
+        "place": 134,
+        "time": "26:05:14",
+        "bib": "263",
+        "firstName": "Rickert",
+        "lastName": "Mulder",
+        "gender": "M",
+        "age": 36,
+        "city": "Cape Town",
+        "stateOrCountry": "ZAF"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:134",
+      "attributes": {
+        "place": 135,
+        "time": "26:05:59",
+        "bib": "191",
+        "firstName": "Sascha",
+        "lastName": "Fersch",
+        "gender": "M",
+        "age": 46,
+        "city": "Sankt Augustin",
+        "stateOrCountry": "DEU"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:135",
+      "attributes": {
+        "place": 136,
+        "time": "26:06:40",
+        "bib": "398",
+        "firstName": "Ryan",
+        "lastName": "Thrower",
+        "gender": "M",
+        "age": 37,
+        "city": "Seattle",
+        "stateOrCountry": "WA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:136",
+      "attributes": {
+        "place": 137,
+        "time": "26:13:17",
+        "bib": "206",
+        "firstName": "Klaus",
+        "lastName": "Haake",
+        "gender": "M",
+        "age": 54,
+        "city": "Eppstein",
+        "stateOrCountry": "DEU"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:137",
+      "attributes": {
+        "place": 138,
+        "time": "26:14:49",
+        "bib": "368",
+        "firstName": "Martin",
+        "lastName": "Urbanik",
+        "gender": "M",
+        "age": 47,
+        "city": "Bratislava",
+        "stateOrCountry": "SVK"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:138",
+      "attributes": {
+        "place": 139,
+        "time": "26:18:32",
+        "bib": "175",
+        "firstName": "Tom",
+        "lastName": "Downes",
+        "gender": "M",
+        "age": 53,
+        "city": "Clogheen",
+        "stateOrCountry": "IRL"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:139",
+      "attributes": {
+        "place": 140,
+        "time": "26:19:11",
+        "bib": "236",
+        "firstName": "Joshua",
+        "lastName": "Landvatter",
+        "gender": "M",
+        "age": 40,
+        "city": "West Jordan",
+        "stateOrCountry": "UT"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:140",
+      "attributes": {
+        "place": 141,
+        "time": "26:20:26",
+        "bib": "161",
+        "firstName": "Brian",
+        "lastName": "Compagnone",
+        "gender": "M",
+        "age": 50,
+        "city": "Arlington",
+        "stateOrCountry": "VA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:141",
+      "attributes": {
+        "place": 142,
+        "time": "26:23:43",
+        "bib": "333",
+        "firstName": "Shimpei",
+        "lastName": "Oishi",
+        "gender": "M",
+        "age": 34,
+        "city": "sagamihara",
+        "stateOrCountry": "JPN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:142",
+      "attributes": {
+        "place": 143,
+        "time": "26:25:38",
+        "bib": "42",
+        "firstName": "Sally",
+        "lastName": "McRae",
+        "gender": "F",
+        "age": 45,
+        "city": "Huntington Beach",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:143",
+      "attributes": {
+        "place": 144,
+        "time": "26:30:44",
+        "bib": "351",
+        "firstName": "Bryan",
+        "lastName": "Weathers",
+        "gender": "M",
+        "age": 44,
+        "city": "Vallejo",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:144",
+      "attributes": {
+        "place": 145,
+        "time": "26:33:56",
+        "bib": "148",
+        "firstName": "Steven",
+        "lastName": "Carr",
+        "gender": "M",
+        "age": 57,
+        "city": "Huntsville",
+        "stateOrCountry": "AL"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:145",
+      "attributes": {
+        "place": 146,
+        "time": "26:39:29",
+        "bib": "423",
+        "firstName": "Drew",
+        "lastName": "Dinan",
+        "gender": "M",
+        "age": 44,
+        "city": "Bend",
+        "stateOrCountry": "OR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:146",
+      "attributes": {
+        "place": 147,
+        "time": "26:42:07",
+        "bib": "54",
+        "firstName": "Will",
+        "lastName": "Rivera",
+        "gender": "M",
+        "age": 53,
+        "city": "Elizabethtown",
+        "stateOrCountry": "KY"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:147",
+      "attributes": {
+        "place": 148,
+        "time": "26:43:25",
+        "bib": "142",
+        "firstName": "Jared",
+        "lastName": "Byrd",
+        "gender": "M",
+        "age": 40,
+        "city": "California",
+        "stateOrCountry": "MD"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:148",
+      "attributes": {
+        "place": 149,
+        "time": "26:46:17",
+        "bib": "143",
+        "firstName": "Chris",
+        "lastName": "Calimano",
+        "gender": "M",
+        "age": 42,
+        "city": "Staten Island",
+        "stateOrCountry": "NY"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:149",
+      "attributes": {
+        "place": 150,
+        "time": "27:01:27",
+        "bib": "360",
+        "firstName": "Kevin",
+        "lastName": "Young",
+        "gender": "M",
+        "age": 48,
+        "city": "Roseville",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:150",
+      "attributes": {
+        "place": 151,
+        "time": "27:08:34",
+        "bib": "196",
+        "firstName": "Colton",
+        "lastName": "Gerhart",
+        "gender": "M",
+        "age": 31,
+        "city": "Boise",
+        "stateOrCountry": "ID"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:151",
+      "attributes": {
+        "place": 152,
+        "time": "27:09:16",
+        "bib": "135",
+        "firstName": "Bruce",
+        "lastName": "Keele",
+        "gender": "M",
+        "age": 57,
+        "city": "Bridgewater",
+        "stateOrCountry": "NJ"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:152",
+      "attributes": {
+        "place": 153,
+        "time": "27:09:43",
+        "bib": "129",
+        "firstName": "Ryan",
+        "lastName": "Bolton",
+        "gender": "M",
+        "age": 32,
+        "city": "Coomera",
+        "stateOrCountry": "AUS"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:153",
+      "attributes": {
+        "place": 154,
+        "time": "27:10:50",
+        "bib": "367",
+        "firstName": "Randy",
+        "lastName": "Troyer",
+        "gender": "M",
+        "age": 59,
+        "city": "Lagrange",
+        "stateOrCountry": "IN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:154",
+      "attributes": {
+        "place": 155,
+        "time": "27:11:08",
+        "bib": "246",
+        "firstName": "Jeremy",
+        "lastName": "Lyons",
+        "gender": "M",
+        "age": 37,
+        "city": "Baltimore",
+        "stateOrCountry": "MD"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:155",
+      "attributes": {
+        "place": 156,
+        "time": "27:18:08",
+        "bib": "151",
+        "firstName": "Giuseppe",
+        "lastName": "Cavallo",
+        "gender": "M",
+        "age": 45,
+        "city": "Lumberville",
+        "stateOrCountry": "PA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:156",
+      "attributes": {
+        "place": 157,
+        "time": "27:21:27",
+        "bib": "339",
+        "firstName": "Tony",
+        "lastName": "Trundley",
+        "gender": "M",
+        "age": 58,
+        "city": "Kingswood",
+        "stateOrCountry": "GBR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:157",
+      "attributes": {
+        "place": 158,
+        "time": "27:22:43",
+        "bib": "203",
+        "firstName": "Marianna",
+        "lastName": "Grudziak",
+        "gender": "F",
+        "age": 37,
+        "city": "Pittsburgh",
+        "stateOrCountry": "PA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:158",
+      "attributes": {
+        "place": 159,
+        "time": "27:22:53",
+        "bib": "93",
+        "firstName": "Vincent",
+        "lastName": "Pelisson",
+        "gender": "M",
+        "age": 30,
+        "city": "Cormaranche en Bugey",
+        "stateOrCountry": "FRA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:159",
+      "attributes": {
+        "place": 160,
+        "time": "27:25:49",
+        "bib": "213",
+        "firstName": "Andres",
+        "lastName": "Hernandez",
+        "gender": "M",
+        "age": 54,
+        "city": "Downingtown",
+        "stateOrCountry": "PA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:160",
+      "attributes": {
+        "place": 161,
+        "time": "27:26:59",
+        "bib": "427",
+        "firstName": "Andrew",
+        "lastName": "Barrett",
+        "gender": "M",
+        "age": 57,
+        "city": "chapel hill",
+        "stateOrCountry": "NC"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:161",
+      "attributes": {
+        "place": 162,
+        "time": "27:29:31",
+        "bib": "221",
+        "firstName": "Jeffrey",
+        "lastName": "Jordan",
+        "gender": "M",
+        "age": 61,
+        "city": "Cottontown",
+        "stateOrCountry": "TN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:162",
+      "attributes": {
+        "place": 163,
+        "time": "27:30:02",
+        "bib": "120",
+        "firstName": "Jim",
+        "lastName": "Bledsoe",
+        "gender": "M",
+        "age": 44,
+        "city": "Saint George",
+        "stateOrCountry": "UT"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:163",
+      "attributes": {
+        "place": 164,
+        "time": "27:33:33",
+        "bib": "115",
+        "firstName": "Junichi",
+        "lastName": "Hashimoto",
+        "gender": "M",
+        "age": 46,
+        "city": "Ageo",
+        "stateOrCountry": "JPN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:164",
+      "attributes": {
+        "place": 165,
+        "time": "27:35:22",
+        "bib": "375",
+        "firstName": "Juan",
+        "lastName": "Parra",
+        "gender": "M",
+        "age": 58,
+        "city": "Fairfield",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:165",
+      "attributes": {
+        "place": 166,
+        "time": "27:37:46",
+        "bib": "229",
+        "firstName": "Noel",
+        "lastName": "Kingston",
+        "gender": "M",
+        "age": 59,
+        "city": "Prescott",
+        "stateOrCountry": "AZ"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:166",
+      "attributes": {
+        "place": 167,
+        "time": "27:40:22",
+        "bib": "299",
+        "firstName": "Mike",
+        "lastName": "Schmitt",
+        "gender": "M",
+        "age": 47,
+        "city": "Rochester",
+        "stateOrCountry": "MN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:167",
+      "attributes": {
+        "place": 168,
+        "time": "27:42:15",
+        "bib": "82",
+        "firstName": "Brenton",
+        "lastName": "Swyers",
+        "gender": "M",
+        "age": 36,
+        "city": "Lynchburg",
+        "stateOrCountry": "VA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:168",
+      "attributes": {
+        "place": 169,
+        "time": "27:44:57",
+        "bib": "166",
+        "firstName": "Sean",
+        "lastName": "Danaher",
+        "gender": "M",
+        "age": 34,
+        "city": "Manzanita",
+        "stateOrCountry": "OR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:169",
+      "attributes": {
+        "place": 170,
+        "time": "27:45:45",
+        "bib": "372",
+        "firstName": "Luke",
+        "lastName": "Matjas",
+        "gender": "M",
+        "age": 49,
+        "city": "Thousand Oaks",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:170",
+      "attributes": {
+        "place": 171,
+        "time": "27:51:29",
+        "bib": "298",
+        "firstName": "Jeremy",
+        "lastName": "Scanlan",
+        "gender": "M",
+        "age": 41,
+        "city": "Louisville",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:171",
+      "attributes": {
+        "place": 172,
+        "time": "27:55:17",
+        "bib": "176",
+        "firstName": "William",
+        "lastName": "Sheehan",
+        "gender": "M",
+        "age": 47,
+        "city": "Bristol",
+        "stateOrCountry": "GBR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:172",
+      "attributes": {
+        "place": 173,
+        "time": "27:55:20",
+        "bib": "308",
+        "firstName": "Greg",
+        "lastName": "Sisengrath",
+        "gender": "M",
+        "age": 48,
+        "city": "Allen",
+        "stateOrCountry": "TX"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:173",
+      "attributes": {
+        "place": 174,
+        "time": "27:55:57",
+        "bib": "137",
+        "firstName": "Matt",
+        "lastName": "Whalen",
+        "gender": "M",
+        "age": 45,
+        "city": "San Diego",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:174",
+      "attributes": {
+        "place": 175,
+        "time": "27:58:00",
+        "bib": "305",
+        "firstName": "Mikala",
+        "lastName": "Shremshock",
+        "gender": "F",
+        "age": 41,
+        "city": "Harpers Ferry",
+        "stateOrCountry": "WV"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:175",
+      "attributes": {
+        "place": 176,
+        "time": "27:58:39",
+        "bib": "266",
+        "firstName": "John",
+        "lastName": "McKune",
+        "gender": "M",
+        "age": 48,
+        "city": "Fremont",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:176",
+      "attributes": {
+        "place": 177,
+        "time": "28:00:45",
+        "bib": "348",
+        "firstName": "Brant",
+        "lastName": "Warner",
+        "gender": "M",
+        "age": 46,
+        "city": "Gainesville",
+        "stateOrCountry": "GA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:177",
+      "attributes": {
+        "place": 178,
+        "time": "28:01:32",
+        "bib": "285",
+        "firstName": "Stacie",
+        "lastName": "Riddle",
+        "gender": "F",
+        "age": 44,
+        "city": "Mill Valley",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:178",
+      "attributes": {
+        "place": 179,
+        "time": "28:05:04",
+        "bib": "53",
+        "firstName": "Ernest",
+        "lastName": "Mlynarczyk",
+        "gender": "M",
+        "age": 53,
+        "city": "Lodz",
+        "stateOrCountry": "POL"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:179",
+      "attributes": {
+        "place": 180,
+        "time": "28:06:30",
+        "bib": "181",
+        "firstName": "David",
+        "lastName": "Peppelman",
+        "gender": "M",
+        "age": 48,
+        "city": "Bethesda",
+        "stateOrCountry": "MD"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:180",
+      "attributes": {
+        "place": 181,
+        "time": "28:07:27",
+        "bib": "150",
+        "firstName": "Iain",
+        "lastName": "Jones",
+        "gender": "M",
+        "age": 47,
+        "city": "Knoxville",
+        "stateOrCountry": "TN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:181",
+      "attributes": {
+        "place": 182,
+        "time": "28:09:15",
+        "bib": "434",
+        "firstName": "Cynthia",
+        "lastName": "Heady",
+        "gender": "F",
+        "age": 62,
+        "city": "Shelbyville",
+        "stateOrCountry": "KY"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:182",
+      "attributes": {
+        "place": 183,
+        "time": "28:09:56",
+        "bib": "249",
+        "firstName": "Jeff",
+        "lastName": "Mandrell",
+        "gender": "M",
+        "age": 38,
+        "city": "Talent",
+        "stateOrCountry": "OR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:183",
+      "attributes": {
+        "place": 184,
+        "time": "28:13:45",
+        "bib": "107",
+        "firstName": "Marian",
+        "lastName": "Vasile",
+        "gender": "M",
+        "age": 47,
+        "city": "Amsterdam",
+        "stateOrCountry": "NLD"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:184",
+      "attributes": {
+        "place": 185,
+        "time": "28:13:57",
+        "bib": "290",
+        "firstName": "Tyler",
+        "lastName": "Rogers",
+        "gender": "M",
+        "age": 37,
+        "city": "Squamish",
+        "stateOrCountry": "BC"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:185",
+      "attributes": {
+        "place": 186,
+        "time": "28:15:10",
+        "bib": "284",
+        "firstName": "Abby",
+        "lastName": "McKee",
+        "gender": "F",
+        "age": 54,
+        "city": "Rocklin",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:186",
+      "attributes": {
+        "place": 187,
+        "time": "28:15:44",
+        "bib": "329",
+        "firstName": "Jonathan",
+        "lastName": "Tanner",
+        "gender": "M",
+        "age": 37,
+        "city": "Fort Collins",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:187",
+      "attributes": {
+        "place": 188,
+        "time": "28:18:35",
+        "bib": "273",
+        "firstName": "Elizabeth",
+        "lastName": "Omodt",
+        "gender": "F",
+        "age": 47,
+        "city": "San Jose",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:188",
+      "attributes": {
+        "place": 189,
+        "time": "28:20:31",
+        "bib": "146",
+        "firstName": "Bogie",
+        "lastName": "Dumitrescu",
+        "gender": "M",
+        "age": 49,
+        "city": "Boulder",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:189",
+      "attributes": {
+        "place": 190,
+        "time": "28:21:02",
+        "bib": "98",
+        "firstName": "Nadine",
+        "lastName": "Bennett",
+        "gender": "F",
+        "age": 40,
+        "city": "London",
+        "stateOrCountry": "GBR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:190",
+      "attributes": {
+        "place": 191,
+        "time": "28:21:06",
+        "bib": "293",
+        "firstName": "Carolina",
+        "lastName": "Rubio- Macwright",
+        "gender": "F",
+        "age": 42,
+        "city": "South Orange",
+        "stateOrCountry": "NJ"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:191",
+      "attributes": {
+        "place": 192,
+        "time": "28:22:50",
+        "bib": "205",
+        "firstName": "Forbes",
+        "lastName": "Guthrie",
+        "gender": "M",
+        "age": 51,
+        "city": "Aptos",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:192",
+      "attributes": {
+        "place": 193,
+        "time": "28:24:32",
+        "bib": "97",
+        "firstName": "Jeff",
+        "lastName": "Boutte",
+        "gender": "M",
+        "age": 61,
+        "city": "Sacramento",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:193",
+      "attributes": {
+        "place": 194,
+        "time": "28:28:02",
+        "bib": "172",
+        "firstName": "Adam",
+        "lastName": "Dickerson",
+        "gender": "M",
+        "age": 38,
+        "city": "Belmont",
+        "stateOrCountry": "NC"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:194",
+      "attributes": {
+        "place": 195,
+        "time": "28:28:21",
+        "bib": "251",
+        "firstName": "Rachel",
+        "lastName": "Shebert",
+        "gender": "F",
+        "age": 29,
+        "city": "Folsom",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:195",
+      "attributes": {
+        "place": 196,
+        "time": "28:29:33",
+        "bib": "252",
+        "firstName": "Pete",
+        "lastName": "McHugh",
+        "gender": "M",
+        "age": 47,
+        "city": "Sebastopol",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:196",
+      "attributes": {
+        "place": 197,
+        "time": "28:30:44",
+        "bib": "226",
+        "firstName": "Baban",
+        "lastName": "Kenkre",
+        "gender": "M",
+        "age": 48,
+        "city": "Santa Clara",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:197",
+      "attributes": {
+        "place": 198,
+        "time": "28:30:52",
+        "bib": "212",
+        "firstName": "Brennan",
+        "lastName": "Henning",
+        "gender": "M",
+        "age": 25,
+        "city": "Staunton",
+        "stateOrCountry": "VA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:198",
+      "attributes": {
+        "place": 199,
+        "time": "28:30:58",
+        "bib": "217",
+        "firstName": "Travis",
+        "lastName": "Liles",
+        "gender": "M",
+        "age": 45,
+        "city": "Portland",
+        "stateOrCountry": "OR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:199",
+      "attributes": {
+        "place": 200,
+        "time": "28:31:05",
+        "bib": "179",
+        "firstName": "Juris",
+        "lastName": "Dzenis",
+        "gender": "M",
+        "age": 43,
+        "city": "Sigulda",
+        "stateOrCountry": "LVA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:200",
+      "attributes": {
+        "place": 201,
+        "time": "28:33:21",
+        "bib": "272",
+        "firstName": "Paul",
+        "lastName": "Olson",
+        "gender": "M",
+        "age": 49,
+        "city": "Spring Lake Park",
+        "stateOrCountry": "MN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:201",
+      "attributes": {
+        "place": 202,
+        "time": "28:37:06",
+        "bib": "204",
+        "firstName": "Rosalia",
+        "lastName": "Guarischi",
+        "gender": "F",
+        "age": 45,
+        "city": "Rio De Janeiro",
+        "stateOrCountry": "BRA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:202",
+      "attributes": {
+        "place": 203,
+        "time": "28:37:19",
+        "bib": "239",
+        "firstName": "Loren",
+        "lastName": "Lewis",
+        "gender": "M",
+        "age": 52,
+        "city": "San Jose",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:203",
+      "attributes": {
+        "place": 204,
+        "time": "28:37:21",
+        "bib": "112",
+        "firstName": "Jeff",
+        "lastName": "Black",
+        "gender": "M",
+        "age": 53,
+        "city": "Boise",
+        "stateOrCountry": "ID"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:204",
+      "attributes": {
+        "place": 205,
+        "time": "28:37:25",
+        "bib": "218",
+        "firstName": "Colleen",
+        "lastName": "Jay",
+        "gender": "F",
+        "age": 48,
+        "city": "Pinnacle",
+        "stateOrCountry": "NC"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:205",
+      "attributes": {
+        "place": 206,
+        "time": "28:38:18",
+        "bib": "326",
+        "firstName": "Bryan",
+        "lastName": "Stevens",
+        "gender": "M",
+        "age": 46,
+        "city": "San Mateo",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:206",
+      "attributes": {
+        "place": 207,
+        "time": "28:42:00",
+        "bib": "152",
+        "firstName": "Wayne",
+        "lastName": "Chan",
+        "gender": "M",
+        "age": 47,
+        "city": "Westborough",
+        "stateOrCountry": "MA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:207",
+      "attributes": {
+        "place": 208,
+        "time": "28:42:03",
+        "bib": "92",
+        "firstName": "Sean",
+        "lastName": "Belling",
+        "gender": "M",
+        "age": 39,
+        "city": "Portland",
+        "stateOrCountry": "OR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:208",
+      "attributes": {
+        "place": 209,
+        "time": "28:42:34",
+        "bib": "355",
+        "firstName": "Sarah Kirsty",
+        "lastName": "Williams",
+        "gender": "F",
+        "age": 50,
+        "city": "Chelmsford",
+        "stateOrCountry": "GBR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:209",
+      "attributes": {
+        "place": 210,
+        "time": "28:42:36",
+        "bib": "136",
+        "firstName": "Chloe",
+        "lastName": "Brooks",
+        "gender": "F",
+        "age": 29,
+        "city": "Otley",
+        "stateOrCountry": "GBR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:210",
+      "attributes": {
+        "place": 211,
+        "time": "28:43:55",
+        "bib": "209",
+        "firstName": "Paula",
+        "lastName": "Hamilton",
+        "gender": "F",
+        "age": 61,
+        "city": "Carmichael",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:211",
+      "attributes": {
+        "place": 212,
+        "time": "28:45:16",
+        "bib": "294",
+        "firstName": "Andrew",
+        "lastName": "Ruthenbeck",
+        "gender": "M",
+        "age": 40,
+        "city": "Carson City",
+        "stateOrCountry": "NV"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:212",
+      "attributes": {
+        "place": 213,
+        "time": "28:46:03",
+        "bib": "106",
+        "firstName": "Craig",
+        "lastName": "Betz",
+        "gender": "M",
+        "age": 40,
+        "city": "Lakeland",
+        "stateOrCountry": "FL"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:213",
+      "attributes": {
+        "place": 214,
+        "time": "28:46:23",
+        "bib": "257",
+        "firstName": "Ryan",
+        "lastName": "Miller",
+        "gender": "M",
+        "age": 43,
+        "city": "Aurora",
+        "stateOrCountry": "OH"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:214",
+      "attributes": {
+        "place": 215,
+        "time": "28:46:25",
+        "bib": "78",
+        "firstName": "Jeff",
+        "lastName": "Rowthorn",
+        "gender": "M",
+        "age": 46,
+        "city": "Mount Hope",
+        "stateOrCountry": "ON"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:215",
+      "attributes": {
+        "place": 216,
+        "time": "28:49:49",
+        "bib": "108",
+        "firstName": "Bruce",
+        "lastName": "Nguyen",
+        "gender": "M",
+        "age": 49,
+        "city": "Citrus Heights",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:216",
+      "attributes": {
+        "place": 217,
+        "time": "28:51:47",
+        "bib": "52",
+        "firstName": "Sam",
+        "lastName": "Fiandaca",
+        "gender": "M",
+        "age": 52,
+        "city": "Foresthill",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:217",
+      "attributes": {
+        "place": 218,
+        "time": "28:52:05",
+        "bib": "100",
+        "firstName": "Hebah",
+        "lastName": "Hefzy",
+        "gender": "F",
+        "age": 41,
+        "city": "birmingham",
+        "stateOrCountry": "MI"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:218",
+      "attributes": {
+        "place": 219,
+        "time": "28:53:34",
+        "bib": "62",
+        "firstName": "Ken",
+        "lastName": "Weiblen",
+        "gender": "M",
+        "age": 52,
+        "city": "Sherwood",
+        "stateOrCountry": "WI"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:219",
+      "attributes": {
+        "place": 220,
+        "time": "28:53:57",
+        "bib": "349",
+        "firstName": "Erich",
+        "lastName": "Washausen",
+        "gender": "M",
+        "age": 34,
+        "city": "Prairie Grove",
+        "stateOrCountry": "AR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:220",
+      "attributes": {
+        "place": 221,
+        "time": "28:54:44",
+        "bib": "237",
+        "firstName": "Peter",
+        "lastName": "Lawson",
+        "gender": "M",
+        "age": 60,
+        "city": "Burlington",
+        "stateOrCountry": "VT"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:221",
+      "attributes": {
+        "place": 222,
+        "time": "28:57:17",
+        "bib": "395",
+        "firstName": "Yong Chuang",
+        "lastName": "Chen",
+        "gender": "M",
+        "age": 51,
+        "city": "Vancouver",
+        "stateOrCountry": "BC"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:222",
+      "attributes": {
+        "place": 223,
+        "time": "28:57:54",
+        "bib": "286",
+        "firstName": "Angela",
+        "lastName": "Ritchie",
+        "gender": "F",
+        "age": 54,
+        "city": "Cameron Park",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:223",
+      "attributes": {
+        "place": 224,
+        "time": "28:58:28",
+        "bib": "69",
+        "firstName": "Vince",
+        "lastName": "Molosky",
+        "gender": "M",
+        "age": 44,
+        "city": "Sammamish",
+        "stateOrCountry": "WA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:224",
+      "attributes": {
+        "place": 225,
+        "time": "28:59:43",
+        "bib": "244",
+        "firstName": "Zac",
+        "lastName": "Lundgren",
+        "gender": "M",
+        "age": 34,
+        "city": "Minneapolis",
+        "stateOrCountry": "MN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:225",
+      "attributes": {
+        "place": 226,
+        "time": "29:00:44",
+        "bib": "262",
+        "firstName": "Soren Hadsund",
+        "lastName": "Mortensen",
+        "gender": "M",
+        "age": 57,
+        "city": "Copenhagen",
+        "stateOrCountry": "DNK"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:226",
+      "attributes": {
+        "place": 227,
+        "time": "29:01:16",
+        "bib": "222",
+        "firstName": "Jake",
+        "lastName": "Thornton",
+        "gender": "M",
+        "age": 34,
+        "city": "Birmingham",
+        "stateOrCountry": "AL"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:227",
+      "attributes": {
+        "place": 228,
+        "time": "29:04:27",
+        "bib": "283",
+        "firstName": "Jamie",
+        "lastName": "Rickard",
+        "gender": "M",
+        "age": 44,
+        "city": "Morgantown",
+        "stateOrCountry": "WV"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:228",
+      "attributes": {
+        "place": 229,
+        "time": "29:07:38",
+        "bib": "388",
+        "firstName": "Eric",
+        "lastName": "Thorne",
+        "gender": "M",
+        "age": 52,
+        "city": "Wayne",
+        "stateOrCountry": "PA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:229",
+      "attributes": {
+        "place": 230,
+        "time": "29:07:40",
+        "bib": "327",
+        "firstName": "Jonathan",
+        "lastName": "Strong",
+        "gender": "M",
+        "age": 41,
+        "city": "Hinckley",
+        "stateOrCountry": "GBR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:230",
+      "attributes": {
+        "place": 231,
+        "time": "29:07:49",
+        "bib": "256",
+        "firstName": "Andreas",
+        "lastName": "Kohlhund",
+        "gender": "M",
+        "age": 41,
+        "city": "Obersoechering",
+        "stateOrCountry": "DEU"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:231",
+      "attributes": {
+        "place": 232,
+        "time": "29:08:14",
+        "bib": "354",
+        "firstName": "Brent",
+        "lastName": "Williams",
+        "gender": "M",
+        "age": 42,
+        "city": "Beaumont",
+        "stateOrCountry": "TX"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:232",
+      "attributes": {
+        "place": 233,
+        "time": "29:08:22",
+        "bib": "145",
+        "firstName": "Samantha",
+        "lastName": "Carney",
+        "gender": "F",
+        "age": 48,
+        "city": "Lemoyne",
+        "stateOrCountry": "PA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:233",
+      "attributes": {
+        "place": 234,
+        "time": "29:09:00",
+        "bib": "356",
+        "firstName": "Rebekah",
+        "lastName": "Winter",
+        "gender": "F",
+        "age": 35,
+        "city": "Reno",
+        "stateOrCountry": "NV"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:234",
+      "attributes": {
+        "place": 235,
+        "time": "29:09:14",
+        "bib": "346",
+        "firstName": "Mike",
+        "lastName": "Wallin",
+        "gender": "M",
+        "age": 40,
+        "city": "Dayton",
+        "stateOrCountry": "MN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:235",
+      "attributes": {
+        "place": 236,
+        "time": "29:12:06",
+        "bib": "357",
+        "firstName": "Jay",
+        "lastName": "Wnuk",
+        "gender": "M",
+        "age": 56,
+        "city": "Galesville",
+        "stateOrCountry": "WI"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:236",
+      "attributes": {
+        "place": 237,
+        "time": "29:12:30",
+        "bib": "194",
+        "firstName": "Justin",
+        "lastName": "Galbraith",
+        "gender": "M",
+        "age": 37,
+        "city": "Brighton",
+        "stateOrCountry": "IL"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:237",
+      "attributes": {
+        "place": 238,
+        "time": "29:12:31",
+        "bib": "183",
+        "firstName": "Matt",
+        "lastName": "Elam",
+        "gender": "M",
+        "age": 32,
+        "city": "Boulder",
+        "stateOrCountry": "CO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:238",
+      "attributes": {
+        "place": 239,
+        "time": "29:13:07",
+        "bib": "309",
+        "firstName": "Sarah",
+        "lastName": "Slater",
+        "gender": "F",
+        "age": 46,
+        "city": "Guilford",
+        "stateOrCountry": "CT"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:239",
+      "attributes": {
+        "place": 240,
+        "time": "29:13:29",
+        "bib": "245",
+        "firstName": "Tin",
+        "lastName": "Luu",
+        "gender": "M",
+        "age": 43,
+        "city": "Centreville",
+        "stateOrCountry": "VA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:240",
+      "attributes": {
+        "place": 241,
+        "time": "29:13:41",
+        "bib": "95",
+        "firstName": "Joann",
+        "lastName": "Ellero",
+        "gender": "F",
+        "age": 55,
+        "city": "Reno",
+        "stateOrCountry": "NV"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:241",
+      "attributes": {
+        "place": 242,
+        "time": "29:14:36",
+        "bib": "282",
+        "firstName": "Glenn",
+        "lastName": "Richardson",
+        "gender": "M",
+        "age": 48,
+        "city": "Louisville",
+        "stateOrCountry": "KY"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:242",
+      "attributes": {
+        "place": 243,
+        "time": "29:16:46",
+        "bib": "149",
+        "firstName": "Megan",
+        "lastName": "Carroll",
+        "gender": "F",
+        "age": 38,
+        "city": "Santa Cruz",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:243",
+      "attributes": {
+        "place": 244,
+        "time": "29:17:30",
+        "bib": "324",
+        "firstName": "Brian",
+        "lastName": "Steinberg",
+        "gender": "M",
+        "age": 45,
+        "city": "Caledonia",
+        "stateOrCountry": "MI"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:244",
+      "attributes": {
+        "place": 245,
+        "time": "29:18:59",
+        "bib": "88",
+        "firstName": "Jerry",
+        "lastName": "Pi",
+        "gender": "M",
+        "age": 47,
+        "city": "New York",
+        "stateOrCountry": "NY"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:245",
+      "attributes": {
+        "place": 246,
+        "time": "29:19:39",
+        "bib": "235",
+        "firstName": "Sherman",
+        "lastName": "Lam",
+        "gender": "M",
+        "age": 44,
+        "city": "Scarborough",
+        "stateOrCountry": "ON"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:246",
+      "attributes": {
+        "place": 247,
+        "time": "29:20:31",
+        "bib": "276",
+        "firstName": "Bryon",
+        "lastName": "Paulazzo",
+        "gender": "M",
+        "age": 34,
+        "city": "Long Lake",
+        "stateOrCountry": "MN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:247",
+      "attributes": {
+        "place": 248,
+        "time": "29:21:14",
+        "bib": "70",
+        "firstName": "Olov",
+        "lastName": "Berg",
+        "gender": "M",
+        "age": 53,
+        "city": "Potomac",
+        "stateOrCountry": "MD"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:248",
+      "attributes": {
+        "place": 249,
+        "time": "29:21:27",
+        "bib": "401",
+        "firstName": "Greg",
+        "lastName": "Bergeron",
+        "gender": "M",
+        "age": 54,
+        "city": "San Diego",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:249",
+      "attributes": {
+        "place": 250,
+        "time": "29:22:08",
+        "bib": "267",
+        "firstName": "Steve",
+        "lastName": "Nagayama",
+        "gender": "M",
+        "age": 49,
+        "city": "Felton",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:250",
+      "attributes": {
+        "place": 251,
+        "time": "29:22:15",
+        "bib": "233",
+        "firstName": "Shannon",
+        "lastName": "Krogsrud",
+        "gender": "F",
+        "age": 35,
+        "city": "Auburn",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:251",
+      "attributes": {
+        "place": 252,
+        "time": "29:23:34",
+        "bib": "184",
+        "firstName": "Anthony",
+        "lastName": "Russo",
+        "gender": "M",
+        "age": 47,
+        "city": "Jackson",
+        "stateOrCountry": "NJ"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:252",
+      "attributes": {
+        "place": 253,
+        "time": "29:23:55",
+        "bib": "303",
+        "firstName": "William",
+        "lastName": "Shaw",
+        "gender": "M",
+        "age": 52,
+        "city": "Flowery Branch",
+        "stateOrCountry": "GA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:253",
+      "attributes": {
+        "place": 254,
+        "time": "29:24:00",
+        "bib": "89",
+        "firstName": "Rochelle",
+        "lastName": "Gamette",
+        "gender": "F",
+        "age": 50,
+        "city": "Granite Bay",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:254",
+      "attributes": {
+        "place": 255,
+        "time": "29:30:38",
+        "bib": "67",
+        "firstName": "Ken",
+        "lastName": "Ward",
+        "gender": "M",
+        "age": 67,
+        "city": "Corvallis",
+        "stateOrCountry": "OR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:255",
+      "attributes": {
+        "place": 256,
+        "time": "29:30:50",
+        "bib": "227",
+        "firstName": "Ngugi",
+        "lastName": "Kihara",
+        "gender": "M",
+        "age": 38,
+        "city": "La Honda",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:256",
+      "attributes": {
+        "place": 257,
+        "time": "29:33:21",
+        "bib": "188",
+        "firstName": "Josh",
+        "lastName": "Welch",
+        "gender": "M",
+        "age": 41,
+        "city": "Ravenwood",
+        "stateOrCountry": "MO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:257",
+      "attributes": {
+        "place": 258,
+        "time": "29:33:36",
+        "bib": "158",
+        "firstName": "Emily",
+        "lastName": "Clay",
+        "gender": "F",
+        "age": 34,
+        "city": "Baltimore",
+        "stateOrCountry": "MD"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:258",
+      "attributes": {
+        "place": 259,
+        "time": "29:34:22",
+        "bib": "376",
+        "firstName": "Jeff",
+        "lastName": "McLaughlin",
+        "gender": "M",
+        "age": 41,
+        "city": "Spokane",
+        "stateOrCountry": "WA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:259",
+      "attributes": {
+        "place": 260,
+        "time": "29:34:23",
+        "bib": "386",
+        "firstName": "Hian Lim",
+        "lastName": "Soh",
+        "gender": "M",
+        "age": 58,
+        "city": "Kuching",
+        "stateOrCountry": "MYS"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:260",
+      "attributes": {
+        "place": 261,
+        "time": "29:34:24",
+        "bib": "74",
+        "firstName": "Mark",
+        "lastName": "Stugard",
+        "gender": "M",
+        "age": 50,
+        "city": "Brookhaven",
+        "stateOrCountry": "GA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:261",
+      "attributes": {
+        "place": 262,
+        "time": "29:34:28",
+        "bib": "289",
+        "firstName": "William",
+        "lastName": "Robinson",
+        "gender": "M",
+        "age": 56,
+        "city": "Fort Jones",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:262",
+      "attributes": {
+        "place": 263,
+        "time": "29:36:02",
+        "bib": "154",
+        "firstName": "Yung Hae",
+        "lastName": "Cho",
+        "gender": "F",
+        "age": 49,
+        "city": "Bend",
+        "stateOrCountry": "OR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:263",
+      "attributes": {
+        "place": 264,
+        "time": "29:36:12",
+        "bib": "342",
+        "firstName": "Jana",
+        "lastName": "Veliskova",
+        "gender": "F",
+        "age": 39,
+        "city": "Praha 1",
+        "stateOrCountry": null
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:264",
+      "attributes": {
+        "place": 265,
+        "time": "29:36:51",
+        "bib": "268",
+        "firstName": "Yuki",
+        "lastName": "Naotori",
+        "gender": "M",
+        "age": 51,
+        "city": "Fukuoka",
+        "stateOrCountry": "JPN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:265",
+      "attributes": {
+        "place": 266,
+        "time": "29:38:39",
+        "bib": "140",
+        "firstName": "Jacob",
+        "lastName": "Burnett",
+        "gender": "M",
+        "age": 40,
+        "city": "Safety Harbor",
+        "stateOrCountry": "FL"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:266",
+      "attributes": {
+        "place": 267,
+        "time": "29:38:59",
+        "bib": "362",
+        "firstName": "Josh",
+        "lastName": "Amato",
+        "gender": "M",
+        "age": 50,
+        "city": "St Louis",
+        "stateOrCountry": "MO"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:267",
+      "attributes": {
+        "place": 268,
+        "time": "29:39:01",
+        "bib": "363",
+        "firstName": "David",
+        "lastName": "Kung",
+        "gender": "M",
+        "age": 52,
+        "city": "Hillsborough",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:268",
+      "attributes": {
+        "place": 269,
+        "time": "29:43:44",
+        "bib": "102",
+        "firstName": "Paul",
+        "lastName": "Garner",
+        "gender": "M",
+        "age": 55,
+        "city": "Wiltshire",
+        "stateOrCountry": "GBR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:269",
+      "attributes": {
+        "place": 270,
+        "time": "29:43:56",
+        "bib": "139",
+        "firstName": "Eli",
+        "lastName": "Burakian",
+        "gender": "M",
+        "age": 46,
+        "city": "Brownsville",
+        "stateOrCountry": "VT"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:270",
+      "attributes": {
+        "place": 271,
+        "time": "29:44:07",
+        "bib": "225",
+        "firstName": "Takashi",
+        "lastName": "Terabayashi",
+        "gender": "M",
+        "age": 54,
+        "city": "Namerikawa",
+        "stateOrCountry": "JPN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:271",
+      "attributes": {
+        "place": 272,
+        "time": "29:46:35",
+        "bib": "171",
+        "firstName": "Carson",
+        "lastName": "Galloway",
+        "gender": "M",
+        "age": 33,
+        "city": "Des Moines",
+        "stateOrCountry": "IA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:272",
+      "attributes": {
+        "place": 273,
+        "time": "29:47:14",
+        "bib": "338",
+        "firstName": "Adam",
+        "lastName": "Tremblay",
+        "gender": "M",
+        "age": 47,
+        "city": "Quispamsis",
+        "stateOrCountry": "NB"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:273",
+      "attributes": {
+        "place": 274,
+        "time": "29:47:47",
+        "bib": "125",
+        "firstName": "Andrew",
+        "lastName": "Zapor",
+        "gender": "M",
+        "age": 36,
+        "city": "Bluff City",
+        "stateOrCountry": "TN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:274",
+      "attributes": {
+        "place": 275,
+        "time": "29:47:53",
+        "bib": "96",
+        "firstName": "Yuka",
+        "lastName": "Atsumi",
+        "gender": "F",
+        "age": 60,
+        "city": "Suginami-ku",
+        "stateOrCountry": "JPN"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:275",
+      "attributes": {
+        "place": 276,
+        "time": "29:48:24",
+        "bib": "61",
+        "firstName": "Phillip",
+        "lastName": "Nigh",
+        "gender": "M",
+        "age": 61,
+        "city": "Santa Barbara",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:276",
+      "attributes": {
+        "place": 277,
+        "time": "29:49:36",
+        "bib": "71",
+        "firstName": "Carlos",
+        "lastName": "Osollo",
+        "gender": "M",
+        "age": 52,
+        "city": "San Antonio",
+        "stateOrCountry": "TX"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:277",
+      "attributes": {
+        "place": 278,
+        "time": "29:50:21",
+        "bib": "390",
+        "firstName": "Christian",
+        "lastName": "Landresse",
+        "gender": "M",
+        "age": 54,
+        "city": "Luxembourg",
+        "stateOrCountry": "LUX"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:278",
+      "attributes": {
+        "place": 279,
+        "time": "29:51:13",
+        "bib": "164",
+        "firstName": "Chris",
+        "lastName": "Culpepper",
+        "gender": "M",
+        "age": 59,
+        "city": "Houston",
+        "stateOrCountry": "TX"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:279",
+      "attributes": {
+        "place": 280,
+        "time": "29:52:23",
+        "bib": "253",
+        "firstName": "Jeff",
+        "lastName": "Mcpherson",
+        "gender": "M",
+        "age": 49,
+        "city": "Yachats",
+        "stateOrCountry": "OR"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:280",
+      "attributes": {
+        "place": 281,
+        "time": "29:53:00",
+        "bib": "159",
+        "firstName": "Tabatha",
+        "lastName": "Collins",
+        "gender": "F",
+        "age": 51,
+        "city": "Bremerton",
+        "stateOrCountry": "WA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:281",
+      "attributes": {
+        "place": 282,
+        "time": "29:53:41",
+        "bib": "317",
+        "firstName": "Franco",
+        "lastName": "Soriano",
+        "gender": "M",
+        "age": 53,
+        "city": "Livermore",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:282",
+      "attributes": {
+        "place": 283,
+        "time": "29:53:49",
+        "bib": "214",
+        "firstName": "Rick",
+        "lastName": "Hohman",
+        "gender": "M",
+        "age": 41,
+        "city": "Hudson",
+        "stateOrCountry": "OH"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:283",
+      "attributes": {
+        "place": 284,
+        "time": "29:54:35",
+        "bib": "128",
+        "firstName": "Char",
+        "lastName": "Kuperstein",
+        "gender": "F",
+        "age": 42,
+        "city": "San Francisco",
+        "stateOrCountry": "CA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:284",
+      "attributes": {
+        "place": 285,
+        "time": "29:55:00",
+        "bib": "261",
+        "firstName": "Julia",
+        "lastName": "Moffitt",
+        "gender": "F",
+        "age": 57,
+        "city": "IOWA CITY",
+        "stateOrCountry": "IA"
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "2024:285",
+      "attributes": {
+        "place": 286,
+        "time": "29:56:10",
+        "bib": "118",
+        "firstName": "Iris",
+        "lastName": "Cooper",
+        "gender": "F",
+        "age": 65,
+        "city": "Thornhill",
+        "stateOrCountry": "ON"
+      }
+    }
+  ]
+}

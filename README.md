@@ -46,6 +46,18 @@ The following data sources are currently available:
 > In the url and filepath schemes below, replace `{YYYY}` with the
 > desired year. E.g. `2013`
 
+### 1974 →
+
+- `finishers`
+  - source: `https://www.wser.org/results/{YYYY}-results/`
+  - output: `./.data-cache/raw/{YYYY}/finishers.json`
+
+> [!TIP]
+> Some early years had starters but no finishers, and some years the race
+> includes folks who finished slightly after the 30hour mark in the results
+> but without a place.
+> There are also a few finishers without a listed age in this data.
+
 ### 2013 →
 
 - `applicants` 

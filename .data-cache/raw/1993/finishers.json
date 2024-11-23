@@ -1,0 +1,3988 @@
+{
+  "data": {
+    "type": "finishers-list",
+    "id": "1993",
+    "attributes": {
+      "year": 1993
+    },
+    "relationships": {
+      "applicants": {
+        "data": [
+          {
+            "type": "finisher",
+            "id": "1993:0"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:1"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:2"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:3"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:4"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:5"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:6"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:7"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:8"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:9"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:10"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:11"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:12"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:13"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:14"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:15"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:16"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:17"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:18"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:19"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:20"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:21"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:22"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:23"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:24"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:25"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:26"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:27"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:28"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:29"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:30"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:31"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:32"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:33"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:34"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:35"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:36"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:37"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:38"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:39"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:40"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:41"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:42"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:43"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:44"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:45"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:46"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:47"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:48"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:49"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:50"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:51"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:52"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:53"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:54"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:55"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:56"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:57"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:58"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:59"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:60"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:61"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:62"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:63"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:64"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:65"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:66"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:67"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:68"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:69"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:70"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:71"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:72"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:73"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:74"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:75"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:76"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:77"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:78"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:79"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:80"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:81"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:82"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:83"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:84"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:85"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:86"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:87"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:88"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:89"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:90"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:91"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:92"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:93"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:94"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:95"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:96"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:97"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:98"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:99"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:100"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:101"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:102"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:103"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:104"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:105"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:106"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:107"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:108"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:109"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:110"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:111"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:112"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:113"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:114"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:115"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:116"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:117"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:118"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:119"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:120"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:121"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:122"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:123"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:124"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:125"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:126"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:127"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:128"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:129"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:130"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:131"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:132"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:133"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:134"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:135"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:136"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:137"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:138"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:139"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:140"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:141"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:142"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:143"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:144"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:145"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:146"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:147"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:148"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:149"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:150"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:151"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:152"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:153"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:154"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:155"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:156"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:157"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:158"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:159"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:160"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:161"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:162"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:163"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:164"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:165"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:166"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:167"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:168"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:169"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:170"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:171"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:172"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:173"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:174"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:175"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:176"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:177"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:178"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:179"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:180"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:181"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:182"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:183"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:184"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:185"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:186"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:187"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:188"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:189"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:190"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:191"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:192"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:193"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:194"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:195"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:196"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:197"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:198"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:199"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:200"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:201"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:202"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:203"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:204"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:205"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:206"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:207"
+          },
+          {
+            "type": "finisher",
+            "id": "1993:208"
+          }
+        ]
+      }
+    }
+  },
+  "included": [
+    {
+      "type": "finisher",
+      "id": "1993:0",
+      "attributes": {
+        "place": 1,
+        "time": "17:08:34",
+        "bib": "",
+        "firstName": "Tom",
+        "lastName": "Johnson",
+        "gender": "M",
+        "age": 34,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:1",
+      "attributes": {
+        "place": 2,
+        "time": "17:56:12",
+        "bib": "",
+        "firstName": "Tim",
+        "lastName": "Twietmeyer",
+        "gender": "M",
+        "age": 34,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:2",
+      "attributes": {
+        "place": 3,
+        "time": "19:05:22",
+        "bib": "",
+        "firstName": "Ann",
+        "lastName": "Trason",
+        "gender": "F",
+        "age": 32,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:3",
+      "attributes": {
+        "place": 4,
+        "time": "19:29:49",
+        "bib": "",
+        "firstName": "Dow",
+        "lastName": "Mattingly",
+        "gender": "M",
+        "age": 41,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:4",
+      "attributes": {
+        "place": 5,
+        "time": "19:37:16",
+        "bib": "",
+        "firstName": "Joe",
+        "lastName": "Schlereth",
+        "gender": "M",
+        "age": 43,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:5",
+      "attributes": {
+        "place": 6,
+        "time": "19:45:57",
+        "bib": "",
+        "firstName": "Ray",
+        "lastName": "Scannell",
+        "gender": "M",
+        "age": 43,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:6",
+      "attributes": {
+        "place": 7,
+        "time": "19:47:57",
+        "bib": "",
+        "firstName": "Jim",
+        "lastName": "Scott",
+        "gender": "M",
+        "age": 33,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:7",
+      "attributes": {
+        "place": 8,
+        "time": "20:46:11",
+        "bib": "",
+        "firstName": "Bruce",
+        "lastName": "Linscott",
+        "gender": "M",
+        "age": 35,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:8",
+      "attributes": {
+        "place": 9,
+        "time": "20:46:58",
+        "bib": "",
+        "firstName": "Bernd",
+        "lastName": "Leupold",
+        "gender": "M",
+        "age": 51,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:9",
+      "attributes": {
+        "place": 10,
+        "time": "20:50:45",
+        "bib": "",
+        "firstName": "Earl",
+        "lastName": "Towner",
+        "gender": "M",
+        "age": 43,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:10",
+      "attributes": {
+        "place": 11,
+        "time": "20:52:56",
+        "bib": "",
+        "firstName": "Alfred",
+        "lastName": "Bogenhuber",
+        "gender": "M",
+        "age": 53,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:11",
+      "attributes": {
+        "place": 12,
+        "time": "20:56:55",
+        "bib": "",
+        "firstName": "Ray",
+        "lastName": "Deschenes",
+        "gender": "M",
+        "age": 42,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:12",
+      "attributes": {
+        "place": 13,
+        "time": "21:02:41",
+        "bib": "",
+        "firstName": "Kathy",
+        "lastName": "D'Onofrio-Wood",
+        "gender": "F",
+        "age": 28,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:13",
+      "attributes": {
+        "place": 14,
+        "time": "21:34:48",
+        "bib": "",
+        "firstName": "Joe",
+        "lastName": "Braninburg",
+        "gender": "M",
+        "age": 49,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:14",
+      "attributes": {
+        "place": 15,
+        "time": "21:40:36",
+        "bib": "",
+        "firstName": "Stephen",
+        "lastName": "Harris",
+        "gender": "M",
+        "age": 39,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:15",
+      "attributes": {
+        "place": 16,
+        "time": "21:54:06",
+        "bib": "",
+        "firstName": "Dale",
+        "lastName": "Capewell",
+        "gender": "M",
+        "age": 29,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:16",
+      "attributes": {
+        "place": 17,
+        "time": "21:57:03",
+        "bib": "",
+        "firstName": "Don",
+        "lastName": "Aycock",
+        "gender": "M",
+        "age": 41,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:17",
+      "attributes": {
+        "place": 18,
+        "time": "21:58:52",
+        "bib": "",
+        "firstName": "Bill",
+        "lastName": "Finkbeiner",
+        "gender": "M",
+        "age": 37,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:18",
+      "attributes": {
+        "place": 19,
+        "time": "21:59:53",
+        "bib": "",
+        "firstName": "Fred",
+        "lastName": "Shufflebarger",
+        "gender": "M",
+        "age": 45,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:19",
+      "attributes": {
+        "place": 20,
+        "time": "22:22:55",
+        "bib": "",
+        "firstName": "Eric",
+        "lastName": "Ianacone",
+        "gender": "M",
+        "age": 46,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:20",
+      "attributes": {
+        "place": 21,
+        "time": "22:23:26",
+        "bib": "",
+        "firstName": "Andrew",
+        "lastName": "Bauroth",
+        "gender": "M",
+        "age": 31,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:21",
+      "attributes": {
+        "place": 22,
+        "time": "22:23:51",
+        "bib": "",
+        "firstName": "Randy",
+        "lastName": "Stillman",
+        "gender": "M",
+        "age": 43,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:22",
+      "attributes": {
+        "place": 23,
+        "time": "22:29:48",
+        "bib": "",
+        "firstName": "Terry",
+        "lastName": "Nephew",
+        "gender": "M",
+        "age": 41,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:23",
+      "attributes": {
+        "place": 24,
+        "time": "22:32:51",
+        "bib": "",
+        "firstName": "Dane",
+        "lastName": "Larsen",
+        "gender": "M",
+        "age": 42,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:24",
+      "attributes": {
+        "place": 24,
+        "time": "22:32:51",
+        "bib": "",
+        "firstName": "David",
+        "lastName": "Hannaford",
+        "gender": "M",
+        "age": 42,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:25",
+      "attributes": {
+        "place": 26,
+        "time": "22:35:32",
+        "bib": "",
+        "firstName": "Larry",
+        "lastName": "Goodman",
+        "gender": "M",
+        "age": 36,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:26",
+      "attributes": {
+        "place": 27,
+        "time": "22:37:59",
+        "bib": "",
+        "firstName": "Lynn",
+        "lastName": "O'Malley-Yarnall",
+        "gender": "F",
+        "age": 42,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:27",
+      "attributes": {
+        "place": 28,
+        "time": "22:39:18",
+        "bib": "",
+        "firstName": "Scott",
+        "lastName": "Mills",
+        "gender": "M",
+        "age": 42,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:28",
+      "attributes": {
+        "place": 29,
+        "time": "22:48:09",
+        "bib": "",
+        "firstName": "Bill",
+        "lastName": "Hambrick",
+        "gender": "M",
+        "age": 39,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:29",
+      "attributes": {
+        "place": 30,
+        "time": "22:50:44",
+        "bib": "",
+        "firstName": "Marc",
+        "lastName": "Susac",
+        "gender": "M",
+        "age": 26,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:30",
+      "attributes": {
+        "place": 31,
+        "time": "22:53:46",
+        "bib": "",
+        "firstName": "Helga",
+        "lastName": "Backhaus",
+        "gender": "F",
+        "age": 40,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:31",
+      "attributes": {
+        "place": 32,
+        "time": "23:08:48",
+        "bib": "",
+        "firstName": "Tom",
+        "lastName": "O'Connell",
+        "gender": "M",
+        "age": 42,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:32",
+      "attributes": {
+        "place": 33,
+        "time": "23:11:52",
+        "bib": "",
+        "firstName": "Bill",
+        "lastName": "Rose",
+        "gender": "M",
+        "age": 37,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:33",
+      "attributes": {
+        "place": 34,
+        "time": "23:14:11",
+        "bib": "",
+        "firstName": "Harold",
+        "lastName": "Carling",
+        "gender": "M",
+        "age": 59,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:34",
+      "attributes": {
+        "place": 35,
+        "time": "23:16:36",
+        "bib": "",
+        "firstName": "Chrissy",
+        "lastName": "Duryea-Ferguson",
+        "gender": "F",
+        "age": 32,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:35",
+      "attributes": {
+        "place": 36,
+        "time": "23:21:49",
+        "bib": "",
+        "firstName": "John",
+        "lastName": "Lahoud",
+        "gender": "M",
+        "age": 38,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:36",
+      "attributes": {
+        "place": 37,
+        "time": "23:22:14",
+        "bib": "",
+        "firstName": "Donna",
+        "lastName": "Perkins",
+        "gender": "F",
+        "age": 34,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:37",
+      "attributes": {
+        "place": 38,
+        "time": "23:23:46",
+        "bib": "",
+        "firstName": "Ian",
+        "lastName": "Maddieson",
+        "gender": "M",
+        "age": 50,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:38",
+      "attributes": {
+        "place": 39,
+        "time": "23:25:40",
+        "bib": "",
+        "firstName": "Raul",
+        "lastName": "Flores",
+        "gender": "M",
+        "age": 37,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:39",
+      "attributes": {
+        "place": 40,
+        "time": "23:26:36",
+        "bib": "",
+        "firstName": "Tatsuya",
+        "lastName": "Muramatsu",
+        "gender": "M",
+        "age": 37,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:40",
+      "attributes": {
+        "place": 41,
+        "time": "23:27:25",
+        "bib": "",
+        "firstName": "Scott",
+        "lastName": "Modzelewski",
+        "gender": "M",
+        "age": 30,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:41",
+      "attributes": {
+        "place": 42,
+        "time": "23:27:44",
+        "bib": "",
+        "firstName": "Daniel",
+        "lastName": "Martin",
+        "gender": "M",
+        "age": 45,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:42",
+      "attributes": {
+        "place": 43,
+        "time": "23:29:27",
+        "bib": "",
+        "firstName": "Michael",
+        "lastName": "Martin",
+        "gender": "M",
+        "age": 45,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:43",
+      "attributes": {
+        "place": 44,
+        "time": "23:34:49",
+        "bib": "",
+        "firstName": "Michael",
+        "lastName": "Danese",
+        "gender": "M",
+        "age": 33,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:44",
+      "attributes": {
+        "place": 45,
+        "time": "23:37:32",
+        "bib": "",
+        "firstName": "William",
+        "lastName": "Davis",
+        "gender": "M",
+        "age": 47,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:45",
+      "attributes": {
+        "place": 46,
+        "time": "23:42:58",
+        "bib": "",
+        "firstName": "John",
+        "lastName": "Amies",
+        "gender": "M",
+        "age": 51,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:46",
+      "attributes": {
+        "place": 47,
+        "time": "23:44:53",
+        "bib": "",
+        "firstName": "Tom",
+        "lastName": "Sloan",
+        "gender": "M",
+        "age": 45,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:47",
+      "attributes": {
+        "place": 48,
+        "time": "23:45:34",
+        "bib": "",
+        "firstName": "Stewart",
+        "lastName": "Dutfield",
+        "gender": "M",
+        "age": 38,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:48",
+      "attributes": {
+        "place": 49,
+        "time": "23:45:37",
+        "bib": "",
+        "firstName": "Edward",
+        "lastName": "Frisch",
+        "gender": "M",
+        "age": 53,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:49",
+      "attributes": {
+        "place": 50,
+        "time": "23:47:21",
+        "bib": "",
+        "firstName": "Diane",
+        "lastName": "Ridgway",
+        "gender": "F",
+        "age": 44,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:50",
+      "attributes": {
+        "place": 51,
+        "time": "23:48:21",
+        "bib": "",
+        "firstName": "Rick",
+        "lastName": "Gates",
+        "gender": "M",
+        "age": 35,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:51",
+      "attributes": {
+        "place": 52,
+        "time": "23:49:45",
+        "bib": "",
+        "firstName": "Russ",
+        "lastName": "Osman-Bravard",
+        "gender": "M",
+        "age": 36,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:52",
+      "attributes": {
+        "place": 53,
+        "time": "23:53:18",
+        "bib": "",
+        "firstName": "Thomas",
+        "lastName": "Green",
+        "gender": "M",
+        "age": 42,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:53",
+      "attributes": {
+        "place": 54,
+        "time": "23:53:57",
+        "bib": "",
+        "firstName": "David",
+        "lastName": "Hudson",
+        "gender": "M",
+        "age": 45,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:54",
+      "attributes": {
+        "place": 55,
+        "time": "23:55:45",
+        "bib": "",
+        "firstName": "Mo",
+        "lastName": "Bartley",
+        "gender": "F",
+        "age": 38,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:55",
+      "attributes": {
+        "place": 56,
+        "time": "23:56:16",
+        "bib": "",
+        "firstName": "Steve",
+        "lastName": "Christian",
+        "gender": "M",
+        "age": 42,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:56",
+      "attributes": {
+        "place": 57,
+        "time": "24:20:11",
+        "bib": "",
+        "firstName": "David",
+        "lastName": "Kim",
+        "gender": "M",
+        "age": 50,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:57",
+      "attributes": {
+        "place": 58,
+        "time": "24:21:58",
+        "bib": "",
+        "firstName": "Hans-Dieter",
+        "lastName": "Rebstock",
+        "gender": "M",
+        "age": 54,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:58",
+      "attributes": {
+        "place": 59,
+        "time": "24:28:55",
+        "bib": "",
+        "firstName": "Jamshid",
+        "lastName": "Khajavi",
+        "gender": "M",
+        "age": 40,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:59",
+      "attributes": {
+        "place": 60,
+        "time": "24:33:31",
+        "bib": "",
+        "firstName": "Chuck",
+        "lastName": "Honeycutt",
+        "gender": "M",
+        "age": 45,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:60",
+      "attributes": {
+        "place": 61,
+        "time": "24:45:54",
+        "bib": "",
+        "firstName": "Eric",
+        "lastName": "Benson",
+        "gender": "M",
+        "age": 32,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:61",
+      "attributes": {
+        "place": 62,
+        "time": "24:56:23",
+        "bib": "",
+        "firstName": "Don",
+        "lastName": "Winkley",
+        "gender": "M",
+        "age": 55,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:62",
+      "attributes": {
+        "place": 63,
+        "time": "24:57:41",
+        "bib": "",
+        "firstName": "Murray",
+        "lastName": "Carpenter",
+        "gender": "M",
+        "age": 41,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:63",
+      "attributes": {
+        "place": 64,
+        "time": "24:58:09",
+        "bib": "",
+        "firstName": "Shelley",
+        "lastName": "Dunlap",
+        "gender": "F",
+        "age": 43,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:64",
+      "attributes": {
+        "place": 65,
+        "time": "25:10:11",
+        "bib": "",
+        "firstName": "Theresa",
+        "lastName": "Daus-Weber",
+        "gender": "F",
+        "age": 38,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:65",
+      "attributes": {
+        "place": 66,
+        "time": "25:10:57",
+        "bib": "",
+        "firstName": "Paul",
+        "lastName": "Carr",
+        "gender": "M",
+        "age": 36,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:66",
+      "attributes": {
+        "place": 67,
+        "time": "25:15:39",
+        "bib": "",
+        "firstName": "Denise",
+        "lastName": "Ellestad",
+        "gender": "F",
+        "age": 32,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:67",
+      "attributes": {
+        "place": 68,
+        "time": "25:18:53",
+        "bib": "",
+        "firstName": "Kap'n Kirk",
+        "lastName": "Boisseree",
+        "gender": "M",
+        "age": 35,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:68",
+      "attributes": {
+        "place": 69,
+        "time": "25:20:09",
+        "bib": "",
+        "firstName": "Ric",
+        "lastName": "Hatch",
+        "gender": "M",
+        "age": 38,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:69",
+      "attributes": {
+        "place": 70,
+        "time": "25:24:17",
+        "bib": "",
+        "firstName": "Jim",
+        "lastName": "Magill",
+        "gender": "M",
+        "age": 46,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:70",
+      "attributes": {
+        "place": 71,
+        "time": "25:29:11",
+        "bib": "",
+        "firstName": "Vincent",
+        "lastName": "Bourret",
+        "gender": "M",
+        "age": 29,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:71",
+      "attributes": {
+        "place": 72,
+        "time": "25:32:14",
+        "bib": "",
+        "firstName": "Lou",
+        "lastName": "Martin",
+        "gender": "M",
+        "age": 40,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:72",
+      "attributes": {
+        "place": 73,
+        "time": "25:38:01",
+        "bib": "",
+        "firstName": "Rob",
+        "lastName": "Volkenand",
+        "gender": "M",
+        "age": 62,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:73",
+      "attributes": {
+        "place": 74,
+        "time": "25:44:32",
+        "bib": "",
+        "firstName": "Kelly",
+        "lastName": "Heath",
+        "gender": "M",
+        "age": 32,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:74",
+      "attributes": {
+        "place": 75,
+        "time": "25:44:56",
+        "bib": "",
+        "firstName": "Jeff",
+        "lastName": "Hagen",
+        "gender": "M",
+        "age": 46,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:75",
+      "attributes": {
+        "place": 76,
+        "time": "25:45:54",
+        "bib": "",
+        "firstName": "John",
+        "lastName": "Stewart",
+        "gender": "M",
+        "age": 47,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:76",
+      "attributes": {
+        "place": 77,
+        "time": "25:47:18",
+        "bib": "",
+        "firstName": "Donald",
+        "lastName": "Hunt",
+        "gender": "M",
+        "age": 42,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:77",
+      "attributes": {
+        "place": 78,
+        "time": "25:51:10",
+        "bib": "",
+        "firstName": "Danny",
+        "lastName": "Westergaard",
+        "gender": "M",
+        "age": 34,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:78",
+      "attributes": {
+        "place": 79,
+        "time": "25:53:08",
+        "bib": "",
+        "firstName": "Bob",
+        "lastName": "Stavig",
+        "gender": "M",
+        "age": 44,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:79",
+      "attributes": {
+        "place": 80,
+        "time": "26:01:54",
+        "bib": "",
+        "firstName": "Vince",
+        "lastName": "Pedroia",
+        "gender": "M",
+        "age": 46,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:80",
+      "attributes": {
+        "place": 81,
+        "time": "26:04:23",
+        "bib": "",
+        "firstName": "Edward",
+        "lastName": "Stark",
+        "gender": "M",
+        "age": 46,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:81",
+      "attributes": {
+        "place": 82,
+        "time": "26:12:01",
+        "bib": "",
+        "firstName": "Chuck",
+        "lastName": "Frame",
+        "gender": "M",
+        "age": 50,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:82",
+      "attributes": {
+        "place": 83,
+        "time": "26:14:24",
+        "bib": "",
+        "firstName": "Brick",
+        "lastName": "Robbins",
+        "gender": "M",
+        "age": 33,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:83",
+      "attributes": {
+        "place": 84,
+        "time": "26:18:45",
+        "bib": "",
+        "firstName": "Ken",
+        "lastName": "Ashby",
+        "gender": "M",
+        "age": 40,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:84",
+      "attributes": {
+        "place": 85,
+        "time": "26:22:52",
+        "bib": "",
+        "firstName": "Peter",
+        "lastName": "Gagarin",
+        "gender": "M",
+        "age": 48,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:85",
+      "attributes": {
+        "place": 86,
+        "time": "26:31:19",
+        "bib": "",
+        "firstName": "John",
+        "lastName": "Holmes",
+        "gender": "M",
+        "age": 50,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:86",
+      "attributes": {
+        "place": 87,
+        "time": "26:33:57",
+        "bib": "",
+        "firstName": "Herb",
+        "lastName": "Tanimoto",
+        "gender": "M",
+        "age": 45,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:87",
+      "attributes": {
+        "place": 88,
+        "time": "26:35:23",
+        "bib": "",
+        "firstName": "Dave",
+        "lastName": "Tanner",
+        "gender": "M",
+        "age": 43,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:88",
+      "attributes": {
+        "place": 89,
+        "time": "26:35:51",
+        "bib": "",
+        "firstName": "Billy",
+        "lastName": "Wise",
+        "gender": "M",
+        "age": 36,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:89",
+      "attributes": {
+        "place": 90,
+        "time": "26:36:23",
+        "bib": "",
+        "firstName": "Deborah",
+        "lastName": "Hannaford",
+        "gender": "F",
+        "age": 41,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:90",
+      "attributes": {
+        "place": 91,
+        "time": "26:38:46",
+        "bib": "",
+        "firstName": "Max",
+        "lastName": "Welker",
+        "gender": "M",
+        "age": 50,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:91",
+      "attributes": {
+        "place": 92,
+        "time": "26:40:55",
+        "bib": "",
+        "firstName": "Hollis",
+        "lastName": "Lenderking",
+        "gender": "M",
+        "age": 43,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:92",
+      "attributes": {
+        "place": 93,
+        "time": "26:49:46",
+        "bib": "",
+        "firstName": "Karl",
+        "lastName": "Jensen",
+        "gender": "M",
+        "age": 43,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:93",
+      "attributes": {
+        "place": 94,
+        "time": "26:54:48",
+        "bib": "",
+        "firstName": "Daniel",
+        "lastName": "Fowkes",
+        "gender": "M",
+        "age": 31,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:94",
+      "attributes": {
+        "place": 95,
+        "time": "26:54:53",
+        "bib": "",
+        "firstName": "Tim",
+        "lastName": "Seminoff",
+        "gender": "M",
+        "age": 34,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:95",
+      "attributes": {
+        "place": 96,
+        "time": "26:56:03",
+        "bib": "",
+        "firstName": "Ray",
+        "lastName": "Piva",
+        "gender": "M",
+        "age": 66,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:96",
+      "attributes": {
+        "place": 97,
+        "time": "26:57:10",
+        "bib": "",
+        "firstName": "Kellie",
+        "lastName": "Sheehan",
+        "gender": "F",
+        "age": 40,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:97",
+      "attributes": {
+        "place": 98,
+        "time": "26:57:29",
+        "bib": "",
+        "firstName": "Sandy",
+        "lastName": "Whyte",
+        "gender": "F",
+        "age": 44,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:98",
+      "attributes": {
+        "place": 99,
+        "time": "27:06:09",
+        "bib": "",
+        "firstName": "Ross",
+        "lastName": "Meyer",
+        "gender": "M",
+        "age": 42,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:99",
+      "attributes": {
+        "place": 100,
+        "time": "27:06:28",
+        "bib": "",
+        "firstName": "Jerry",
+        "lastName": "Wittenauer",
+        "gender": "M",
+        "age": 34,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:100",
+      "attributes": {
+        "place": 101,
+        "time": "27:06:49",
+        "bib": "",
+        "firstName": "Suzanne",
+        "lastName": "Roat",
+        "gender": "F",
+        "age": 30,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:101",
+      "attributes": {
+        "place": 102,
+        "time": "27:08:29",
+        "bib": "",
+        "firstName": "Stan",
+        "lastName": "Wingate",
+        "gender": "M",
+        "age": 33,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:102",
+      "attributes": {
+        "place": 103,
+        "time": "27:14:36",
+        "bib": "",
+        "firstName": "Sherry",
+        "lastName": "Kae Johns",
+        "gender": "F",
+        "age": 38,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:103",
+      "attributes": {
+        "place": 104,
+        "time": "27:15:25",
+        "bib": "",
+        "firstName": "Kathy",
+        "lastName": "Welch",
+        "gender": "F",
+        "age": 40,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:104",
+      "attributes": {
+        "place": 105,
+        "time": "27:20:19",
+        "bib": "",
+        "firstName": "Joseph",
+        "lastName": "Pope",
+        "gender": "M",
+        "age": 53,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:105",
+      "attributes": {
+        "place": 106,
+        "time": "27:24:01",
+        "bib": "",
+        "firstName": "Wolfgang",
+        "lastName": "Polak",
+        "gender": "M",
+        "age": 43,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:106",
+      "attributes": {
+        "place": 107,
+        "time": "27:26:15",
+        "bib": "",
+        "firstName": "Fred",
+        "lastName": "Liebes",
+        "gender": "M",
+        "age": 47,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:107",
+      "attributes": {
+        "place": 108,
+        "time": "27:27:38",
+        "bib": "",
+        "firstName": "Frank",
+        "lastName": "Shuman",
+        "gender": "M",
+        "age": 34,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:108",
+      "attributes": {
+        "place": 109,
+        "time": "27:28:25",
+        "bib": "",
+        "firstName": "Keith",
+        "lastName": "Hileman",
+        "gender": "M",
+        "age": 44,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:109",
+      "attributes": {
+        "place": 110,
+        "time": "27:29:43",
+        "bib": "",
+        "firstName": "Gary",
+        "lastName": "Ritchie",
+        "gender": "M",
+        "age": 52,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:110",
+      "attributes": {
+        "place": 111,
+        "time": "27:32:25",
+        "bib": "",
+        "firstName": "Martin",
+        "lastName": "Hillyer",
+        "gender": "M",
+        "age": 55,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:111",
+      "attributes": {
+        "place": 112,
+        "time": "27:35:36",
+        "bib": "",
+        "firstName": "Joe",
+        "lastName": "Livak",
+        "gender": "M",
+        "age": 52,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:112",
+      "attributes": {
+        "place": 113,
+        "time": "27:40:03",
+        "bib": "",
+        "firstName": "Kent",
+        "lastName": "Ross",
+        "gender": "M",
+        "age": 40,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:113",
+      "attributes": {
+        "place": 114,
+        "time": "27:43:49",
+        "bib": "",
+        "firstName": "David",
+        "lastName": "Cepoi",
+        "gender": "M",
+        "age": 28,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:114",
+      "attributes": {
+        "place": 115,
+        "time": "27:47:51",
+        "bib": "",
+        "firstName": "David",
+        "lastName": "Gray",
+        "gender": "M",
+        "age": 39,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:115",
+      "attributes": {
+        "place": 116,
+        "time": "27:50:27",
+        "bib": "",
+        "firstName": "John",
+        "lastName": "Leighton",
+        "gender": "M",
+        "age": 48,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:116",
+      "attributes": {
+        "place": 117,
+        "time": "27:53:16",
+        "bib": "",
+        "firstName": "Michael",
+        "lastName": "Palmer",
+        "gender": "M",
+        "age": 39,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:117",
+      "attributes": {
+        "place": 118,
+        "time": "27:54:00",
+        "bib": "",
+        "firstName": "Robert",
+        "lastName": "Tuller",
+        "gender": "M",
+        "age": 29,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:118",
+      "attributes": {
+        "place": 119,
+        "time": "27:56:33",
+        "bib": "",
+        "firstName": "Dennis",
+        "lastName": "Richardson",
+        "gender": "M",
+        "age": 33,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:119",
+      "attributes": {
+        "place": 120,
+        "time": "28:05:45",
+        "bib": "",
+        "firstName": "Hal",
+        "lastName": "Winton",
+        "gender": "M",
+        "age": 61,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:120",
+      "attributes": {
+        "place": 121,
+        "time": "28:06:26",
+        "bib": "",
+        "firstName": "Nick",
+        "lastName": "Bassett",
+        "gender": "M",
+        "age": 48,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:121",
+      "attributes": {
+        "place": 122,
+        "time": "28:10:52",
+        "bib": "",
+        "firstName": "Laura-Lynn",
+        "lastName": "Knebel",
+        "gender": "F",
+        "age": 35,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:122",
+      "attributes": {
+        "place": 123,
+        "time": "28:12:56",
+        "bib": "",
+        "firstName": "Cindie",
+        "lastName": "McKenna",
+        "gender": "F",
+        "age": 43,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:123",
+      "attributes": {
+        "place": 124,
+        "time": "28:13:40",
+        "bib": "",
+        "firstName": "Michael",
+        "lastName": "Suter",
+        "gender": "M",
+        "age": 45,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:124",
+      "attributes": {
+        "place": 125,
+        "time": "28:15:34",
+        "bib": "",
+        "firstName": "Joel",
+        "lastName": "Dahl",
+        "gender": "M",
+        "age": 35,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:125",
+      "attributes": {
+        "place": 126,
+        "time": "28:16:03",
+        "bib": "",
+        "firstName": "Robert",
+        "lastName": "Develice",
+        "gender": "M",
+        "age": 39,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:126",
+      "attributes": {
+        "place": 126,
+        "time": "28:16:03",
+        "bib": "",
+        "firstName": "Martin",
+        "lastName": "Miller",
+        "gender": "M",
+        "age": 41,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:127",
+      "attributes": {
+        "place": 128,
+        "time": "28:18:25",
+        "bib": "",
+        "firstName": "Craig",
+        "lastName": "Coppola",
+        "gender": "M",
+        "age": 31,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:128",
+      "attributes": {
+        "place": 129,
+        "time": "28:19:42",
+        "bib": "",
+        "firstName": "Harry",
+        "lastName": "Sloan",
+        "gender": "M",
+        "age": 44,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:129",
+      "attributes": {
+        "place": 130,
+        "time": "28:19:49",
+        "bib": "",
+        "firstName": "Robert",
+        "lastName": "Barker",
+        "gender": "M",
+        "age": 48,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:130",
+      "attributes": {
+        "place": 131,
+        "time": "28:20:37",
+        "bib": "",
+        "firstName": "James",
+        "lastName": "Thatcher",
+        "gender": "M",
+        "age": 44,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:131",
+      "attributes": {
+        "place": 132,
+        "time": "28:21:08",
+        "bib": "",
+        "firstName": "Nico",
+        "lastName": "Solomos",
+        "gender": "M",
+        "age": 54,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:132",
+      "attributes": {
+        "place": 133,
+        "time": "28:23:41",
+        "bib": "",
+        "firstName": "Dennis",
+        "lastName": "Clute",
+        "gender": "M",
+        "age": 40,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:133",
+      "attributes": {
+        "place": 134,
+        "time": "28:26:18",
+        "bib": "",
+        "firstName": "Janice",
+        "lastName": "Levet",
+        "gender": "F",
+        "age": 42,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:134",
+      "attributes": {
+        "place": 135,
+        "time": "28:29:34",
+        "bib": "",
+        "firstName": "Andrew",
+        "lastName": "McKenzie-hicks",
+        "gender": "M",
+        "age": 35,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:135",
+      "attributes": {
+        "place": 136,
+        "time": "28:29:56",
+        "bib": "",
+        "firstName": "Jim",
+        "lastName": "Stevenson",
+        "gender": "M",
+        "age": 46,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:136",
+      "attributes": {
+        "place": 137,
+        "time": "28:31:17",
+        "bib": "",
+        "firstName": "Rhonda",
+        "lastName": "Provost",
+        "gender": "F",
+        "age": 44,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:137",
+      "attributes": {
+        "place": 138,
+        "time": "28:35:14",
+        "bib": "",
+        "firstName": "Tony",
+        "lastName": "Grappo",
+        "gender": "M",
+        "age": 42,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:138",
+      "attributes": {
+        "place": 139,
+        "time": "28:35:23",
+        "bib": "",
+        "firstName": "Shirley",
+        "lastName": "Church",
+        "gender": "F",
+        "age": 52,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:139",
+      "attributes": {
+        "place": 140,
+        "time": "28:37:41",
+        "bib": "",
+        "firstName": "Ephraim",
+        "lastName": "Romesberg",
+        "gender": "M",
+        "age": 62,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:140",
+      "attributes": {
+        "place": 141,
+        "time": "28:39:07",
+        "bib": "",
+        "firstName": "Steven",
+        "lastName": "McRae",
+        "gender": "M",
+        "age": 41,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:141",
+      "attributes": {
+        "place": 142,
+        "time": "28:39:10",
+        "bib": "",
+        "firstName": "Milo",
+        "lastName": "Lewis",
+        "gender": "M",
+        "age": 40,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:142",
+      "attributes": {
+        "place": 143,
+        "time": "28:40:22",
+        "bib": "",
+        "firstName": "Charles",
+        "lastName": "Raper",
+        "gender": "M",
+        "age": 56,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:143",
+      "attributes": {
+        "place": 144,
+        "time": "28:40:34",
+        "bib": "",
+        "firstName": "Joanie",
+        "lastName": "Mork",
+        "gender": "F",
+        "age": 39,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:144",
+      "attributes": {
+        "place": 145,
+        "time": "28:40:41",
+        "bib": "",
+        "firstName": "Tim",
+        "lastName": "Potter",
+        "gender": "M",
+        "age": 39,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:145",
+      "attributes": {
+        "place": 146,
+        "time": "28:42:27",
+        "bib": "",
+        "firstName": "Eb",
+        "lastName": "Engelmann",
+        "gender": "M",
+        "age": 51,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:146",
+      "attributes": {
+        "place": 147,
+        "time": "28:43:30",
+        "bib": "",
+        "firstName": "Ron",
+        "lastName": "Nicholl",
+        "gender": "M",
+        "age": 50,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:147",
+      "attributes": {
+        "place": 148,
+        "time": "28:44:45",
+        "bib": "",
+        "firstName": "Bill",
+        "lastName": "Close",
+        "gender": "M",
+        "age": 33,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:148",
+      "attributes": {
+        "place": 149,
+        "time": "28:45:00",
+        "bib": "",
+        "firstName": "Dennis",
+        "lastName": "Scott",
+        "gender": "M",
+        "age": 45,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:149",
+      "attributes": {
+        "place": 150,
+        "time": "28:45:57",
+        "bib": "",
+        "firstName": "Douglas",
+        "lastName": "Griffen",
+        "gender": "M",
+        "age": 37,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:150",
+      "attributes": {
+        "place": 151,
+        "time": "28:48:50",
+        "bib": "",
+        "firstName": "Jose",
+        "lastName": "Wilkie",
+        "gender": "M",
+        "age": 30,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:151",
+      "attributes": {
+        "place": 152,
+        "time": "28:48:58",
+        "bib": "",
+        "firstName": "Ron",
+        "lastName": "Behrmann",
+        "gender": "M",
+        "age": 53,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:152",
+      "attributes": {
+        "place": 153,
+        "time": "28:49:27",
+        "bib": "",
+        "firstName": "Larry",
+        "lastName": "Gassan",
+        "gender": "M",
+        "age": 37,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:153",
+      "attributes": {
+        "place": 154,
+        "time": "28:51:48",
+        "bib": "",
+        "firstName": "Ron",
+        "lastName": "Zadroga",
+        "gender": "M",
+        "age": 53,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:154",
+      "attributes": {
+        "place": 155,
+        "time": "28:51:59",
+        "bib": "",
+        "firstName": "Christa",
+        "lastName": "Rebstock",
+        "gender": "F",
+        "age": 50,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:155",
+      "attributes": {
+        "place": 156,
+        "time": "28:55:58",
+        "bib": "",
+        "firstName": "Luther",
+        "lastName": "Thompson",
+        "gender": "M",
+        "age": 48,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:156",
+      "attributes": {
+        "place": 157,
+        "time": "28:55:59",
+        "bib": "",
+        "firstName": "David",
+        "lastName": "Nelson",
+        "gender": "M",
+        "age": 52,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:157",
+      "attributes": {
+        "place": 158,
+        "time": "28:56:20",
+        "bib": "",
+        "firstName": "Rich",
+        "lastName": "Lacey",
+        "gender": "M",
+        "age": 54,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:158",
+      "attributes": {
+        "place": 159,
+        "time": "29:00:34",
+        "bib": "",
+        "firstName": "Gordy",
+        "lastName": "Ainsleigh",
+        "gender": "M",
+        "age": 46,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:159",
+      "attributes": {
+        "place": 160,
+        "time": "29:03:49",
+        "bib": "",
+        "firstName": "Gary",
+        "lastName": "Waldsmith",
+        "gender": "M",
+        "age": 52,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:160",
+      "attributes": {
+        "place": 161,
+        "time": "29:04:48",
+        "bib": "",
+        "firstName": "Steve",
+        "lastName": "Lebarron",
+        "gender": "M",
+        "age": 33,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:161",
+      "attributes": {
+        "place": 162,
+        "time": "29:07:10",
+        "bib": "",
+        "firstName": "Edwin",
+        "lastName": "Demoney",
+        "gender": "M",
+        "age": 59,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:162",
+      "attributes": {
+        "place": 163,
+        "time": "29:08:44",
+        "bib": "",
+        "firstName": "William",
+        "lastName": "Barker",
+        "gender": "M",
+        "age": 52,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:163",
+      "attributes": {
+        "place": 164,
+        "time": "29:10:36",
+        "bib": "",
+        "firstName": "Claudia",
+        "lastName": "Newsom",
+        "gender": "F",
+        "age": 42,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:164",
+      "attributes": {
+        "place": 165,
+        "time": "29:11:27",
+        "bib": "",
+        "firstName": "Robert",
+        "lastName": "Solorio",
+        "gender": "M",
+        "age": 46,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:165",
+      "attributes": {
+        "place": 166,
+        "time": "29:11:48",
+        "bib": "",
+        "firstName": "Dahl",
+        "lastName": "Orin",
+        "gender": "M",
+        "age": 57,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:166",
+      "attributes": {
+        "place": 167,
+        "time": "29:12:34",
+        "bib": "",
+        "firstName": "David",
+        "lastName": "Givens",
+        "gender": "M",
+        "age": 44,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:167",
+      "attributes": {
+        "place": 168,
+        "time": "29:13:03",
+        "bib": "",
+        "firstName": "Margaret",
+        "lastName": "Mason",
+        "gender": "F",
+        "age": 47,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:168",
+      "attributes": {
+        "place": 169,
+        "time": "29:13:17",
+        "bib": "",
+        "firstName": "Karsten",
+        "lastName": "Solheim",
+        "gender": "M",
+        "age": 56,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:169",
+      "attributes": {
+        "place": 170,
+        "time": "29:14:06",
+        "bib": "",
+        "firstName": "Phil",
+        "lastName": "Wright",
+        "gender": "M",
+        "age": 49,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:170",
+      "attributes": {
+        "place": 171,
+        "time": "29:14:42",
+        "bib": "",
+        "firstName": "Eddy",
+        "lastName": "Koos",
+        "gender": "M",
+        "age": 34,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:171",
+      "attributes": {
+        "place": 172,
+        "time": "29:14:46",
+        "bib": "",
+        "firstName": "Richard",
+        "lastName": "Buck",
+        "gender": "M",
+        "age": 47,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:172",
+      "attributes": {
+        "place": 173,
+        "time": "29:14:57",
+        "bib": "",
+        "firstName": "Richard",
+        "lastName": "Westervelt",
+        "gender": "M",
+        "age": 57,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:173",
+      "attributes": {
+        "place": 174,
+        "time": "29:15:13",
+        "bib": "",
+        "firstName": "Barbara",
+        "lastName": "Elia",
+        "gender": "F",
+        "age": 48,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:174",
+      "attributes": {
+        "place": 175,
+        "time": "29:19:08",
+        "bib": "",
+        "firstName": "Kathy",
+        "lastName": "Hamilton",
+        "gender": "F",
+        "age": 43,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:175",
+      "attributes": {
+        "place": 176,
+        "time": "29:19:36",
+        "bib": "",
+        "firstName": "Martyn",
+        "lastName": "Greaves",
+        "gender": "M",
+        "age": 33,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:176",
+      "attributes": {
+        "place": 177,
+        "time": "29:19:53",
+        "bib": "",
+        "firstName": "Heidi",
+        "lastName": "Cherel",
+        "gender": "F",
+        "age": 28,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:177",
+      "attributes": {
+        "place": 178,
+        "time": "29:20:10",
+        "bib": "",
+        "firstName": "Judy",
+        "lastName": "Overholtzer",
+        "gender": "F",
+        "age": 53,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:178",
+      "attributes": {
+        "place": 179,
+        "time": "29:20:30",
+        "bib": "",
+        "firstName": "Bob",
+        "lastName": "Ross",
+        "gender": "M",
+        "age": 50,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:179",
+      "attributes": {
+        "place": 180,
+        "time": "29:21:56",
+        "bib": "",
+        "firstName": "Tim",
+        "lastName": "Lang",
+        "gender": "M",
+        "age": 54,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:180",
+      "attributes": {
+        "place": 181,
+        "time": "29:22:00",
+        "bib": "",
+        "firstName": "Mike",
+        "lastName": "Rouse",
+        "gender": "M",
+        "age": 40,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:181",
+      "attributes": {
+        "place": 182,
+        "time": "29:23:30",
+        "bib": "",
+        "firstName": "Joan",
+        "lastName": "Steidinger",
+        "gender": "F",
+        "age": 38,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:182",
+      "attributes": {
+        "place": 183,
+        "time": "29:24:02",
+        "bib": "",
+        "firstName": "Michael",
+        "lastName": "Delarosa",
+        "gender": "M",
+        "age": 46,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:183",
+      "attributes": {
+        "place": 184,
+        "time": "29:25:09",
+        "bib": "",
+        "firstName": "Timothy",
+        "lastName": "Carr",
+        "gender": "M",
+        "age": 47,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:184",
+      "attributes": {
+        "place": 185,
+        "time": "29:25:34",
+        "bib": "",
+        "firstName": "Andrew",
+        "lastName": "Lewis",
+        "gender": "M",
+        "age": 42,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:185",
+      "attributes": {
+        "place": 186,
+        "time": "29:25:35",
+        "bib": "",
+        "firstName": "James",
+        "lastName": "Sullivan",
+        "gender": "M",
+        "age": 28,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:186",
+      "attributes": {
+        "place": 187,
+        "time": "29:25:36",
+        "bib": "",
+        "firstName": "Michael",
+        "lastName": "Monahan",
+        "gender": "M",
+        "age": 47,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:187",
+      "attributes": {
+        "place": 188,
+        "time": "29:26:22",
+        "bib": "",
+        "firstName": "Marie",
+        "lastName": "Gonzales",
+        "gender": "F",
+        "age": 32,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:188",
+      "attributes": {
+        "place": 189,
+        "time": "29:28:18",
+        "bib": "",
+        "firstName": "George",
+        "lastName": "Velasco",
+        "gender": "M",
+        "age": 40,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:189",
+      "attributes": {
+        "place": 190,
+        "time": "29:28:25",
+        "bib": "",
+        "firstName": "John",
+        "lastName": "Swanson",
+        "gender": "M",
+        "age": 33,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:190",
+      "attributes": {
+        "place": 191,
+        "time": "29:28:29",
+        "bib": "",
+        "firstName": "Tom",
+        "lastName": "Fraze",
+        "gender": "M",
+        "age": 43,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:191",
+      "attributes": {
+        "place": 192,
+        "time": "29:28:30",
+        "bib": "",
+        "firstName": "Akira",
+        "lastName": "Nakanishi",
+        "gender": "M",
+        "age": 43,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:192",
+      "attributes": {
+        "place": 193,
+        "time": "29:28:54",
+        "bib": "",
+        "firstName": "Richard",
+        "lastName": "Adams",
+        "gender": "M",
+        "age": 50,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:193",
+      "attributes": {
+        "place": 194,
+        "time": "29:34:00",
+        "bib": "",
+        "firstName": "Mike",
+        "lastName": "Cronk",
+        "gender": "M",
+        "age": 50,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:194",
+      "attributes": {
+        "place": 194,
+        "time": "29:34:00",
+        "bib": "",
+        "firstName": "William",
+        "lastName": "Mack",
+        "gender": "M",
+        "age": 40,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:195",
+      "attributes": {
+        "place": 196,
+        "time": "29:34:18",
+        "bib": "",
+        "firstName": "Bob",
+        "lastName": "Marston",
+        "gender": "M",
+        "age": 42,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:196",
+      "attributes": {
+        "place": 197,
+        "time": "29:40:02",
+        "bib": "",
+        "firstName": "David",
+        "lastName": "Garrison",
+        "gender": "M",
+        "age": 37,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:197",
+      "attributes": {
+        "place": 197,
+        "time": "29:40:02",
+        "bib": "",
+        "firstName": "Chris",
+        "lastName": "Nutting",
+        "gender": "F",
+        "age": 33,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:198",
+      "attributes": {
+        "place": 199,
+        "time": "29:40:32",
+        "bib": "",
+        "firstName": "Mike",
+        "lastName": "Rehorn",
+        "gender": "M",
+        "age": 52,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:199",
+      "attributes": {
+        "place": 200,
+        "time": "29:42:41",
+        "bib": "",
+        "firstName": "Mike",
+        "lastName": "Gleman",
+        "gender": "M",
+        "age": 45,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:200",
+      "attributes": {
+        "place": 201,
+        "time": "29:44:01",
+        "bib": "",
+        "firstName": "Aaron",
+        "lastName": "Goldman",
+        "gender": "M",
+        "age": 61,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:201",
+      "attributes": {
+        "place": 202,
+        "time": "29:44:35",
+        "bib": "",
+        "firstName": "Bob",
+        "lastName": "Boeder",
+        "gender": "M",
+        "age": 50,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:202",
+      "attributes": {
+        "place": 203,
+        "time": "29:45:06",
+        "bib": "",
+        "firstName": "Dave",
+        "lastName": "Damas",
+        "gender": "M",
+        "age": 44,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:203",
+      "attributes": {
+        "place": 204,
+        "time": "29:45:23",
+        "bib": "",
+        "firstName": "David",
+        "lastName": "Telles",
+        "gender": "M",
+        "age": 32,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:204",
+      "attributes": {
+        "place": 205,
+        "time": "29:47:20",
+        "bib": "",
+        "firstName": "Adrian",
+        "lastName": "Vandenhoogen",
+        "gender": "M",
+        "age": 57,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:205",
+      "attributes": {
+        "place": 206,
+        "time": "29:49:24",
+        "bib": "",
+        "firstName": "Phillip",
+        "lastName": "Ostroski",
+        "gender": "M",
+        "age": 45,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:206",
+      "attributes": {
+        "place": 207,
+        "time": "29:50:38",
+        "bib": "",
+        "firstName": "Helga",
+        "lastName": "Lahoud",
+        "gender": "F",
+        "age": 44,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:207",
+      "attributes": {
+        "place": 208,
+        "time": "29:51:58",
+        "bib": "",
+        "firstName": "Louise",
+        "lastName": "Comar",
+        "gender": "F",
+        "age": 40,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    },
+    {
+      "type": "finisher",
+      "id": "1993:208",
+      "attributes": {
+        "place": 209,
+        "time": "29:55:16",
+        "bib": "",
+        "firstName": "Carl",
+        "lastName": "Yates",
+        "gender": "M",
+        "age": 65,
+        "city": "",
+        "stateOrCountry": ""
+      }
+    }
+  ]
+}

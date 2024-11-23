@@ -1,14 +1,15 @@
-import { fetchApplicantData } from './lottery/applicant';
-import { fetchWaitlistData } from './lottery/waitlist';
+import { fetchApplicantData } from './sources/applicant';
+import { fetchWaitlistData } from './sources/waitlist';
 import {
   CURRENT_YEAR,
   FIRST_WAITLIST_YEAR,
   isSkippedYear,
   NEXT_YEAR,
 } from './-utils';
-import { fetchLatestLiveLotteryResults } from './lottery/live';
-import { asError } from './lottery/-shared';
-import { fetchEntrantsData } from './lottery/entrants';
+import { fetchLatestLiveLotteryResults } from './sources/live';
+import { asError } from './sources/-shared';
+import { fetchEntrantsData } from './sources/entrants';
+import { fetchFinishersData } from './sources/finishers';
 
 export async function fetchSourcesForYear(
   year: number,
@@ -16,18 +17,18 @@ export async function fetchSourcesForYear(
 ): Promise<void> {
   const promises = [];
 
-  if (!isSkippedYear(year, 'lottery')) {
+  if (!isSkippedYear(year, 'applicants')) {
     promises.push(fetchApplicantData(year, force));
   }
 
-  if (!isSkippedYear(year, 'race')) {
+  if (!isSkippedYear(year, 'entrants')) {
     promises.push(fetchEntrantsData(year, force));
   }
 
-  if (!isSkippedYear(year, 'results')) {
-    // promises.push(fetchResultsData(year, force));
-    // promises.push(fetchSplitData(year, force));
-    // TODO fetch result data for each year (https://www.wser.org/results/2024-results/)
+  if (!isSkippedYear(year, 'finishers')) {
+    promises.push(fetchFinishersData(year, force));
+    // TODO fetch full result set from ??
+    // TODO fetch split data promises.push(fetchSplitData(year, force));
   }
 
   if (!isSkippedYear(year, 'waitlist') && year >= FIRST_WAITLIST_YEAR) {
@@ -48,6 +49,8 @@ export async function fetchSourcesForYear(
   const errors = results.filter((result) => result.status === 'rejected');
   if (errors.length > 0) {
     console.error('Errors:', errors);
-    throw new Error(`Failed to fetch all data for ${year}`);
+    throw new Error(
+      `Failed to fetch all data for ${year}, ${errors.length} tasks failed.`,
+    );
   }
 }

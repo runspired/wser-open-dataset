@@ -44,7 +44,13 @@ type Info<T> =
     }
   | DomInfo;
 
-export async function extractTableData(info: DomInfo, tableSelector: string) {
+export async function extractTableData(
+  info: DomInfo,
+  tableSelector: string,
+): Promise<{
+  labels: string[];
+  data: { index: number; data: string[] }[];
+}> {
   const { html, raw, url } = info;
 
   const table = html.window.document.querySelector(`${tableSelector} tbody`);
@@ -68,10 +74,12 @@ export async function extractTableData(info: DomInfo, tableSelector: string) {
   }
 
   // extract the labels from the table header
+  let hasNullLabels = false;
   const labels = Array.from(tableHeader.querySelectorAll('th')).map((th) => {
     const text = th.textContent?.trim();
     if (!text) {
-      throw new Error('Invalid table header');
+      hasNullLabels = true;
+      return null;
     }
     return text;
   });
@@ -92,13 +100,68 @@ export async function extractTableData(info: DomInfo, tableSelector: string) {
       );
     }
 
+    if (hasNullLabels) {
+      // ensure the null labels are for empty cells
+      for (let i = 0; i < labels.length; i++) {
+        if (labels[i] === null && fieldValues[i]) {
+          // 1990 has a two asstericks in an empty column representing
+          // runners who were originally DQ'd but later reinstated
+          // we do not currently represent this fact in the dataset.
+          if (
+            url === 'https://www.wser.org/results/1990-results/' &&
+            i === 6 &&
+            fieldValues[i] === '*'
+          ) {
+            fieldValues[i] = '';
+            continue;
+          }
+          throw new Error(
+            `BoundsError: There is no label for the field in cell ${i} on row ${index} for ${url}`,
+          );
+        }
+      }
+    }
+
     data.push({
       index,
       data: fieldValues,
     });
   });
 
-  return { labels, data };
+  if (!hasNullLabels) {
+    return { labels: labels as string[], data };
+  }
+
+  // if we've made it this far without erring and have null labels, we can drop those indeces
+  const newLabels = [] as string[];
+  const removedIndeces = [] as number[];
+
+  for (let i = 0; i < labels.length; i++) {
+    const label = labels[i];
+    if (label !== null) {
+      newLabels.push(label);
+    } else {
+      // unshift so that we can iterate this in reverse
+      removedIndeces.unshift(i);
+    }
+  }
+
+  for (let i = 0; i < data.length; i++) {
+    const row = data[i];
+    // the indeces are in reverse order e.g. 8 5 1
+    // which makes it safe to iteratively splice them out
+    // as each splice will not affect the next index to remove
+    for (const index of removedIndeces) {
+      const deleted = row.data.splice(index, 1);
+      if (deleted[0]) {
+        throw new Error(
+          `BoundsError: Attempted to delete a NON-EMPTY cell ${index} with value "${deleted}" from row ${i} for ${url}`,
+        );
+      }
+    }
+  }
+
+  return { labels: newLabels, data };
 }
 
 export async function getHtmlIfNeeded<T>(
@@ -143,4 +206,21 @@ export async function getHtmlIfNeeded<T>(
 
 export function asError(error: unknown): Error {
   return error as unknown as Error;
+}
+
+export function inverseMap<T extends Record<string, string | string[]>>(
+  source: T,
+): Map<string, keyof T> {
+  const InverseFieldMap = new Map<string, keyof T>();
+  for (const [key, value] of Object.entries(source)) {
+    if (Array.isArray(value)) {
+      for (const v of value) {
+        InverseFieldMap.set(v, key as keyof T);
+      }
+    } else {
+      InverseFieldMap.set(value as string, key as keyof T);
+    }
+  }
+
+  return InverseFieldMap;
 }

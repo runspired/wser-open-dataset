@@ -5,113 +5,96 @@ import {
   ticketsToYears,
 } from './-shared';
 
-type EntrantsResult = {
-  data: EntrantsList;
-  included: Entrant[];
+type FinishersResults = {
+  data: FinishersList;
+  included: Finisher[];
 };
 
-type EntrantsList = {
-  type: 'entrants-list';
+type FinishersList = {
+  type: 'finishers-list';
   id: string;
   attributes: {
     year: number;
   };
   relationships: {
     applicants: {
-      data: Array<{ type: 'entrant'; id: string }>;
+      data: Array<{ type: 'finisher'; id: string }>;
     };
   };
 };
 
-type Entrant = {
-  type: 'entrant';
+type Finisher = {
+  type: 'finisher';
   id: string;
   attributes: {
+    place: number | null;
+    time: string;
+    bib: string | null;
     firstName: string;
     lastName: string;
     gender: string;
-    awards: string | null;
-    age: number;
+    age: number | null;
     city: string | null;
-    state: string | null;
-    country: string;
-    bib: string;
-    entryType: string | null;
-    priorFinishes: number | null;
-    rollover: string | null;
+    stateOrCountry: string | null;
   };
 };
 
-type EntrantField = keyof Entrant['attributes'];
+type FinisherField = keyof Finisher['attributes'];
 
 const FieldMappingDict = {
-  firstName: 'First Name',
-  lastName: 'Last Name',
-  gender: ['gender', 'Gender'],
-  awards: 'Awards',
+  place: 'Place',
+  time: 'Time',
+  bib: 'Bib',
+  firstName: ['First', 'First Name'],
+  lastName: ['Last', 'Last Name'],
+  gender: 'Gender',
   age: 'Age',
   city: 'City',
-  state: 'State',
-  country: 'Country',
-  bib: ['bib', 'Bib'],
-  entryType: 'Entry Type',
-  priorFinishes: 'WS Finishes',
-  rollover: 'Rollover',
+  stateOrCountry: ['State/Country', 'State or Country', 'State'],
 };
-
 const InverseFieldMap = inverseMap(FieldMappingDict);
 
-function isNumberField(field: EntrantField): field is 'age' | 'priorFinishes' {
-  return field === 'age' || field === 'priorFinishes';
+function isNumberField(field: FinisherField): field is 'place' | 'age' {
+  return field === 'age' || field === 'place';
 }
 
 function isAllowedBlank(
-  field: EntrantField,
-): field is
-  | 'priorFinishes'
-  | 'entryType'
-  | 'city'
-  | 'awards'
-  | 'state'
-  | 'rollover' {
+  field: FinisherField,
+): field is 'city' | 'stateOrCountry' | 'place' | 'age' | 'bib' {
   return (
-    field === 'priorFinishes' ||
-    field === 'entryType' ||
     field === 'city' ||
-    field === 'awards' ||
-    field === 'state' ||
-    field === 'rollover'
+    field === 'stateOrCountry' ||
+    field === 'place' ||
+    field === 'age' ||
+    field === 'bib'
   );
 }
 
-function scaffoldEntrant(year: number, index: number): Entrant {
+function scaffoldFinisher(year: number, index: number): Finisher {
   return {
-    type: 'entrant',
+    type: 'finisher',
     id: `${year}:${index}`,
     attributes: {
+      place: 0,
+      time: '',
+      bib: '',
       firstName: '',
       lastName: '',
       gender: '',
-      awards: null,
       age: 0,
-      city: null,
-      state: null,
-      country: '',
-      bib: '',
-      entryType: null,
-      priorFinishes: null,
-      rollover: null,
+      city: '',
+      stateOrCountry: '',
     },
   };
 }
 
-export async function fetchEntrantsData(
+export async function fetchFinishersData(
   year: number,
   force = false,
-): Promise<EntrantsResult> {
-  const info = await getHtmlIfNeeded<EntrantsResult>(
-    `https://www.wser.org/${String(year)}-entrants-list/`,
-    `./.data-cache/raw/${year}/entrants.json`,
+): Promise<FinishersResults> {
+  const info = await getHtmlIfNeeded<FinishersResults>(
+    `https://www.wser.org/results/${String(year)}-results/`,
+    `./.data-cache/raw/${year}/finishers.json`,
     force,
   );
 
@@ -120,11 +103,11 @@ export async function fetchEntrantsData(
   }
 
   const rawJson = await extractTableData(info, '#content table');
-  const entrants: Entrant[] = [];
-  const entrantRefs: Array<{ type: 'entrant'; id: string }> = [];
-  const result: EntrantsResult = {
+  const entrants: Finisher[] = [];
+  const entrantRefs: Array<{ type: 'finisher'; id: string }> = [];
+  const result: FinishersResults = {
     data: {
-      type: 'entrants-list',
+      type: 'finishers-list',
       id: `${year}`,
       attributes: {
         year,
@@ -152,7 +135,7 @@ export async function fetchEntrantsData(
     const { index, data } = row;
 
     // generate the entrant object
-    const entrant = scaffoldEntrant(year, index);
+    const entrant = scaffoldFinisher(year, index);
 
     for (let i = 0; i < data.length; i++) {
       const value = data[i];
@@ -180,6 +163,10 @@ export async function fetchEntrantsData(
     const { type, id } = entrant;
     entrants.push(entrant);
     entrantRefs.push({ type, id });
+  }
+
+  if (entrants.length === 0) {
+    console.warn(`⚠️ No finishers found for year ${year}`);
   }
 
   await Bun.write(info.file, JSON.stringify(result, null, 2));
