@@ -30,6 +30,7 @@ The goal for this project is to provide
 
 - a normalized relational dataset
 - cdn based access to that dataset
+- git/npm based access to that dataset
 - a sqlite seed of the dataset
 - typescript types for the data in the dataset
 - request builders and schemas for the data for use with [warp-drive.io](https://warp-drive.io)
