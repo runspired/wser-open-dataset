@@ -10,7 +10,7 @@ import { fetchLatestLiveLotteryResults } from './lottery/live';
 import { asError } from './lottery/-shared';
 import { fetchEntrantsData } from './lottery/entrants';
 
-export async function fetchDataForYear(
+export async function fetchSourcesForYear(
   year: number,
   force = false,
 ): Promise<void> {

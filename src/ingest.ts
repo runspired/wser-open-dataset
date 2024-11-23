@@ -1,10 +1,10 @@
 import { FIRST_SUPPORTED_YEAR, NEXT_YEAR } from './-utils';
-import { fetchDataForYear } from './lottery-utils';
+import { fetchSourcesForYear } from './fetch-sources-for-year';
 
 export async function ingest() {
   const promises = [];
   for (let year = FIRST_SUPPORTED_YEAR; year <= NEXT_YEAR; year++) {
-    promises.push(fetchDataForYear(year));
+    promises.push(fetchSourcesForYear(year));
   }
 
   const results = await Promise.allSettled(promises);
