@@ -1,0 +1,7766 @@
+{
+  "data": {
+    "type": "entrants-list",
+    "id": "2019",
+    "attributes": {
+      "year": 2019
+    },
+    "relationships": {
+      "applicants": {
+        "data": [
+          {
+            "type": "entrant",
+            "id": "2019:0"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:1"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:2"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:3"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:4"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:5"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:6"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:7"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:8"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:9"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:10"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:11"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:12"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:13"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:14"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:15"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:16"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:17"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:18"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:19"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:20"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:21"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:22"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:23"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:24"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:25"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:26"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:27"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:28"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:29"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:30"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:31"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:32"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:33"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:34"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:35"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:36"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:37"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:38"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:39"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:40"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:41"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:42"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:43"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:44"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:45"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:46"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:47"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:48"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:49"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:50"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:51"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:52"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:53"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:54"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:55"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:56"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:57"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:58"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:59"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:60"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:61"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:62"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:63"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:64"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:65"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:66"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:67"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:68"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:69"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:70"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:71"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:72"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:73"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:74"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:75"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:76"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:77"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:78"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:79"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:80"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:81"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:82"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:83"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:84"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:85"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:86"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:87"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:88"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:89"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:90"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:91"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:92"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:93"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:94"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:95"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:96"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:97"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:98"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:99"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:100"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:101"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:102"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:103"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:104"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:105"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:106"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:107"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:108"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:109"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:110"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:111"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:112"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:113"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:114"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:115"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:116"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:117"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:118"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:119"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:120"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:121"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:122"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:123"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:124"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:125"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:126"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:127"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:128"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:129"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:130"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:131"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:132"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:133"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:134"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:135"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:136"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:137"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:138"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:139"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:140"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:141"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:142"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:143"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:144"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:145"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:146"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:147"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:148"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:149"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:150"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:151"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:152"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:153"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:154"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:155"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:156"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:157"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:158"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:159"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:160"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:161"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:162"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:163"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:164"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:165"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:166"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:167"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:168"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:169"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:170"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:171"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:172"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:173"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:174"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:175"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:176"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:177"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:178"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:179"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:180"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:181"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:182"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:183"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:184"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:185"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:186"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:187"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:188"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:189"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:190"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:191"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:192"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:193"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:194"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:195"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:196"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:197"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:198"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:199"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:200"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:201"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:202"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:203"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:204"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:205"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:206"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:207"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:208"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:209"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:210"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:211"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:212"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:213"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:214"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:215"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:216"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:217"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:218"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:219"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:220"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:221"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:222"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:223"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:224"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:225"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:226"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:227"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:228"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:229"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:230"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:231"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:232"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:233"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:234"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:235"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:236"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:237"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:238"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:239"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:240"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:241"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:242"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:243"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:244"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:245"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:246"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:247"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:248"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:249"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:250"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:251"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:252"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:253"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:254"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:255"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:256"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:257"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:258"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:259"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:260"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:261"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:262"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:263"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:264"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:265"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:266"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:267"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:268"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:269"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:270"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:271"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:272"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:273"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:274"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:275"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:276"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:277"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:278"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:279"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:280"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:281"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:282"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:283"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:284"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:285"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:286"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:287"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:288"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:289"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:290"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:291"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:292"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:293"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:294"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:295"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:296"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:297"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:298"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:299"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:300"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:301"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:302"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:303"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:304"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:305"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:306"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:307"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:308"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:309"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:310"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:311"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:312"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:313"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:314"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:315"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:316"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:317"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:318"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:319"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:320"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:321"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:322"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:323"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:324"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:325"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:326"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:327"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:328"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:329"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:330"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:331"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:332"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:333"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:334"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:335"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:336"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:337"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:338"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:339"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:340"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:341"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:342"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:343"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:344"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:345"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:346"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:347"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:348"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:349"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:350"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:351"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:352"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:353"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:354"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:355"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:356"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:357"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:358"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:359"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:360"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:361"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:362"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:363"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:364"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:365"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:366"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:367"
+          },
+          {
+            "type": "entrant",
+            "id": "2019:368"
+          }
+        ]
+      }
+    }
+  },
+  "included": [
+    {
+      "type": "entrant",
+      "id": "2019:0",
+      "attributes": {
+        "firstName": "Courtney",
+        "lastName": "Dauwalter",
+        "gender": "F",
+        "awards": null,
+        "age": 34,
+        "city": "Golden",
+        "state": "CO",
+        "country": "USA",
+        "bib": "F1",
+        "entryType": "Top Ten",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:1",
+      "attributes": {
+        "firstName": "Kaytlyn",
+        "lastName": "Gerbin",
+        "gender": "F",
+        "awards": null,
+        "age": 30,
+        "city": "Issaquah",
+        "state": "WA",
+        "country": "USA",
+        "bib": "F2",
+        "entryType": "Top Ten",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:2",
+      "attributes": {
+        "firstName": "Lucy",
+        "lastName": "Bartholomew",
+        "gender": "F",
+        "awards": null,
+        "age": 23,
+        "city": "Melbourne",
+        "state": "AUS",
+        "country": "AUS",
+        "bib": "F3",
+        "entryType": "Top Ten",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:3",
+      "attributes": {
+        "firstName": "Amanda",
+        "lastName": "Basham",
+        "gender": "F",
+        "awards": null,
+        "age": 29,
+        "city": "North Logan",
+        "state": "UT",
+        "country": "USA",
+        "bib": "F4",
+        "entryType": "Top Ten",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:4",
+      "attributes": {
+        "firstName": "Cecilia",
+        "lastName": "Flori",
+        "gender": "F",
+        "awards": null,
+        "age": 38,
+        "city": "Hamilton",
+        "state": "NZL",
+        "country": "NZL",
+        "bib": "F5",
+        "entryType": "Top Ten",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:5",
+      "attributes": {
+        "firstName": "Camelia",
+        "lastName": "Mayfield",
+        "gender": "F",
+        "awards": null,
+        "age": 27,
+        "city": "Bend",
+        "state": "OR",
+        "country": "USA",
+        "bib": "F7",
+        "entryType": "Top Ten",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:6",
+      "attributes": {
+        "firstName": "Aliza",
+        "lastName": "Lapierre",
+        "gender": "F",
+        "awards": null,
+        "age": 39,
+        "city": "Williston",
+        "state": "VT",
+        "country": "USA",
+        "bib": "F8",
+        "entryType": "Top Ten",
+        "priorFinishes": 5
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:7",
+      "attributes": {
+        "firstName": "Corrine",
+        "lastName": "Malcolm",
+        "gender": "F",
+        "awards": null,
+        "age": 29,
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA",
+        "bib": "F9",
+        "entryType": "Top Ten",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:8",
+      "attributes": {
+        "firstName": "Jim",
+        "lastName": "Walmsley",
+        "gender": "M",
+        "awards": null,
+        "age": 29,
+        "city": "Flagstaff",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "M1",
+        "entryType": "Top Ten",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:9",
+      "attributes": {
+        "firstName": "Mark",
+        "lastName": "Hammond",
+        "gender": "M",
+        "awards": null,
+        "age": 34,
+        "city": "Millcreek",
+        "state": "UT",
+        "country": "USA",
+        "bib": "M3",
+        "entryType": "Top Ten",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:10",
+      "attributes": {
+        "firstName": "Ian",
+        "lastName": "Sharman",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Bend",
+        "state": "OR",
+        "country": "USA",
+        "bib": "M4",
+        "entryType": "Top Ten",
+        "priorFinishes": 9
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:11",
+      "attributes": {
+        "firstName": "Jeff",
+        "lastName": "Browning",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Logan",
+        "state": "UT",
+        "country": "USA",
+        "bib": "M5",
+        "entryType": "Top Ten",
+        "priorFinishes": 4
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:12",
+      "attributes": {
+        "firstName": "Kyle",
+        "lastName": "Pietari",
+        "gender": "M",
+        "awards": null,
+        "age": 32,
+        "city": "Edgewater",
+        "state": "CO",
+        "country": "USA",
+        "bib": "M6",
+        "entryType": "Top Ten",
+        "priorFinishes": 3
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:13",
+      "attributes": {
+        "firstName": "Charlie",
+        "lastName": "Ware",
+        "gender": "M",
+        "awards": null,
+        "age": 33,
+        "city": "Tucson",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "M8",
+        "entryType": "Top Ten",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:14",
+      "attributes": {
+        "firstName": "Paul",
+        "lastName": "Giblin",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Paisley",
+        "state": "GBR",
+        "country": "GBR",
+        "bib": "M9",
+        "entryType": "Top Ten",
+        "priorFinishes": 3
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:15",
+      "attributes": {
+        "firstName": "Kris",
+        "lastName": "Brown",
+        "gender": "M",
+        "awards": null,
+        "age": 30,
+        "city": "Santa Barbara",
+        "state": "CA",
+        "country": "USA",
+        "bib": "M10",
+        "entryType": "Top Ten",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:16",
+      "attributes": {
+        "firstName": "Francesca",
+        "lastName": "Canepa",
+        "gender": "F",
+        "awards": null,
+        "age": 47,
+        "city": "Morgex",
+        "state": "ITA",
+        "country": "ITA",
+        "bib": "11",
+        "entryType": "UTWT",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:17",
+      "attributes": {
+        "firstName": "Tom",
+        "lastName": "Evans",
+        "gender": "M",
+        "awards": null,
+        "age": 27,
+        "city": "Heathfield",
+        "state": "GBR",
+        "country": "GBR",
+        "bib": "12",
+        "entryType": "UTWT",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:18",
+      "attributes": {
+        "firstName": "Clare",
+        "lastName": "Gallagher",
+        "gender": "F",
+        "awards": null,
+        "age": 27,
+        "city": "Boulder",
+        "state": "CO",
+        "country": "USA",
+        "bib": "13",
+        "entryType": "UTWT",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:19",
+      "attributes": {
+        "firstName": "Jordi",
+        "lastName": "Gamito Baus",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "la roca",
+        "state": "ESP",
+        "country": "ESP",
+        "bib": "14",
+        "entryType": "UTWT",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:20",
+      "attributes": {
+        "firstName": "Gediminas",
+        "lastName": "Grinius",
+        "gender": "M",
+        "awards": null,
+        "age": 39,
+        "city": "Ukmerge",
+        "state": "LTU",
+        "country": "LTU",
+        "bib": "15",
+        "entryType": "UTWT",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:21",
+      "attributes": {
+        "firstName": "Camille",
+        "lastName": "Herron",
+        "gender": "F",
+        "awards": null,
+        "age": 37,
+        "city": "Warr Acres",
+        "state": "OK",
+        "country": "USA",
+        "bib": "16",
+        "entryType": "UTWT",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:22",
+      "attributes": {
+        "firstName": "David",
+        "lastName": "Laney",
+        "gender": "M",
+        "awards": null,
+        "age": 30,
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "bib": "17",
+        "entryType": "UTWT",
+        "priorFinishes": 3
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:23",
+      "attributes": {
+        "firstName": "Marie",
+        "lastName": "McNaughton",
+        "gender": "F",
+        "awards": null,
+        "age": 46,
+        "city": "Hong Kong",
+        "state": "HKG",
+        "country": "HKG",
+        "bib": "18",
+        "entryType": "UTWT",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:24",
+      "attributes": {
+        "firstName": "Beth",
+        "lastName": "Pascall",
+        "gender": "F",
+        "awards": null,
+        "age": 31,
+        "city": "Belper",
+        "state": "GBR",
+        "country": "GBR",
+        "bib": "19",
+        "entryType": "UTWT",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:25",
+      "attributes": {
+        "firstName": "Patrick",
+        "lastName": "Reagan",
+        "gender": "M",
+        "awards": null,
+        "age": 32,
+        "city": "Savannah",
+        "state": "GA",
+        "country": "USA",
+        "bib": "20",
+        "entryType": "UTWT",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:26",
+      "attributes": {
+        "firstName": "Brittany",
+        "lastName": "Peterson",
+        "gender": "F",
+        "awards": null,
+        "age": 33,
+        "city": "Pocatello",
+        "state": "ID",
+        "country": "USA",
+        "bib": "21",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:27",
+      "attributes": {
+        "firstName": "Ladia",
+        "lastName": "Albertson-Junkans",
+        "gender": "F",
+        "awards": null,
+        "age": 33,
+        "city": "Snoqualmie",
+        "state": "WA",
+        "country": "USA",
+        "bib": "22",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:28",
+      "attributes": {
+        "firstName": "Tyler",
+        "lastName": "Green",
+        "gender": "M",
+        "awards": null,
+        "age": 35,
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "bib": "23",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:29",
+      "attributes": {
+        "firstName": "Chris",
+        "lastName": "Mocko",
+        "gender": "M",
+        "awards": null,
+        "age": 33,
+        "city": "Boulder",
+        "state": "CO",
+        "country": "USA",
+        "bib": "24",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:30",
+      "attributes": {
+        "firstName": "Kaci",
+        "lastName": "Lickteig",
+        "gender": "F",
+        "awards": null,
+        "age": 32,
+        "city": "Omaha",
+        "state": "NE",
+        "country": "USA",
+        "bib": "25",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 5
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:31",
+      "attributes": {
+        "firstName": "Yiou",
+        "lastName": "Wang",
+        "gender": "F",
+        "awards": null,
+        "age": 34,
+        "city": "San Anselmo",
+        "state": "CA",
+        "country": "USA",
+        "bib": "26",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:32",
+      "attributes": {
+        "firstName": "Matt",
+        "lastName": "Daniels",
+        "gender": "M",
+        "awards": null,
+        "age": 31,
+        "city": "Boulder",
+        "state": "CO",
+        "country": "USA",
+        "bib": "27",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:33",
+      "attributes": {
+        "firstName": "Eric",
+        "lastName": "Senseman",
+        "gender": "M",
+        "awards": null,
+        "age": 30,
+        "city": "Flagstaff",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "28",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:34",
+      "attributes": {
+        "firstName": "Luzia",
+        "lastName": "Buehler",
+        "gender": "F",
+        "awards": null,
+        "age": 37,
+        "city": "Flims Waldhaus",
+        "state": "CHE",
+        "country": "CHE",
+        "bib": "29",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:35",
+      "attributes": {
+        "firstName": "Liz",
+        "lastName": "Canty",
+        "gender": "F",
+        "awards": null,
+        "age": 27,
+        "city": "Huntsville",
+        "state": "AL",
+        "country": "USA",
+        "bib": "30",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:36",
+      "attributes": {
+        "firstName": "Morgan",
+        "lastName": "Elliott",
+        "gender": "M",
+        "awards": null,
+        "age": 27,
+        "city": "Black Mountain",
+        "state": "NC",
+        "country": "USA",
+        "bib": "31",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:37",
+      "attributes": {
+        "firstName": "Shaun",
+        "lastName": "Pope",
+        "gender": "M",
+        "awards": null,
+        "age": 30,
+        "city": "Black Mountain",
+        "state": "NC",
+        "country": "USA",
+        "bib": "32",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:38",
+      "attributes": {
+        "firstName": "Addie",
+        "lastName": "Bracy",
+        "gender": "F",
+        "awards": null,
+        "age": 32,
+        "city": "Longmont",
+        "state": "CO",
+        "country": "USA",
+        "bib": "34",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:39",
+      "attributes": {
+        "firstName": "Jared",
+        "lastName": "Hazen",
+        "gender": "M",
+        "awards": null,
+        "age": 24,
+        "city": "Flagstaff",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "35",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:40",
+      "attributes": {
+        "firstName": "Stephen",
+        "lastName": "Kersh",
+        "gender": "M",
+        "awards": null,
+        "age": 27,
+        "city": "Flagstaff",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "36",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:41",
+      "attributes": {
+        "firstName": "Kathryn",
+        "lastName": "Drew",
+        "gender": "F",
+        "awards": null,
+        "age": 32,
+        "city": "Vancouver",
+        "state": "BC",
+        "country": "CAN",
+        "bib": "37",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:42",
+      "attributes": {
+        "firstName": "Kim",
+        "lastName": "Magnus",
+        "gender": "F",
+        "awards": null,
+        "age": 35,
+        "city": "Vancouver",
+        "state": "BC",
+        "country": "CAN",
+        "bib": "38",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:43",
+      "attributes": {
+        "firstName": "Brian",
+        "lastName": "Condon",
+        "gender": "M",
+        "awards": null,
+        "age": 32,
+        "city": "Boulder",
+        "state": "CO",
+        "country": "USA",
+        "bib": "40",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:44",
+      "attributes": {
+        "firstName": "Nicole",
+        "lastName": "Bitter",
+        "gender": "F",
+        "awards": null,
+        "age": 37,
+        "city": "Phoenix",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "42",
+        "entryType": "Sponsor",
+        "priorFinishes": 3
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:45",
+      "attributes": {
+        "firstName": "Michael",
+        "lastName": "Mcknight",
+        "gender": "M",
+        "awards": null,
+        "age": 29,
+        "city": "Smithfield",
+        "state": "UT",
+        "country": "USA",
+        "bib": "43",
+        "entryType": "Sponsor",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:46",
+      "attributes": {
+        "firstName": "Ryan",
+        "lastName": "Sandes",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "Cape Town",
+        "state": "ZAF",
+        "country": "ZAF",
+        "bib": "44",
+        "entryType": "Sponsor",
+        "priorFinishes": 3
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:47",
+      "attributes": {
+        "firstName": "Drew",
+        "lastName": "Adams",
+        "gender": "M",
+        "awards": null,
+        "age": 31,
+        "city": "Twin Falls",
+        "state": "ID",
+        "country": "USA",
+        "bib": "50",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:48",
+      "attributes": {
+        "firstName": "Tim",
+        "lastName": "Lambert",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Bath",
+        "state": "GBR",
+        "country": "GBR",
+        "bib": "51",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:49",
+      "attributes": {
+        "firstName": "Willem",
+        "lastName": "Pennings",
+        "gender": "M",
+        "awards": null,
+        "age": 52,
+        "city": "Redlands",
+        "state": "CA",
+        "country": "USA",
+        "bib": "52",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:50",
+      "attributes": {
+        "firstName": "Dan",
+        "lastName": "Barger",
+        "gender": "M",
+        "awards": null,
+        "age": 53,
+        "city": "Auburn",
+        "state": "CA",
+        "country": "USA",
+        "bib": "53",
+        "entryType": "Race Admin",
+        "priorFinishes": 11
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:51",
+      "attributes": {
+        "firstName": "John",
+        "lastName": "Nichols",
+        "gender": "M",
+        "awards": null,
+        "age": 54,
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "USA",
+        "bib": "54",
+        "entryType": "Raffle",
+        "priorFinishes": 11
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:52",
+      "attributes": {
+        "firstName": "Seth",
+        "lastName": "Lucas",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "El Dorado Hills",
+        "state": "CA",
+        "country": "USA",
+        "bib": "55",
+        "entryType": "Race Admin",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:53",
+      "attributes": {
+        "firstName": "Roger",
+        "lastName": "Sutton",
+        "gender": "M",
+        "awards": null,
+        "age": 56,
+        "city": "Ocala",
+        "state": "FL",
+        "country": "USA",
+        "bib": "56",
+        "entryType": "Sponsor",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:54",
+      "attributes": {
+        "firstName": "Francesca",
+        "lastName": "Stone",
+        "gender": "F",
+        "awards": null,
+        "age": 57,
+        "city": "South Lake Tahoe",
+        "state": "CA",
+        "country": "USA",
+        "bib": "57",
+        "entryType": "Race Admin",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:55",
+      "attributes": {
+        "firstName": "Garry",
+        "lastName": "Sewell",
+        "gender": "M",
+        "awards": null,
+        "age": 58,
+        "city": "Granite Bay",
+        "state": "CA",
+        "country": "USA",
+        "bib": "58",
+        "entryType": "Race Admin",
+        "priorFinishes": 8
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:56",
+      "attributes": {
+        "firstName": "Cordel",
+        "lastName": "Anderson",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Missoula",
+        "state": "MT",
+        "country": "USA",
+        "bib": "59",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:57",
+      "attributes": {
+        "firstName": "Jason",
+        "lastName": "Bahamundi",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Lewisville",
+        "state": "TX",
+        "country": "USA",
+        "bib": "60",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:58",
+      "attributes": {
+        "firstName": "Laurel",
+        "lastName": "DeVore",
+        "gender": "F",
+        "awards": null,
+        "age": 30,
+        "city": "Golden",
+        "state": "CO",
+        "country": "USA",
+        "bib": "61",
+        "entryType": "Sponsor",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:59",
+      "attributes": {
+        "firstName": "Tanguy",
+        "lastName": "Brogniart",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Toulouse",
+        "state": "FRA",
+        "country": "FRA",
+        "bib": "62",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:60",
+      "attributes": {
+        "firstName": "Karen",
+        "lastName": "Bonnett-Natraj",
+        "gender": "F",
+        "awards": null,
+        "age": 63,
+        "city": "Auburn",
+        "state": "CA",
+        "country": "USA",
+        "bib": "63",
+        "entryType": "Silver Legend",
+        "priorFinishes": 3
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:61",
+      "attributes": {
+        "firstName": "Andrea",
+        "lastName": "Abel",
+        "gender": "F",
+        "awards": null,
+        "age": 45,
+        "city": "Roseville",
+        "state": "CA",
+        "country": "USA",
+        "bib": "65",
+        "entryType": "Race Admin",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:62",
+      "attributes": {
+        "firstName": "Emile",
+        "lastName": "Baizel",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA",
+        "bib": "66",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:63",
+      "attributes": {
+        "firstName": "Al",
+        "lastName": "Eder",
+        "gender": "M",
+        "awards": null,
+        "age": 67,
+        "city": "Dayton",
+        "state": "OH",
+        "country": "USA",
+        "bib": "67",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:64",
+      "attributes": {
+        "firstName": "Scott",
+        "lastName": "Mills",
+        "gender": "M",
+        "awards": null,
+        "age": 68,
+        "city": "Oceanside",
+        "state": "CA",
+        "country": "USA",
+        "bib": "68",
+        "entryType": "Tenth",
+        "priorFinishes": 19
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:65",
+      "attributes": {
+        "firstName": "Kelly",
+        "lastName": "Barber",
+        "gender": "M",
+        "awards": null,
+        "age": 49,
+        "city": "Davis",
+        "state": "CA",
+        "country": "USA",
+        "bib": "70",
+        "entryType": "Bonus Lottery",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:66",
+      "attributes": {
+        "firstName": "Denise",
+        "lastName": "Barchas",
+        "gender": "F",
+        "awards": null,
+        "age": 42,
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA",
+        "bib": "71",
+        "entryType": "Race Admin",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:67",
+      "attributes": {
+        "firstName": "John",
+        "lastName": "Knotts",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Evergreen",
+        "state": "CO",
+        "country": "USA",
+        "bib": "72",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:68",
+      "attributes": {
+        "firstName": "Cris",
+        "lastName": "Francisco",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Laguna Hills",
+        "state": "CA",
+        "country": "USA",
+        "bib": "73",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:69",
+      "attributes": {
+        "firstName": "Corey",
+        "lastName": "Barrett",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "waterbury center",
+        "state": "VT",
+        "country": "USA",
+        "bib": "74",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:70",
+      "attributes": {
+        "firstName": "Kimberly",
+        "lastName": "Kuhlmann",
+        "gender": "F",
+        "awards": null,
+        "age": 40,
+        "city": "Tacoma",
+        "state": "WA",
+        "country": "USA",
+        "bib": "69",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:71",
+      "attributes": {
+        "firstName": "Heather",
+        "lastName": "Mcgrath",
+        "gender": "F",
+        "awards": null,
+        "age": 44,
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "bib": "75",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:72",
+      "attributes": {
+        "firstName": "Juan",
+        "lastName": "Becerril",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Ciudad De Mexico",
+        "state": "MEX",
+        "country": "MEX",
+        "bib": "76",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:73",
+      "attributes": {
+        "firstName": "Ronda",
+        "lastName": "Sundermeier",
+        "gender": "F",
+        "awards": null,
+        "age": 52,
+        "city": "Bend",
+        "state": "OR",
+        "country": "USA",
+        "bib": "77",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 5
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:74",
+      "attributes": {
+        "firstName": "Lucia",
+        "lastName": "Mcintosh",
+        "gender": "F",
+        "awards": null,
+        "age": 41,
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "USA",
+        "bib": "78",
+        "entryType": "Raffle",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:75",
+      "attributes": {
+        "firstName": "Thomas",
+        "lastName": "Øderud",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Kristiansand",
+        "state": "NOR",
+        "country": "NOR",
+        "bib": "79",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:76",
+      "attributes": {
+        "firstName": "Zach",
+        "lastName": "Vine",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Englewood",
+        "state": "CO",
+        "country": "USA",
+        "bib": "80",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:77",
+      "attributes": {
+        "firstName": "Laura",
+        "lastName": "Euckert",
+        "gender": "F",
+        "awards": null,
+        "age": 51,
+        "city": "fort worth",
+        "state": "TX",
+        "country": "USA",
+        "bib": "81",
+        "entryType": "Raffle",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:78",
+      "attributes": {
+        "firstName": "Tamyka",
+        "lastName": "Bell",
+        "gender": "F",
+        "awards": null,
+        "age": 38,
+        "city": "Coopers Plains",
+        "state": "AUS",
+        "country": "AUS",
+        "bib": "82",
+        "entryType": "Raffle",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:79",
+      "attributes": {
+        "firstName": "Adam",
+        "lastName": "Yates",
+        "gender": "M",
+        "awards": null,
+        "age": 34,
+        "city": "Thornton Heath",
+        "state": "GBR",
+        "country": "GBR",
+        "bib": "83",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:80",
+      "attributes": {
+        "firstName": "Jean-Pascal",
+        "lastName": "Bernard-Herve",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Mignaloux-Beauvoir",
+        "state": "FRA",
+        "country": "FRA",
+        "bib": "84",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:81",
+      "attributes": {
+        "firstName": "Troy",
+        "lastName": "Bertram",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Austin",
+        "state": "TX",
+        "country": "USA",
+        "bib": "85",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:82",
+      "attributes": {
+        "firstName": "Reuben",
+        "lastName": "Cheang",
+        "gender": "M",
+        "awards": null,
+        "age": 54,
+        "city": "Singapore",
+        "state": "SGP",
+        "country": "SGP",
+        "bib": "86",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:83",
+      "attributes": {
+        "firstName": "Brent",
+        "lastName": "Boger",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "Tualatin",
+        "state": "OR",
+        "country": "USA",
+        "bib": "87",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:84",
+      "attributes": {
+        "firstName": "Stuart",
+        "lastName": "Taylor",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "San Jose",
+        "state": "CA",
+        "country": "USA",
+        "bib": "88",
+        "entryType": "Race Admin",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:85",
+      "attributes": {
+        "firstName": "Jason",
+        "lastName": "Chan",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "San Jose",
+        "state": "CA",
+        "country": "USA",
+        "bib": "89",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:86",
+      "attributes": {
+        "firstName": "Paolo",
+        "lastName": "Castiglioni",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "Davis",
+        "state": "CA",
+        "country": "USA",
+        "bib": "90",
+        "entryType": "Race Admin",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:87",
+      "attributes": {
+        "firstName": "Sean",
+        "lastName": "Bowman",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Sunnyvale",
+        "state": "CA",
+        "country": "USA",
+        "bib": "91",
+        "entryType": "Race Admin",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:88",
+      "attributes": {
+        "firstName": "Ian",
+        "lastName": "Brazier",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Chelmsford",
+        "state": "GBR",
+        "country": "GBR",
+        "bib": "92",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:89",
+      "attributes": {
+        "firstName": "James",
+        "lastName": "Brennan",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Fairfax",
+        "state": "VA",
+        "country": "USA",
+        "bib": "93",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:90",
+      "attributes": {
+        "firstName": "Doug",
+        "lastName": "Brown",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Roseville",
+        "state": "CA",
+        "country": "USA",
+        "bib": "94",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:91",
+      "attributes": {
+        "firstName": "Ryan",
+        "lastName": "Brown",
+        "gender": "M",
+        "awards": null,
+        "age": 28,
+        "city": "Allen",
+        "state": "TX",
+        "country": "USA",
+        "bib": "95",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:92",
+      "attributes": {
+        "firstName": "Gretchen",
+        "lastName": "Brugman",
+        "gender": "F",
+        "awards": null,
+        "age": 45,
+        "city": "Truckee",
+        "state": "CA",
+        "country": "USA",
+        "bib": "96",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:93",
+      "attributes": {
+        "firstName": "David",
+        "lastName": "Brunken",
+        "gender": "M",
+        "awards": null,
+        "age": 54,
+        "city": "Moreno Valley",
+        "state": "CA",
+        "country": "USA",
+        "bib": "97",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:94",
+      "attributes": {
+        "firstName": "David",
+        "lastName": "Sanderson",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Folsom",
+        "state": "CA",
+        "country": "USA",
+        "bib": "98",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:95",
+      "attributes": {
+        "firstName": "Dave",
+        "lastName": "Mackey",
+        "gender": "M",
+        "awards": null,
+        "age": 49,
+        "city": "Boulder",
+        "state": "CO",
+        "country": "USA",
+        "bib": "99",
+        "entryType": "Special Consideration",
+        "priorFinishes": 3
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:96",
+      "attributes": {
+        "firstName": "Philip",
+        "lastName": "Sanderson",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Mill Valley",
+        "state": "CA",
+        "country": "USA",
+        "bib": "100",
+        "entryType": "Sponsor",
+        "priorFinishes": 5
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:97",
+      "attributes": {
+        "firstName": "Joseph",
+        "lastName": "Zagrodnik",
+        "gender": "M",
+        "awards": null,
+        "age": 32,
+        "city": "Seattle",
+        "state": "WA",
+        "country": "USA",
+        "bib": "101",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:98",
+      "attributes": {
+        "firstName": "Andrea",
+        "lastName": "Brunsman",
+        "gender": "F",
+        "awards": null,
+        "age": 40,
+        "city": "Davis",
+        "state": "CA",
+        "country": "USA",
+        "bib": "102",
+        "entryType": "Race Admin",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:99",
+      "attributes": {
+        "firstName": "Joey",
+        "lastName": "Bryan",
+        "gender": "M",
+        "awards": null,
+        "age": 49,
+        "city": "Oceanside",
+        "state": "CA",
+        "country": "USA",
+        "bib": "103",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:100",
+      "attributes": {
+        "firstName": "Moriah",
+        "lastName": "Buckley",
+        "gender": "F",
+        "awards": null,
+        "age": 40,
+        "city": "San Rafael",
+        "state": "CA",
+        "country": "USA",
+        "bib": "104",
+        "entryType": "Race Admin",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:101",
+      "attributes": {
+        "firstName": "Rachel",
+        "lastName": "Bucklin",
+        "gender": "F",
+        "awards": null,
+        "age": 41,
+        "city": "Spokane",
+        "state": "WA",
+        "country": "USA",
+        "bib": "105",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:102",
+      "attributes": {
+        "firstName": "Alison",
+        "lastName": "Burke",
+        "gender": "F",
+        "awards": null,
+        "age": 43,
+        "city": "Ashland",
+        "state": "OR",
+        "country": "USA",
+        "bib": "106",
+        "entryType": "Race Admin",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:103",
+      "attributes": {
+        "firstName": "Tom",
+        "lastName": "Davies",
+        "gender": "M",
+        "awards": null,
+        "age": 53,
+        "city": "Trinidad",
+        "state": "CA",
+        "country": "USA",
+        "bib": "107",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:104",
+      "attributes": {
+        "firstName": "Zachary",
+        "lastName": "Burkett",
+        "gender": "M",
+        "awards": null,
+        "age": 34,
+        "city": "Walnut Creek",
+        "state": "CA",
+        "country": "USA",
+        "bib": "108",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:105",
+      "attributes": {
+        "firstName": "Kyle",
+        "lastName": "Robidoux",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Roxbury",
+        "state": "MA",
+        "country": "USA",
+        "bib": "109",
+        "entryType": "Sponsor",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:106",
+      "attributes": {
+        "firstName": "Brandon",
+        "lastName": "Lott",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Burbank",
+        "state": "WA",
+        "country": "USA",
+        "bib": "110",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:107",
+      "attributes": {
+        "firstName": "Sandy",
+        "lastName": "Baker",
+        "gender": "F",
+        "awards": null,
+        "age": 57,
+        "city": "Foresthill",
+        "state": "CA",
+        "country": "USA",
+        "bib": "111",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:108",
+      "attributes": {
+        "firstName": "Ryan",
+        "lastName": "Dotson",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Seattle",
+        "state": "WA",
+        "country": "USA",
+        "bib": "112",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:109",
+      "attributes": {
+        "firstName": "Tyler",
+        "lastName": "Clemens",
+        "gender": "M",
+        "awards": null,
+        "age": 33,
+        "city": "Englewood",
+        "state": "CO",
+        "country": "USA",
+        "bib": "113",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:110",
+      "attributes": {
+        "firstName": "Todd",
+        "lastName": "Hlasney",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Overland Park",
+        "state": "KS",
+        "country": "USA",
+        "bib": "115",
+        "entryType": "Raffle",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:111",
+      "attributes": {
+        "firstName": "Thomas",
+        "lastName": "Camenisch",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Maennedorf",
+        "state": "CHE",
+        "country": "CHE",
+        "bib": "116",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:112",
+      "attributes": {
+        "firstName": "Sean",
+        "lastName": "Garbutt",
+        "gender": "M",
+        "awards": null,
+        "age": 27,
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "USA",
+        "bib": "121",
+        "entryType": "Race Admin",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:113",
+      "attributes": {
+        "firstName": "Curt",
+        "lastName": "Casazza",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Cameron Park",
+        "state": "CA",
+        "country": "USA",
+        "bib": "117",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:114",
+      "attributes": {
+        "firstName": "Jennifer",
+        "lastName": "O'Connor",
+        "gender": "F",
+        "awards": null,
+        "age": 50,
+        "city": "Walnut Creek",
+        "state": "CA",
+        "country": "USA",
+        "bib": "118",
+        "entryType": "Race Admin",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:115",
+      "attributes": {
+        "firstName": "Amy",
+        "lastName": "Clark",
+        "gender": "F",
+        "awards": null,
+        "age": 43,
+        "city": "Bend",
+        "state": "OR",
+        "country": "USA",
+        "bib": "119",
+        "entryType": "Sponsor",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:116",
+      "attributes": {
+        "firstName": "Adam",
+        "lastName": "Casseday",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Elkins",
+        "state": "WV",
+        "country": "USA",
+        "bib": "120",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:117",
+      "attributes": {
+        "firstName": "Michael",
+        "lastName": "Chamoun",
+        "gender": "M",
+        "awards": null,
+        "age": 36,
+        "city": "Santa Monica",
+        "state": "CA",
+        "country": "USA",
+        "bib": "122",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:118",
+      "attributes": {
+        "firstName": "Chad",
+        "lastName": "Swanson",
+        "gender": "M",
+        "awards": null,
+        "age": 32,
+        "city": "Sparks",
+        "state": "NV",
+        "country": "USA",
+        "bib": "123",
+        "entryType": "Race Admin",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:119",
+      "attributes": {
+        "firstName": "David",
+        "lastName": "Green",
+        "gender": "M",
+        "awards": null,
+        "age": 55,
+        "city": "Jacksonville Beach",
+        "state": "FL",
+        "country": "USA",
+        "bib": "124",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:120",
+      "attributes": {
+        "firstName": "Joe",
+        "lastName": "Delano",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Orono",
+        "state": "MN",
+        "country": "USA",
+        "bib": "125",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:121",
+      "attributes": {
+        "firstName": "Cedric",
+        "lastName": "Chavanne",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Rimouski",
+        "state": "QC",
+        "country": "CAN",
+        "bib": "126",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:122",
+      "attributes": {
+        "firstName": "Tim",
+        "lastName": "Toben",
+        "gender": "M",
+        "awards": null,
+        "age": 60,
+        "city": "Chapel Hill",
+        "state": "NC",
+        "country": "USA",
+        "bib": "127",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:123",
+      "attributes": {
+        "firstName": "Tsai Tsung",
+        "lastName": "Chen",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Taichung City",
+        "state": "TWN",
+        "country": "TWN",
+        "bib": "128",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:124",
+      "attributes": {
+        "firstName": "Joseph",
+        "lastName": "Chick",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Ashland",
+        "state": "OR",
+        "country": "USA",
+        "bib": "129",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:125",
+      "attributes": {
+        "firstName": "Carolyn",
+        "lastName": "Rae",
+        "gender": "F",
+        "awards": null,
+        "age": 37,
+        "city": "Pencaitland",
+        "state": "GBR",
+        "country": "GBR",
+        "bib": "130",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:126",
+      "attributes": {
+        "firstName": "Wang",
+        "lastName": "Chuan",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Beijing",
+        "state": "CHN",
+        "country": "CHN",
+        "bib": "131",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:127",
+      "attributes": {
+        "firstName": "James",
+        "lastName": "Clark",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Sebastopol",
+        "state": "CA",
+        "country": "USA",
+        "bib": "132",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:128",
+      "attributes": {
+        "firstName": "Melanie",
+        "lastName": "Boone",
+        "gender": "F",
+        "awards": null,
+        "age": 48,
+        "city": "Huntington Beach",
+        "state": "CA",
+        "country": "USA",
+        "bib": "133",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:129",
+      "attributes": {
+        "firstName": "Johnny",
+        "lastName": "Clemons",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Cleveland",
+        "state": "TN",
+        "country": "USA",
+        "bib": "134",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:130",
+      "attributes": {
+        "firstName": "Ray",
+        "lastName": "Sanchez",
+        "gender": "M",
+        "awards": null,
+        "age": 52,
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "USA",
+        "bib": "135",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:131",
+      "attributes": {
+        "firstName": "Isamu",
+        "lastName": "Sato",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Funabashi",
+        "state": "JPN",
+        "country": "JPN",
+        "bib": "136",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:132",
+      "attributes": {
+        "firstName": "Mark",
+        "lastName": "Cliggett",
+        "gender": "M",
+        "awards": null,
+        "age": 57,
+        "city": "Seattle",
+        "state": "WA",
+        "country": "USA",
+        "bib": "137",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:133",
+      "attributes": {
+        "firstName": "Kelli",
+        "lastName": "Coleman",
+        "gender": "F",
+        "awards": null,
+        "age": 32,
+        "city": "Dallas",
+        "state": "TX",
+        "country": "USA",
+        "bib": "138",
+        "entryType": "Sponsor",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:134",
+      "attributes": {
+        "firstName": "Robert",
+        "lastName": "Conner",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "St. Augustine",
+        "state": "FL",
+        "country": "USA",
+        "bib": "139",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:135",
+      "attributes": {
+        "firstName": "Drew",
+        "lastName": "Coughlin",
+        "gender": "M",
+        "awards": null,
+        "age": 54,
+        "city": "Walnut Creek",
+        "state": "CA",
+        "country": "USA",
+        "bib": "141",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:136",
+      "attributes": {
+        "firstName": "Nathaniel",
+        "lastName": "Couture",
+        "gender": "M",
+        "awards": null,
+        "age": 39,
+        "city": "Fredericton",
+        "state": "NB",
+        "country": "CAN",
+        "bib": "142",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:137",
+      "attributes": {
+        "firstName": "Kristina",
+        "lastName": "Abadie",
+        "gender": "F",
+        "awards": null,
+        "age": 46,
+        "city": "Dana Point",
+        "state": "CA",
+        "country": "USA",
+        "bib": "143",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:138",
+      "attributes": {
+        "firstName": "Yassine",
+        "lastName": "Diboun",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "bib": "144",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 3
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:139",
+      "attributes": {
+        "firstName": "Tremayne",
+        "lastName": "Cowdry",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Maidstone",
+        "state": "GBR",
+        "country": "GBR",
+        "bib": "145",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:140",
+      "attributes": {
+        "firstName": "Sam",
+        "lastName": "Crawford",
+        "gender": "M",
+        "awards": null,
+        "age": 34,
+        "city": "London",
+        "state": "GBR",
+        "country": "GBR",
+        "bib": "146",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:141",
+      "attributes": {
+        "firstName": "Keith",
+        "lastName": "James",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Newport",
+        "state": "GBR",
+        "country": "GBR",
+        "bib": "147",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:142",
+      "attributes": {
+        "firstName": "Chris",
+        "lastName": "Crecente",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Taylors",
+        "state": "SC",
+        "country": "USA",
+        "bib": "149",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:143",
+      "attributes": {
+        "firstName": "Juan Carlos",
+        "lastName": "Morales Rodriguez",
+        "gender": "M",
+        "awards": null,
+        "age": 33,
+        "city": "Aguascalientes",
+        "state": "MEX",
+        "country": "MEX",
+        "bib": "410",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:144",
+      "attributes": {
+        "firstName": "Scott",
+        "lastName": "Crellin",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Bonita",
+        "state": "CA",
+        "country": "USA",
+        "bib": "151",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:145",
+      "attributes": {
+        "firstName": "Ted",
+        "lastName": "Croll",
+        "gender": "M",
+        "awards": null,
+        "age": 63,
+        "city": "Edmonton",
+        "state": "AB",
+        "country": "CAN",
+        "bib": "152",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:146",
+      "attributes": {
+        "firstName": "Ashley",
+        "lastName": "Crouch",
+        "gender": "F",
+        "awards": null,
+        "age": 38,
+        "city": "Bassett",
+        "state": "VA",
+        "country": "USA",
+        "bib": "153",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:147",
+      "attributes": {
+        "firstName": "Hong",
+        "lastName": "De Sa",
+        "gender": "F",
+        "awards": null,
+        "age": 28,
+        "city": "Cleveland",
+        "state": "OH",
+        "country": "USA",
+        "bib": "155",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:148",
+      "attributes": {
+        "firstName": "Gerad",
+        "lastName": "Dean",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Mount Shasta",
+        "state": "CA",
+        "country": "USA",
+        "bib": "156",
+        "entryType": "Race Admin",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:149",
+      "attributes": {
+        "firstName": "Lane",
+        "lastName": "Shimonishi",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Honolulu",
+        "state": "HI",
+        "country": "USA",
+        "bib": "157",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:150",
+      "attributes": {
+        "firstName": "John",
+        "lastName": "Diana",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "Napa",
+        "state": "CA",
+        "country": "USA",
+        "bib": "158",
+        "entryType": "Sponsor",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:151",
+      "attributes": {
+        "firstName": "Kyle",
+        "lastName": "Dostart",
+        "gender": "M",
+        "awards": null,
+        "age": 33,
+        "city": "Lakewood",
+        "state": "CO",
+        "country": "USA",
+        "bib": "159",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:152",
+      "attributes": {
+        "firstName": "Brad",
+        "lastName": "Doyle",
+        "gender": "M",
+        "awards": null,
+        "age": 58,
+        "city": "Roseville",
+        "state": "CA",
+        "country": "USA",
+        "bib": "160",
+        "entryType": "Sponsor",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:153",
+      "attributes": {
+        "firstName": "Julius",
+        "lastName": "Drelick",
+        "gender": "M",
+        "awards": null,
+        "age": 52,
+        "city": "Scottsdale",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "161",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:154",
+      "attributes": {
+        "firstName": "Carsten",
+        "lastName": "Drilling",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Zürich",
+        "state": "CHE",
+        "country": "CHE",
+        "bib": "162",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:155",
+      "attributes": {
+        "firstName": "Forrest",
+        "lastName": "Eber",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Santa Rosa",
+        "state": "CA",
+        "country": "USA",
+        "bib": "164",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:156",
+      "attributes": {
+        "firstName": "Matthew",
+        "lastName": "Edell",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "USA",
+        "bib": "165",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:157",
+      "attributes": {
+        "firstName": "Nicole",
+        "lastName": "Ederle",
+        "gender": "F",
+        "awards": null,
+        "age": 48,
+        "city": "Houston",
+        "state": "TX",
+        "country": "USA",
+        "bib": "166",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:158",
+      "attributes": {
+        "firstName": "Doug",
+        "lastName": "Richardson",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Cammeray",
+        "state": "AUS",
+        "country": "AUS",
+        "bib": "167",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:159",
+      "attributes": {
+        "firstName": "Walter",
+        "lastName": "Edwards",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Longmont",
+        "state": "CO",
+        "country": "USA",
+        "bib": "168",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:160",
+      "attributes": {
+        "firstName": "Jeffrey",
+        "lastName": "Egolf",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Roseville",
+        "state": "CA",
+        "country": "USA",
+        "bib": "169",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:161",
+      "attributes": {
+        "firstName": "Andre",
+        "lastName": "Erlank",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "Victoria",
+        "state": "BC",
+        "country": "CAN",
+        "bib": "170",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:162",
+      "attributes": {
+        "firstName": "Charlene",
+        "lastName": "Farley",
+        "gender": "F",
+        "awards": null,
+        "age": 34,
+        "city": "Fort Collins",
+        "state": "CO",
+        "country": "USA",
+        "bib": "171",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:163",
+      "attributes": {
+        "firstName": "Myles",
+        "lastName": "Fennon",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "New York",
+        "state": "NY",
+        "country": "USA",
+        "bib": "172",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:164",
+      "attributes": {
+        "firstName": "Francois",
+        "lastName": "Catteau",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Villeurbanne",
+        "state": "FRA",
+        "country": "FRA",
+        "bib": "173",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:165",
+      "attributes": {
+        "firstName": "Stan",
+        "lastName": "Fetting",
+        "gender": "M",
+        "awards": null,
+        "age": 53,
+        "city": "Warner",
+        "state": "AUS",
+        "country": "AUS",
+        "bib": "174",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:166",
+      "attributes": {
+        "firstName": "Troy",
+        "lastName": "Feustel",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Apple Valley",
+        "state": "MN",
+        "country": "USA",
+        "bib": "175",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:167",
+      "attributes": {
+        "firstName": "Gina",
+        "lastName": "Fioroni",
+        "gender": "F",
+        "awards": null,
+        "age": 42,
+        "city": "Lakewood",
+        "state": "CO",
+        "country": "USA",
+        "bib": "176",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:168",
+      "attributes": {
+        "firstName": "Dan",
+        "lastName": "Fish",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Newbury Park",
+        "state": "CA",
+        "country": "USA",
+        "bib": "177",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:169",
+      "attributes": {
+        "firstName": "Grace",
+        "lastName": "Fisher",
+        "gender": "F",
+        "awards": null,
+        "age": 38,
+        "city": "Hancock",
+        "state": "MD",
+        "country": "USA",
+        "bib": "178",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:170",
+      "attributes": {
+        "firstName": "Will",
+        "lastName": "Fisher",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Basalt",
+        "state": "CO",
+        "country": "USA",
+        "bib": "179",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:171",
+      "attributes": {
+        "firstName": "Bjorn",
+        "lastName": "Flatt",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Los Altos Hills",
+        "state": "CA",
+        "country": "USA",
+        "bib": "180",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:172",
+      "attributes": {
+        "firstName": "Mayuko",
+        "lastName": "Floyd",
+        "gender": "F",
+        "awards": null,
+        "age": 32,
+        "city": "San Diego",
+        "state": "CA",
+        "country": "USA",
+        "bib": "181",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:173",
+      "attributes": {
+        "firstName": "Michael",
+        "lastName": "Gampp",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "Columbus",
+        "state": "OH",
+        "country": "USA",
+        "bib": "182",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:174",
+      "attributes": {
+        "firstName": "Rod",
+        "lastName": "Giacchetta",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Edmonton",
+        "state": "AB",
+        "country": "CAN",
+        "bib": "183",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:175",
+      "attributes": {
+        "firstName": "Harris",
+        "lastName": "Goodman",
+        "gender": "M",
+        "awards": null,
+        "age": 53,
+        "city": "Pleasanton",
+        "state": "CA",
+        "country": "USA",
+        "bib": "184",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:176",
+      "attributes": {
+        "firstName": "Paul",
+        "lastName": "Gorman",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Redwood City",
+        "state": "CA",
+        "country": "USA",
+        "bib": "185",
+        "entryType": "Raffle",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:177",
+      "attributes": {
+        "firstName": "Matthew",
+        "lastName": "Goulden",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Fernie",
+        "state": "BC",
+        "country": "CAN",
+        "bib": "186",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:178",
+      "attributes": {
+        "firstName": "Sky",
+        "lastName": "Grahn",
+        "gender": "M",
+        "awards": null,
+        "age": 29,
+        "city": "Cottonwood Heights",
+        "state": "UT",
+        "country": "USA",
+        "bib": "187",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:179",
+      "attributes": {
+        "firstName": "Eric",
+        "lastName": "Gras",
+        "gender": "M",
+        "awards": null,
+        "age": 39,
+        "city": "Sunnyvale",
+        "state": "CA",
+        "country": "USA",
+        "bib": "188",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:180",
+      "attributes": {
+        "firstName": "Kent",
+        "lastName": "Green",
+        "gender": "M",
+        "awards": null,
+        "age": 32,
+        "city": "San Tan Valley",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "189",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:181",
+      "attributes": {
+        "firstName": "Terry",
+        "lastName": "Grenwelge",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Fort Collins",
+        "state": "CO",
+        "country": "USA",
+        "bib": "190",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:182",
+      "attributes": {
+        "firstName": "Nicolas",
+        "lastName": "Guayasamin",
+        "gender": "M",
+        "awards": null,
+        "age": 35,
+        "city": "Terrebonne",
+        "state": "QC",
+        "country": "CAN",
+        "bib": "191",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:183",
+      "attributes": {
+        "firstName": "Nadia",
+        "lastName": "Guimont",
+        "gender": "F",
+        "awards": null,
+        "age": 37,
+        "city": "Bowie",
+        "state": "MD",
+        "country": "USA",
+        "bib": "192",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:184",
+      "attributes": {
+        "firstName": "Kristin",
+        "lastName": "Gustafsson",
+        "gender": "F",
+        "awards": null,
+        "age": 50,
+        "city": "Folsom",
+        "state": "CA",
+        "country": "USA",
+        "bib": "193",
+        "entryType": "Raffle",
+        "priorFinishes": 3
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:185",
+      "attributes": {
+        "firstName": "Christopher",
+        "lastName": "Hall",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Cheyenne",
+        "state": "WY",
+        "country": "USA",
+        "bib": "194",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:186",
+      "attributes": {
+        "firstName": "Michael",
+        "lastName": "Halovatch",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Ny",
+        "state": "NY",
+        "country": "USA",
+        "bib": "195",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:187",
+      "attributes": {
+        "firstName": "Dawn",
+        "lastName": "Hamel",
+        "gender": "F",
+        "awards": null,
+        "age": 63,
+        "city": "Orillia",
+        "state": "ON",
+        "country": "CAN",
+        "bib": "196",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:188",
+      "attributes": {
+        "firstName": "Shannon",
+        "lastName": "Hampton",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Bentonville",
+        "state": "AR",
+        "country": "USA",
+        "bib": "197",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:189",
+      "attributes": {
+        "firstName": "Jan",
+        "lastName": "Hanousek",
+        "gender": "M",
+        "awards": null,
+        "age": 55,
+        "city": "Prague 5",
+        "state": "CZE",
+        "country": "CZE",
+        "bib": "198",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:190",
+      "attributes": {
+        "firstName": "Kumiko",
+        "lastName": "Hart",
+        "gender": "F",
+        "awards": null,
+        "age": 56,
+        "city": "Brooklyn",
+        "state": "NY",
+        "country": "USA",
+        "bib": "199",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:191",
+      "attributes": {
+        "firstName": "Sean",
+        "lastName": "Nakamura",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "San Diego",
+        "state": "CA",
+        "country": "USA",
+        "bib": "200",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:192",
+      "attributes": {
+        "firstName": "Adrian",
+        "lastName": "Harvey",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Calgary",
+        "state": "AB",
+        "country": "CAN",
+        "bib": "201",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:193",
+      "attributes": {
+        "firstName": "Chris",
+        "lastName": "Hasselback",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Castle Rock",
+        "state": "CO",
+        "country": "USA",
+        "bib": "202",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:194",
+      "attributes": {
+        "firstName": "Cynthia",
+        "lastName": "Heady",
+        "gender": "F",
+        "awards": null,
+        "age": 57,
+        "city": "Finchville",
+        "state": "KY",
+        "country": "USA",
+        "bib": "203",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:195",
+      "attributes": {
+        "firstName": "Justin",
+        "lastName": "Heller",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "Arlington Heights",
+        "state": "IL",
+        "country": "USA",
+        "bib": "205",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:196",
+      "attributes": {
+        "firstName": "Bill",
+        "lastName": "Hill",
+        "gender": "M",
+        "awards": null,
+        "age": 39,
+        "city": "Rock Springs",
+        "state": "WY",
+        "country": "USA",
+        "bib": "206",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:197",
+      "attributes": {
+        "firstName": "Mandie",
+        "lastName": "Holmes",
+        "gender": "F",
+        "awards": null,
+        "age": 33,
+        "city": "Mountain View",
+        "state": "CA",
+        "country": "USA",
+        "bib": "207",
+        "entryType": "Race Admin",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:198",
+      "attributes": {
+        "firstName": "Gary",
+        "lastName": "Holton",
+        "gender": "M",
+        "awards": null,
+        "age": 54,
+        "city": "Honolulu",
+        "state": "HI",
+        "country": "USA",
+        "bib": "208",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:199",
+      "attributes": {
+        "firstName": "Ted",
+        "lastName": "Jacka",
+        "gender": "M",
+        "awards": null,
+        "age": 55,
+        "city": "Modesto",
+        "state": "CA",
+        "country": "USA",
+        "bib": "209",
+        "entryType": "Race Admin",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:200",
+      "attributes": {
+        "firstName": "Chris",
+        "lastName": "Hendricks",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Laguna Niguel",
+        "state": "CA",
+        "country": "USA",
+        "bib": "210",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:201",
+      "attributes": {
+        "firstName": "Chuck",
+        "lastName": "Radford",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Castle Rock",
+        "state": "CO",
+        "country": "USA",
+        "bib": "211",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:202",
+      "attributes": {
+        "firstName": "Matt",
+        "lastName": "Hawkins",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Brentwood",
+        "state": "TN",
+        "country": "USA",
+        "bib": "212",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:203",
+      "attributes": {
+        "firstName": "David",
+        "lastName": "Wise",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Flagtown",
+        "state": "NJ",
+        "country": "USA",
+        "bib": "213",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:204",
+      "attributes": {
+        "firstName": "Andrew",
+        "lastName": "McConnell",
+        "gender": "M",
+        "awards": null,
+        "age": 36,
+        "city": "Watson",
+        "state": "AUS",
+        "country": "AUS",
+        "bib": "214",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:205",
+      "attributes": {
+        "firstName": "Bryan",
+        "lastName": "Jennings",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Chapel Hill",
+        "state": "NC",
+        "country": "USA",
+        "bib": "215",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:206",
+      "attributes": {
+        "firstName": "Todd",
+        "lastName": "Hockensmith",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "San Diego",
+        "state": "CA",
+        "country": "USA",
+        "bib": "216",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:207",
+      "attributes": {
+        "firstName": "Efren",
+        "lastName": "Rangel",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Lakewood",
+        "state": "CA",
+        "country": "USA",
+        "bib": "217",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:208",
+      "attributes": {
+        "firstName": "Steve",
+        "lastName": "Sorenson",
+        "gender": "M",
+        "awards": null,
+        "age": 54,
+        "city": "Savage",
+        "state": "MN",
+        "country": "USA",
+        "bib": "218",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:209",
+      "attributes": {
+        "firstName": "Hideo",
+        "lastName": "Takuma",
+        "gender": "M",
+        "awards": null,
+        "age": 55,
+        "city": "Tokyo",
+        "state": "JPN",
+        "country": "JPN",
+        "bib": "220",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:210",
+      "attributes": {
+        "firstName": "Jeffrey",
+        "lastName": "Jordan",
+        "gender": "M",
+        "awards": null,
+        "age": 56,
+        "city": "Cottontown",
+        "state": "TN",
+        "country": "USA",
+        "bib": "221",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:211",
+      "attributes": {
+        "firstName": "Eric",
+        "lastName": "Kajiwara",
+        "gender": "M",
+        "awards": null,
+        "age": 72,
+        "city": "Ridgecrest",
+        "state": "CA",
+        "country": "USA",
+        "bib": "223",
+        "entryType": "Race Admin",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:212",
+      "attributes": {
+        "firstName": "Bobby",
+        "lastName": "Kearney",
+        "gender": "M",
+        "awards": null,
+        "age": 52,
+        "city": "Clovis",
+        "state": "CA",
+        "country": "USA",
+        "bib": "224",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:213",
+      "attributes": {
+        "firstName": "Rachel",
+        "lastName": "Kelley",
+        "gender": "F",
+        "awards": null,
+        "age": 39,
+        "city": "Chapel Hill",
+        "state": "NC",
+        "country": "USA",
+        "bib": "225",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:214",
+      "attributes": {
+        "firstName": "Norbert",
+        "lastName": "Knapich",
+        "gender": "M",
+        "awards": null,
+        "age": 49,
+        "city": "Rosshaupten",
+        "state": "DEU",
+        "country": "DEU",
+        "bib": "226",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:215",
+      "attributes": {
+        "firstName": "Josef",
+        "lastName": "Koch",
+        "gender": "M",
+        "awards": null,
+        "age": 29,
+        "city": "Ghent",
+        "state": "BEL",
+        "country": "BEL",
+        "bib": "227",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:216",
+      "attributes": {
+        "firstName": "Merritt",
+        "lastName": "Kohn",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Cary",
+        "state": "NC",
+        "country": "USA",
+        "bib": "228",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:217",
+      "attributes": {
+        "firstName": "Andrea",
+        "lastName": "Kooiman",
+        "gender": "F",
+        "awards": null,
+        "age": 44,
+        "city": "Mission Viejo",
+        "state": "CA",
+        "country": "USA",
+        "bib": "229",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:218",
+      "attributes": {
+        "firstName": "Adam",
+        "lastName": "Korona",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "League City",
+        "state": "TX",
+        "country": "USA",
+        "bib": "230",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:219",
+      "attributes": {
+        "firstName": "Mike",
+        "lastName": "Kreaden",
+        "gender": "M",
+        "awards": null,
+        "age": 56,
+        "city": "Sunnyvale",
+        "state": "CA",
+        "country": "USA",
+        "bib": "231",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:220",
+      "attributes": {
+        "firstName": "Ludovic",
+        "lastName": "Lamadon",
+        "gender": "M",
+        "awards": null,
+        "age": 39,
+        "city": "Blanzat",
+        "state": "FRA",
+        "country": "FRA",
+        "bib": "232",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:221",
+      "attributes": {
+        "firstName": "Graham",
+        "lastName": "Lambert",
+        "gender": "M",
+        "awards": null,
+        "age": 52,
+        "city": "Tustin",
+        "state": "CA",
+        "country": "USA",
+        "bib": "233",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:222",
+      "attributes": {
+        "firstName": "Natalie",
+        "lastName": "Larson",
+        "gender": "F",
+        "awards": null,
+        "age": 40,
+        "city": "Steamboat Springs",
+        "state": "CO",
+        "country": "USA",
+        "bib": "234",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:223",
+      "attributes": {
+        "firstName": "Dave",
+        "lastName": "Latourette",
+        "gender": "M",
+        "awards": null,
+        "age": 57,
+        "city": "North Bend",
+        "state": "WA",
+        "country": "USA",
+        "bib": "235",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:224",
+      "attributes": {
+        "firstName": "Matthew",
+        "lastName": "Brand",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Rugby",
+        "state": "GBR",
+        "country": "GBR",
+        "bib": "236",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:225",
+      "attributes": {
+        "firstName": "Neil",
+        "lastName": "Stantiall",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Fareham",
+        "state": "GBR",
+        "country": "GBR",
+        "bib": "237",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:226",
+      "attributes": {
+        "firstName": "Mario",
+        "lastName": "Leal",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Horta",
+        "state": "PRT",
+        "country": "PRT",
+        "bib": "238",
+        "entryType": "Special Consideration",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:227",
+      "attributes": {
+        "firstName": "Celia",
+        "lastName": "Leber",
+        "gender": "F",
+        "awards": null,
+        "age": 54,
+        "city": "Challis",
+        "state": "ID",
+        "country": "USA",
+        "bib": "239",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:228",
+      "attributes": {
+        "firstName": "Henri",
+        "lastName": "Lehkonen",
+        "gender": "M",
+        "awards": null,
+        "age": 34,
+        "city": "Hong Kong",
+        "state": "HKG",
+        "country": "HKG",
+        "bib": "240",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:229",
+      "attributes": {
+        "firstName": "Dion",
+        "lastName": "Leonard",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Chamonix",
+        "state": "AUS",
+        "country": "AUS",
+        "bib": "241",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:230",
+      "attributes": {
+        "firstName": "Ken",
+        "lastName": "Lewis",
+        "gender": "M",
+        "awards": null,
+        "age": 56,
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "USA",
+        "bib": "242",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:231",
+      "attributes": {
+        "firstName": "Patrick",
+        "lastName": "Lichy",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Reston",
+        "state": "VA",
+        "country": "USA",
+        "bib": "243",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:232",
+      "attributes": {
+        "firstName": "Tonya",
+        "lastName": "Littlehales",
+        "gender": "F",
+        "awards": null,
+        "age": 46,
+        "city": "Bend",
+        "state": "OR",
+        "country": "USA",
+        "bib": "244",
+        "entryType": "Race Admin",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:233",
+      "attributes": {
+        "firstName": "Mat",
+        "lastName": "Lounibos",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Petaluma",
+        "state": "CA",
+        "country": "USA",
+        "bib": "246",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:234",
+      "attributes": {
+        "firstName": "Brad",
+        "lastName": "Polnasek",
+        "gender": "M",
+        "awards": null,
+        "age": 32,
+        "city": "Battle Creek",
+        "state": "MI",
+        "country": "USA",
+        "bib": "247",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:235",
+      "attributes": {
+        "firstName": "Terra",
+        "lastName": "Lovelin",
+        "gender": "F",
+        "awards": null,
+        "age": 41,
+        "city": "Las Vegas",
+        "state": "NV",
+        "country": "USA",
+        "bib": "248",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:236",
+      "attributes": {
+        "firstName": "Kate",
+        "lastName": "Lukacs",
+        "gender": "F",
+        "awards": null,
+        "age": 34,
+        "city": "Grass Valley",
+        "state": "CA",
+        "country": "USA",
+        "bib": "249",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:237",
+      "attributes": {
+        "firstName": "Tyler",
+        "lastName": "Curley",
+        "gender": "M",
+        "awards": null,
+        "age": 33,
+        "city": "Ogden",
+        "state": "UT",
+        "country": "USA",
+        "bib": "250",
+        "entryType": "Raffle",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:238",
+      "attributes": {
+        "firstName": "Joey",
+        "lastName": "Luther",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Boulder",
+        "state": "CO",
+        "country": "USA",
+        "bib": "251",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:239",
+      "attributes": {
+        "firstName": "Dirk",
+        "lastName": "Manley",
+        "gender": "M",
+        "awards": null,
+        "age": 49,
+        "city": "Citrus Heights",
+        "state": "CA",
+        "country": "USA",
+        "bib": "252",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:240",
+      "attributes": {
+        "firstName": "Simon",
+        "lastName": "Marcil",
+        "gender": "M",
+        "awards": null,
+        "age": 39,
+        "city": "Montréal",
+        "state": "QC",
+        "country": "CAN",
+        "bib": "253",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:241",
+      "attributes": {
+        "firstName": "Brian",
+        "lastName": "Martin",
+        "gender": "M",
+        "awards": null,
+        "age": 39,
+        "city": "La Mesa",
+        "state": "CA",
+        "country": "USA",
+        "bib": "254",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:242",
+      "attributes": {
+        "firstName": "Steven",
+        "lastName": "Moore",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Austin",
+        "state": "TX",
+        "country": "USA",
+        "bib": "255",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:243",
+      "attributes": {
+        "firstName": "Emily",
+        "lastName": "Kennedy",
+        "gender": "F",
+        "awards": null,
+        "age": 40,
+        "city": "Huntsville",
+        "state": "AL",
+        "country": "USA",
+        "bib": "256",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:244",
+      "attributes": {
+        "firstName": "Shane",
+        "lastName": "Martin",
+        "gender": "M",
+        "awards": null,
+        "age": 52,
+        "city": "Eden",
+        "state": "UT",
+        "country": "USA",
+        "bib": "257",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:245",
+      "attributes": {
+        "firstName": "Shannon",
+        "lastName": "Martin",
+        "gender": "F",
+        "awards": null,
+        "age": 43,
+        "city": "Reno",
+        "state": "NV",
+        "country": "USA",
+        "bib": "258",
+        "entryType": "Race Admin",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:246",
+      "attributes": {
+        "firstName": "Charley",
+        "lastName": "Jones",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Folsom",
+        "state": "CA",
+        "country": "USA",
+        "bib": "260",
+        "entryType": "Sponsor",
+        "priorFinishes": 11
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:247",
+      "attributes": {
+        "firstName": "Jacob",
+        "lastName": "Massler",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "El Cerrito",
+        "state": "CA",
+        "country": "USA",
+        "bib": "261",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:248",
+      "attributes": {
+        "firstName": "Sheryl",
+        "lastName": "Mawn",
+        "gender": "F",
+        "awards": null,
+        "age": 54,
+        "city": "Lakewood",
+        "state": "CO",
+        "country": "USA",
+        "bib": "262",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:249",
+      "attributes": {
+        "firstName": "Jeffrey",
+        "lastName": "McAlpine",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "bib": "263",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:250",
+      "attributes": {
+        "firstName": "Markus",
+        "lastName": "Meinke",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Cologne",
+        "state": "DEU",
+        "country": "DEU",
+        "bib": "264",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:251",
+      "attributes": {
+        "firstName": "Carsten",
+        "lastName": "Meyer-Jacob",
+        "gender": "M",
+        "awards": null,
+        "age": 34,
+        "city": "Kingston",
+        "state": "ON",
+        "country": "CAN",
+        "bib": "265",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:252",
+      "attributes": {
+        "firstName": "Ken",
+        "lastName": "Michal",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA",
+        "bib": "266",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:253",
+      "attributes": {
+        "firstName": "Eric",
+        "lastName": "Middleton",
+        "gender": "M",
+        "awards": null,
+        "age": 59,
+        "city": "Reno",
+        "state": "NV",
+        "country": "USA",
+        "bib": "267",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:254",
+      "attributes": {
+        "firstName": "Lawrence",
+        "lastName": "Miller",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "USA",
+        "bib": "268",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:255",
+      "attributes": {
+        "firstName": "Jeffrey",
+        "lastName": "Miller",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "San Diego",
+        "state": "CA",
+        "country": "USA",
+        "bib": "269",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:256",
+      "attributes": {
+        "firstName": "Nakia",
+        "lastName": "Baird",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA",
+        "bib": "271",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:257",
+      "attributes": {
+        "firstName": "Stephen",
+        "lastName": "Mohr",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Arlington",
+        "state": "VA",
+        "country": "USA",
+        "bib": "272",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:258",
+      "attributes": {
+        "firstName": "Mansour",
+        "lastName": "Monem",
+        "gender": "M",
+        "awards": null,
+        "age": 60,
+        "city": "sacramento",
+        "state": "CA",
+        "country": "USA",
+        "bib": "273",
+        "entryType": "Race Admin",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:259",
+      "attributes": {
+        "firstName": "Patrick",
+        "lastName": "Montoya",
+        "gender": "M",
+        "awards": null,
+        "age": 34,
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "bib": "274",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:260",
+      "attributes": {
+        "firstName": "Ronnie",
+        "lastName": "Nauert",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Auburn",
+        "state": "CA",
+        "country": "USA",
+        "bib": "275",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:261",
+      "attributes": {
+        "firstName": "Chris",
+        "lastName": "Neoh",
+        "gender": "M",
+        "awards": null,
+        "age": 34,
+        "city": "Pelham",
+        "state": "MA",
+        "country": "USA",
+        "bib": "276",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:262",
+      "attributes": {
+        "firstName": "Michael",
+        "lastName": "Newman",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Ashland",
+        "state": "OR",
+        "country": "USA",
+        "bib": "277",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:263",
+      "attributes": {
+        "firstName": "William",
+        "lastName": "Nguyen",
+        "gender": "M",
+        "awards": null,
+        "age": 31,
+        "city": "Menlo Park",
+        "state": "CA",
+        "country": "USA",
+        "bib": "278",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:264",
+      "attributes": {
+        "firstName": "Ryan",
+        "lastName": "Norton",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Manitowoc",
+        "state": "WI",
+        "country": "USA",
+        "bib": "279",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:265",
+      "attributes": {
+        "firstName": "Deysi",
+        "lastName": "Osegueda",
+        "gender": "F",
+        "awards": null,
+        "age": 37,
+        "city": "Iztapalapa",
+        "state": "MEX",
+        "country": "MEX",
+        "bib": "280",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:266",
+      "attributes": {
+        "firstName": "Casey",
+        "lastName": "Osmonovich",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Sedona",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "281",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:267",
+      "attributes": {
+        "firstName": "Ralf",
+        "lastName": "Ostmann",
+        "gender": "M",
+        "awards": null,
+        "age": 53,
+        "city": "Redwood City",
+        "state": "CA",
+        "country": "USA",
+        "bib": "282",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:268",
+      "attributes": {
+        "firstName": "Steven",
+        "lastName": "Pack",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "New York",
+        "state": "NY",
+        "country": "USA",
+        "bib": "283",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:269",
+      "attributes": {
+        "firstName": "Jason",
+        "lastName": "Pardue",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Dulles",
+        "state": "VA",
+        "country": "USA",
+        "bib": "284",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:270",
+      "attributes": {
+        "firstName": "Maurizio",
+        "lastName": "Pastore",
+        "gender": "M",
+        "awards": null,
+        "age": 59,
+        "city": "Genova GE",
+        "state": "ITA",
+        "country": "ITA",
+        "bib": "285",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:271",
+      "attributes": {
+        "firstName": "Anthony",
+        "lastName": "Peelen",
+        "gender": "M",
+        "awards": null,
+        "age": 39,
+        "city": "Heusy",
+        "state": "BEL",
+        "country": "BEL",
+        "bib": "286",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:272",
+      "attributes": {
+        "firstName": "Fabrice",
+        "lastName": "Perrin",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Annecy",
+        "state": "FRA",
+        "country": "FRA",
+        "bib": "287",
+        "entryType": "Special Consideration",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:273",
+      "attributes": {
+        "firstName": "Jayne",
+        "lastName": "Peterlin",
+        "gender": "F",
+        "awards": null,
+        "age": 53,
+        "city": "San Ramon",
+        "state": "CA",
+        "country": "USA",
+        "bib": "288",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:274",
+      "attributes": {
+        "firstName": "Kristin",
+        "lastName": "Petersen Baldrica",
+        "gender": "F",
+        "awards": null,
+        "age": 44,
+        "city": "Altadena",
+        "state": "CA",
+        "country": "USA",
+        "bib": "289",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:275",
+      "attributes": {
+        "firstName": "Nam",
+        "lastName": "Pham",
+        "gender": "M",
+        "awards": null,
+        "age": 30,
+        "city": "Oakland",
+        "state": "CA",
+        "country": "USA",
+        "bib": "290",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:276",
+      "attributes": {
+        "firstName": "Joseph",
+        "lastName": "Pinter",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Gainesville",
+        "state": "FL",
+        "country": "USA",
+        "bib": "291",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:277",
+      "attributes": {
+        "firstName": "Parrish",
+        "lastName": "Placencia",
+        "gender": "F",
+        "awards": null,
+        "age": 42,
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "USA",
+        "bib": "292",
+        "entryType": "Bonus Lottery",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:278",
+      "attributes": {
+        "firstName": "Chris",
+        "lastName": "Pope",
+        "gender": "M",
+        "awards": null,
+        "age": 39,
+        "city": "West Valley City",
+        "state": "UT",
+        "country": "USA",
+        "bib": "293",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:279",
+      "attributes": {
+        "firstName": "Michael",
+        "lastName": "Pullar",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "Dunedin",
+        "state": "NZL",
+        "country": "NZL",
+        "bib": "294",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:280",
+      "attributes": {
+        "firstName": "Scott",
+        "lastName": "Rabb",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "San Antonio",
+        "state": "TX",
+        "country": "USA",
+        "bib": "295",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:281",
+      "attributes": {
+        "firstName": "Mike",
+        "lastName": "Rafferty",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Stevenson Ranch",
+        "state": "CA",
+        "country": "USA",
+        "bib": "296",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:282",
+      "attributes": {
+        "firstName": "Rob",
+        "lastName": "Raguet-Schofield",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Fort Collins",
+        "state": "CO",
+        "country": "USA",
+        "bib": "297",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:283",
+      "attributes": {
+        "firstName": "Gregory",
+        "lastName": "Renden",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "USA",
+        "bib": "298",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:284",
+      "attributes": {
+        "firstName": "Thomas",
+        "lastName": "Robertshaw",
+        "gender": "M",
+        "awards": null,
+        "age": 35,
+        "city": "Hong Kong",
+        "state": "HKG",
+        "country": "HKG",
+        "bib": "299",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:285",
+      "attributes": {
+        "firstName": "Cesare",
+        "lastName": "Rotundo",
+        "gender": "M",
+        "awards": null,
+        "age": 54,
+        "city": "Foster City",
+        "state": "CA",
+        "country": "USA",
+        "bib": "300",
+        "entryType": "Race Admin",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:286",
+      "attributes": {
+        "firstName": "Rick",
+        "lastName": "Russell",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "Austin",
+        "state": "TX",
+        "country": "USA",
+        "bib": "301",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:287",
+      "attributes": {
+        "firstName": "Rudy",
+        "lastName": "Rutemiller",
+        "gender": "M",
+        "awards": null,
+        "age": 27,
+        "city": "Salt Lake City",
+        "state": "UT",
+        "country": "USA",
+        "bib": "302",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:288",
+      "attributes": {
+        "firstName": "Brandon",
+        "lastName": "Worthington",
+        "gender": "M",
+        "awards": null,
+        "age": 34,
+        "city": "Aurora",
+        "state": "CO",
+        "country": "USA",
+        "bib": "303",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:289",
+      "attributes": {
+        "firstName": "Kai Yau",
+        "lastName": "Sak",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Hk",
+        "state": "HKG",
+        "country": "HKG",
+        "bib": "304",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:290",
+      "attributes": {
+        "firstName": "Arun",
+        "lastName": "Sarkar",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Milwaukee",
+        "state": "WI",
+        "country": "USA",
+        "bib": "305",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:291",
+      "attributes": {
+        "firstName": "Jeffrey",
+        "lastName": "Fleitz",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Chicago",
+        "state": "IL",
+        "country": "USA",
+        "bib": "306",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:292",
+      "attributes": {
+        "firstName": "Dewayne",
+        "lastName": "Satterfield",
+        "gender": "M",
+        "awards": null,
+        "age": 55,
+        "city": "Huntsville",
+        "state": "AL",
+        "country": "USA",
+        "bib": "307",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:293",
+      "attributes": {
+        "firstName": "Christopher",
+        "lastName": "Scarpitti",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Hockessin",
+        "state": "DE",
+        "country": "USA",
+        "bib": "308",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:294",
+      "attributes": {
+        "firstName": "Hallvard",
+        "lastName": "Schjolberg",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Kabelvag",
+        "state": "NOR",
+        "country": "NOR",
+        "bib": "309",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:295",
+      "attributes": {
+        "firstName": "Martin",
+        "lastName": "Schneekloth",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Huntsville",
+        "state": "AL",
+        "country": "USA",
+        "bib": "310",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:296",
+      "attributes": {
+        "firstName": "Jonathan",
+        "lastName": "Schwab",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Happy Valley",
+        "state": "OR",
+        "country": "USA",
+        "bib": "312",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:297",
+      "attributes": {
+        "firstName": "Daniel",
+        "lastName": "Young",
+        "gender": "M",
+        "awards": null,
+        "age": 59,
+        "city": "Erie",
+        "state": "PA",
+        "country": "USA",
+        "bib": "313",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:298",
+      "attributes": {
+        "firstName": "Haley",
+        "lastName": "Schwarz",
+        "gender": "F",
+        "awards": null,
+        "age": 39,
+        "city": "Columbia",
+        "state": "MO",
+        "country": "USA",
+        "bib": "314",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:299",
+      "attributes": {
+        "firstName": "Annette",
+        "lastName": "Florczak",
+        "gender": "F",
+        "awards": null,
+        "age": 45,
+        "city": "Roslindale",
+        "state": "MA",
+        "country": "USA",
+        "bib": "315",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:300",
+      "attributes": {
+        "firstName": "Leslie",
+        "lastName": "Semler",
+        "gender": "F",
+        "awards": null,
+        "age": 37,
+        "city": "Hermantown",
+        "state": "MN",
+        "country": "USA",
+        "bib": "316",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:301",
+      "attributes": {
+        "firstName": "Jodi",
+        "lastName": "Semonell",
+        "gender": "F",
+        "awards": null,
+        "age": 46,
+        "city": "Omaha",
+        "state": "NE",
+        "country": "USA",
+        "bib": "317",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:302",
+      "attributes": {
+        "firstName": "Michael",
+        "lastName": "Sheridan",
+        "gender": "M",
+        "awards": null,
+        "age": 34,
+        "city": "Lake Cathie",
+        "state": "AUS",
+        "country": "AUS",
+        "bib": "318",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:303",
+      "attributes": {
+        "firstName": "Yuichi",
+        "lastName": "Shoji",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "Chiba",
+        "state": "JPN",
+        "country": "JPN",
+        "bib": "319",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:304",
+      "attributes": {
+        "firstName": "Matthew",
+        "lastName": "Smith",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Winchester",
+        "state": "VA",
+        "country": "USA",
+        "bib": "320",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:305",
+      "attributes": {
+        "firstName": "David",
+        "lastName": "Musgrave",
+        "gender": "M",
+        "awards": null,
+        "age": 52,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "country": "USA",
+        "bib": "321",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:306",
+      "attributes": {
+        "firstName": "Adam",
+        "lastName": "Simson",
+        "gender": "M",
+        "awards": null,
+        "age": 35,
+        "city": "Melbourne",
+        "state": "AUS",
+        "country": "AUS",
+        "bib": "322",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:307",
+      "attributes": {
+        "firstName": "Meghan",
+        "lastName": "Slavin",
+        "gender": "F",
+        "awards": null,
+        "age": 33,
+        "city": "Phoenix",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "323",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:308",
+      "attributes": {
+        "firstName": "Geoff",
+        "lastName": "Smith",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Aurora",
+        "state": "CO",
+        "country": "USA",
+        "bib": "324",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:309",
+      "attributes": {
+        "firstName": "Joe",
+        "lastName": "Smith",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "Greer",
+        "state": "SC",
+        "country": "USA",
+        "bib": "325",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:310",
+      "attributes": {
+        "firstName": "Alissa",
+        "lastName": "St Laurent",
+        "gender": "F",
+        "awards": null,
+        "age": 34,
+        "city": "Edmonton",
+        "state": "AB",
+        "country": "CAN",
+        "bib": "327",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:311",
+      "attributes": {
+        "firstName": "Annabelle",
+        "lastName": "Stearns",
+        "gender": "F",
+        "awards": null,
+        "age": 48,
+        "city": "Meopham",
+        "state": "GBR",
+        "country": "GBR",
+        "bib": "328",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:312",
+      "attributes": {
+        "firstName": "Sharon",
+        "lastName": "Sullivan",
+        "gender": "F",
+        "awards": null,
+        "age": 46,
+        "city": "Redruth",
+        "state": "GBR",
+        "country": "GBR",
+        "bib": "329",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:313",
+      "attributes": {
+        "firstName": "Hideo",
+        "lastName": "Takano",
+        "gender": "M",
+        "awards": null,
+        "age": 53,
+        "city": "Holmbury St Mary",
+        "state": "GBR",
+        "country": "GBR",
+        "bib": "330",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:314",
+      "attributes": {
+        "firstName": "Beau",
+        "lastName": "Talley",
+        "gender": "M",
+        "awards": null,
+        "age": 57,
+        "city": "Leeds",
+        "state": "AL",
+        "country": "USA",
+        "bib": "331",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:315",
+      "attributes": {
+        "firstName": "Chris",
+        "lastName": "Talley",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Morgan Hill",
+        "state": "CA",
+        "country": "USA",
+        "bib": "332",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:316",
+      "attributes": {
+        "firstName": "Jill",
+        "lastName": "Hudson",
+        "gender": "F",
+        "awards": null,
+        "age": 57,
+        "city": "Seattle",
+        "state": "WA",
+        "country": "USA",
+        "bib": "333",
+        "entryType": "Raffle",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:317",
+      "attributes": {
+        "firstName": "David",
+        "lastName": "Theriot",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Owasso",
+        "state": "OK",
+        "country": "USA",
+        "bib": "334",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:318",
+      "attributes": {
+        "firstName": "Fred",
+        "lastName": "Thompson",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Helena",
+        "state": "MT",
+        "country": "USA",
+        "bib": "335",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:319",
+      "attributes": {
+        "firstName": "Alex",
+        "lastName": "Thomson",
+        "gender": "M",
+        "awards": null,
+        "age": 24,
+        "city": "Blacksburg",
+        "state": "VA",
+        "country": "USA",
+        "bib": "336",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:320",
+      "attributes": {
+        "firstName": "Jason",
+        "lastName": "Tischer",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Cary",
+        "state": "NC",
+        "country": "USA",
+        "bib": "337",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:321",
+      "attributes": {
+        "firstName": "Adrian",
+        "lastName": "Torres",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Milpitas",
+        "state": "CA",
+        "country": "USA",
+        "bib": "338",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:322",
+      "attributes": {
+        "firstName": "Eric",
+        "lastName": "Toschi",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "Pleasanton",
+        "state": "CA",
+        "country": "USA",
+        "bib": "339",
+        "entryType": "Race Admin",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:323",
+      "attributes": {
+        "firstName": "Christopher",
+        "lastName": "Sipe",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "country": "USA",
+        "bib": "340",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:324",
+      "attributes": {
+        "firstName": "Vu",
+        "lastName": "Tran",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "San francisco",
+        "state": "CA",
+        "country": "USA",
+        "bib": "341",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:325",
+      "attributes": {
+        "firstName": "Danielle",
+        "lastName": "Triffitt",
+        "gender": "F",
+        "awards": null,
+        "age": 44,
+        "city": "Topsham",
+        "state": "ME",
+        "country": "USA",
+        "bib": "342",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:326",
+      "attributes": {
+        "firstName": "Oliver",
+        "lastName": "Truog",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Milton",
+        "state": "MA",
+        "country": "USA",
+        "bib": "343",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:327",
+      "attributes": {
+        "firstName": "Itao",
+        "lastName": "Tsai",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "San Jose",
+        "state": "CA",
+        "country": "USA",
+        "bib": "344",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:328",
+      "attributes": {
+        "firstName": "Kelsey",
+        "lastName": "Tucker",
+        "gender": "F",
+        "awards": null,
+        "age": 27,
+        "city": "Birmingham",
+        "state": "AL",
+        "country": "USA",
+        "bib": "345",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:329",
+      "attributes": {
+        "firstName": "Tony",
+        "lastName": "Tuttle",
+        "gender": "M",
+        "awards": null,
+        "age": 67,
+        "city": "Hercules",
+        "state": "CA",
+        "country": "USA",
+        "bib": "346",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:330",
+      "attributes": {
+        "firstName": "Tony",
+        "lastName": "Verdon",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA",
+        "bib": "347",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:331",
+      "attributes": {
+        "firstName": "Scott",
+        "lastName": "Vosburg",
+        "gender": "M",
+        "awards": null,
+        "age": 49,
+        "city": "Loomis",
+        "state": "CA",
+        "country": "USA",
+        "bib": "348",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 3
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:332",
+      "attributes": {
+        "firstName": "Dan",
+        "lastName": "Wallis",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Reno",
+        "state": "NV",
+        "country": "USA",
+        "bib": "349",
+        "entryType": "Sponsor",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:333",
+      "attributes": {
+        "firstName": "Ken",
+        "lastName": "Ward",
+        "gender": "M",
+        "awards": null,
+        "age": 62,
+        "city": "Corvallis",
+        "state": "OR",
+        "country": "USA",
+        "bib": "350",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 7
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:334",
+      "attributes": {
+        "firstName": "Silvio",
+        "lastName": "Weber",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "Leverkusen",
+        "state": "DEU",
+        "country": "DEU",
+        "bib": "351",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:335",
+      "attributes": {
+        "firstName": "Julio",
+        "lastName": "Palma",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "Uniontown",
+        "state": "PA",
+        "country": "USA",
+        "bib": "352",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:336",
+      "attributes": {
+        "firstName": "Amber",
+        "lastName": "Weibel",
+        "gender": "F",
+        "awards": null,
+        "age": 41,
+        "city": "South Lake Tahoe",
+        "state": "CA",
+        "country": "USA",
+        "bib": "353",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:337",
+      "attributes": {
+        "firstName": "Valerie",
+        "lastName": "Welsh",
+        "gender": "F",
+        "awards": null,
+        "age": 36,
+        "city": "Sparks",
+        "state": "NV",
+        "country": "USA",
+        "bib": "354",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:338",
+      "attributes": {
+        "firstName": "Michael",
+        "lastName": "Westbrooks",
+        "gender": "M",
+        "awards": null,
+        "age": 49,
+        "city": "Richardson",
+        "state": "TX",
+        "country": "USA",
+        "bib": "355",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:339",
+      "attributes": {
+        "firstName": "Brian",
+        "lastName": "Westphal",
+        "gender": "M",
+        "awards": null,
+        "age": 55,
+        "city": "Stanley",
+        "state": "ID",
+        "country": "USA",
+        "bib": "356",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:340",
+      "attributes": {
+        "firstName": "Jason",
+        "lastName": "Wheat",
+        "gender": "M",
+        "awards": null,
+        "age": 39,
+        "city": "Scottsdale",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "357",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:341",
+      "attributes": {
+        "firstName": "Dan",
+        "lastName": "Williams",
+        "gender": "M",
+        "awards": null,
+        "age": 35,
+        "city": "Brentwood",
+        "state": "TN",
+        "country": "USA",
+        "bib": "358",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:342",
+      "attributes": {
+        "firstName": "Robert",
+        "lastName": "Woolley",
+        "gender": "M",
+        "awards": null,
+        "age": 39,
+        "city": "Orange",
+        "state": "AUS",
+        "country": "AUS",
+        "bib": "359",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:343",
+      "attributes": {
+        "firstName": "Tom",
+        "lastName": "Wroblewski",
+        "gender": "M",
+        "awards": null,
+        "age": 60,
+        "city": "Roseville",
+        "state": "CA",
+        "country": "USA",
+        "bib": "360",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 3
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:344",
+      "attributes": {
+        "firstName": "Nawid",
+        "lastName": "Wuttke",
+        "gender": "M",
+        "awards": null,
+        "age": 35,
+        "city": "Wiesenbach",
+        "state": "DEU",
+        "country": "DEU",
+        "bib": "361",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:345",
+      "attributes": {
+        "firstName": "Aleks",
+        "lastName": "Zids",
+        "gender": "M",
+        "awards": null,
+        "age": 28,
+        "city": "Manly",
+        "state": "AUS",
+        "country": "AUS",
+        "bib": "362",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:346",
+      "attributes": {
+        "firstName": "Tom",
+        "lastName": "Mangan",
+        "gender": "M",
+        "awards": null,
+        "age": 52,
+        "city": "Pittsburgh",
+        "state": "PA",
+        "country": "USA",
+        "bib": "363",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:347",
+      "attributes": {
+        "firstName": "Thiago",
+        "lastName": "Coutinho Moreira",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "Brasilia",
+        "state": "BRA",
+        "country": "BRA",
+        "bib": "364",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:348",
+      "attributes": {
+        "firstName": "Evan",
+        "lastName": "Kimber",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Superior",
+        "state": "CO",
+        "country": "USA",
+        "bib": "365",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:349",
+      "attributes": {
+        "firstName": "Tamara",
+        "lastName": "Johnson",
+        "gender": "F",
+        "awards": null,
+        "age": 54,
+        "city": "Pleasant Hill",
+        "state": "CA",
+        "country": "USA",
+        "bib": "366",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 2
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:350",
+      "attributes": {
+        "firstName": "Simon",
+        "lastName": "Sandoval",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Makati City",
+        "state": "PHL",
+        "country": "PHL",
+        "bib": "368",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:351",
+      "attributes": {
+        "firstName": "Ammon",
+        "lastName": "Piepgrass",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Harpenden",
+        "state": "GBR",
+        "country": "GBR",
+        "bib": "369",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:352",
+      "attributes": {
+        "firstName": "Dave",
+        "lastName": "Ashton",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "South Pasadena",
+        "state": "CA",
+        "country": "USA",
+        "bib": "370",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:353",
+      "attributes": {
+        "firstName": "Jukka",
+        "lastName": "Kukkonen",
+        "gender": "M",
+        "awards": null,
+        "age": 56,
+        "city": "Helsinki",
+        "state": "FIN",
+        "country": "FIN",
+        "bib": "371",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:354",
+      "attributes": {
+        "firstName": "Dan",
+        "lastName": "Savage",
+        "gender": "M",
+        "awards": null,
+        "age": 58,
+        "city": "Fair Oaks",
+        "state": "CA",
+        "country": "USA",
+        "bib": "373",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:355",
+      "attributes": {
+        "firstName": "Vicent",
+        "lastName": "Acosta Frances",
+        "gender": "M",
+        "awards": null,
+        "age": 36,
+        "city": "Banyeres de Mariola",
+        "state": "ESP",
+        "country": "ESP",
+        "bib": "374",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:356",
+      "attributes": {
+        "firstName": "Sean",
+        "lastName": "Cook",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Troutville",
+        "state": "VA",
+        "country": "USA",
+        "bib": "375",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:357",
+      "attributes": {
+        "firstName": "Michael",
+        "lastName": "Jaschob",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Oakland",
+        "state": "CA",
+        "country": "USA",
+        "bib": "377",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:358",
+      "attributes": {
+        "firstName": "Justin",
+        "lastName": "Greene",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Buellton",
+        "state": "CA",
+        "country": "USA",
+        "bib": "379",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:359",
+      "attributes": {
+        "firstName": "Ted",
+        "lastName": "Bross",
+        "gender": "M",
+        "awards": null,
+        "age": 30,
+        "city": "Boulder",
+        "state": "CO",
+        "country": "USA",
+        "bib": "380",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 1
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:360",
+      "attributes": {
+        "firstName": "Andrew",
+        "lastName": "Madsen",
+        "gender": "M",
+        "awards": null,
+        "age": 36,
+        "city": "Midland",
+        "state": "MI",
+        "country": "USA",
+        "bib": "382",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:361",
+      "attributes": {
+        "firstName": "Bryan",
+        "lastName": "Hitchcock",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Juneau",
+        "state": "AK",
+        "country": "USA",
+        "bib": "384",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:362",
+      "attributes": {
+        "firstName": "Todd",
+        "lastName": "Nott",
+        "gender": "M",
+        "awards": null,
+        "age": 55,
+        "city": "Plattsmouth",
+        "state": "NE",
+        "country": "USA",
+        "bib": "385",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:363",
+      "attributes": {
+        "firstName": "Jake",
+        "lastName": "Lawrence",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "Mankato",
+        "state": "MN",
+        "country": "USA",
+        "bib": "386",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:364",
+      "attributes": {
+        "firstName": "Jim",
+        "lastName": "Ruppert",
+        "gender": "M",
+        "awards": null,
+        "age": 56,
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA",
+        "bib": "387",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:365",
+      "attributes": {
+        "firstName": "Wil",
+        "lastName": "Cunningham",
+        "gender": "M",
+        "awards": null,
+        "age": 32,
+        "city": "Greenville",
+        "state": "SC",
+        "country": "USA",
+        "bib": "388",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:366",
+      "attributes": {
+        "firstName": "Gil",
+        "lastName": "Blank",
+        "gender": "M",
+        "awards": null,
+        "age": 55,
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "USA",
+        "bib": "389",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:367",
+      "attributes": {
+        "firstName": "Clint",
+        "lastName": "Johnson",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Alpharetta",
+        "state": "GA",
+        "country": "USA",
+        "bib": "391",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2019:368",
+      "attributes": {
+        "firstName": "John",
+        "lastName": "McKune",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Freemont",
+        "state": "CA",
+        "country": "USA",
+        "bib": "409",
+        "entryType": "Sponsor",
+        "priorFinishes": 1
+      }
+    }
+  ]
+}

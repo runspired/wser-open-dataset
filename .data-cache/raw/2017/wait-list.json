@@ -1,0 +1,1117 @@
+{
+  "data": {
+    "type": "waitlist",
+    "id": "2017",
+    "attributes": {
+      "year": 2017
+    },
+    "relationships": {
+      "applicants": {
+        "data": [
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:0"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:1"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:2"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:3"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:4"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:5"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:6"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:7"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:8"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:9"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:10"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:11"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:12"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:13"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:14"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:15"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:16"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:17"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:18"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:19"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:20"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:21"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:22"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:23"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:24"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:25"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:26"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:27"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:28"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:29"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:30"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:31"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:32"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:33"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:34"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:35"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:36"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:37"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:38"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:39"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:40"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:41"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:42"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:43"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:44"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:45"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:46"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:47"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:48"
+          },
+          {
+            "type": "waitlist-entrant",
+            "id": "2017:49"
+          }
+        ]
+      }
+    }
+  },
+  "included": [
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:0",
+      "attributes": {
+        "order": 1,
+        "status": "Entered 12/4/16",
+        "firstName": "Isaac",
+        "lastName": "Espy",
+        "gender": "M",
+        "age": "54",
+        "city": "Northport",
+        "state": "AL",
+        "country": "United States",
+        "tickets": 0,
+        "years": 7,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:1",
+      "attributes": {
+        "order": 2,
+        "status": "Entered 12/6/16",
+        "firstName": "Clint",
+        "lastName": "Welch",
+        "gender": "M",
+        "age": "40",
+        "city": "Carmichael",
+        "state": "CA",
+        "country": "United States",
+        "tickets": 0,
+        "years": 4,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:2",
+      "attributes": {
+        "order": 3,
+        "status": "Entered 12/7/16",
+        "firstName": "Brian",
+        "lastName": "Pfister",
+        "gender": "M",
+        "age": "45",
+        "city": "Wilmette",
+        "state": "IL",
+        "country": "United States",
+        "tickets": 0,
+        "years": 3,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:3",
+      "attributes": {
+        "order": 4,
+        "status": "Entered 12/12/16",
+        "firstName": "Weifeng",
+        "lastName": "Zhang",
+        "gender": "M",
+        "age": "41",
+        "city": "Xi'an",
+        "state": "CHN",
+        "country": "China",
+        "tickets": 0,
+        "years": 1,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:4",
+      "attributes": {
+        "order": 5,
+        "status": "Entered 1/19/17",
+        "firstName": "Petr",
+        "lastName": "Hruby",
+        "gender": "M",
+        "age": "43",
+        "city": "Velke Popovice",
+        "state": "CZE",
+        "country": "Czech Republic",
+        "tickets": 0,
+        "years": 3,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:5",
+      "attributes": {
+        "order": 6,
+        "status": "Entered 3/12/17",
+        "firstName": "Nic",
+        "lastName": "Errol",
+        "gender": "M",
+        "age": "31",
+        "city": "London",
+        "state": "GBR",
+        "country": "Great Britain",
+        "tickets": 0,
+        "years": 1,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:6",
+      "attributes": {
+        "order": 7,
+        "status": "Removed 1/18/17",
+        "firstName": "Tim",
+        "lastName": "Lambert",
+        "gender": "M",
+        "age": "36",
+        "city": "Bath",
+        "state": "GBR",
+        "country": "Great Britain",
+        "tickets": 0,
+        "years": 4,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:7",
+      "attributes": {
+        "order": 8,
+        "status": "Entered 4/11/17",
+        "firstName": "Jimmy",
+        "lastName": "Brown",
+        "gender": "M",
+        "age": "47",
+        "city": "Omaha",
+        "state": "NE",
+        "country": "United States",
+        "tickets": 0,
+        "years": 2,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:8",
+      "attributes": {
+        "order": 9,
+        "status": "Entered 4/24/17",
+        "firstName": "Cody",
+        "lastName": "Reeder",
+        "gender": "M",
+        "age": "46",
+        "city": "Logan",
+        "state": "UT",
+        "country": "United States",
+        "tickets": 0,
+        "years": 2,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:9",
+      "attributes": {
+        "order": 10,
+        "status": "Removed 1/5/17",
+        "firstName": "John",
+        "lastName": "Knotts",
+        "gender": "M",
+        "age": "40",
+        "city": "Evergreen",
+        "state": "CO",
+        "country": "United States",
+        "tickets": 0,
+        "years": 4,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:10",
+      "attributes": {
+        "order": 11,
+        "status": "Entered 4/25/17",
+        "firstName": "Kent",
+        "lastName": "Ryhorchuk",
+        "gender": "M",
+        "age": "42",
+        "city": "Portola Valley",
+        "state": "CA",
+        "country": "United States",
+        "tickets": 0,
+        "years": 5,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:11",
+      "attributes": {
+        "order": 12,
+        "status": "Entered 4/28/17",
+        "firstName": "Eric",
+        "lastName": "Pope",
+        "gender": "M",
+        "age": "54",
+        "city": "Albuquerque",
+        "state": "NM",
+        "country": "United States",
+        "tickets": 0,
+        "years": 2,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:12",
+      "attributes": {
+        "order": 13,
+        "status": "Entered 5/8/17",
+        "firstName": "Thomas",
+        "lastName": "Wong",
+        "gender": "M",
+        "age": "47",
+        "city": "Bloomfield",
+        "state": "NJ",
+        "country": "United States",
+        "tickets": 0,
+        "years": 4,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:13",
+      "attributes": {
+        "order": 14,
+        "status": "Entered 5/10/17",
+        "firstName": "Juli",
+        "lastName": "Aistars",
+        "gender": "F",
+        "age": "58",
+        "city": "Palatine",
+        "state": "IL",
+        "country": "United States",
+        "tickets": 0,
+        "years": 5,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:14",
+      "attributes": {
+        "order": 15,
+        "status": "Entered 5/11/17",
+        "firstName": "Larry",
+        "lastName": "Huffman",
+        "gender": "M",
+        "age": "56",
+        "city": "Great Falls",
+        "state": "VA",
+        "country": "United States",
+        "tickets": 0,
+        "years": 4,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:15",
+      "attributes": {
+        "order": 16,
+        "status": "Declined 5/22/17",
+        "firstName": "Brent",
+        "lastName": "Robinson",
+        "gender": "M",
+        "age": "36",
+        "city": "McKinney",
+        "state": "TX",
+        "country": "United States",
+        "tickets": 0,
+        "years": 5,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:16",
+      "attributes": {
+        "order": 17,
+        "status": "Declined 5/18/17",
+        "firstName": "Russell",
+        "lastName": "Pearson",
+        "gender": "M",
+        "age": "36",
+        "city": "London",
+        "state": "GBR",
+        "country": "Great Britain",
+        "tickets": 0,
+        "years": 2,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:17",
+      "attributes": {
+        "order": 18,
+        "status": "Removed 3/23/17",
+        "firstName": "Matt",
+        "lastName": "Erdman",
+        "gender": "M",
+        "age": "31",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "country": "United States",
+        "tickets": 0,
+        "years": 1,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:18",
+      "attributes": {
+        "order": 19,
+        "status": "Entered 5/18/17",
+        "firstName": "Kim",
+        "lastName": "Russell",
+        "gender": "F",
+        "age": "50",
+        "city": "Greenwood",
+        "state": "SC",
+        "country": "United States",
+        "tickets": 0,
+        "years": 3,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:19",
+      "attributes": {
+        "order": 20,
+        "status": "Entered 5/22/17",
+        "firstName": "Terry",
+        "lastName": "Hall",
+        "gender": "M",
+        "age": "39",
+        "city": "Roseville",
+        "state": "CA",
+        "country": "United States",
+        "tickets": 0,
+        "years": 3,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:20",
+      "attributes": {
+        "order": 21,
+        "status": "Entered 5/22/17",
+        "firstName": "Sean",
+        "lastName": "Nowak",
+        "gender": "M",
+        "age": "41",
+        "city": "Nairobi",
+        "state": "KEN",
+        "country": "Kenya",
+        "tickets": 0,
+        "years": 4,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:21",
+      "attributes": {
+        "order": 22,
+        "status": "Entered 5/22/17",
+        "firstName": "Peter",
+        "lastName": "Brewer",
+        "gender": "M",
+        "age": "54",
+        "city": "Klamath Falls",
+        "state": "OR",
+        "country": "United States",
+        "tickets": 0,
+        "years": 3,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:22",
+      "attributes": {
+        "order": 23,
+        "status": "Entered 5/23/17",
+        "firstName": "Sheryl",
+        "lastName": "Schlueter",
+        "gender": "F",
+        "age": "48",
+        "city": "Brighton",
+        "state": "MI",
+        "country": "United States",
+        "tickets": 0,
+        "years": 1,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:23",
+      "attributes": {
+        "order": 24,
+        "status": "Declined 5/31/17",
+        "firstName": "Shawn",
+        "lastName": "Cissel",
+        "gender": "M",
+        "age": "31",
+        "city": "Rockville",
+        "state": "MD",
+        "country": "United States",
+        "tickets": 0,
+        "years": 1,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:24",
+      "attributes": {
+        "order": 25,
+        "status": "Removed 2/26/17",
+        "firstName": "Michelle",
+        "lastName": "Underwood",
+        "gender": "F",
+        "age": "49",
+        "city": "Destin",
+        "state": "FL",
+        "country": "United States",
+        "tickets": 0,
+        "years": 1,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:25",
+      "attributes": {
+        "order": 26,
+        "status": "Removed 5/30/17",
+        "firstName": "Mike",
+        "lastName": "Rafferty",
+        "gender": "M",
+        "age": "40",
+        "city": "Stevenson Ranch",
+        "state": "CA",
+        "country": "United States",
+        "tickets": 0,
+        "years": 3,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:26",
+      "attributes": {
+        "order": 27,
+        "status": "Entered 5/31/17",
+        "firstName": "Zelko",
+        "lastName": "Krajcar",
+        "gender": "M",
+        "age": "45",
+        "city": "Gothenburg",
+        "state": "SWE",
+        "country": "Sweden",
+        "tickets": 0,
+        "years": 3,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:27",
+      "attributes": {
+        "order": 28,
+        "status": "Removed 5/23/17",
+        "firstName": "Jerry",
+        "lastName": "Abbott",
+        "gender": "M",
+        "age": "46",
+        "city": "New Market",
+        "state": "AL",
+        "country": "United States",
+        "tickets": 0,
+        "years": 4,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:28",
+      "attributes": {
+        "order": 29,
+        "status": "Declined 5/4/17",
+        "firstName": "Babak",
+        "lastName": "Rastgoufard",
+        "gender": "M",
+        "age": "44",
+        "city": "Missoula",
+        "state": "MT",
+        "country": "United States",
+        "tickets": 0,
+        "years": 4,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:29",
+      "attributes": {
+        "order": 30,
+        "status": "Entered 6/5/17",
+        "firstName": "Conan",
+        "lastName": "Blakemore",
+        "gender": "M",
+        "age": "34",
+        "city": "Conifer",
+        "state": "CO",
+        "country": "United States",
+        "tickets": 0,
+        "years": 1,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:30",
+      "attributes": {
+        "order": 31,
+        "status": "Declined 6/9/17",
+        "firstName": "Johan",
+        "lastName": "Steene",
+        "gender": "M",
+        "age": "43",
+        "city": "Stockholm",
+        "state": "SWE",
+        "country": "Sweden",
+        "tickets": 0,
+        "years": 5,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:31",
+      "attributes": {
+        "order": 32,
+        "status": "Entered 6/9/17",
+        "firstName": "Jeremy",
+        "lastName": "Lucier",
+        "gender": "M",
+        "age": "32",
+        "city": "Chantilly",
+        "state": "VA",
+        "country": "United States",
+        "tickets": 0,
+        "years": 1,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:32",
+      "attributes": {
+        "order": 33,
+        "status": "Entered 6/9/17",
+        "firstName": "Rick",
+        "lastName": "Gaston",
+        "gender": "M",
+        "age": "45",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "United States",
+        "tickets": 0,
+        "years": 6,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:33",
+      "attributes": {
+        "order": 34,
+        "status": "Entered 6/12/17",
+        "firstName": "Andrew",
+        "lastName": "Gzybowski",
+        "gender": "M",
+        "age": "35",
+        "city": "Larkspur",
+        "state": "CO",
+        "country": "United States",
+        "tickets": 0,
+        "years": 2,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:34",
+      "attributes": {
+        "order": 35,
+        "status": "Entered 6/12/17",
+        "firstName": "Pamela",
+        "lastName": "Kian",
+        "gender": "F",
+        "age": "57",
+        "city": "Orangevale",
+        "state": "CA",
+        "country": "United States",
+        "tickets": 0,
+        "years": 1,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:35",
+      "attributes": {
+        "order": 36,
+        "status": "Entered 6/12/17",
+        "firstName": "Andrew",
+        "lastName": "Chapello",
+        "gender": "M",
+        "age": "28",
+        "city": "San Franciso",
+        "state": "CA",
+        "country": "United States",
+        "tickets": 0,
+        "years": 1,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:36",
+      "attributes": {
+        "order": 37,
+        "status": "Entered 6/20/17",
+        "firstName": "James",
+        "lastName": "Whipple",
+        "gender": "M",
+        "age": "39",
+        "city": "Norwalk",
+        "state": "CT",
+        "country": "United States",
+        "tickets": 0,
+        "years": 3,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:37",
+      "attributes": {
+        "order": 38,
+        "status": "Removed 6/15/17",
+        "firstName": "Ryan",
+        "lastName": "Witko",
+        "gender": "M",
+        "age": "33",
+        "city": "Brooklyn",
+        "state": "NY",
+        "country": "United States",
+        "tickets": 0,
+        "years": 3,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:38",
+      "attributes": {
+        "order": 39,
+        "status": "Entered 6/23/17",
+        "firstName": "John",
+        "lastName": "Fegyveresi",
+        "gender": "M",
+        "age": "40",
+        "city": "Quechee",
+        "state": "VT",
+        "country": "United States",
+        "tickets": 0,
+        "years": 6,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:39",
+      "attributes": {
+        "order": 40,
+        "status": "Removed 6/15/17",
+        "firstName": "Vance",
+        "lastName": "Harris",
+        "gender": "M",
+        "age": "58",
+        "city": "Co. Dublin",
+        "state": "IRL",
+        "country": "Ireland",
+        "tickets": 0,
+        "years": 4,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:40",
+      "attributes": {
+        "order": 41,
+        "status": null,
+        "firstName": "Greg",
+        "lastName": "Grady",
+        "gender": "M",
+        "age": "38",
+        "city": "San Tan Valley",
+        "state": "AZ",
+        "country": "United States",
+        "tickets": 0,
+        "years": 3,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:41",
+      "attributes": {
+        "order": 42,
+        "status": null,
+        "firstName": "Paul",
+        "lastName": "Gorman",
+        "gender": "M",
+        "age": "49",
+        "city": "Redwood City",
+        "state": "CA",
+        "country": "United States",
+        "tickets": 0,
+        "years": 1,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:42",
+      "attributes": {
+        "order": 43,
+        "status": "Removed 6/16/17",
+        "firstName": "Tess",
+        "lastName": "Osborne",
+        "gender": "F",
+        "age": "29",
+        "city": "Mars",
+        "state": "PA",
+        "country": "United States",
+        "tickets": 0,
+        "years": 2,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:43",
+      "attributes": {
+        "order": 44,
+        "status": "Removed 6/16/17",
+        "firstName": "Gregory",
+        "lastName": "Renden",
+        "gender": "M",
+        "age": "39",
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "United States",
+        "tickets": 0,
+        "years": 4,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:44",
+      "attributes": {
+        "order": 45,
+        "status": null,
+        "firstName": "Andy",
+        "lastName": "Starostka",
+        "gender": "M",
+        "age": "49",
+        "city": "Reno",
+        "state": "NV",
+        "country": "United States",
+        "tickets": 0,
+        "years": 3,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:45",
+      "attributes": {
+        "order": 46,
+        "status": null,
+        "firstName": "Michael",
+        "lastName": "Senior",
+        "gender": "M",
+        "age": "55",
+        "city": "North Vancouver",
+        "state": "BC",
+        "country": "Canada",
+        "tickets": 0,
+        "years": 1,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:46",
+      "attributes": {
+        "order": 47,
+        "status": null,
+        "firstName": "Kelley",
+        "lastName": "Puckett",
+        "gender": "F",
+        "age": "36",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "United States",
+        "tickets": 0,
+        "years": 4,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:47",
+      "attributes": {
+        "order": 48,
+        "status": "Removed 6/16/17",
+        "firstName": "Carolyn",
+        "lastName": "Caskie",
+        "gender": "F",
+        "age": "30",
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "tickets": 0,
+        "years": 4,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:48",
+      "attributes": {
+        "order": 49,
+        "status": null,
+        "firstName": "Nathan",
+        "lastName": "Leehman",
+        "gender": "M",
+        "age": "43",
+        "city": "Charlotte",
+        "state": "NC",
+        "country": "United States",
+        "tickets": 0,
+        "years": 5,
+        "bib": null
+      }
+    },
+    {
+      "type": "waitlist-entrant",
+      "id": "2017:49",
+      "attributes": {
+        "order": 50,
+        "status": null,
+        "firstName": "Will",
+        "lastName": "Green",
+        "gender": "M",
+        "age": "35",
+        "city": "Fort Worth",
+        "state": "TX",
+        "country": "United States",
+        "tickets": 0,
+        "years": 1,
+        "bib": null
+      }
+    }
+  ]
+}

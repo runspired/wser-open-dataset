@@ -1,0 +1,6947 @@
+{
+  "data": {
+    "type": "entrants-list",
+    "id": "2021",
+    "attributes": {
+      "year": 2021
+    },
+    "relationships": {
+      "applicants": {
+        "data": [
+          {
+            "type": "entrant",
+            "id": "2021:0"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:1"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:2"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:3"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:4"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:5"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:6"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:7"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:8"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:9"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:10"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:11"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:12"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:13"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:14"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:15"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:16"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:17"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:18"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:19"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:20"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:21"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:22"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:23"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:24"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:25"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:26"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:27"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:28"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:29"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:30"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:31"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:32"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:33"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:34"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:35"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:36"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:37"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:38"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:39"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:40"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:41"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:42"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:43"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:44"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:45"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:46"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:47"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:48"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:49"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:50"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:51"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:52"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:53"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:54"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:55"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:56"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:57"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:58"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:59"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:60"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:61"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:62"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:63"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:64"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:65"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:66"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:67"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:68"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:69"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:70"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:71"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:72"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:73"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:74"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:75"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:76"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:77"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:78"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:79"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:80"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:81"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:82"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:83"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:84"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:85"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:86"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:87"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:88"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:89"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:90"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:91"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:92"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:93"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:94"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:95"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:96"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:97"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:98"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:99"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:100"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:101"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:102"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:103"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:104"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:105"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:106"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:107"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:108"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:109"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:110"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:111"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:112"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:113"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:114"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:115"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:116"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:117"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:118"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:119"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:120"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:121"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:122"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:123"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:124"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:125"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:126"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:127"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:128"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:129"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:130"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:131"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:132"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:133"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:134"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:135"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:136"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:137"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:138"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:139"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:140"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:141"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:142"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:143"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:144"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:145"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:146"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:147"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:148"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:149"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:150"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:151"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:152"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:153"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:154"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:155"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:156"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:157"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:158"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:159"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:160"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:161"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:162"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:163"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:164"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:165"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:166"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:167"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:168"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:169"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:170"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:171"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:172"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:173"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:174"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:175"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:176"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:177"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:178"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:179"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:180"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:181"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:182"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:183"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:184"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:185"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:186"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:187"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:188"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:189"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:190"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:191"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:192"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:193"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:194"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:195"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:196"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:197"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:198"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:199"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:200"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:201"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:202"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:203"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:204"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:205"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:206"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:207"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:208"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:209"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:210"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:211"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:212"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:213"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:214"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:215"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:216"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:217"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:218"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:219"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:220"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:221"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:222"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:223"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:224"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:225"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:226"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:227"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:228"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:229"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:230"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:231"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:232"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:233"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:234"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:235"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:236"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:237"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:238"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:239"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:240"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:241"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:242"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:243"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:244"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:245"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:246"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:247"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:248"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:249"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:250"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:251"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:252"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:253"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:254"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:255"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:256"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:257"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:258"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:259"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:260"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:261"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:262"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:263"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:264"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:265"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:266"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:267"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:268"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:269"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:270"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:271"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:272"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:273"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:274"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:275"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:276"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:277"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:278"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:279"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:280"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:281"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:282"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:283"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:284"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:285"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:286"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:287"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:288"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:289"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:290"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:291"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:292"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:293"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:294"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:295"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:296"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:297"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:298"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:299"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:300"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:301"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:302"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:303"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:304"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:305"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:306"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:307"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:308"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:309"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:310"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:311"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:312"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:313"
+          },
+          {
+            "type": "entrant",
+            "id": "2021:314"
+          }
+        ]
+      }
+    }
+  },
+  "included": [
+    {
+      "type": "entrant",
+      "id": "2021:0",
+      "attributes": {
+        "firstName": "Clare",
+        "lastName": "Gallagher",
+        "gender": "F",
+        "awards": null,
+        "age": 29,
+        "city": "Boulder",
+        "state": "CO",
+        "country": "USA",
+        "bib": "F1",
+        "entryType": "Top Ten",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:1",
+      "attributes": {
+        "firstName": "Brittany",
+        "lastName": "Peterson",
+        "gender": "F",
+        "awards": null,
+        "age": 35,
+        "city": "Pocatello",
+        "state": "ID",
+        "country": "USA",
+        "bib": "F2",
+        "entryType": "Top Ten",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:2",
+      "attributes": {
+        "firstName": "Kaci",
+        "lastName": "Lickteig",
+        "gender": "F",
+        "awards": null,
+        "age": 34,
+        "city": "Omaha",
+        "state": "NE",
+        "country": "USA",
+        "bib": "F3",
+        "entryType": "Top Ten",
+        "priorFinishes": 6,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:3",
+      "attributes": {
+        "firstName": "Beth",
+        "lastName": "Pascall",
+        "gender": "F",
+        "awards": null,
+        "age": 33,
+        "city": "Belper",
+        "state": "GBR",
+        "country": "GBR",
+        "bib": "F4",
+        "entryType": "Top Ten",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:4",
+      "attributes": {
+        "firstName": "Camelia",
+        "lastName": "Mayfield",
+        "gender": "F",
+        "awards": null,
+        "age": 28,
+        "city": "Bend",
+        "state": "OR",
+        "country": "USA",
+        "bib": "F5",
+        "entryType": "Top Ten",
+        "priorFinishes": 2,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:5",
+      "attributes": {
+        "firstName": "Nicole",
+        "lastName": "Bitter",
+        "gender": "F",
+        "awards": null,
+        "age": 39,
+        "city": "Phoenix",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "F7",
+        "entryType": "Top Ten",
+        "priorFinishes": 4,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:6",
+      "attributes": {
+        "firstName": "Kathryn",
+        "lastName": "Drew",
+        "gender": "F",
+        "awards": null,
+        "age": 34,
+        "city": "Vancouver",
+        "state": "BC",
+        "country": "CAN",
+        "bib": "F8",
+        "entryType": "Top Ten",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:7",
+      "attributes": {
+        "firstName": "Addie",
+        "lastName": "Bracy",
+        "gender": "F",
+        "awards": null,
+        "age": 34,
+        "city": "Denver",
+        "state": "CO",
+        "country": "USA",
+        "bib": "F9",
+        "entryType": "Top Ten",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:8",
+      "attributes": {
+        "firstName": "Jim",
+        "lastName": "Walmsley",
+        "gender": "M",
+        "awards": null,
+        "age": 31,
+        "city": "Flagstaff",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "M1",
+        "entryType": "Sponsor",
+        "priorFinishes": 3,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:9",
+      "attributes": {
+        "firstName": "Jared",
+        "lastName": "Hazen",
+        "gender": "M",
+        "awards": null,
+        "age": 26,
+        "city": "Flagstaff",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "M2",
+        "entryType": "Top Ten",
+        "priorFinishes": 3,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:10",
+      "attributes": {
+        "firstName": "Matt",
+        "lastName": "Daniels",
+        "gender": "M",
+        "awards": null,
+        "age": 33,
+        "city": "Monument",
+        "state": "CO",
+        "country": "USA",
+        "bib": "M4",
+        "entryType": "Top Ten",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:11",
+      "attributes": {
+        "firstName": "Mark",
+        "lastName": "Hammond",
+        "gender": "M",
+        "awards": null,
+        "age": 36,
+        "city": "Cottonwood Heights",
+        "state": "UT",
+        "country": "USA",
+        "bib": "M5",
+        "entryType": "Top Ten",
+        "priorFinishes": 3,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:12",
+      "attributes": {
+        "firstName": "Stephen",
+        "lastName": "Kersh",
+        "gender": "M",
+        "awards": null,
+        "age": 29,
+        "city": "FLAGSTAFF",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "M7",
+        "entryType": "Top Ten",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:13",
+      "attributes": {
+        "firstName": "Patrick",
+        "lastName": "Reagan",
+        "gender": "M",
+        "awards": null,
+        "age": 34,
+        "city": "Savannah",
+        "state": "GA",
+        "country": "USA",
+        "bib": "M8",
+        "entryType": "Top Ten",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:14",
+      "attributes": {
+        "firstName": "Jeff",
+        "lastName": "Browning",
+        "gender": "M",
+        "awards": null,
+        "age": 49,
+        "city": "Bozeman",
+        "state": "MT",
+        "country": "USA",
+        "bib": "M9",
+        "entryType": "Top Ten",
+        "priorFinishes": 5,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:15",
+      "attributes": {
+        "firstName": "Kyle",
+        "lastName": "Pietari",
+        "gender": "M",
+        "awards": null,
+        "age": 34,
+        "city": "Edgewater",
+        "state": "CO",
+        "country": "USA",
+        "bib": "M10",
+        "entryType": "Top Ten",
+        "priorFinishes": 4,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:16",
+      "attributes": {
+        "firstName": "Ragna",
+        "lastName": "Debats",
+        "gender": "F",
+        "awards": null,
+        "age": 42,
+        "city": "Matadepera",
+        "state": "ESP",
+        "country": "ESP",
+        "bib": "11",
+        "entryType": "UTWT",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:17",
+      "attributes": {
+        "firstName": "Ruth",
+        "lastName": "Croft",
+        "gender": "F",
+        "awards": null,
+        "age": 32,
+        "city": "Stillwater, Greymouth",
+        "state": "NZL",
+        "country": "NZL",
+        "bib": "13",
+        "entryType": "UTWT",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:18",
+      "attributes": {
+        "firstName": "Hayden",
+        "lastName": "Hawks",
+        "gender": "M",
+        "awards": null,
+        "age": 30,
+        "city": "Cedar City",
+        "state": "UT",
+        "country": "USA",
+        "bib": "14",
+        "entryType": "UTWT",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:19",
+      "attributes": {
+        "firstName": "Keely",
+        "lastName": "Henninger",
+        "gender": "F",
+        "awards": null,
+        "age": 29,
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "bib": "15",
+        "entryType": "UTWT",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:20",
+      "attributes": {
+        "firstName": "Camille",
+        "lastName": "Herron",
+        "gender": "F",
+        "awards": null,
+        "age": 39,
+        "city": "Alamosa",
+        "state": "CO",
+        "country": "USA",
+        "bib": "16",
+        "entryType": "UTWT",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:21",
+      "attributes": {
+        "firstName": "Audrey",
+        "lastName": "Tanguy",
+        "gender": "F",
+        "awards": null,
+        "age": 33,
+        "city": "Saint Pierre d'Albigny",
+        "state": "FRA",
+        "country": "FRA",
+        "bib": "19",
+        "entryType": "UTWT",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:22",
+      "attributes": {
+        "firstName": "Tim",
+        "lastName": "Tollefson",
+        "gender": "M",
+        "awards": null,
+        "age": 36,
+        "city": "Mammoth Lakes",
+        "state": "CA",
+        "country": "USA",
+        "bib": "20",
+        "entryType": "UTWT",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:23",
+      "attributes": {
+        "firstName": "Michelle",
+        "lastName": "Magagna",
+        "gender": "F",
+        "awards": null,
+        "age": 30,
+        "city": "Portage",
+        "state": "MI",
+        "country": "USA",
+        "bib": "22",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:24",
+      "attributes": {
+        "firstName": "Drew",
+        "lastName": "Holmen",
+        "gender": "M",
+        "awards": null,
+        "age": 29,
+        "city": "Boulder",
+        "state": "CO",
+        "country": "USA",
+        "bib": "23",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:25",
+      "attributes": {
+        "firstName": "Alex",
+        "lastName": "Nichols",
+        "gender": "M",
+        "awards": null,
+        "age": 36,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "country": "USA",
+        "bib": "24",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:26",
+      "attributes": {
+        "firstName": "Charlie",
+        "lastName": "Ware",
+        "gender": "M",
+        "awards": null,
+        "age": 35,
+        "city": "Tucson",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "27",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 3,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:27",
+      "attributes": {
+        "firstName": "Elliot",
+        "lastName": "Cardin",
+        "gender": "M",
+        "awards": null,
+        "age": 28,
+        "city": "Bromont",
+        "state": "QC",
+        "country": "CAN",
+        "bib": "28",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:28",
+      "attributes": {
+        "firstName": "Katie",
+        "lastName": "Asmuth",
+        "gender": "F",
+        "awards": null,
+        "age": 35,
+        "city": "Culver City",
+        "state": "CA",
+        "country": "USA",
+        "bib": "29",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:29",
+      "attributes": {
+        "firstName": "Erin",
+        "lastName": "Clark",
+        "gender": "F",
+        "awards": null,
+        "age": 26,
+        "city": "Missoula",
+        "state": "MT",
+        "country": "USA",
+        "bib": "30",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:30",
+      "attributes": {
+        "firstName": "Ryan",
+        "lastName": "Miller",
+        "gender": "M",
+        "awards": null,
+        "age": 29,
+        "city": "San Antonio",
+        "state": "TX",
+        "country": "USA",
+        "bib": "31",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:31",
+      "attributes": {
+        "firstName": "Cody",
+        "lastName": "Lind",
+        "gender": "M",
+        "awards": null,
+        "age": 26,
+        "city": "Challis",
+        "state": "ID",
+        "country": "USA",
+        "bib": "32",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:32",
+      "attributes": {
+        "firstName": "Sarah",
+        "lastName": "Keyes",
+        "gender": "F",
+        "awards": null,
+        "age": 36,
+        "city": "Saranac lake",
+        "state": "NY",
+        "country": "USA",
+        "bib": "33",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:33",
+      "attributes": {
+        "firstName": "Mireya",
+        "lastName": "Vargas",
+        "gender": "F",
+        "awards": null,
+        "age": 36,
+        "city": "Pasadena",
+        "state": "CA",
+        "country": "USA",
+        "bib": "34",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:34",
+      "attributes": {
+        "firstName": "Tyler",
+        "lastName": "Green",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "bib": "35",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:35",
+      "attributes": {
+        "firstName": "Eric",
+        "lastName": "Senseman",
+        "gender": "M",
+        "awards": null,
+        "age": 32,
+        "city": "Flagstaff",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "36",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:36",
+      "attributes": {
+        "firstName": "Abby",
+        "lastName": "Hall",
+        "gender": "F",
+        "awards": null,
+        "age": 30,
+        "city": "Boulder",
+        "state": "CO",
+        "country": "USA",
+        "bib": "37",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:37",
+      "attributes": {
+        "firstName": "Emily",
+        "lastName": "Hawgood",
+        "gender": "F",
+        "awards": null,
+        "age": 26,
+        "city": "Beatrice",
+        "state": "ZWE",
+        "country": "ZWE",
+        "bib": "38",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:38",
+      "attributes": {
+        "firstName": "Max",
+        "lastName": "King",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Bend",
+        "state": "OR",
+        "country": "USA",
+        "bib": "40",
+        "entryType": "Golden Ticket",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:39",
+      "attributes": {
+        "firstName": "Jorge",
+        "lastName": "Maravilla",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Mill Valley",
+        "state": "CA",
+        "country": "USA",
+        "bib": "41",
+        "entryType": "Sponsor",
+        "priorFinishes": 3,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:40",
+      "attributes": {
+        "firstName": "Magdalena",
+        "lastName": "Boulet",
+        "gender": "F",
+        "awards": null,
+        "age": 47,
+        "city": "Oakland",
+        "state": "CA",
+        "country": "USA",
+        "bib": "42",
+        "entryType": "Sponsor",
+        "priorFinishes": 2,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:41",
+      "attributes": {
+        "firstName": "Scott",
+        "lastName": "Wolfe",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Bend",
+        "state": "OR",
+        "country": "USA",
+        "bib": "47",
+        "entryType": "Race Admin",
+        "priorFinishes": 3,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:42",
+      "attributes": {
+        "firstName": "Tom",
+        "lastName": "Afschar",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "South Pasadena",
+        "state": "CA",
+        "country": "USA",
+        "bib": "50",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:43",
+      "attributes": {
+        "firstName": "Timothy",
+        "lastName": "Christoni",
+        "gender": "M",
+        "awards": null,
+        "age": 52,
+        "city": "La Crescenta",
+        "state": "CA",
+        "country": "USA",
+        "bib": "52",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:44",
+      "attributes": {
+        "firstName": "Shannon",
+        "lastName": "Howell",
+        "gender": "F",
+        "awards": null,
+        "age": 42,
+        "city": "Simpsonville",
+        "state": "SC",
+        "country": "USA",
+        "bib": "53",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:45",
+      "attributes": {
+        "firstName": "Verity",
+        "lastName": "Breen",
+        "gender": "F",
+        "awards": null,
+        "age": 54,
+        "city": "Nicasio",
+        "state": "CA",
+        "country": "USA",
+        "bib": "54",
+        "entryType": "Raffle",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:46",
+      "attributes": {
+        "firstName": "Dan",
+        "lastName": "Barger",
+        "gender": "M",
+        "awards": null,
+        "age": 55,
+        "city": "Steamboat Springs",
+        "state": "CO",
+        "country": "USA",
+        "bib": "55",
+        "entryType": "Race Admin",
+        "priorFinishes": 12,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:47",
+      "attributes": {
+        "firstName": "John",
+        "lastName": "Nichols",
+        "gender": "M",
+        "awards": null,
+        "age": 56,
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "USA",
+        "bib": "56",
+        "entryType": "Raffle",
+        "priorFinishes": 11,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:48",
+      "attributes": {
+        "firstName": "Joe",
+        "lastName": "Steinmetz",
+        "gender": "M",
+        "awards": null,
+        "age": 57,
+        "city": "Loomis",
+        "state": "CA",
+        "country": "USA",
+        "bib": "57",
+        "entryType": "Race Admin",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:49",
+      "attributes": {
+        "firstName": "John",
+        "lastName": "Trent",
+        "gender": "M",
+        "awards": null,
+        "age": 58,
+        "city": "Reno",
+        "state": "NV",
+        "country": "USA",
+        "bib": "58",
+        "entryType": "BOD",
+        "priorFinishes": 10,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:50",
+      "attributes": {
+        "firstName": "Mike",
+        "lastName": "Acer",
+        "gender": "M",
+        "awards": null,
+        "age": 59,
+        "city": "Yardley",
+        "state": "PA",
+        "country": "USA",
+        "bib": "59",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:51",
+      "attributes": {
+        "firstName": "Donn",
+        "lastName": "Zea",
+        "gender": "M",
+        "awards": null,
+        "age": 63,
+        "city": "Grass Valley",
+        "state": "CA",
+        "country": "USA",
+        "bib": "63",
+        "entryType": "BOD",
+        "priorFinishes": 6,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:52",
+      "attributes": {
+        "firstName": "Carroll",
+        "lastName": "Bush",
+        "gender": "M",
+        "awards": null,
+        "age": 56,
+        "city": "ORANGEVALE",
+        "state": "CA",
+        "country": "USA",
+        "bib": "64",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:53",
+      "attributes": {
+        "firstName": "Karen",
+        "lastName": "Bonnett-Natraj",
+        "gender": "F",
+        "awards": null,
+        "age": 65,
+        "city": "Auburn",
+        "state": "CA",
+        "country": "USA",
+        "bib": "65",
+        "entryType": "Bonus Lottery",
+        "priorFinishes": 3,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:54",
+      "attributes": {
+        "firstName": "Scott",
+        "lastName": "Howell",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Longmont",
+        "state": "CO",
+        "country": "USA",
+        "bib": "66",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:55",
+      "attributes": {
+        "firstName": "Kara",
+        "lastName": "Teklinski",
+        "gender": "F",
+        "awards": null,
+        "age": 47,
+        "city": "Mill Valley",
+        "state": "CA",
+        "country": "USA",
+        "bib": "68",
+        "entryType": "Race Admin",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:56",
+      "attributes": {
+        "firstName": "Aaron",
+        "lastName": "Ellison",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Ellicott City",
+        "state": "MD",
+        "country": "USA",
+        "bib": "69",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:57",
+      "attributes": {
+        "firstName": "Joshua",
+        "lastName": "Holer",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Nathrop",
+        "state": "CO",
+        "country": "USA",
+        "bib": "70",
+        "entryType": "Raffle",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:58",
+      "attributes": {
+        "firstName": "David",
+        "lastName": "Aguayo",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "San Luis Obispo",
+        "state": "CA",
+        "country": "USA",
+        "bib": "71",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:59",
+      "attributes": {
+        "firstName": "Steve",
+        "lastName": "Osborne",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "San Ramon",
+        "state": "CA",
+        "country": "USA",
+        "bib": "73",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:60",
+      "attributes": {
+        "firstName": "Jack",
+        "lastName": "Hsueh",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Kensington",
+        "state": "CA",
+        "country": "USA",
+        "bib": "74",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:61",
+      "attributes": {
+        "firstName": "Jim",
+        "lastName": "McCaffrey",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Hamden",
+        "state": "CT",
+        "country": "USA",
+        "bib": "76",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:62",
+      "attributes": {
+        "firstName": "Huy",
+        "lastName": "Le",
+        "gender": "F",
+        "awards": null,
+        "age": 49,
+        "city": "Redlands",
+        "state": "CA",
+        "country": "USA",
+        "bib": "78",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:63",
+      "attributes": {
+        "firstName": "Michael",
+        "lastName": "Alfred",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Denver",
+        "state": "CO",
+        "country": "USA",
+        "bib": "79",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:64",
+      "attributes": {
+        "firstName": "Cody",
+        "lastName": "Draper",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Smithfield",
+        "state": "UT",
+        "country": "USA",
+        "bib": "80",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:65",
+      "attributes": {
+        "firstName": "Nick",
+        "lastName": "Affleck",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Chico",
+        "state": "CA",
+        "country": "USA",
+        "bib": "81",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:66",
+      "attributes": {
+        "firstName": "Cheryl",
+        "lastName": "Anderson",
+        "gender": "F",
+        "awards": null,
+        "age": 48,
+        "city": "Saline",
+        "state": "MI",
+        "country": "USA",
+        "bib": "82",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:67",
+      "attributes": {
+        "firstName": "Adam",
+        "lastName": "Aucella",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Nevada City",
+        "state": "CA",
+        "country": "USA",
+        "bib": "84",
+        "entryType": "Raffle",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:68",
+      "attributes": {
+        "firstName": "Brett",
+        "lastName": "Sherfy",
+        "gender": "M",
+        "awards": null,
+        "age": 33,
+        "city": "Blacksburg",
+        "state": "VA",
+        "country": "USA",
+        "bib": "87",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:69",
+      "attributes": {
+        "firstName": "Victor",
+        "lastName": "Yang",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Palos Verdes estates",
+        "state": "CA",
+        "country": "USA",
+        "bib": "88",
+        "entryType": "Sponsor",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:70",
+      "attributes": {
+        "firstName": "Jack",
+        "lastName": "Bailey",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Medway",
+        "state": "MA",
+        "country": "USA",
+        "bib": "90",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:71",
+      "attributes": {
+        "firstName": "Kelly",
+        "lastName": "Barber",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Woodland",
+        "state": "CA",
+        "country": "USA",
+        "bib": "91",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 3,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:72",
+      "attributes": {
+        "firstName": "Katie",
+        "lastName": "Trent",
+        "gender": "F",
+        "awards": null,
+        "age": 28,
+        "city": "Reno",
+        "state": "NV",
+        "country": "USA",
+        "bib": "92",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:73",
+      "attributes": {
+        "firstName": "Michael",
+        "lastName": "Fink",
+        "gender": "M",
+        "awards": null,
+        "age": 52,
+        "city": "Lincoln",
+        "state": "CA",
+        "country": "USA",
+        "bib": "93",
+        "entryType": "Bonus Lottery",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:74",
+      "attributes": {
+        "firstName": "Luke",
+        "lastName": "Bateman",
+        "gender": "M",
+        "awards": null,
+        "age": 35,
+        "city": "Dallas",
+        "state": "TX",
+        "country": "USA",
+        "bib": "95",
+        "entryType": "Sponsor",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:75",
+      "attributes": {
+        "firstName": "Redfield",
+        "lastName": "Baum",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Scottsdale",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "96",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:76",
+      "attributes": {
+        "firstName": "Drew",
+        "lastName": "Bennett",
+        "gender": "M",
+        "awards": null,
+        "age": 57,
+        "city": "Northville",
+        "state": "MI",
+        "country": "USA",
+        "bib": "97",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:77",
+      "attributes": {
+        "firstName": "Jeanne",
+        "lastName": "Bennett",
+        "gender": "F",
+        "awards": null,
+        "age": 46,
+        "city": "Lewisville",
+        "state": "NC",
+        "country": "USA",
+        "bib": "98",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:78",
+      "attributes": {
+        "firstName": "Sarah",
+        "lastName": "Greenlee",
+        "gender": "F",
+        "awards": null,
+        "age": 36,
+        "city": "San Diego",
+        "state": "CA",
+        "country": "USA",
+        "bib": "99",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:79",
+      "attributes": {
+        "firstName": "Philip",
+        "lastName": "Sanderson",
+        "gender": "M",
+        "awards": null,
+        "age": 53,
+        "city": "Mill Valley",
+        "state": "CA",
+        "country": "USA",
+        "bib": "100",
+        "entryType": "Sponsor",
+        "priorFinishes": 6,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:80",
+      "attributes": {
+        "firstName": "Drew",
+        "lastName": "Bernhisel",
+        "gender": "M",
+        "awards": null,
+        "age": 29,
+        "city": "El Paso",
+        "state": "TX",
+        "country": "USA",
+        "bib": "102",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:81",
+      "attributes": {
+        "firstName": "Josh",
+        "lastName": "Bonkowsky",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Salt Lake City",
+        "state": "UT",
+        "country": "USA",
+        "bib": "103",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:82",
+      "attributes": {
+        "firstName": "Paul",
+        "lastName": "Bonnett",
+        "gender": "M",
+        "awards": null,
+        "age": 59,
+        "city": "Phoenix",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "104",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 4,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:83",
+      "attributes": {
+        "firstName": "Debbie",
+        "lastName": "Booth",
+        "gender": "F",
+        "awards": null,
+        "age": 48,
+        "city": "Auburn",
+        "state": "CA",
+        "country": "USA",
+        "bib": "105",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:84",
+      "attributes": {
+        "firstName": "Will",
+        "lastName": "Briggs",
+        "gender": "M",
+        "awards": null,
+        "age": 32,
+        "city": "Poway",
+        "state": "CA",
+        "country": "USA",
+        "bib": "106",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:85",
+      "attributes": {
+        "firstName": "Kevin",
+        "lastName": "Doty",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Longmont",
+        "state": "CO",
+        "country": "USA",
+        "bib": "108",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:86",
+      "attributes": {
+        "firstName": "Stacey",
+        "lastName": "Buckley",
+        "gender": "F",
+        "awards": null,
+        "age": 45,
+        "city": "Omaha",
+        "state": "NE",
+        "country": "USA",
+        "bib": "109",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:87",
+      "attributes": {
+        "firstName": "Travis",
+        "lastName": "Burmaster",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Broomfield",
+        "state": "CO",
+        "country": "USA",
+        "bib": "110",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:88",
+      "attributes": {
+        "firstName": "Dan",
+        "lastName": "Balestrieri",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Billerica",
+        "state": "MA",
+        "country": "USA",
+        "bib": "111",
+        "entryType": "Raffle",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:89",
+      "attributes": {
+        "firstName": "Matt",
+        "lastName": "Campbell",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "Bothell",
+        "state": "WA",
+        "country": "USA",
+        "bib": "112",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:90",
+      "attributes": {
+        "firstName": "Robb",
+        "lastName": "Gushiken",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Carabietta",
+        "state": "CHE",
+        "country": "CHE",
+        "bib": "113",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:91",
+      "attributes": {
+        "firstName": "Jesse",
+        "lastName": "Canfield",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Apalachin",
+        "state": "NY",
+        "country": "USA",
+        "bib": "114",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:92",
+      "attributes": {
+        "firstName": "Michael",
+        "lastName": "Stegura",
+        "gender": "M",
+        "awards": null,
+        "age": 30,
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "USA",
+        "bib": "115",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:93",
+      "attributes": {
+        "firstName": "Grant",
+        "lastName": "Carboni",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "USA",
+        "bib": "116",
+        "entryType": "Raffle",
+        "priorFinishes": 2,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:94",
+      "attributes": {
+        "firstName": "Ej",
+        "lastName": "Maldonado",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Carson City",
+        "state": "NV",
+        "country": "USA",
+        "bib": "117",
+        "entryType": "Race Admin",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:95",
+      "attributes": {
+        "firstName": "Dwight",
+        "lastName": "Brown",
+        "gender": "M",
+        "awards": null,
+        "age": 60,
+        "city": "Los Altos",
+        "state": "CA",
+        "country": "USA",
+        "bib": "118",
+        "entryType": "Race Admin",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:96",
+      "attributes": {
+        "firstName": "Donal",
+        "lastName": "Carroll",
+        "gender": "M",
+        "awards": null,
+        "age": 54,
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA",
+        "bib": "120",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:97",
+      "attributes": {
+        "firstName": "Richard",
+        "lastName": "Coughlin",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Charlotte",
+        "state": "NC",
+        "country": "USA",
+        "bib": "121",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:98",
+      "attributes": {
+        "firstName": "Katherine",
+        "lastName": "Gifford",
+        "gender": "F",
+        "awards": null,
+        "age": 46,
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "USA",
+        "bib": "122",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:99",
+      "attributes": {
+        "firstName": "Joel",
+        "lastName": "Carson",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Carmichael",
+        "state": "CA",
+        "country": "USA",
+        "bib": "124",
+        "entryType": "Bonus Lottery",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:100",
+      "attributes": {
+        "firstName": "Robert",
+        "lastName": "Cawood",
+        "gender": "M",
+        "awards": null,
+        "age": 52,
+        "city": "Annapolis",
+        "state": "MD",
+        "country": "USA",
+        "bib": "125",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:101",
+      "attributes": {
+        "firstName": "Michael",
+        "lastName": "Bunda",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Saint Paul",
+        "state": "MN",
+        "country": "USA",
+        "bib": "126",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:102",
+      "attributes": {
+        "firstName": "Michael",
+        "lastName": "Hooker",
+        "gender": "M",
+        "awards": null,
+        "age": 53,
+        "city": "Anaheim",
+        "state": "CA",
+        "country": "USA",
+        "bib": "127",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:103",
+      "attributes": {
+        "firstName": "Megan",
+        "lastName": "Cheng",
+        "gender": "F",
+        "awards": null,
+        "age": 40,
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA",
+        "bib": "129",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:104",
+      "attributes": {
+        "firstName": "Joseph",
+        "lastName": "Chick",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Ashland",
+        "state": "OR",
+        "country": "USA",
+        "bib": "130",
+        "entryType": "Race Admin",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:105",
+      "attributes": {
+        "firstName": "Matthew",
+        "lastName": "Clark",
+        "gender": "M",
+        "awards": null,
+        "age": 53,
+        "city": "Highland",
+        "state": "UT",
+        "country": "USA",
+        "bib": "133",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:106",
+      "attributes": {
+        "firstName": "Kris",
+        "lastName": "Clinard",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Larkspur",
+        "state": "CA",
+        "country": "USA",
+        "bib": "134",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:107",
+      "attributes": {
+        "firstName": "Jill",
+        "lastName": "Cole",
+        "gender": "F",
+        "awards": null,
+        "age": 50,
+        "city": "Los Gatos",
+        "state": "CA",
+        "country": "USA",
+        "bib": "135",
+        "entryType": "Race Admin",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:108",
+      "attributes": {
+        "firstName": "Jeffrey",
+        "lastName": "Conner",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Reno",
+        "state": "NV",
+        "country": "USA",
+        "bib": "136",
+        "entryType": "Race Admin",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:109",
+      "attributes": {
+        "firstName": "Sharleen",
+        "lastName": "Stevens",
+        "gender": "F",
+        "awards": null,
+        "age": 38,
+        "city": "Sioux Falls",
+        "state": "SD",
+        "country": "USA",
+        "bib": "137",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:110",
+      "attributes": {
+        "firstName": "Brent",
+        "lastName": "Crumley",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Boise",
+        "state": "ID",
+        "country": "USA",
+        "bib": "138",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:111",
+      "attributes": {
+        "firstName": "Joe",
+        "lastName": "Currens",
+        "gender": "M",
+        "awards": null,
+        "age": 55,
+        "city": "Flower Mound",
+        "state": "TX",
+        "country": "USA",
+        "bib": "139",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:112",
+      "attributes": {
+        "firstName": "Satpal",
+        "lastName": "Dalal",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Cupertino",
+        "state": "CA",
+        "country": "USA",
+        "bib": "142",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:113",
+      "attributes": {
+        "firstName": "Katie",
+        "lastName": "Daman",
+        "gender": "F",
+        "awards": null,
+        "age": 40,
+        "city": "Fife Lake",
+        "state": "MI",
+        "country": "USA",
+        "bib": "144",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:114",
+      "attributes": {
+        "firstName": "Jim",
+        "lastName": "Daniels",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Front Royal",
+        "state": "VA",
+        "country": "USA",
+        "bib": "145",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:115",
+      "attributes": {
+        "firstName": "Anthony",
+        "lastName": "Chavez",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Auburn",
+        "state": "CA",
+        "country": "USA",
+        "bib": "147",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:116",
+      "attributes": {
+        "firstName": "Sam",
+        "lastName": "Fiandaca",
+        "gender": "M",
+        "awards": null,
+        "age": 49,
+        "city": "Foresthill",
+        "state": "CA",
+        "country": "USA",
+        "bib": "148",
+        "entryType": "Sponsor",
+        "priorFinishes": 2,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:117",
+      "attributes": {
+        "firstName": "Jeff",
+        "lastName": "Deaton",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "Murfreesboro",
+        "state": "TN",
+        "country": "USA",
+        "bib": "149",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:118",
+      "attributes": {
+        "firstName": "Timothy",
+        "lastName": "Felker",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "Antelope",
+        "state": "CA",
+        "country": "USA",
+        "bib": "150",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:119",
+      "attributes": {
+        "firstName": "Joey",
+        "lastName": "Montoya",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Auburn",
+        "state": "CA",
+        "country": "USA",
+        "bib": "151",
+        "entryType": "Race Admin",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:120",
+      "attributes": {
+        "firstName": "Claudine",
+        "lastName": "Roghi",
+        "gender": "F",
+        "awards": null,
+        "age": 52,
+        "city": "West Melbourne",
+        "state": "FL",
+        "country": "USA",
+        "bib": "152",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:121",
+      "attributes": {
+        "firstName": "Sean",
+        "lastName": "Dempsey",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Los Altos",
+        "state": "CA",
+        "country": "USA",
+        "bib": "153",
+        "entryType": "Raffle",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:122",
+      "attributes": {
+        "firstName": "Shashank",
+        "lastName": "Deshpande",
+        "gender": "M",
+        "awards": null,
+        "age": 56,
+        "city": "Folsom",
+        "state": "CA",
+        "country": "USA",
+        "bib": "154",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:123",
+      "attributes": {
+        "firstName": "Justin",
+        "lastName": "Dew",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "New York",
+        "state": "NY",
+        "country": "USA",
+        "bib": "156",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:124",
+      "attributes": {
+        "firstName": "Tracy",
+        "lastName": "Dimino",
+        "gender": "F",
+        "awards": null,
+        "age": 50,
+        "city": "Ramona",
+        "state": "CA",
+        "country": "USA",
+        "bib": "158",
+        "entryType": "Raffle",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:125",
+      "attributes": {
+        "firstName": "Jason",
+        "lastName": "Dobson",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Creswell",
+        "state": "OR",
+        "country": "USA",
+        "bib": "159",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:126",
+      "attributes": {
+        "firstName": "Douglas",
+        "lastName": "Donovan",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Reno",
+        "state": "NV",
+        "country": "USA",
+        "bib": "160",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:127",
+      "attributes": {
+        "firstName": "Daigo",
+        "lastName": "Echizenya",
+        "gender": "M",
+        "awards": null,
+        "age": 52,
+        "city": "Dublin",
+        "state": "CA",
+        "country": "USA",
+        "bib": "161",
+        "entryType": "Lottery (128 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:128",
+      "attributes": {
+        "firstName": "Klas",
+        "lastName": "Eklof",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "Oakland",
+        "state": "CA",
+        "country": "USA",
+        "bib": "162",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 4,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:129",
+      "attributes": {
+        "firstName": "Tanya",
+        "lastName": "Espalin",
+        "gender": "F",
+        "awards": null,
+        "age": 40,
+        "city": "San Antonio",
+        "state": "TX",
+        "country": "USA",
+        "bib": "163",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:130",
+      "attributes": {
+        "firstName": "Clare",
+        "lastName": "Farrow",
+        "gender": "F",
+        "awards": null,
+        "age": 27,
+        "city": "Lakewood",
+        "state": "CO",
+        "country": "USA",
+        "bib": "166",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:131",
+      "attributes": {
+        "firstName": "David",
+        "lastName": "Files",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Batavia",
+        "state": "IL",
+        "country": "USA",
+        "bib": "167",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:132",
+      "attributes": {
+        "firstName": "Jonathan",
+        "lastName": "Fletcher",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Fayetteville",
+        "state": "NC",
+        "country": "USA",
+        "bib": "168",
+        "entryType": "Sponsor",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:133",
+      "attributes": {
+        "firstName": "Jaclyn",
+        "lastName": "Foroughi",
+        "gender": "F",
+        "awards": null,
+        "age": 41,
+        "city": "Truckee",
+        "state": "CA",
+        "country": "USA",
+        "bib": "171",
+        "entryType": "Raffle",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:134",
+      "attributes": {
+        "firstName": "Jenny",
+        "lastName": "Fox",
+        "gender": "F",
+        "awards": null,
+        "age": 41,
+        "city": "Steamboat Springs",
+        "state": "CO",
+        "country": "USA",
+        "bib": "172",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:135",
+      "attributes": {
+        "firstName": "Douglas",
+        "lastName": "Wickert",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Monument",
+        "state": "CO",
+        "country": "USA",
+        "bib": "173",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:136",
+      "attributes": {
+        "firstName": "Mark",
+        "lastName": "Frey",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Pittsburgh",
+        "state": "PA",
+        "country": "USA",
+        "bib": "174",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:137",
+      "attributes": {
+        "firstName": "Joseph",
+        "lastName": "Gallitano",
+        "gender": "M",
+        "awards": null,
+        "age": 39,
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "USA",
+        "bib": "177",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:138",
+      "attributes": {
+        "firstName": "Steve",
+        "lastName": "Rowbury",
+        "gender": "M",
+        "awards": null,
+        "age": 53,
+        "city": "Mill Valley",
+        "state": "CA",
+        "country": "USA",
+        "bib": "178",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:139",
+      "attributes": {
+        "firstName": "Jorma",
+        "lastName": "Gates",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "Santa Rosa",
+        "state": "CA",
+        "country": "USA",
+        "bib": "179",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:140",
+      "attributes": {
+        "firstName": "Keith",
+        "lastName": "Gates",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Lawrenceville",
+        "state": "GA",
+        "country": "USA",
+        "bib": "180",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:141",
+      "attributes": {
+        "firstName": "Josh",
+        "lastName": "Grant",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Morgan Hill",
+        "state": "CA",
+        "country": "USA",
+        "bib": "184",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:142",
+      "attributes": {
+        "firstName": "Brett",
+        "lastName": "Wilks",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Huntsville",
+        "state": "AL",
+        "country": "USA",
+        "bib": "185",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:143",
+      "attributes": {
+        "firstName": "Sean",
+        "lastName": "Grant",
+        "gender": "M",
+        "awards": null,
+        "age": 35,
+        "city": "Novato",
+        "state": "CA",
+        "country": "USA",
+        "bib": "186",
+        "entryType": "Raffle",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:144",
+      "attributes": {
+        "firstName": "Calvin",
+        "lastName": "Wong",
+        "gender": "M",
+        "awards": null,
+        "age": 39,
+        "city": "Redwood City",
+        "state": "CA",
+        "country": "USA",
+        "bib": "187",
+        "entryType": "Lottery (128 tickets)",
+        "priorFinishes": 2,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:145",
+      "attributes": {
+        "firstName": "Dan",
+        "lastName": "Fish",
+        "gender": "M",
+        "awards": null,
+        "age": 49,
+        "city": "Newbury Park",
+        "state": "CA",
+        "country": "USA",
+        "bib": "188",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:146",
+      "attributes": {
+        "firstName": "Jeremy",
+        "lastName": "Greene",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Arlington",
+        "state": "WA",
+        "country": "USA",
+        "bib": "190",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:147",
+      "attributes": {
+        "firstName": "Mark",
+        "lastName": "Gregware",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "USA",
+        "bib": "191",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:148",
+      "attributes": {
+        "firstName": "Mike",
+        "lastName": "Grimm",
+        "gender": "M",
+        "awards": null,
+        "age": 60,
+        "city": "Los Altos Hills",
+        "state": "CA",
+        "country": "USA",
+        "bib": "192",
+        "entryType": "Lottery (128 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:149",
+      "attributes": {
+        "firstName": "Abram",
+        "lastName": "Haen",
+        "gender": "M",
+        "awards": null,
+        "age": 39,
+        "city": "Truckee",
+        "state": "CA",
+        "country": "USA",
+        "bib": "193",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:150",
+      "attributes": {
+        "firstName": "Breen",
+        "lastName": "Haire",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Houston",
+        "state": "TX",
+        "country": "USA",
+        "bib": "194",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:151",
+      "attributes": {
+        "firstName": "Tyler",
+        "lastName": "Hall",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Morgan",
+        "state": "UT",
+        "country": "USA",
+        "bib": "195",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:152",
+      "attributes": {
+        "firstName": "Neil",
+        "lastName": "Johnson",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Golden Valley",
+        "state": "MN",
+        "country": "USA",
+        "bib": "196",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:153",
+      "attributes": {
+        "firstName": "Tyson",
+        "lastName": "Hamilton",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "South Jordan",
+        "state": "UT",
+        "country": "USA",
+        "bib": "197",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:154",
+      "attributes": {
+        "firstName": "Blane",
+        "lastName": "Clark",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Franklin",
+        "state": "TN",
+        "country": "USA",
+        "bib": "200",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:155",
+      "attributes": {
+        "firstName": "Lisa",
+        "lastName": "Wright",
+        "gender": "F",
+        "awards": null,
+        "age": 60,
+        "city": "Liberty Hill",
+        "state": "TX",
+        "country": "USA",
+        "bib": "205",
+        "entryType": "Race Admin",
+        "priorFinishes": null,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:156",
+      "attributes": {
+        "firstName": "Chris",
+        "lastName": "Chamberlin",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Seattle",
+        "state": "WA",
+        "country": "USA",
+        "bib": "206",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:157",
+      "attributes": {
+        "firstName": "James",
+        "lastName": "Heun",
+        "gender": "M",
+        "awards": null,
+        "age": 62,
+        "city": "Burton",
+        "state": "OH",
+        "country": "USA",
+        "bib": "207",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:158",
+      "attributes": {
+        "firstName": "April",
+        "lastName": "Wilbur",
+        "gender": "F",
+        "awards": null,
+        "age": 43,
+        "city": "Boise",
+        "state": "ID",
+        "country": "USA",
+        "bib": "208",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:159",
+      "attributes": {
+        "firstName": "Nicholas",
+        "lastName": "Hobbs",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "Wake Forest",
+        "state": "NC",
+        "country": "USA",
+        "bib": "210",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": null,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:160",
+      "attributes": {
+        "firstName": "Charles",
+        "lastName": "Hofacker",
+        "gender": "M",
+        "awards": null,
+        "age": 56,
+        "city": "Carmichael",
+        "state": "CA",
+        "country": "USA",
+        "bib": "211",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:161",
+      "attributes": {
+        "firstName": "David",
+        "lastName": "Buse",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "San Diego",
+        "state": "CA",
+        "country": "USA",
+        "bib": "212",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:162",
+      "attributes": {
+        "firstName": "Brenda",
+        "lastName": "Hofer",
+        "gender": "F",
+        "awards": null,
+        "age": 46,
+        "city": "Roseville",
+        "state": "CA",
+        "country": "USA",
+        "bib": "213",
+        "entryType": "Sponsor",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:163",
+      "attributes": {
+        "firstName": "Olga",
+        "lastName": "Huber",
+        "gender": "F",
+        "awards": null,
+        "age": 50,
+        "city": "Macedon",
+        "state": "NY",
+        "country": "USA",
+        "bib": "215",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:164",
+      "attributes": {
+        "firstName": "Scott",
+        "lastName": "Hudson",
+        "gender": "M",
+        "awards": null,
+        "age": 53,
+        "city": "Carmel",
+        "state": "IN",
+        "country": "USA",
+        "bib": "216",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:165",
+      "attributes": {
+        "firstName": "Larry",
+        "lastName": "Huffman",
+        "gender": "M",
+        "awards": null,
+        "age": 60,
+        "city": "Arlington",
+        "state": "VA",
+        "country": "USA",
+        "bib": "217",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:166",
+      "attributes": {
+        "firstName": "Josh",
+        "lastName": "Gum",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Corvallis",
+        "state": "OR",
+        "country": "USA",
+        "bib": "218",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:167",
+      "attributes": {
+        "firstName": "Sheri",
+        "lastName": "Poskanzer",
+        "gender": "F",
+        "awards": null,
+        "age": 32,
+        "city": "Boise",
+        "state": "ID",
+        "country": "USA",
+        "bib": "219",
+        "entryType": "Raffle",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:168",
+      "attributes": {
+        "firstName": "Laura",
+        "lastName": "Matz",
+        "gender": "F",
+        "awards": null,
+        "age": 35,
+        "city": "Auburn",
+        "state": "CA",
+        "country": "USA",
+        "bib": "222",
+        "entryType": "Race Admin",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:169",
+      "attributes": {
+        "firstName": "Alyson",
+        "lastName": "Jay",
+        "gender": "F",
+        "awards": null,
+        "age": 42,
+        "city": "Flagstaff",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "224",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:170",
+      "attributes": {
+        "firstName": "Tony",
+        "lastName": "Johns",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Everett",
+        "state": "WA",
+        "country": "USA",
+        "bib": "227",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:171",
+      "attributes": {
+        "firstName": "Brandon",
+        "lastName": "Johnson",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "Barnum",
+        "state": "MN",
+        "country": "USA",
+        "bib": "228",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:172",
+      "attributes": {
+        "firstName": "Lisa",
+        "lastName": "Jones",
+        "gender": "F",
+        "awards": null,
+        "age": 44,
+        "city": "Virginia Beach",
+        "state": "VA",
+        "country": "USA",
+        "bib": "230",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:173",
+      "attributes": {
+        "firstName": "Wade",
+        "lastName": "Kao",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Houston",
+        "state": "TX",
+        "country": "USA",
+        "bib": "231",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:174",
+      "attributes": {
+        "firstName": "Paul",
+        "lastName": "Karr",
+        "gender": "M",
+        "awards": null,
+        "age": 58,
+        "city": "Redwood City",
+        "state": "CA",
+        "country": "USA",
+        "bib": "232",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:175",
+      "attributes": {
+        "firstName": "Joe",
+        "lastName": "Albert",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "bib": "234",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:176",
+      "attributes": {
+        "firstName": "Victoria",
+        "lastName": "Kendra",
+        "gender": "F",
+        "awards": null,
+        "age": 50,
+        "city": "Siler City",
+        "state": "NC",
+        "country": "USA",
+        "bib": "235",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:177",
+      "attributes": {
+        "firstName": "John",
+        "lastName": "Kerschbaum",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "San Marcos",
+        "state": "CA",
+        "country": "USA",
+        "bib": "236",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:178",
+      "attributes": {
+        "firstName": "Ken",
+        "lastName": "Kilar",
+        "gender": "M",
+        "awards": null,
+        "age": 52,
+        "city": "Pasadena",
+        "state": "CA",
+        "country": "USA",
+        "bib": "237",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:179",
+      "attributes": {
+        "firstName": "Joseph",
+        "lastName": "Kim",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "USA",
+        "bib": "238",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:180",
+      "attributes": {
+        "firstName": "Eric",
+        "lastName": "King",
+        "gender": "M",
+        "awards": null,
+        "age": 54,
+        "city": "Redwood City",
+        "state": "CA",
+        "country": "USA",
+        "bib": "239",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:181",
+      "attributes": {
+        "firstName": "Peter",
+        "lastName": "Kleuser",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Kingston Springs",
+        "state": "TN",
+        "country": "USA",
+        "bib": "240",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:182",
+      "attributes": {
+        "firstName": "Phil",
+        "lastName": "Kochik",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Seattle",
+        "state": "WA",
+        "country": "USA",
+        "bib": "241",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 3,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:183",
+      "attributes": {
+        "firstName": "Sean",
+        "lastName": "Lehman",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "Novato",
+        "state": "CA",
+        "country": "USA",
+        "bib": "242",
+        "entryType": "Raffle",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:184",
+      "attributes": {
+        "firstName": "Shaun",
+        "lastName": "Koehler",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Wake forest",
+        "state": "NC",
+        "country": "USA",
+        "bib": "243",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:185",
+      "attributes": {
+        "firstName": "Susan",
+        "lastName": "Kramer",
+        "gender": "F",
+        "awards": null,
+        "age": 56,
+        "city": "Peoria",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "244",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:186",
+      "attributes": {
+        "firstName": "Shane",
+        "lastName": "Kroth",
+        "gender": "M",
+        "awards": null,
+        "age": 49,
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "bib": "245",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:187",
+      "attributes": {
+        "firstName": "Stephen",
+        "lastName": "Kukta",
+        "gender": "M",
+        "awards": null,
+        "age": 56,
+        "city": "Indian Wells",
+        "state": "CA",
+        "country": "USA",
+        "bib": "247",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:188",
+      "attributes": {
+        "firstName": "Jeff",
+        "lastName": "Kulesza",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "HILLIARD",
+        "state": "OH",
+        "country": "USA",
+        "bib": "248",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:189",
+      "attributes": {
+        "firstName": "Tony",
+        "lastName": "Nguyen",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Antioch",
+        "state": "CA",
+        "country": "USA",
+        "bib": "250",
+        "entryType": "Race Admin",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:190",
+      "attributes": {
+        "firstName": "Kelly",
+        "lastName": "Lance",
+        "gender": "M",
+        "awards": null,
+        "age": 53,
+        "city": "Pocatello",
+        "state": "ID",
+        "country": "USA",
+        "bib": "251",
+        "entryType": "Raffle",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:191",
+      "attributes": {
+        "firstName": "Scott",
+        "lastName": "Laplante",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Tigard",
+        "state": "OR",
+        "country": "USA",
+        "bib": "252",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:192",
+      "attributes": {
+        "firstName": "Alexander",
+        "lastName": "Larson",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "South Lake Tahoe",
+        "state": "CA",
+        "country": "USA",
+        "bib": "253",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:193",
+      "attributes": {
+        "firstName": "David",
+        "lastName": "Lee",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Fullerton",
+        "state": "CA",
+        "country": "USA",
+        "bib": "255",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:194",
+      "attributes": {
+        "firstName": "Jae Hoon",
+        "lastName": "Lee",
+        "gender": "M",
+        "awards": null,
+        "age": 55,
+        "city": "La Crescenta",
+        "state": "CA",
+        "country": "USA",
+        "bib": "257",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:195",
+      "attributes": {
+        "firstName": "Sudheer",
+        "lastName": "Maremanda",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Bellevue",
+        "state": "WA",
+        "country": "USA",
+        "bib": "258",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:196",
+      "attributes": {
+        "firstName": "Scott",
+        "lastName": "Lee",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "Haymarket",
+        "state": "VA",
+        "country": "USA",
+        "bib": "259",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:197",
+      "attributes": {
+        "firstName": "Charley",
+        "lastName": "Jones",
+        "gender": "M",
+        "awards": null,
+        "age": 49,
+        "city": "Folsom",
+        "state": "CA",
+        "country": "USA",
+        "bib": "260",
+        "entryType": "Raffle",
+        "priorFinishes": 12,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:198",
+      "attributes": {
+        "firstName": "Kate",
+        "lastName": "Leis",
+        "gender": "F",
+        "awards": null,
+        "age": 44,
+        "city": "Delano",
+        "state": "MN",
+        "country": "USA",
+        "bib": "261",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:199",
+      "attributes": {
+        "firstName": "Bill",
+        "lastName": "Dittman",
+        "gender": "M",
+        "awards": null,
+        "age": 33,
+        "city": "Brookfield",
+        "state": "WI",
+        "country": "USA",
+        "bib": "262",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:200",
+      "attributes": {
+        "firstName": "David",
+        "lastName": "Lent",
+        "gender": "M",
+        "awards": null,
+        "age": 58,
+        "city": "Folsom",
+        "state": "CA",
+        "country": "USA",
+        "bib": "263",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:201",
+      "attributes": {
+        "firstName": "Keith",
+        "lastName": "Evans-Orville",
+        "gender": "M",
+        "awards": null,
+        "age": 52,
+        "city": "Oakland",
+        "state": "CA",
+        "country": "USA",
+        "bib": "264",
+        "entryType": "Race Admin",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:202",
+      "attributes": {
+        "firstName": "Kenneth",
+        "lastName": "Letterle",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Houston",
+        "state": "TX",
+        "country": "USA",
+        "bib": "266",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:203",
+      "attributes": {
+        "firstName": "Loren",
+        "lastName": "Lewis",
+        "gender": "M",
+        "awards": null,
+        "age": 49,
+        "city": "San Jose",
+        "state": "CA",
+        "country": "USA",
+        "bib": "267",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:204",
+      "attributes": {
+        "firstName": "Jeff",
+        "lastName": "Lewman",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Bartlesville",
+        "state": "OK",
+        "country": "USA",
+        "bib": "269",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:205",
+      "attributes": {
+        "firstName": "Dong",
+        "lastName": "Lin",
+        "gender": "M",
+        "awards": null,
+        "age": 49,
+        "city": "West Nyack",
+        "state": "NY",
+        "country": "USA",
+        "bib": "270",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:206",
+      "attributes": {
+        "firstName": "Carolyn",
+        "lastName": "Luckett",
+        "gender": "F",
+        "awards": null,
+        "age": 54,
+        "city": "Olney",
+        "state": "MT",
+        "country": "USA",
+        "bib": "272",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 2,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:207",
+      "attributes": {
+        "firstName": "Jonathan",
+        "lastName": "Lundy",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Shepherdsville",
+        "state": "KY",
+        "country": "USA",
+        "bib": "273",
+        "entryType": "Lottery (128 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:208",
+      "attributes": {
+        "firstName": "Jeffrey",
+        "lastName": "Lysiak",
+        "gender": "M",
+        "awards": null,
+        "age": 57,
+        "city": "Crozet",
+        "state": "VA",
+        "country": "USA",
+        "bib": "274",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:209",
+      "attributes": {
+        "firstName": "Aaron",
+        "lastName": "Maas",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Alpharetta",
+        "state": "GA",
+        "country": "USA",
+        "bib": "275",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:210",
+      "attributes": {
+        "firstName": "Zandy",
+        "lastName": "Mangold",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Brooklyn",
+        "state": "NY",
+        "country": "USA",
+        "bib": "276",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:211",
+      "attributes": {
+        "firstName": "Edward",
+        "lastName": "Marchini",
+        "gender": "M",
+        "awards": null,
+        "age": 62,
+        "city": "Placerville",
+        "state": "CA",
+        "country": "USA",
+        "bib": "277",
+        "entryType": "Race Admin",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:212",
+      "attributes": {
+        "firstName": "Vincent",
+        "lastName": "Matteo",
+        "gender": "M",
+        "awards": null,
+        "age": 53,
+        "city": "Cave Creek",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "278",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:213",
+      "attributes": {
+        "firstName": "Christopher",
+        "lastName": "McBride",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Golden",
+        "state": "CO",
+        "country": "USA",
+        "bib": "279",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:214",
+      "attributes": {
+        "firstName": "Rob",
+        "lastName": "Mccool",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "Redondo Beach",
+        "state": "CA",
+        "country": "USA",
+        "bib": "280",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:215",
+      "attributes": {
+        "firstName": "Robin",
+        "lastName": "Mcdearmon",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "Laguna Beach",
+        "state": "CA",
+        "country": "USA",
+        "bib": "281",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:216",
+      "attributes": {
+        "firstName": "Max",
+        "lastName": "Metcalfe",
+        "gender": "M",
+        "awards": null,
+        "age": 32,
+        "city": "Lafayette",
+        "state": "CA",
+        "country": "USA",
+        "bib": "283",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:217",
+      "attributes": {
+        "firstName": "Turdl",
+        "lastName": "Miller",
+        "gender": "M",
+        "awards": null,
+        "age": 52,
+        "city": "St George",
+        "state": "UT",
+        "country": "USA",
+        "bib": "284",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:218",
+      "attributes": {
+        "firstName": "Jeffrey",
+        "lastName": "Moore",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Biloxi",
+        "state": "MS",
+        "country": "USA",
+        "bib": "285",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:219",
+      "attributes": {
+        "firstName": "Shalise",
+        "lastName": "Morgan",
+        "gender": "F",
+        "awards": null,
+        "age": 46,
+        "city": "Pleasant Grove",
+        "state": "UT",
+        "country": "USA",
+        "bib": "286",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:220",
+      "attributes": {
+        "firstName": "Marcin",
+        "lastName": "Mrowka",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Brooklyn",
+        "state": "NY",
+        "country": "USA",
+        "bib": "287",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:221",
+      "attributes": {
+        "firstName": "Todd",
+        "lastName": "Yerkes",
+        "gender": "M",
+        "awards": null,
+        "age": 52,
+        "city": "St George",
+        "state": "UT",
+        "country": "USA",
+        "bib": "289",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:222",
+      "attributes": {
+        "firstName": "Josam",
+        "lastName": "Mulinyawe",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "San Jose",
+        "state": "CA",
+        "country": "USA",
+        "bib": "290",
+        "entryType": "Raffle",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:223",
+      "attributes": {
+        "firstName": "Sean",
+        "lastName": "Mullett",
+        "gender": "M",
+        "awards": null,
+        "age": 53,
+        "city": "Cleveland",
+        "state": "TN",
+        "country": "USA",
+        "bib": "291",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:224",
+      "attributes": {
+        "firstName": "Dan",
+        "lastName": "Newman",
+        "gender": "M",
+        "awards": null,
+        "age": 52,
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA",
+        "bib": "294",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:225",
+      "attributes": {
+        "firstName": "John",
+        "lastName": "Nobles",
+        "gender": "M",
+        "awards": null,
+        "age": 36,
+        "city": "Tulsa",
+        "state": "OK",
+        "country": "USA",
+        "bib": "296",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:226",
+      "attributes": {
+        "firstName": "Selina",
+        "lastName": "Nordberg",
+        "gender": "F",
+        "awards": null,
+        "age": 53,
+        "city": "La Habra",
+        "state": "CA",
+        "country": "USA",
+        "bib": "297",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:227",
+      "attributes": {
+        "firstName": "Melissa",
+        "lastName": "Ossanna",
+        "gender": "F",
+        "awards": null,
+        "age": 52,
+        "city": "Bar Harbor",
+        "state": "ME",
+        "country": "USA",
+        "bib": "298",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:228",
+      "attributes": {
+        "firstName": "Panya",
+        "lastName": "Somnhot",
+        "gender": "M",
+        "awards": null,
+        "age": 39,
+        "city": "Ashland",
+        "state": "OR",
+        "country": "USA",
+        "bib": "300",
+        "entryType": "Lottery (128 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:229",
+      "attributes": {
+        "firstName": "Justin",
+        "lastName": "Peake",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Severna Park",
+        "state": "MD",
+        "country": "USA",
+        "bib": "301",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:230",
+      "attributes": {
+        "firstName": "Michael",
+        "lastName": "Poole",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Arden",
+        "state": "NC",
+        "country": "USA",
+        "bib": "302",
+        "entryType": "Lottery (128 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:231",
+      "attributes": {
+        "firstName": "Azam",
+        "lastName": "Poulatov",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Brooklyn",
+        "state": "NY",
+        "country": "USA",
+        "bib": "303",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:232",
+      "attributes": {
+        "firstName": "Marty",
+        "lastName": "Reed",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "West Vancouver",
+        "state": "BC",
+        "country": "CAN",
+        "bib": "305",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:233",
+      "attributes": {
+        "firstName": "Andrew",
+        "lastName": "Reiff",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "North Bend",
+        "state": "WA",
+        "country": "USA",
+        "bib": "306",
+        "entryType": "Sponsor",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:234",
+      "attributes": {
+        "firstName": "Justin",
+        "lastName": "Kinner",
+        "gender": "M",
+        "awards": null,
+        "age": 34,
+        "city": "Casper",
+        "state": "WY",
+        "country": "USA",
+        "bib": "307",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:235",
+      "attributes": {
+        "firstName": "Tex",
+        "lastName": "Ritter",
+        "gender": "M",
+        "awards": null,
+        "age": 64,
+        "city": "Grass Valley",
+        "state": "CA",
+        "country": "USA",
+        "bib": "309",
+        "entryType": "Race Admin",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:236",
+      "attributes": {
+        "firstName": "Stephen",
+        "lastName": "Robbins",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "Elkin",
+        "state": "NC",
+        "country": "USA",
+        "bib": "310",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:237",
+      "attributes": {
+        "firstName": "Anthony",
+        "lastName": "Molina",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "West Sacramento",
+        "state": "CA",
+        "country": "USA",
+        "bib": "311",
+        "entryType": "Race Admin",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:238",
+      "attributes": {
+        "firstName": "Scott",
+        "lastName": "Sambucci",
+        "gender": "M",
+        "awards": null,
+        "age": 47,
+        "city": "Davis",
+        "state": "CA",
+        "country": "USA",
+        "bib": "315",
+        "entryType": "Race Admin",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:239",
+      "attributes": {
+        "firstName": "Barry",
+        "lastName": "Hauptman",
+        "gender": "M",
+        "awards": null,
+        "age": 58,
+        "city": "Bethesda",
+        "state": "MD",
+        "country": "USA",
+        "bib": "316",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:240",
+      "attributes": {
+        "firstName": "Takuji",
+        "lastName": "Sasaki",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Hayamacho",
+        "state": "JPN",
+        "country": "JPN",
+        "bib": "318",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:241",
+      "attributes": {
+        "firstName": "Sarah",
+        "lastName": "Seads",
+        "gender": "F",
+        "awards": null,
+        "age": 45,
+        "city": "Courtenay",
+        "state": "BC",
+        "country": "CAN",
+        "bib": "320",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:242",
+      "attributes": {
+        "firstName": "Patrick",
+        "lastName": "Service",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "Palm Springs",
+        "state": "CA",
+        "country": "USA",
+        "bib": "321",
+        "entryType": "Raffle",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:243",
+      "attributes": {
+        "firstName": "Scott",
+        "lastName": "Slater",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Guilford",
+        "state": "CT",
+        "country": "USA",
+        "bib": "322",
+        "entryType": "Lottery (128 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:244",
+      "attributes": {
+        "firstName": "Kevin",
+        "lastName": "Smilor",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Denver",
+        "state": "CO",
+        "country": "USA",
+        "bib": "323",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:245",
+      "attributes": {
+        "firstName": "David",
+        "lastName": "Smith",
+        "gender": "M",
+        "awards": null,
+        "age": 55,
+        "city": "Santa Rosa",
+        "state": "CA",
+        "country": "USA",
+        "bib": "324",
+        "entryType": "Raffle",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:246",
+      "attributes": {
+        "firstName": "Kirk",
+        "lastName": "Smith",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Freeville",
+        "state": "NY",
+        "country": "USA",
+        "bib": "325",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:247",
+      "attributes": {
+        "firstName": "Thomas",
+        "lastName": "Somers",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "South Amboy",
+        "state": "NJ",
+        "country": "USA",
+        "bib": "326",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:248",
+      "attributes": {
+        "firstName": "Tim",
+        "lastName": "Spaulding",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Forest",
+        "state": "VA",
+        "country": "USA",
+        "bib": "327",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:249",
+      "attributes": {
+        "firstName": "Dan",
+        "lastName": "Spearin",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Crozet",
+        "state": "VA",
+        "country": "USA",
+        "bib": "328",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:250",
+      "attributes": {
+        "firstName": "Eric",
+        "lastName": "Spector",
+        "gender": "M",
+        "awards": null,
+        "age": 74,
+        "city": "Palo Alto",
+        "state": "CA",
+        "country": "USA",
+        "bib": "329",
+        "entryType": "Sponsor",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:251",
+      "attributes": {
+        "firstName": "Vagn",
+        "lastName": "Steen",
+        "gender": "M",
+        "awards": null,
+        "age": 64,
+        "city": "Brecksville",
+        "state": "OH",
+        "country": "USA",
+        "bib": "331",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:252",
+      "attributes": {
+        "firstName": "Nathan",
+        "lastName": "Stroh",
+        "gender": "M",
+        "awards": null,
+        "age": 49,
+        "city": "Klamath Falls",
+        "state": "OR",
+        "country": "USA",
+        "bib": "332",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:253",
+      "attributes": {
+        "firstName": "Taylor",
+        "lastName": "Sheridan",
+        "gender": "F",
+        "awards": null,
+        "age": 29,
+        "city": "Reno",
+        "state": "NV",
+        "country": "USA",
+        "bib": "333",
+        "entryType": "Race Admin",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:254",
+      "attributes": {
+        "firstName": "Ram",
+        "lastName": "Subbaraman",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Sunnyvale",
+        "state": "CA",
+        "country": "USA",
+        "bib": "334",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:255",
+      "attributes": {
+        "firstName": "Mike",
+        "lastName": "Tamoush",
+        "gender": "M",
+        "awards": null,
+        "age": 42,
+        "city": "San Diego",
+        "state": "CA",
+        "country": "USA",
+        "bib": "336",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:256",
+      "attributes": {
+        "firstName": "Andrew",
+        "lastName": "Taylor",
+        "gender": "M",
+        "awards": null,
+        "age": 37,
+        "city": "Modesto",
+        "state": "CA",
+        "country": "USA",
+        "bib": "337",
+        "entryType": "Race Admin",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:257",
+      "attributes": {
+        "firstName": "Kelly",
+        "lastName": "Teeselink",
+        "gender": "F",
+        "awards": null,
+        "age": 34,
+        "city": "Flagstaff",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "338",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:258",
+      "attributes": {
+        "firstName": "Gabriel",
+        "lastName": "Tenyenhuis",
+        "gender": "M",
+        "awards": null,
+        "age": 53,
+        "city": "Clovis",
+        "state": "CA",
+        "country": "USA",
+        "bib": "339",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:259",
+      "attributes": {
+        "firstName": "Philippe",
+        "lastName": "Thenot",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Marietta",
+        "state": "GA",
+        "country": "USA",
+        "bib": "340",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:260",
+      "attributes": {
+        "firstName": "Bill",
+        "lastName": "Thom",
+        "gender": "M",
+        "awards": null,
+        "age": 60,
+        "city": "Chicago",
+        "state": "IL",
+        "country": "USA",
+        "bib": "343",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 6,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:261",
+      "attributes": {
+        "firstName": "Tom",
+        "lastName": "Tighe",
+        "gender": "M",
+        "awards": null,
+        "age": 46,
+        "city": "Pulaski",
+        "state": "NY",
+        "country": "USA",
+        "bib": "344",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:262",
+      "attributes": {
+        "firstName": "Malin",
+        "lastName": "Timbs",
+        "gender": "F",
+        "awards": null,
+        "age": 45,
+        "city": "Nashville",
+        "state": "TN",
+        "country": "USA",
+        "bib": "345",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:263",
+      "attributes": {
+        "firstName": "Denis",
+        "lastName": "Trafecanty",
+        "gender": "M",
+        "awards": null,
+        "age": 78,
+        "city": "Santa Ysabel",
+        "state": "CA",
+        "country": "USA",
+        "bib": "347",
+        "entryType": "Raffle",
+        "priorFinishes": 5,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:264",
+      "attributes": {
+        "firstName": "John",
+        "lastName": "Truelove",
+        "gender": "M",
+        "awards": null,
+        "age": 53,
+        "city": "Terre Haute",
+        "state": "IN",
+        "country": "USA",
+        "bib": "348",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:265",
+      "attributes": {
+        "firstName": "Damon",
+        "lastName": "Valenzona",
+        "gender": "M",
+        "awards": null,
+        "age": 34,
+        "city": "San Diego",
+        "state": "CA",
+        "country": "USA",
+        "bib": "350",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:266",
+      "attributes": {
+        "firstName": "Robert",
+        "lastName": "Vanderlip",
+        "gender": "M",
+        "awards": null,
+        "age": 59,
+        "city": "San Ramon",
+        "state": "CA",
+        "country": "USA",
+        "bib": "352",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:267",
+      "attributes": {
+        "firstName": "Geoff",
+        "lastName": "Vaughan",
+        "gender": "M",
+        "awards": null,
+        "age": 56,
+        "city": "Corte Madera",
+        "state": "CA",
+        "country": "USA",
+        "bib": "353",
+        "entryType": "Race Admin",
+        "priorFinishes": 3,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:268",
+      "attributes": {
+        "firstName": "Christine",
+        "lastName": "Velasquez",
+        "gender": "F",
+        "awards": null,
+        "age": 49,
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "bib": "355",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:269",
+      "attributes": {
+        "firstName": "Christine",
+        "lastName": "Vincent",
+        "gender": "F",
+        "awards": null,
+        "age": 49,
+        "city": "Roseville",
+        "state": "CA",
+        "country": "USA",
+        "bib": "357",
+        "entryType": "Race Admin",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:270",
+      "attributes": {
+        "firstName": "Scott",
+        "lastName": "Vosburg",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Loomis",
+        "state": "CA",
+        "country": "USA",
+        "bib": "358",
+        "entryType": "Race Admin",
+        "priorFinishes": 4,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:271",
+      "attributes": {
+        "firstName": "Claire",
+        "lastName": "Walla",
+        "gender": "F",
+        "awards": null,
+        "age": 36,
+        "city": "Spokane",
+        "state": "WA",
+        "country": "USA",
+        "bib": "359",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:272",
+      "attributes": {
+        "firstName": "Dreama",
+        "lastName": "Walton",
+        "gender": "F",
+        "awards": null,
+        "age": 40,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "country": "USA",
+        "bib": "360",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:273",
+      "attributes": {
+        "firstName": "James",
+        "lastName": "Wang",
+        "gender": "M",
+        "awards": null,
+        "age": 34,
+        "city": "Redding",
+        "state": "CA",
+        "country": "USA",
+        "bib": "361",
+        "entryType": "Race Admin",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:274",
+      "attributes": {
+        "firstName": "Michael",
+        "lastName": "Weston",
+        "gender": "M",
+        "awards": null,
+        "age": 60,
+        "city": "Honolulu",
+        "state": "HI",
+        "country": "USA",
+        "bib": "363",
+        "entryType": "Race Admin",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:275",
+      "attributes": {
+        "firstName": "Johanan",
+        "lastName": "Wilson",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Cool",
+        "state": "CA",
+        "country": "USA",
+        "bib": "367",
+        "entryType": "Sponsor",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:276",
+      "attributes": {
+        "firstName": "Spencer",
+        "lastName": "Punter",
+        "gender": "M",
+        "awards": null,
+        "age": 50,
+        "city": "Burlingame",
+        "state": "CA",
+        "country": "USA",
+        "bib": "369",
+        "entryType": "Raffle",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:277",
+      "attributes": {
+        "firstName": "Isaac",
+        "lastName": "Wait",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Ona",
+        "state": "WV",
+        "country": "USA",
+        "bib": "370",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:278",
+      "attributes": {
+        "firstName": "Brian",
+        "lastName": "Pickett",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Kingsport",
+        "state": "TN",
+        "country": "USA",
+        "bib": "372",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:279",
+      "attributes": {
+        "firstName": "Jay",
+        "lastName": "Smithberger",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Yellow Springs",
+        "state": "OH",
+        "country": "USA",
+        "bib": "373",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:280",
+      "attributes": {
+        "firstName": "Kuni",
+        "lastName": "Yamagata",
+        "gender": "M",
+        "awards": null,
+        "age": 68,
+        "city": "Citrus Heights",
+        "state": "CA",
+        "country": "USA",
+        "bib": "374",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 2,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:281",
+      "attributes": {
+        "firstName": "Kristin",
+        "lastName": "Carbajal",
+        "gender": "F",
+        "awards": null,
+        "age": 42,
+        "city": "Upland",
+        "state": "CA",
+        "country": "USA",
+        "bib": "376",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:282",
+      "attributes": {
+        "firstName": "Jason",
+        "lastName": "Brock",
+        "gender": "M",
+        "awards": null,
+        "age": 45,
+        "city": "Kaysville",
+        "state": "UT",
+        "country": "USA",
+        "bib": "378",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:283",
+      "attributes": {
+        "firstName": "Denise",
+        "lastName": "Calcagnino",
+        "gender": "F",
+        "awards": null,
+        "age": 53,
+        "city": "North Syracuse",
+        "state": "NY",
+        "country": "USA",
+        "bib": "379",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:284",
+      "attributes": {
+        "firstName": "Mike",
+        "lastName": "Rohner",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Dubuque",
+        "state": "IA",
+        "country": "USA",
+        "bib": "380",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:285",
+      "attributes": {
+        "firstName": "Doug",
+        "lastName": "Camann",
+        "gender": "M",
+        "awards": null,
+        "age": 53,
+        "city": "Clarksboro",
+        "state": "NJ",
+        "country": "USA",
+        "bib": "381",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:286",
+      "attributes": {
+        "firstName": "David",
+        "lastName": "Holliday",
+        "gender": "M",
+        "awards": null,
+        "age": 58,
+        "city": "Cincinnati",
+        "state": "OH",
+        "country": "USA",
+        "bib": "382",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:287",
+      "attributes": {
+        "firstName": "Andy",
+        "lastName": "Burger",
+        "gender": "M",
+        "awards": null,
+        "age": 41,
+        "city": "Granite Bay",
+        "state": "CA",
+        "country": "USA",
+        "bib": "383",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:288",
+      "attributes": {
+        "firstName": "Lacey",
+        "lastName": "Frerking",
+        "gender": "F",
+        "awards": null,
+        "age": 37,
+        "city": "Fernley",
+        "state": "NV",
+        "country": "USA",
+        "bib": "384",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:289",
+      "attributes": {
+        "firstName": "Kyle",
+        "lastName": "Curtin",
+        "gender": "M",
+        "awards": null,
+        "age": 34,
+        "city": "Durango",
+        "state": "CO",
+        "country": "USA",
+        "bib": "387",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:290",
+      "attributes": {
+        "firstName": "Joseph",
+        "lastName": "Bearss",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Arvada",
+        "state": "CO",
+        "country": "USA",
+        "bib": "388",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:291",
+      "attributes": {
+        "firstName": "Ryan",
+        "lastName": "Weibel",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "South Lake Tahoe",
+        "state": "CA",
+        "country": "USA",
+        "bib": "389",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 1,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:292",
+      "attributes": {
+        "firstName": "Joey",
+        "lastName": "Cohen",
+        "gender": "M",
+        "awards": null,
+        "age": 38,
+        "city": "Shaker Heights",
+        "state": "OH",
+        "country": "USA",
+        "bib": "390",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:293",
+      "attributes": {
+        "firstName": "Jason",
+        "lastName": "Crowe",
+        "gender": "M",
+        "awards": null,
+        "age": 48,
+        "city": "Newark",
+        "state": "IL",
+        "country": "USA",
+        "bib": "392",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:294",
+      "attributes": {
+        "firstName": "Nobuya",
+        "lastName": "Takahashi",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Richmond",
+        "state": "CA",
+        "country": "USA",
+        "bib": "393",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:295",
+      "attributes": {
+        "firstName": "Kevin",
+        "lastName": "Fox",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Midland",
+        "state": "TX",
+        "country": "USA",
+        "bib": "394",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:296",
+      "attributes": {
+        "firstName": "Peter",
+        "lastName": "Newton",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Boulder",
+        "state": "CO",
+        "country": "USA",
+        "bib": "396",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:297",
+      "attributes": {
+        "firstName": "Steven",
+        "lastName": "Holmes Jr.",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "West Olive",
+        "state": "MI",
+        "country": "USA",
+        "bib": "397",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:298",
+      "attributes": {
+        "firstName": "Elan",
+        "lastName": "Lieber",
+        "gender": "M",
+        "awards": null,
+        "age": 31,
+        "city": "Richmond",
+        "state": "CA",
+        "country": "USA",
+        "bib": "398",
+        "entryType": "Lottery (32 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:299",
+      "attributes": {
+        "firstName": "Scott",
+        "lastName": "Bowman",
+        "gender": "M",
+        "awards": null,
+        "age": 49,
+        "city": "Signal Mountain",
+        "state": "TN",
+        "country": "USA",
+        "bib": "399",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:300",
+      "attributes": {
+        "firstName": "Jake",
+        "lastName": "Kruse",
+        "gender": "M",
+        "awards": null,
+        "age": 40,
+        "city": "Glen Burnie",
+        "state": "MD",
+        "country": "USA",
+        "bib": "400",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:301",
+      "attributes": {
+        "firstName": "Sarah",
+        "lastName": "Bunting Lamos",
+        "gender": "F",
+        "awards": null,
+        "age": 46,
+        "city": "Thornton",
+        "state": "CO",
+        "country": "USA",
+        "bib": "401",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:302",
+      "attributes": {
+        "firstName": "Mike",
+        "lastName": "Soltys",
+        "gender": "M",
+        "awards": null,
+        "age": 54,
+        "city": "Omaha",
+        "state": "NE",
+        "country": "USA",
+        "bib": "402",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:303",
+      "attributes": {
+        "firstName": "Rod",
+        "lastName": "Farvard",
+        "gender": "M",
+        "awards": null,
+        "age": 25,
+        "city": "Mammoth Lakes",
+        "state": "CA",
+        "country": "USA",
+        "bib": "403",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:304",
+      "attributes": {
+        "firstName": "Dylan",
+        "lastName": "Broderick",
+        "gender": "F",
+        "awards": null,
+        "age": 30,
+        "city": "Montpelier",
+        "state": "VT",
+        "country": "USA",
+        "bib": "405",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:305",
+      "attributes": {
+        "firstName": "Michael",
+        "lastName": "Emerling",
+        "gender": "M",
+        "awards": null,
+        "age": 51,
+        "city": "Chattanooga",
+        "state": "TN",
+        "country": "USA",
+        "bib": "408",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:306",
+      "attributes": {
+        "firstName": "Mark",
+        "lastName": "Bain",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Cleveland Heights",
+        "state": "OH",
+        "country": "USA",
+        "bib": "409",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:307",
+      "attributes": {
+        "firstName": "Steve",
+        "lastName": "Hawkins",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Grand Canyon",
+        "state": "AZ",
+        "country": "USA",
+        "bib": "410",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:308",
+      "attributes": {
+        "firstName": "Tom",
+        "lastName": "Pluim",
+        "gender": "M",
+        "awards": null,
+        "age": 43,
+        "city": "Suffolk",
+        "state": "VA",
+        "country": "USA",
+        "bib": "412",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:309",
+      "attributes": {
+        "firstName": "Brian",
+        "lastName": "Myers",
+        "gender": "M",
+        "awards": null,
+        "age": 44,
+        "city": "Asheville",
+        "state": "NC",
+        "country": "USA",
+        "bib": "414",
+        "entryType": "Lottery (4 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:310",
+      "attributes": {
+        "firstName": "Timothy",
+        "lastName": "Buse",
+        "gender": "M",
+        "awards": null,
+        "age": 36,
+        "city": "Louisville",
+        "state": "CO",
+        "country": "USA",
+        "bib": "415",
+        "entryType": "Lottery (64 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:311",
+      "attributes": {
+        "firstName": "Christoffer",
+        "lastName": "Johnston",
+        "gender": "M",
+        "awards": null,
+        "age": 35,
+        "city": "Warren",
+        "state": "NJ",
+        "country": "USA",
+        "bib": "416",
+        "entryType": "Lottery (2 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:312",
+      "attributes": {
+        "firstName": "Stephanie",
+        "lastName": "Johnson",
+        "gender": "F",
+        "awards": null,
+        "age": 58,
+        "city": "Knoxville",
+        "state": "TN",
+        "country": "USA",
+        "bib": "417",
+        "entryType": "Lottery (16 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:313",
+      "attributes": {
+        "firstName": "Nicholas",
+        "lastName": "Horvath",
+        "gender": "M",
+        "awards": null,
+        "age": 36,
+        "city": "Chattanooga",
+        "state": "TN",
+        "country": "USA",
+        "bib": "418",
+        "entryType": "Lottery (8 tickets)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    },
+    {
+      "type": "entrant",
+      "id": "2021:314",
+      "attributes": {
+        "firstName": "Gabriel",
+        "lastName": "Wildberger",
+        "gender": "M",
+        "awards": null,
+        "age": 33,
+        "city": "Mönchaltorf",
+        "state": "CHE",
+        "country": "CHE",
+        "bib": "419",
+        "entryType": "Lottery (1 ticket)",
+        "priorFinishes": 0,
+        "rollover": null
+      }
+    }
+  ]
+}
