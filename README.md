@@ -1,8 +1,23 @@
-# wser-open-dataset
+<p align="center">
+  <img src="./assets/wser.png" background="white" width=150>
+</p>
 
-## Usage
+---
 
+# wser | open dataset
 
+This project collects publicly available data for the [Western States Endurance Run](https://wser.org)
+and formats it into [{json:api}](https://jsonapi.org) for ease of consumption.
+
+## Goals
+
+The goal for this project is to provide
+
+- a normalized relational dataset
+- cdn based access to that dataset
+- a sqlite seed of the dataset
+- typescript types for the data in the dataset
+- request builders and schemas for the data for use with [warp-drive.io](https://warp-drive.io)
 
 ## Contributing
 
