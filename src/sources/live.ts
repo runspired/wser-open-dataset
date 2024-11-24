@@ -1,9 +1,18 @@
 import { JSDOM } from 'jsdom';
+import { isSkippedYear } from '../-utils';
+import { asError } from './-shared';
 
-export async function fetchLatestLiveLotteryResults(
-  yearHint: number,
-  force = false,
-) {
+export async function fetchLatestLiveLotteryResults(year: number, force = false) {
+  try {
+    // only fetch the latest lottery results if the year is the current year
+    // or the upcoming year.
+    await _fetchLatestLiveLotteryResults(year, force);
+  } catch (error: unknown) {
+    console.log(`\t⚠️ ${asError(error).message}`);
+  }
+}
+
+async function _fetchLatestLiveLotteryResults(yearHint: number, force = false) {
   // we always serve from cache unless asked to force generate
   const file = Bun.file(
     `./.data-cache/raw/${yearHint}/live-lottery-results.json`,
@@ -13,6 +22,10 @@ export async function fetchLatestLiveLotteryResults(
 
   if (!forceGenerate && exists) {
     return await file.json();
+  }
+
+  if (isSkippedYear(yearHint, 'live')) {
+    return null;
   }
 
   const response = await fetch(`https://lottery.wser.org/`);

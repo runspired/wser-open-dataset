@@ -22,8 +22,6 @@
 This project collects publicly available data for the [Western States Endurance Run](https://wser.org)
 and formats it into [{json:api}](https://jsonapi.org) for ease of consumption.
 
-Currently it supports data as far back as 2013.
-
 ## Goals
 
 The goal for this project is to provide
@@ -50,7 +48,7 @@ The following data sources are currently available:
 
 - `finishers`
   - source: `https://www.wser.org/results/{YYYY}-results/`
-  - output: `./.data-cache/raw/{YYYY}/finishers.json`
+  - output: `./.data-cache/raw/{YYYY}/finisher.json`
 
 > [!TIP]
 > Some early years had starters but no finishers, and some years the race
@@ -62,7 +60,7 @@ The following data sources are currently available:
 
 - `applicants` 
   - source: `https://www.wser.org/lottery{YYYY}.html`
-  - output: `./.data-cache/raw/{YYYY}/applicants.json`
+  - output: `./.data-cache/raw/{YYYY}/applicant.json`
 
 > [!TIP]
 > Beginning in 2020 the race began assigning each applicant
@@ -70,7 +68,7 @@ The following data sources are currently available:
 
 - `entrants`
   - source: `https://www.wser.org/{YYYY}-entrants-list/`
-  - output: `./.data-cache/raw/{YYYY}/entrants.json`
+  - output: `./.data-cache/raw/{YYYY}/entrant.json`
 
 > [!TIP]
 > The entrants list contains non-lottery entrant data as well
@@ -81,7 +79,7 @@ The following data sources are currently available:
 
 - `wait-list`
   - source: `https://www.wser.org/{YYYY}-wait-list/`
-  - output: `./.data-cache/raw/{YYYY}/wait-list.json`
+  - output: `./.data-cache/raw/{YYYY}/waitlist.json`
 
 > [!TIP]
 > The waitlist in 2020 became the 2021 waitlist,

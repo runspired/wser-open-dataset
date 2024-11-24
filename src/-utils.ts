@@ -31,17 +31,20 @@ export const SKIPPED_ENTRANTS_YEARS: number[] = [
   // 2020 // see note above for why we still collect this data
 ];
 export const SKIPPED_FINISHERS_YEARS = [1975, 2008, 2020];
+export type SourceType =
+  | 'finisher'
+  | 'entrant'
+  | 'applicant'
+  | 'waitlist'
+  | 'live';
 
-export function isSkippedYear(
-  year: number,
-  type: 'applicants' | 'entrants' | 'waitlist' | 'finishers',
-) {
+export function isSkippedYear(year: number, type: SourceType) {
   switch (type) {
-    case 'applicants':
+    case 'applicant':
       return (
         year < FIRST_SUPPORTED_YEAR || SKIPPED_APPLICANT_YEARS.includes(year)
       );
-    case 'entrants':
+    case 'entrant':
       return (
         year < FIRST_SUPPORTED_YEAR || SKIPPED_ENTRANTS_YEARS.includes(year)
       );
@@ -49,9 +52,41 @@ export function isSkippedYear(
       return (
         year < FIRST_WAITLIST_YEAR || SKIPPED_WAITLIST_YEARS.includes(year)
       );
-    case 'finishers':
+    case 'finisher':
       return SKIPPED_FINISHERS_YEARS.includes(year);
+    case 'live':
+      return year !== CURRENT_YEAR && year !== NEXT_YEAR;
     default:
       throw new Error(`Invalid type: ${type}`);
+  }
+}
+
+function logErrors(errors: PromiseRejectedResult[], depth = 1) {
+  const prefix = (depth === 1 ? '🔺' : '·').padStart(depth, '\t');
+
+  for (const error of errors) {
+    console.log(`${prefix} ${error.reason.message}`);
+    if (error.reason.errors) {
+      logErrors(error.reason.errors, depth + 1);
+      console.log('\n');
+    }
+  }
+}
+
+export async function throwIfAnyErrors<T>(
+  promises: Promise<T>[],
+  message: (errors: PromiseRejectedResult[]) => string,
+  log = true,
+) {
+  const results = await Promise.allSettled(promises);
+  const errors = results.filter((result) => result.status === 'rejected');
+  if (errors.length > 0) {
+    if (log) logErrors(errors);
+    const error = new Error(message(errors));
+    if (!log) {
+      // @ts-expect-error we are intentionally adding a property to the error
+      error.errors = errors;
+    }
+    throw error;
   }
 }

@@ -1,5 +1,7 @@
 import type { BunFile } from 'bun';
 import { JSDOM } from 'jsdom';
+import { isSkippedYear, type SourceType } from '../-utils';
+import { styleText } from 'node:util';
 
 // on the 2^(n - 1) formula
 // 1 => 1
@@ -210,17 +212,230 @@ export function asError(error: unknown): Error {
 
 export function inverseMap<T extends Record<string, string | string[]>>(
   source: T,
-): Map<string, keyof T> {
-  const InverseFieldMap = new Map<string, keyof T>();
+): Map<string, keyof T & string> {
+  const InverseFieldMap = new Map<string, keyof T & string>();
   for (const [key, value] of Object.entries(source)) {
     if (Array.isArray(value)) {
       for (const v of value) {
-        InverseFieldMap.set(v, key as keyof T);
+        InverseFieldMap.set(v, key as keyof T & string);
       }
     } else {
-      InverseFieldMap.set(value as string, key as keyof T);
+      InverseFieldMap.set(value as string, key as keyof T & string);
     }
   }
 
   return InverseFieldMap;
+}
+
+/**
+ * Works with most tables on https://wser.org (not the subdomain tables)
+ */
+type Attrs = Record<string, string | number | null>;
+type FieldsOfType<T extends Attrs, Type extends string | number | null> = {
+  [Prop in keyof T & string]: AllowsType<T[Prop], Type> extends true
+    ? Prop
+    : never;
+}[keyof T & string];
+type OtherTypes<T> = Exclude<string | number | null, T>;
+type AllowsType<V, T> = Exclude<V, OtherTypes<T>> extends never ? false : true;
+
+type StandardTableConfig<T extends Attrs, Type extends SourceType> = {
+  year: number;
+  force?: boolean; // default false
+  selector?: string; // default '#content table';
+  type: Type;
+  scaffold: () => T;
+  fields: Record<keyof T & string, string | string[]>;
+  allowNull: FieldsOfType<T, null>[];
+  numericFields: FieldsOfType<T, number>[];
+};
+
+type Ref<T extends string> = { type: T; id: string };
+type StandardList<T extends string> = {
+  type: `${T}-list`;
+  id: string;
+  attributes: { year: number; source: string; accessed: string };
+  relationships: { [key in `${T}s`]: { data: Ref<T>[] } };
+};
+type StandardResource<T extends string, Fields extends Attrs> = {
+  type: T;
+  id: string;
+  attributes: Fields;
+};
+type StandardResponse<T extends string, Fields extends Attrs> = {
+  data: StandardList<T>;
+  included: StandardResource<T, Fields>[];
+};
+
+type FinalizedConfig<T extends Attrs, Type extends SourceType> = Required<
+  StandardTableConfig<T, Type>
+>;
+const DEFAULT_STANDARD_TABLE_CONFIG = {
+  force: false,
+  selector: '#content table',
+};
+function makeUrl(type: SourceType, year: number): string {
+  switch (type) {
+    case 'finisher':
+      return `https://www.wser.org/results/${String(year)}-results/`;
+    case 'entrant':
+      return `https://www.wser.org/${String(year)}-entrants-list/`;
+    case 'applicant':
+      return `https://www.wser.org/lottery${String(year)}.html`;
+    case 'waitlist':
+      return `https://www.wser.org/${String(year)}-wait-list/`;
+    case 'live':
+      return `https://lottery.wser.org/`;
+  }
+}
+
+function scaffoldResource<T extends Attrs, Type extends SourceType>(
+  config: FinalizedConfig<T, Type>,
+  index: number,
+): StandardResource<Type, T> {
+  return {
+    type: config.type,
+    id: `${config.year}:${index}`,
+    attributes: config.scaffold(),
+  };
+}
+
+function isNumberField<
+  T extends Attrs,
+  Type extends SourceType,
+  Config extends FinalizedConfig<T, Type>,
+>(
+  config: Config,
+  field: keyof T & string,
+): field is Config['numericFields'][number] {
+  return config.numericFields.includes(field as FieldsOfType<T, number>);
+}
+
+function isAllowedBlank<
+  T extends Attrs,
+  Type extends SourceType,
+  Config extends FinalizedConfig<T, Type>,
+>(
+  config: Config,
+  field: keyof T & string,
+): field is Config['allowNull'][number] {
+  return config.allowNull.includes(field as FieldsOfType<T, null>);
+}
+
+export async function processStandardWebsiteTable<
+  T extends Attrs,
+  Type extends SourceType,
+>(setup: StandardTableConfig<T, Type>): Promise<void> {
+  if (isSkippedYear(setup.year, setup.type)) {
+    return;
+  }
+
+  const config = Object.assign(
+    {},
+    DEFAULT_STANDARD_TABLE_CONFIG,
+    setup,
+  ) as FinalizedConfig<T, Type>;
+  const { year, force } = config;
+
+  type Response = StandardResponse<Type, T>;
+  type Resource = StandardResource<Type, T>;
+  type R = Ref<Type>;
+  const RelationshipName = `${config.type}s` as const;
+
+  const info = await getHtmlIfNeeded<StandardResponse<Type, T>>(
+    makeUrl(config.type, year),
+    `./.data-cache/raw/${year}/${config.type}.json`,
+    force,
+  );
+
+  if (info.data) {
+    return;
+  }
+
+  const rawJson = await extractTableData(info, config.selector);
+  const entrants: Resource[] = [];
+  const entrantRefs: R[] = [];
+  const result: Response = {
+    data: {
+      type: `${config.type}-list`,
+      id: `${year}`,
+      attributes: {
+        year,
+        source: info.url,
+        accessed: new Date().toISOString(),
+      },
+      // @ts-expect-error typescript is not smart enough to infer this satisfies
+      relationships: {
+        [RelationshipName]: {
+          data: entrantRefs,
+        },
+      },
+    },
+    included: entrants,
+  };
+
+  const InverseFieldMap = inverseMap(config.fields);
+  const labels = rawJson.labels.map((text) => {
+    const label = InverseFieldMap.get(text) ?? null;
+
+    if (!label) {
+      throw new Error(
+        `Invalid label: "${text}" in year ${year} for ${config.type}`,
+      );
+    }
+    return label;
+  });
+
+  for (let rowIndex = 0; rowIndex < rawJson.data.length; rowIndex++) {
+    const row = rawJson.data[rowIndex];
+    const { index, data } = row;
+
+    // generate the entrant object
+    const entrant = scaffoldResource(config, index);
+
+    for (let i = 0; i < data.length; i++) {
+      const value = data[i];
+      const label = labels[i];
+
+      if (!value && isAllowedBlank(config, label)) {
+        // @ts-expect-error typescript is not smart enough to infer this satisfies
+        entrant.attributes[label] = null;
+        continue;
+      }
+
+      if (!value) {
+        throw new Error(
+          `Missing value for field ${label} in cell ${i} on row ${index} in year ${year} for ${config.type}`,
+        );
+      }
+
+      if (isNumberField(config, label)) {
+        const num = Number(value);
+        if (Number.isNaN(num)) {
+          throw new Error(
+            `Value ${value} for numeric field ${label} is not a number in cell ${i} on row ${index} in year ${year} for ${config.type}`,
+          );
+        }
+        // @ts-expect-error typescript is not smart enough to infer this satisfies
+        entrant.attributes[label] = num;
+        continue;
+      }
+
+      // @ts-expect-error typescript is not smart enough to infer this satisfies
+      entrant.attributes[label] = value;
+    }
+
+    const { type, id } = entrant;
+    entrants.push(entrant);
+    entrantRefs.push({ type, id });
+  }
+
+  if (entrants.length === 0) {
+    console.warn(`⚠️ No ${config.type}s found for year ${year}`);
+  }
+
+  await Bun.write(info.file, JSON.stringify(result));
+  console.log(
+    `✅ Processed ${styleText('cyan', String(year))} ${config.type} | ${styleText('underline', styleText('gray', info.path))}`,
+  );
 }
