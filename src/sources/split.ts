@@ -1,5 +1,8 @@
-import { isSkippedYear } from '../-utils';
+import { GET, isSkippedYear, NEXT_YEAR, throwIfHttpError } from '../-utils';
 import { makeUrl } from './-shared';
+import { processTxtFileForSplits } from './splits/txt';
+import { processXlsxFileForSplits } from './splits/xlsx';
+import { processXlsFileForSplits } from './splits/xls';
 
 export function fetchSplitData(year: number, force = false): Promise<void> {
   return _fetchSplitData(year, force);
@@ -10,9 +13,8 @@ async function _fetchSplitData(year: number, force = false): Promise<void> {
     return;
   }
 
-  // early return as we haven't finished implementing
-  // split extraction.
-  return;
+  const startsFile = Bun.file(`./manual-data/starts.json`);
+  const OfficialStarts = (await startsFile.json()) as Record<number, string>;
 
   // we always serve from cache unless asked to force generate
   const path = `./.data-cache/raw/${year}/split.json`;
@@ -25,32 +27,54 @@ async function _fetchSplitData(year: number, force = false): Promise<void> {
   }
 
   const url = makeUrl('split', year);
-  const response = await fetch(url);
-  const txtData = await response.text();
+  const response = await GET(url);
 
-  const lines = txtData.split('\n');
-  const title = lines.shift()!;
-  const headers = [lines.shift()!.split('\t'), lines.shift()!.split('\t')];
-  const runners = [];
-  for (let i = 0; i < lines.length; i += 2) {
-    runners.push([lines[i].split('\t'), lines[i + 1].split('\t')]);
+  // avoid erring for stats that likely just don't exist yet
+  if (response.status >= 400 && year === NEXT_YEAR) {
+    console.log(`\t⚠️  No splits data available at ${url} for year ${year}`);
+    return;
   }
-  const data = {
-    title,
-    headers,
-    runners,
+
+  throwIfHttpError(response);
+
+  const SplitContext = {
+    year,
+    url,
+    response,
+    file,
+    path,
+    OfficialStarts,
   };
 
-  console.log({
-    title,
-    headers,
-  });
+  //
+  //////////////////////////
+  /////// TXT FILE /////////
+  //////////////////////////
+  //
+  // TXT files exist for 1986-2007
+  // but we use XLS files for 2004-2007
+  if (url.endsWith('.txt')) return processTxtFileForSplits(SplitContext);
 
-  for (const runner of data.runners) {
-    console.log('\n\n-----------\n\n');
-    console.log(runner[0]);
-    console.log(runner[1]);
-  }
+  //
+  //////////////////////////
+  /////// XLSX FILE /////////
+  //////////////////////////
+  //
+  // XLSX files exist for 2014+
+  if (url.endsWith('.xlsx')) return processXlsxFileForSplits(SplitContext);
 
-  throw new Error('Not implemented');
+  //
+  //////////////////////////
+  /////// XLS FILE /////////
+  //////////////////////////
+  //
+  // XLS files exist for 2004-2013
+  if (url.endsWith('.xls')) return processXlsFileForSplits(SplitContext);
+
+  //
+  //////////////////////////
+  ////// UNKNOWN FILE //////
+  //////////////////////////
+  //
+  throw new Error(`Support for parsing splits from ${url} is not implemented`);
 }

@@ -1,0 +1,1185 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta name="viewport" content="width=device-width, target-densitydpi=device-dpi, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<meta name="google-site-verification" content="1eVMZoCNc9U-OsSIU_btl8xtdZ_qjhSFR_3tfnR4z3I" />
+	
+	
+<title>1997 Results &#8211; Western States Endurance Run</title>
+  
+  
+
+      
+  
+	
+	
+	<link rel="shortcut icon" href="https://www.wser.org/wp-content/themes/ws100/favicon.ico">  
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/ie.css" />
+		<script src="dist/html5shiv.js"></script>
+	<![endif]-->
+  
+    <!-- TypeKit -->
+  <link rel="stylesheet" href="https://use.typekit.net/wpk2rkn.css">
+    <!-- <script src="https://use.typekit.net/wpk2rkn.js"></script> -->
+    <!-- <script>try{Typekit.load({ async: true });}catch(e){}</script> -->
+  
+  <!--[if !IE]><!-->
+  	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/700_grid.css" media="screen and (max-width: 720px)" />
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/705_grid.css" media="screen and (min-width: 700px)" />
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/720_grid.css" media="screen and (min-width: 720px)" />
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/986_grid.css" media="screen and (min-width: 986px)" />
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/1236_grid.css" media="screen and (min-width: 1236px)" />
+	<!--<![endif]-->
+  
+  <!--[if gt IE 8]>
+  	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/700_grid.css" media="screen and (max-width: 720px)" />
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/705_grid.css" media="screen and (min-width: 700px)" />
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/720_grid.css" media="screen and (min-width: 720px)" />
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/986_grid.css" media="screen and (min-width: 986px)" />
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/1236_grid.css" media="screen and (min-width: 1236px)" />
+<![endif]-->
+  
+  
+  
+	<!--<link rel="stylesheet" href="http://f.fontdeck.com/s/css/mCbGq/M3opM6pGpC6bTy55gcPdg/www.wser.org/21417.css" />  -->
+	
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/style.css">
+	
+	<link rel="pingback" href="https://www.wser.org/xmlrpc.php">
+
+	  
+  
+  
+  
+
+  
+
+	<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel="alternate" type="application/rss+xml" title="Western States Endurance Run &raquo; Feed" href="https://www.wser.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Western States Endurance Run &raquo; Comments Feed" href="https://www.wser.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Western States Endurance Run &raquo; 1997 Results Comments Feed" href="https://www.wser.org/results/1997-results/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.wser.org\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.wser.org/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='sign-up-sheets-sheet-style-inline-css' type='text/css'>
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/style.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+
+
+</style>
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://www.wser.org/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://www.wser.org/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<style id='jetpack-sharing-buttons-style-inline-css' type='text/css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.wser.org/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpcdt-public-css-css' href='https://www.wser.org/wp-content/plugins/countdown-timer-ultimate/assets/css/wpcdt-public.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://www.wser.org/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-subscriptions-css' href='https://www.wser.org/wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://www.wser.org/wp-content/tablepress-combined.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-datatables-buttons-css' href='https://www.wser.org/wp-content/plugins/tablepress-premium/modules/css/build/datatables.buttons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-responsive-tables-css' href='https://www.wser.org/wp-content/plugins/tablepress-premium/modules/css/build/responsive-tables.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-datatables-columnfilterwidgets-css' href='https://www.wser.org/wp-content/plugins/tablepress-premium/modules/css/build/datatables.columnfilterwidgets.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-css' href='https://www.wser.org/wp-content/plugins/ubermenu/pro/assets/css/ubermenu.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-tt-black-css' href='https://www.wser.org/wp-content/plugins/ubermenu/pro/assets/css/skins/twotone_black_black.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-font-awesome-all-css' href='https://www.wser.org/wp-content/plugins/ubermenu/assets/fontawesome/css/all.min.css' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.18'  type='font/woff2' crossorigin />
+<link rel='stylesheet' id='promoslider_main-css' href='https://www.wser.org/wp-content/plugins/promotion-slider/css/slider.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.wser.org/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.wser.org/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://www.wser.org/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.wser.org/wp-json/wp/v2/pages/1210" /><link rel="canonical" href="https://www.wser.org/results/1997-results/" />
+<link rel='shortlink' href='https://wp.me/P2CAQl-jw' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.wser.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.wser.org%2Fresults%2F1997-results%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.wser.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.wser.org%2Fresults%2F1997-results%2F&#038;format=xml" />
+<style id="ubermenu-custom-generated-css">
+/** Font Awesome 4 Compatibility **/
+.fa{font-style:normal;font-variant:normal;font-weight:normal;font-family:FontAwesome;}
+
+/** UberMenu Custom Menu Styles (Customizer) **/
+/* main */
+ .ubermenu-main .ubermenu-item .ubermenu-submenu-drop { -webkit-transition-duration:300ms; -ms-transition-duration:300ms; transition-duration:300ms; }
+ .ubermenu-main .ubermenu-item-layout-image_left > .ubermenu-target-text { padding-left:35px; }
+ .ubermenu-main .ubermenu-item-layout-image_right > .ubermenu-target-text { padding-right:35px; }
+ .ubermenu-main .ubermenu-item-layout-woocommerce_image_left_price > .ubermenu-target-text { padding-left:35px; }
+ .ubermenu-main .ubermenu-item-level-0 > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0 > .ubermenu-target.ubermenu-item-notext > .ubermenu-icon { line-height:1.3px; }
+ .ubermenu-main .ubermenu-item-level-0 > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0 > .ubermenu-custom-content.ubermenu-custom-content-padded { padding-top:19.6px; padding-bottom:19.6px; }
+
+
+
+/** UberMenu Custom Tweaks - Desktop **/
+@media screen and (min-width:960px){
+.ubermenu .ubermenu-submenu-drop a.ubermenu-target {padding-top:6px;padding-bottom:6px}
+}
+/* Status: Loaded from Transient */
+
+</style>	<style>img#wpstats{display:none}</style>
+		<link rel="icon" href="https://www.wser.org/wp-content/uploads/2024/04/cropped-WSER-logo_Blk-rd_sm-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.wser.org/wp-content/uploads/2024/04/cropped-WSER-logo_Blk-rd_sm-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.wser.org/wp-content/uploads/2024/04/cropped-WSER-logo_Blk-rd_sm-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.wser.org/wp-content/uploads/2024/04/cropped-WSER-logo_Blk-rd_sm-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			iframe {
+    display:block;
+    width:100%;
+    height:100vh;
+}
+
+		</style>
+		</head>
+
+<body class="page-template page-template-nosidebar page-template-nosidebar-php page page-id-1210 page-child parent-pageid-295">
+	
+	<!-- <div id="page-wrap">  -->
+
+		<div id="header">
+			<a href="https://www.wser.org/"><img src="https://www.wser.org/wp-content/uploads/2022/06/WSER_logo_Wht_horiz_lrg.png" alt="Western States Endurance Run" /></a>
+			
+			<div class="hidden">
+				<h1><a href="https://www.wser.org/">Western States Endurance Run</a></h1>
+				<div class="description"></div>
+			</div> <!-- .hidden -->
+				
+				
+<!-- UberMenu [Configuration:main] [Theme Loc:ubermenu] [Integration:api] -->
+<a class="ubermenu-responsive-toggle ubermenu-responsive-toggle-main ubermenu-skin-tt-black ubermenu-loc-ubermenu ubermenu-responsive-toggle-content-align-left ubermenu-responsive-toggle-align-full " tabindex="0" data-ubermenu-target="ubermenu-main-3-ubermenu-2"   aria-label="Toggle Menu"><i class="fas fa-bars" ></i>Menu</a><div id="ubermenu-main-3-ubermenu-2" class="ubermenu ubermenu-nojs ubermenu-main ubermenu-menu-3 ubermenu-loc-ubermenu ubermenu-responsive ubermenu-responsive-default ubermenu-responsive-collapse ubermenu-horizontal ubermenu-transition-slide ubermenu-trigger-hover_intent ubermenu-skin-tt-black  ubermenu-bar-align-full ubermenu-items-align-center ubermenu-bar-inner-center ubermenu-bound ubermenu-sub-indicators ubermenu-retractors-responsive ubermenu-submenu-indicator-closes"><ul id="ubermenu-nav-main-3-ubermenu" class="ubermenu-nav" data-title="UberMenu"><li id="menu-item-35" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-home ubermenu-item-35 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Home</span></a></li><li id="menu-item-110" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-110 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/news/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">News</span></a></li><li id="menu-item-23" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-23 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Entry</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-23 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item ubermenu-autoclear"  ><li id="menu-item-1872" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1872 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/entry-process/"><span class="ubermenu-target-title ubermenu-target-text">Entry Process</span></a></li><li id="menu-item-59" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-59 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/lottery/"><span class="ubermenu-target-title ubermenu-target-text">Lottery</span></a></li><li id="menu-item-66" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-66 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/qualifying-races/"><span class="ubermenu-target-title ubermenu-target-text">Qualifying Races</span></a></li><li id="menu-item-72" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-72 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/automatics/"><span class="ubermenu-target-title ubermenu-target-text">Automatics</span></a></li><li id="menu-item-3874" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-3874 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/special-consideration/"><span class="ubermenu-target-title ubermenu-target-text">Special Consideration</span></a></li><li id="menu-item-11510" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-11510 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/entry-process/pregnancy-deferrals/"><span class="ubermenu-target-title ubermenu-target-text">Pregnancy Entry Deferral</span></a></li><li id="menu-item-13915" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-13915 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/wait-list/"><span class="ubermenu-target-title ubermenu-target-text">Wait List</span></a></li><li id="menu-item-253" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-253 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/raffle/"><span class="ubermenu-target-title ubermenu-target-text">Raffle</span></a></li><li id="menu-item-444" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-444 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/golden-ticket-races/"><span class="ubermenu-target-title ubermenu-target-text">HOKA Golden Ticket Races</span></a></li><li id="menu-item-656" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-656 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/top-ten/"><span class="ubermenu-target-title ubermenu-target-text">Top Ten</span></a></li><li id="menu-item-7614" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-7614 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/silver-legend-entry/"><span class="ubermenu-target-title ubermenu-target-text">Silver Legend Entry</span></a></li></ul></li><li id="menu-item-254" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-254 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Runners</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-254 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item ubermenu-autoclear"  ><li id="menu-item-2538" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-2538 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/participant-guide/"><span class="ubermenu-target-title ubermenu-target-text">2025 Participant Guide</span></a></li><li id="menu-item-448" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-448 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/medical-and-other-risks/"><span class="ubermenu-target-title ubermenu-target-text">Medical and Other Risks</span></a></li><li id="menu-item-39923" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-39923 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/foot-care/"><span class="ubermenu-target-title ubermenu-target-text">Foot Care</span></a></li><li id="menu-item-447" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-447 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/training-for-western-states/"><span class="ubermenu-target-title ubermenu-target-text">Training For Western States</span></a></li><li id="menu-item-1023" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1023 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/training-runs/"><span class="ubermenu-target-title ubermenu-target-text">Training Runs</span></a></li><li id="menu-item-249" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-249 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/awards/"><span class="ubermenu-target-title ubermenu-target-text">Awards</span></a></li><li id="menu-item-450" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-450 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/performance-rules/"><span class="ubermenu-target-title ubermenu-target-text">Performance Rules</span></a></li><li id="menu-item-22021" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-22021 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/international-runners/"><span class="ubermenu-target-title ubermenu-target-text">International Runners</span></a></li><li id="menu-item-38874" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38874 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/utmb-world-series/"><span class="ubermenu-target-title ubermenu-target-text">UTMB® World Series</span></a></li><li id="menu-item-61742" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-61742 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/anti-doping-policy/"><span class="ubermenu-target-title ubermenu-target-text">Anti-Doping Policy</span></a></li><li id="menu-item-15240" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-15240 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/transgender-entrant-policy/"><span class="ubermenu-target-title ubermenu-target-text">Transgender and Nonbinary Entrant Policy</span></a></li><li id="menu-item-619" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-619 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/inspiration-point/"><span class="ubermenu-target-title ubermenu-target-text">Inspiration</span></a></li><li id="menu-item-483" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-483 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1 ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Race Week</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-483 ubermenu-submenu-type-auto ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item"  ><li id="menu-item-487" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-487 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/race-week-agenda/"><span class="ubermenu-target-title ubermenu-target-text">Race Week Agenda</span></a></li><li id="menu-item-486" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-486 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/lodging/"><span class="ubermenu-target-title ubermenu-target-text">Lodging</span></a></li><li id="menu-item-485" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-485 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/finish-line/"><span class="ubermenu-target-title ubermenu-target-text">Finish Line</span></a></li><li id="menu-item-490" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-490 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/food-and-transportation/"><span class="ubermenu-target-title ubermenu-target-text">Food and Transportation</span></a></li></ul></li></ul></li><li id="menu-item-455" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-455 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Crews</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-455 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item ubermenu-autoclear"  ><li id="menu-item-555" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-555 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/pacer-rules/"><span class="ubermenu-target-title ubermenu-target-text">Pacer Rules</span></a></li><li id="menu-item-1816" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1816 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/crew-rules/"><span class="ubermenu-target-title ubermenu-target-text">Crew Rules</span></a></li><li id="menu-item-453" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-453 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/crew-suggestions/"><span class="ubermenu-target-title ubermenu-target-text">Crew Suggestions</span></a></li><li id="menu-item-493" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-493 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/crew-activities/"><span class="ubermenu-target-title ubermenu-target-text">Crew Activities</span></a></li></ul></li><li id="menu-item-472" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-472 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Volunteers</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-472 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item ubermenu-autoclear"  ><li id="menu-item-2501" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-2501 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1 ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Opportunities</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-2501 ubermenu-submenu-type-auto ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item"  ><li id="menu-item-36787" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-36787 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/i-want-to-volunteer/"><span class="ubermenu-target-title ubermenu-target-text">Volunteer Request</span></a></li><li id="menu-item-2861" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-2861 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/trail-stewardship/trail-work-opportunities/"><span class="ubermenu-target-title ubermenu-target-text">Trail Work Opportunities in 2024</span></a></li><li id="menu-item-1326" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1326 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/medical/"><span class="ubermenu-target-title ubermenu-target-text">Medical</span></a></li><li id="menu-item-468" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-468 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/communication/"><span class="ubermenu-target-title ubermenu-target-text">Communication</span></a></li><li id="menu-item-1655" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1655 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/webcast/"><span class="ubermenu-target-title ubermenu-target-text">Webcast</span></a></li></ul></li><li id="menu-item-469" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-469 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/"><span class="ubermenu-target-title ubermenu-target-text">Information</span></a></li><li id="menu-item-471" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-471 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/friends-of-the-trail/"><span class="ubermenu-target-title ubermenu-target-text">Friends of The Trail</span></a></li><li id="menu-item-470" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-470 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/little-cougar/"><span class="ubermenu-target-title ubermenu-target-text">Little Cougar Award</span></a></li><li id="menu-item-1177" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1177 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/stationmaster-award/"><span class="ubermenu-target-title ubermenu-target-text">Stationmaster Award</span></a></li></ul></li><li id="menu-item-28" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-28 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Course</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-28 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item ubermenu-autoclear"  ><li id="menu-item-321" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-321 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/course/"><span class="ubermenu-target-title ubermenu-target-text">Course Description</span></a></li><li id="menu-item-292" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-292 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/course/aid-stations/"><span class="ubermenu-target-title ubermenu-target-text">Aid Stations</span></a></li><li id="menu-item-313" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-313 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/course/maps/"><span class="ubermenu-target-title ubermenu-target-text">Maps</span></a></li><li id="menu-item-3957" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-3957 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/google-earth-trail-flyover/"><span class="ubermenu-target-title ubermenu-target-text">Trail Flyover</span></a></li><li id="menu-item-1891" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1891 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/course/gps-info/"><span class="ubermenu-target-title ubermenu-target-text">GPS Info</span></a></li><li id="menu-item-322" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-322 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/course/snow-routes/"><span class="ubermenu-target-title ubermenu-target-text">Snow Route</span></a></li><li id="menu-item-1299" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1299 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/course/variations-1974-present/"><span class="ubermenu-target-title ubermenu-target-text">Course Variations 1974-present</span></a></li></ul></li><li id="menu-item-26" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-26 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">History</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-26 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item ubermenu-autoclear"  ><li id="menu-item-38" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/how-it-all-began/"><span class="ubermenu-target-title ubermenu-target-text">How it All Began</span></a></li><li id="menu-item-55" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-55 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/history-year-by-year/"><span class="ubermenu-target-title ubermenu-target-text">Year By Year</span></a></li><li id="menu-item-311" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-311 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/ws-trail-history/"><span class="ubermenu-target-title ubermenu-target-text">WS Trail History</span></a></li><li id="menu-item-82" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-82 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/weather/"><span class="ubermenu-target-title ubermenu-target-text">Weather</span></a></li><li id="menu-item-8109" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-8109 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/snowpack/"><span class="ubermenu-target-title ubermenu-target-text">Snowpack</span></a></li></ul></li><li id="menu-item-24" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-24 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Results</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-24 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item ubermenu-autoclear"  ><li id="menu-item-315" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-current-page-ancestor ubermenu-item-315 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/results/"><span class="ubermenu-target-title ubermenu-target-text">Results 1974-present</span></a></li><li id="menu-item-314" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-314 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/splits/"><span class="ubermenu-target-title ubermenu-target-text">Splits</span></a></li><li id="menu-item-631" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-631 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/records/"><span class="ubermenu-target-title ubermenu-target-text">Records</span></a></li><li id="menu-item-310" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-310 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/geeks-only/"><span class="ubermenu-target-title ubermenu-target-text">Geeks Only</span></a></li></ul></li><li id="menu-item-528" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-528 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Galleries</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-528 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item ubermenu-autoclear"  ><li id="menu-item-534" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-534 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/official-photos/"><span class="ubermenu-target-title ubermenu-target-text">Official Photos</span></a></li><li id="menu-item-533" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-533 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/contributed-photos/"><span class="ubermenu-target-title ubermenu-target-text">Contributed Photos</span></a></li></ul></li></ul></div>
+<!-- End UberMenu -->
+				
+		</div>  <!-- End #header -->
+
+		<div id="content">
+			<div class="grid">
+						<div class="row">
+
+
+	<div class="slot-0-1-2-3-4-5">
+
+	  <div id="crumbs"><a href="https://www.wser.org">Home</a> &raquo; <a href="https://www.wser.org/results/">Results 1974-present</a> &raquo; <span class="current">1997 Results</span></div>	  
+	
+		<div class="post-1210 page type-page status-publish hentry" id="post-1210">
+																				
+																				
+						<h1>1997 Results</h1>
+																
+		  
+			<div class="entry">
+				<p style="text-align: center;">View results for other years<form name=\"form1\" id=\"form1\" action=\"\" method=\"get\"><select name='page_id' id='page_id' onchange='return this.form.submit()'>
+	<option value="">Choose Year</option>
+	<option class="level-0" value="64076">2024 Results</option>
+	<option class="level-0" value="54804">2023 Results</option>
+	<option class="level-0" value="41937">2022 Results</option>
+	<option class="level-0" value="32740">2021 Results</option>
+	<option class="level-0" value="24341">2020 Results</option>
+	<option class="level-0" value="18523">2019 Results</option>
+	<option class="level-0" value="11655">2018 Results</option>
+	<option class="level-0" value="8457">2017 Results</option>
+	<option class="level-0" value="7507">2016 Results</option>
+	<option class="level-0" value="6659">2015 Results</option>
+	<option class="level-0" value="5684">2014 Results</option>
+	<option class="level-0" value="4155">2013 Results</option>
+	<option class="level-0" value="1125">2012 Results</option>
+	<option class="level-0" value="1007">2011 Results</option>
+	<option class="level-0" value="1135">2010 Results</option>
+	<option class="level-0" value="1137">2009 Results</option>
+	<option class="level-0" value="1139">2008 Results</option>
+	<option class="level-0" value="1150">2007 Results</option>
+	<option class="level-0" value="1189">2006 Results</option>
+	<option class="level-0" value="1196">2005 Results</option>
+	<option class="level-0" value="1191">2004 Results</option>
+	<option class="level-0" value="1198">2003 Results</option>
+	<option class="level-0" value="1200">2002 Results</option>
+	<option class="level-0" value="1202">2001 Results</option>
+	<option class="level-0" value="1204">2000 Results</option>
+	<option class="level-0" value="1206">1999 Results</option>
+	<option class="level-0" value="1208">1998 Results</option>
+	<option class="level-0" value="1210">1997 Results</option>
+	<option class="level-0" value="1212">1996 Results</option>
+	<option class="level-0" value="1214">1995 Results</option>
+	<option class="level-0" value="1216">1994 Results</option>
+	<option class="level-0" value="1218">1993 Results</option>
+	<option class="level-0" value="1220">1992 Results</option>
+	<option class="level-0" value="1222">1991 Results</option>
+	<option class="level-0" value="1224">1990 Results</option>
+	<option class="level-0" value="1226">1989 Results</option>
+	<option class="level-0" value="1228">1988 Results</option>
+	<option class="level-0" value="1230">1987 Results</option>
+	<option class="level-0" value="1232">1986 Results</option>
+	<option class="level-0" value="1234">1985 Results</option>
+	<option class="level-0" value="1236">1984 Results</option>
+	<option class="level-0" value="1238">1983 Results</option>
+	<option class="level-0" value="1240">1982 Results</option>
+	<option class="level-0" value="1244">1981 Results</option>
+	<option class="level-0" value="1242">1980 Results</option>
+	<option class="level-0" value="1274">1979 Results</option>
+	<option class="level-0" value="1277">1978 Results</option>
+	<option class="level-0" value="1279">1977 Results</option>
+	<option class="level-0" value="1281">1976 Results</option>
+	<option class="level-0" value="1283">1975 Results</option>
+	<option class="level-0" value="1285">1974 Results</option>
+</select>
+<noscript><input type=\"submit\" name=\"submit\" value=\"view\" /></noscript></form></p>
+
+<table id="tablepress-68" class="tablepress tablepress-id-68 wser-table tablepress-responsive">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Place</th><th class="column-2">Time</th><th class="column-3">First</th><th class="column-4">Last</th><th class="column-5">Gender</th><th class="column-6">Age</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-2 even">
+	<td class="column-1">1</td><td class="column-2">15:40:41</td><td class="column-3">Mike</td><td class="column-4">Morton</td><td class="column-5">M</td><td class="column-6">25</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">2</td><td class="column-2">17:14:00</td><td class="column-3">Tim</td><td class="column-4">Twietmeyer</td><td class="column-5">M</td><td class="column-6">38</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">3</td><td class="column-2">17:57:05</td><td class="column-3">Rick</td><td class="column-4">Simonsen</td><td class="column-5">M</td><td class="column-6">35</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">4</td><td class="column-2">18:08:41</td><td class="column-3">Scott</td><td class="column-4">St. John</td><td class="column-5">M</td><td class="column-6">34</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">5</td><td class="column-2">18:55:00</td><td class="column-3">Joe</td><td class="column-4">Schlereth</td><td class="column-5">M</td><td class="column-6">47</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1">6</td><td class="column-2">19:08:32</td><td class="column-3">Dave</td><td class="column-4">Scott</td><td class="column-5">M</td><td class="column-6">39</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1">7</td><td class="column-2">19:09:59</td><td class="column-3">Jussi</td><td class="column-4">Hamalainen</td><td class="column-5">M</td><td class="column-6">51</td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1">8</td><td class="column-2">19:19:49</td><td class="column-3">Ann</td><td class="column-4">Trason</td><td class="column-5">F</td><td class="column-6">36</td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-1">9</td><td class="column-2">19:21:00</td><td class="column-3">Mike</td><td class="column-4">Topper</td><td class="column-5">M</td><td class="column-6">37</td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-1">10</td><td class="column-2">19:25:46</td><td class="column-3">Mark</td><td class="column-4">Marcelli</td><td class="column-5">M</td><td class="column-6">38</td>
+</tr>
+<tr class="row-12 even">
+	<td class="column-1">11</td><td class="column-2">19:50:04</td><td class="column-3">Kevin</td><td class="column-4">Rumon</td><td class="column-5">M</td><td class="column-6">36</td>
+</tr>
+<tr class="row-13 odd">
+	<td class="column-1">12</td><td class="column-2">19:51:11</td><td class="column-3">Kevin</td><td class="column-4">Setnes</td><td class="column-5">M</td><td class="column-6">43</td>
+</tr>
+<tr class="row-14 even">
+	<td class="column-1">13</td><td class="column-2">20:03:05</td><td class="column-3">Mark</td><td class="column-4">Tarr</td><td class="column-5">M</td><td class="column-6">35</td>
+</tr>
+<tr class="row-15 odd">
+	<td class="column-1">14</td><td class="column-2">20:19:01</td><td class="column-3">Douglas</td><td class="column-4">Spencer</td><td class="column-5">M</td><td class="column-6">38</td>
+</tr>
+<tr class="row-16 even">
+	<td class="column-1">15</td><td class="column-2">20:20:38</td><td class="column-3">Bill</td><td class="column-4">Rose</td><td class="column-5">M</td><td class="column-6">41</td>
+</tr>
+<tr class="row-17 odd">
+	<td class="column-1">16</td><td class="column-2">20:23:37</td><td class="column-3">Greg</td><td class="column-4">Nacco</td><td class="column-5">M</td><td class="column-6">37</td>
+</tr>
+<tr class="row-18 even">
+	<td class="column-1">17</td><td class="column-2">20:26:50</td><td class="column-3">Kenneth</td><td class="column-4">Gregorich</td><td class="column-5">M</td><td class="column-6">38</td>
+</tr>
+<tr class="row-19 odd">
+	<td class="column-1">18</td><td class="column-2">20:29:26</td><td class="column-3">Richard</td><td class="column-4">Spady</td><td class="column-5">M</td><td class="column-6">45</td>
+</tr>
+<tr class="row-20 even">
+	<td class="column-1">19</td><td class="column-2">20:33:52</td><td class="column-3">Scott</td><td class="column-4">Mills</td><td class="column-5">M</td><td class="column-6">46</td>
+</tr>
+<tr class="row-21 odd">
+	<td class="column-1">20</td><td class="column-2">20:34:35</td><td class="column-3">Dave</td><td class="column-4">Robinson</td><td class="column-5">M</td><td class="column-6">35</td>
+</tr>
+<tr class="row-22 even">
+	<td class="column-1">21</td><td class="column-2">20:48:44</td><td class="column-3">Don</td><td class="column-4">Aycock</td><td class="column-5">M</td><td class="column-6">45</td>
+</tr>
+<tr class="row-23 odd">
+	<td class="column-1">22</td><td class="column-2">20:50:38</td><td class="column-3">Rob</td><td class="column-4">Byrne</td><td class="column-5">M</td><td class="column-6">39</td>
+</tr>
+<tr class="row-24 even">
+	<td class="column-1">23</td><td class="column-2">20:50:50</td><td class="column-3">Dale</td><td class="column-4">Petersen</td><td class="column-5">M</td><td class="column-6">40</td>
+</tr>
+<tr class="row-25 odd">
+	<td class="column-1">24</td><td class="column-2">20:59:16</td><td class="column-3">Ray</td><td class="column-4">Scannell</td><td class="column-5">M</td><td class="column-6">47</td>
+</tr>
+<tr class="row-26 even">
+	<td class="column-1">25</td><td class="column-2">21:00:56</td><td class="column-3">Joe</td><td class="column-4">Braninburg</td><td class="column-5">M</td><td class="column-6">53</td>
+</tr>
+<tr class="row-27 odd">
+	<td class="column-1">26</td><td class="column-2">21:01:43</td><td class="column-3">Tim</td><td class="column-4">Hewitt</td><td class="column-5">M</td><td class="column-6">42</td>
+</tr>
+<tr class="row-28 even">
+	<td class="column-1">27</td><td class="column-2">21:07:29</td><td class="column-3">Janice</td><td class="column-4">Anderson</td><td class="column-5">F</td><td class="column-6">31</td>
+</tr>
+<tr class="row-29 odd">
+	<td class="column-1">28</td><td class="column-2">21:11:18</td><td class="column-3">Bernard</td><td class="column-4">Coudurier</td><td class="column-5">M</td><td class="column-6">45</td>
+</tr>
+<tr class="row-30 even">
+	<td class="column-1">29</td><td class="column-2">21:12:01</td><td class="column-3">Paul</td><td class="column-4">Days-Merrill</td><td class="column-5">M</td><td class="column-6">43</td>
+</tr>
+<tr class="row-31 odd">
+	<td class="column-1">30</td><td class="column-2">21:13:17</td><td class="column-3">Vincent</td><td class="column-4">Jervis</td><td class="column-5">M</td><td class="column-6">30</td>
+</tr>
+<tr class="row-32 even">
+	<td class="column-1">31</td><td class="column-2">21:14:46</td><td class="column-3">John</td><td class="column-4">Geesler</td><td class="column-5">M</td><td class="column-6">38</td>
+</tr>
+<tr class="row-33 odd">
+	<td class="column-1">32</td><td class="column-2">21:16:03</td><td class="column-3">Jim</td><td class="column-4">Scott</td><td class="column-5">M</td><td class="column-6">37</td>
+</tr>
+<tr class="row-34 even">
+	<td class="column-1">33</td><td class="column-2">21:20:11</td><td class="column-3">Alfred</td><td class="column-4">Bogenhuber</td><td class="column-5">M</td><td class="column-6">57</td>
+</tr>
+<tr class="row-35 odd">
+	<td class="column-1">34</td><td class="column-2">21:20:39</td><td class="column-3">Nate</td><td class="column-4">Anderson</td><td class="column-5">M</td><td class="column-6">39</td>
+</tr>
+<tr class="row-36 even">
+	<td class="column-1">35</td><td class="column-2">21:23:39</td><td class="column-3">Suzie</td><td class="column-4">Lister</td><td class="column-5">F</td><td class="column-6">32</td>
+</tr>
+<tr class="row-37 odd">
+	<td class="column-1">36</td><td class="column-2">21:27:00</td><td class="column-3">Dan</td><td class="column-4">Williams</td><td class="column-5">M</td><td class="column-6">48</td>
+</tr>
+<tr class="row-38 even">
+	<td class="column-1">37</td><td class="column-2">21:32:23</td><td class="column-3">John</td><td class="column-4">Nagel</td><td class="column-5">M</td><td class="column-6">36</td>
+</tr>
+<tr class="row-39 odd">
+	<td class="column-1">38</td><td class="column-2">21:37:03</td><td class="column-3">Roy</td><td class="column-4">Pirrung</td><td class="column-5">M</td><td class="column-6">48</td>
+</tr>
+<tr class="row-40 even">
+	<td class="column-1">39</td><td class="column-2">21:39:36</td><td class="column-3">Mike</td><td class="column-4">Pelechaty</td><td class="column-5">M</td><td class="column-6">42</td>
+</tr>
+<tr class="row-41 odd">
+	<td class="column-1">40</td><td class="column-2">21:39:49</td><td class="column-3">David</td><td class="column-4">Horton</td><td class="column-5">M</td><td class="column-6">47</td>
+</tr>
+<tr class="row-42 even">
+	<td class="column-1">41</td><td class="column-2">21:45:54</td><td class="column-3">Bryan</td><td class="column-4">Hughes</td><td class="column-5">M</td><td class="column-6">31</td>
+</tr>
+<tr class="row-43 odd">
+	<td class="column-1">42</td><td class="column-2">21:59:06</td><td class="column-3">Sherry Kae</td><td class="column-4">Johns</td><td class="column-5">F</td><td class="column-6">42</td>
+</tr>
+<tr class="row-44 even">
+	<td class="column-1">43</td><td class="column-2">22:04:07</td><td class="column-3">Jon</td><td class="column-4">Priest</td><td class="column-5">M</td><td class="column-6">35</td>
+</tr>
+<tr class="row-45 odd">
+	<td class="column-1">44</td><td class="column-2">22:07:16</td><td class="column-3">Daniel</td><td class="column-4">Martin</td><td class="column-5">M</td><td class="column-6">49</td>
+</tr>
+<tr class="row-46 even">
+	<td class="column-1">45</td><td class="column-2">22:08:50</td><td class="column-3">John</td><td class="column-4">Cooper</td><td class="column-5">M</td><td class="column-6">33</td>
+</tr>
+<tr class="row-47 odd">
+	<td class="column-1">46</td><td class="column-2">22:09:01</td><td class="column-3">Mo</td><td class="column-4">Bartley</td><td class="column-5">F</td><td class="column-6">42</td>
+</tr>
+<tr class="row-48 even">
+	<td class="column-1">47</td><td class="column-2">22:11:36</td><td class="column-3">Charles</td><td class="column-4">Thomas</td><td class="column-5">M</td><td class="column-6">40</td>
+</tr>
+<tr class="row-49 odd">
+	<td class="column-1">48</td><td class="column-2">22:13:01</td><td class="column-3">Gary</td><td class="column-4">Neel</td><td class="column-5">M</td><td class="column-6">43</td>
+</tr>
+<tr class="row-50 even">
+	<td class="column-1">49</td><td class="column-2">22:13:52</td><td class="column-3">Tim</td><td class="column-4">Spence</td><td class="column-5">M</td><td class="column-6">41</td>
+</tr>
+<tr class="row-51 odd">
+	<td class="column-1">50</td><td class="column-2">22:16:01</td><td class="column-3">Jean-Paul</td><td class="column-4">Mazaud</td><td class="column-5">M</td><td class="column-6">45</td>
+</tr>
+<tr class="row-52 even">
+	<td class="column-1">51</td><td class="column-2">22:17:09</td><td class="column-3">David</td><td class="column-4">Terry</td><td class="column-5">M</td><td class="column-6">35</td>
+</tr>
+<tr class="row-53 odd">
+	<td class="column-1">52</td><td class="column-2">22:17:33</td><td class="column-3">Scott</td><td class="column-4">McKenzie</td><td class="column-5">M</td><td class="column-6">42</td>
+</tr>
+<tr class="row-54 even">
+	<td class="column-1">53</td><td class="column-2">22:20:14</td><td class="column-3">Denise</td><td class="column-4">Ellestad</td><td class="column-5">F</td><td class="column-6">36</td>
+</tr>
+<tr class="row-55 odd">
+	<td class="column-1">54</td><td class="column-2">22:34:25</td><td class="column-3">Raymond</td><td class="column-4">Bailey</td><td class="column-5">M</td><td class="column-6">40</td>
+</tr>
+<tr class="row-56 even">
+	<td class="column-1">55</td><td class="column-2">22:36:18</td><td class="column-3">James</td><td class="column-4">Kerby</td><td class="column-5">M</td><td class="column-6">34</td>
+</tr>
+<tr class="row-57 odd">
+	<td class="column-1">56</td><td class="column-2">22:38:31</td><td class="column-3">Rod</td><td class="column-4">Hatfull</td><td class="column-5">M</td><td class="column-6">37</td>
+</tr>
+<tr class="row-58 even">
+	<td class="column-1">57</td><td class="column-2">22:41:05</td><td class="column-3">Geoff</td><td class="column-4">Vaughan</td><td class="column-5">M</td><td class="column-6">32</td>
+</tr>
+<tr class="row-59 odd">
+	<td class="column-1">58</td><td class="column-2">22:44:54</td><td class="column-3">John-Mark</td><td class="column-4">Staude</td><td class="column-5">M</td><td class="column-6">32</td>
+</tr>
+<tr class="row-60 even">
+	<td class="column-1">59</td><td class="column-2">22:47:13</td><td class="column-3">Mike</td><td class="column-4">Fiorito</td><td class="column-5">M</td><td class="column-6">30</td>
+</tr>
+<tr class="row-61 odd">
+	<td class="column-1">60</td><td class="column-2">22:53:18</td><td class="column-3">Jay</td><td class="column-4">Grobeson</td><td class="column-5">M</td><td class="column-6">36</td>
+</tr>
+<tr class="row-62 even">
+	<td class="column-1">61</td><td class="column-2">22:53:32</td><td class="column-3">Greg</td><td class="column-4">Atchley</td><td class="column-5">M</td><td class="column-6">30</td>
+</tr>
+<tr class="row-63 odd">
+	<td class="column-1">62</td><td class="column-2">22:59:54</td><td class="column-3">Paul</td><td class="column-4">Huddle</td><td class="column-5">M</td><td class="column-6">34</td>
+</tr>
+<tr class="row-64 even">
+	<td class="column-1">63</td><td class="column-2">23:04:09</td><td class="column-3">Glenn</td><td class="column-4">Vencill</td><td class="column-5">M</td><td class="column-6">43</td>
+</tr>
+<tr class="row-65 odd">
+	<td class="column-1">64</td><td class="column-2">23:06:54</td><td class="column-3">Martha</td><td class="column-4">Swatt-Robison</td><td class="column-5">F</td><td class="column-6">35</td>
+</tr>
+<tr class="row-66 even">
+	<td class="column-1">65</td><td class="column-2">23:08:06</td><td class="column-3">David</td><td class="column-4">Pirogowicz</td><td class="column-5">M</td><td class="column-6">45</td>
+</tr>
+<tr class="row-67 odd">
+	<td class="column-1">66</td><td class="column-2">23:10:23</td><td class="column-3">Jeff</td><td class="column-4">Pettigrew</td><td class="column-5">M</td><td class="column-6">34</td>
+</tr>
+<tr class="row-68 even">
+	<td class="column-1">67</td><td class="column-2">23:11:14</td><td class="column-3">Mark</td><td class="column-4">Godale</td><td class="column-5">M</td><td class="column-6">27</td>
+</tr>
+<tr class="row-69 odd">
+	<td class="column-1">68</td><td class="column-2">23:11:15</td><td class="column-3">Herb</td><td class="column-4">Tanzer</td><td class="column-5">M</td><td class="column-6">45</td>
+</tr>
+<tr class="row-70 even">
+	<td class="column-1">69</td><td class="column-2">23:18:08</td><td class="column-3">Chrissy</td><td class="column-4">Duryea-Ferguson</td><td class="column-5">F</td><td class="column-6">36</td>
+</tr>
+<tr class="row-71 odd">
+	<td class="column-1">70</td><td class="column-2">23:19:42</td><td class="column-3">Jim</td><td class="column-4">Garcia</td><td class="column-5">M</td><td class="column-6">38</td>
+</tr>
+<tr class="row-72 even">
+	<td class="column-1">71</td><td class="column-2">23:19:43</td><td class="column-3">Alex</td><td class="column-4">Garcia</td><td class="column-5">M</td><td class="column-6">34</td>
+</tr>
+<tr class="row-73 odd">
+	<td class="column-1">72</td><td class="column-2">23:20:20</td><td class="column-3">Gary</td><td class="column-4">Henslee</td><td class="column-5">M</td><td class="column-6">45</td>
+</tr>
+<tr class="row-74 even">
+	<td class="column-1">73</td><td class="column-2">23:21:46</td><td class="column-3">Roger</td><td class="column-4">Dellor</td><td class="column-5">M</td><td class="column-6">54</td>
+</tr>
+<tr class="row-75 odd">
+	<td class="column-1">74</td><td class="column-2">23:22:18</td><td class="column-3">Willis</td><td class="column-4">McCarthy</td><td class="column-5">M</td><td class="column-6">41</td>
+</tr>
+<tr class="row-76 even">
+	<td class="column-1">75</td><td class="column-2">23:23:26</td><td class="column-3">Karen</td><td class="column-4">King</td><td class="column-5">F</td><td class="column-6">40</td>
+</tr>
+<tr class="row-77 odd">
+	<td class="column-1">76</td><td class="column-2">23:24:00</td><td class="column-3">Dan</td><td class="column-4">Landry</td><td class="column-5">M</td><td class="column-6">45</td>
+</tr>
+<tr class="row-78 even">
+	<td class="column-1">77</td><td class="column-2">23:25:37</td><td class="column-3">Janine</td><td class="column-4">Duplessis</td><td class="column-5">F</td><td class="column-6">42</td>
+</tr>
+<tr class="row-79 odd">
+	<td class="column-1">78</td><td class="column-2">23:27:06</td><td class="column-3">Raymond</td><td class="column-4">Koleser</td><td class="column-5">M</td><td class="column-6">40</td>
+</tr>
+<tr class="row-80 even">
+	<td class="column-1">79</td><td class="column-2">23:28:18</td><td class="column-3">James</td><td class="column-4">Howard</td><td class="column-5">M</td><td class="column-6">42</td>
+</tr>
+<tr class="row-81 odd">
+	<td class="column-1">80</td><td class="column-2">23:28:30</td><td class="column-3">Pam</td><td class="column-4">Reed</td><td class="column-5">F</td><td class="column-6">36</td>
+</tr>
+<tr class="row-82 even">
+	<td class="column-1">81</td><td class="column-2">23:28:45</td><td class="column-3">Will</td><td class="column-4">Aarsheim</td><td class="column-5">M</td><td class="column-6">28</td>
+</tr>
+<tr class="row-83 odd">
+	<td class="column-1">82</td><td class="column-2">23:29:11</td><td class="column-3">Ted</td><td class="column-4">Moore</td><td class="column-5">M</td><td class="column-6">47</td>
+</tr>
+<tr class="row-84 even">
+	<td class="column-1">83</td><td class="column-2">23:32:19</td><td class="column-3">Will</td><td class="column-4">Burkhart</td><td class="column-5">M</td><td class="column-6">31</td>
+</tr>
+<tr class="row-85 odd">
+	<td class="column-1">84</td><td class="column-2">23:32:43</td><td class="column-3">Russ</td><td class="column-4">Osman-Bravard</td><td class="column-5">M</td><td class="column-6">40</td>
+</tr>
+<tr class="row-86 even">
+	<td class="column-1">85</td><td class="column-2">23:33:15</td><td class="column-3">Vince</td><td class="column-4">Pedroia</td><td class="column-5">M</td><td class="column-6">50</td>
+</tr>
+<tr class="row-87 odd">
+	<td class="column-1">86</td><td class="column-2">23:34:04</td><td class="column-3">Bob</td><td class="column-4">Kite</td><td class="column-5">M</td><td class="column-6">43</td>
+</tr>
+<tr class="row-88 even">
+	<td class="column-1">87</td><td class="column-2">23:35:53</td><td class="column-3">Edward</td><td class="column-4">Boggess</td><td class="column-5">M</td><td class="column-6">39</td>
+</tr>
+<tr class="row-89 odd">
+	<td class="column-1">88</td><td class="column-2">23:36:48</td><td class="column-3">Jamshid</td><td class="column-4">Khajavi</td><td class="column-5">M</td><td class="column-6">44</td>
+</tr>
+<tr class="row-90 even">
+	<td class="column-1">89</td><td class="column-2">23:37:48</td><td class="column-3">Wally</td><td class="column-4">Hesseltine</td><td class="column-5">M</td><td class="column-6">53</td>
+</tr>
+<tr class="row-91 odd">
+	<td class="column-1">90</td><td class="column-2">23:38:23</td><td class="column-3">Danny</td><td class="column-4">Westergaard</td><td class="column-5">M</td><td class="column-6">38</td>
+</tr>
+<tr class="row-92 even">
+	<td class="column-1">91</td><td class="column-2">23:38:42</td><td class="column-3">Gordy</td><td class="column-4">Ainsleigh</td><td class="column-5">M</td><td class="column-6">50</td>
+</tr>
+<tr class="row-93 odd">
+	<td class="column-1">92</td><td class="column-2">23:39:07</td><td class="column-3">Ian</td><td class="column-4">Maddieson</td><td class="column-5">M</td><td class="column-6">54</td>
+</tr>
+<tr class="row-94 even">
+	<td class="column-1">93</td><td class="column-2">23:39:53</td><td class="column-3">John</td><td class="column-4">Quinn</td><td class="column-5">M</td><td class="column-6">35</td>
+</tr>
+<tr class="row-95 odd">
+	<td class="column-1">94</td><td class="column-2">23:41:07</td><td class="column-3">Geoff</td><td class="column-4">Scott</td><td class="column-5">M</td><td class="column-6">48</td>
+</tr>
+<tr class="row-96 even">
+	<td class="column-1">95</td><td class="column-2">23:42:41</td><td class="column-3">Steven</td><td class="column-4">Harrold</td><td class="column-5">M</td><td class="column-6">50</td>
+</tr>
+<tr class="row-97 odd">
+	<td class="column-1">96</td><td class="column-2">23:43:13</td><td class="column-3">Eric</td><td class="column-4">Ianacone</td><td class="column-5">M</td><td class="column-6">50</td>
+</tr>
+<tr class="row-98 even">
+	<td class="column-1">97</td><td class="column-2">23:45:45</td><td class="column-3">Bill</td><td class="column-4">Gardner</td><td class="column-5">M</td><td class="column-6">33</td>
+</tr>
+<tr class="row-99 odd">
+	<td class="column-1">98</td><td class="column-2">23:49:55</td><td class="column-3">David</td><td class="column-4">Kamp</td><td class="column-5">M</td><td class="column-6">49</td>
+</tr>
+<tr class="row-100 even">
+	<td class="column-1">99</td><td class="column-2">23:50:27</td><td class="column-3">Joseph</td><td class="column-4">Marchand</td><td class="column-5">M</td><td class="column-6">56</td>
+</tr>
+<tr class="row-101 odd">
+	<td class="column-1">100</td><td class="column-2">23:50:58</td><td class="column-3">John</td><td class="column-4">Kubica</td><td class="column-5">M</td><td class="column-6">27</td>
+</tr>
+<tr class="row-102 even">
+	<td class="column-1">101</td><td class="column-2">23:52:11</td><td class="column-3">Perry</td><td class="column-4">Petschar</td><td class="column-5">M</td><td class="column-6">43</td>
+</tr>
+<tr class="row-103 odd">
+	<td class="column-1">102</td><td class="column-2">23:54:46</td><td class="column-3">Nancy</td><td class="column-4">March</td><td class="column-5">F</td><td class="column-6">50</td>
+</tr>
+<tr class="row-104 even">
+	<td class="column-1">103</td><td class="column-2">23:55:02</td><td class="column-3">Arthur</td><td class="column-4">Webb</td><td class="column-5">M</td><td class="column-6">55</td>
+</tr>
+<tr class="row-105 odd">
+	<td class="column-1">104</td><td class="column-2">23:55:18</td><td class="column-3">Scott</td><td class="column-4">McCoubrey</td><td class="column-5">M</td><td class="column-6">34</td>
+</tr>
+<tr class="row-106 even">
+	<td class="column-1">105</td><td class="column-2">23:55:21</td><td class="column-3">Kap'n Kirk</td><td class="column-4">Boisseree</td><td class="column-5">M</td><td class="column-6">39</td>
+</tr>
+<tr class="row-107 odd">
+	<td class="column-1">106</td><td class="column-2">23:59:06</td><td class="column-3">William</td><td class="column-4">Davis</td><td class="column-5">M</td><td class="column-6">51</td>
+</tr>
+<tr class="row-108 even">
+	<td class="column-1">107</td><td class="column-2">24:01:36</td><td class="column-3">John</td><td class="column-4">Trent</td><td class="column-5">M</td><td class="column-6">34</td>
+</tr>
+<tr class="row-109 odd">
+	<td class="column-1">108</td><td class="column-2">24:07:28</td><td class="column-3">Gary</td><td class="column-4">Ritchie</td><td class="column-5">M</td><td class="column-6">56</td>
+</tr>
+<tr class="row-110 even">
+	<td class="column-1">109</td><td class="column-2">24:11:20</td><td class="column-3">Larry</td><td class="column-4">Castano</td><td class="column-5">M</td><td class="column-6">43</td>
+</tr>
+<tr class="row-111 odd">
+	<td class="column-1">110</td><td class="column-2">24:18:38</td><td class="column-3">Jeffrey</td><td class="column-4">Welsh</td><td class="column-5">M</td><td class="column-6">42</td>
+</tr>
+<tr class="row-112 even">
+	<td class="column-1">111</td><td class="column-2">24:32:50</td><td class="column-3">Lou</td><td class="column-4">Martin</td><td class="column-5">M</td><td class="column-6">44</td>
+</tr>
+<tr class="row-113 odd">
+	<td class="column-1">112</td><td class="column-2">24:51:19</td><td class="column-3">David</td><td class="column-4">Kim</td><td class="column-5">M</td><td class="column-6">54</td>
+</tr>
+<tr class="row-114 even">
+	<td class="column-1">113</td><td class="column-2">24:52:09</td><td class="column-3">Timothy</td><td class="column-4">Dwyer</td><td class="column-5">M</td><td class="column-6">43</td>
+</tr>
+<tr class="row-115 odd">
+	<td class="column-1">114</td><td class="column-2">25:05:18</td><td class="column-3">Roger</td><td class="column-4">Dike</td><td class="column-5">M</td><td class="column-6">42</td>
+</tr>
+<tr class="row-116 even">
+	<td class="column-1">115</td><td class="column-2">25:08:16</td><td class="column-3">Paul</td><td class="column-4">Fick</td><td class="column-5">M</td><td class="column-6">40</td>
+</tr>
+<tr class="row-117 odd">
+	<td class="column-1">116</td><td class="column-2">25:09:23</td><td class="column-3">Randy</td><td class="column-4">Stillman</td><td class="column-5">M</td><td class="column-6">47</td>
+</tr>
+<tr class="row-118 even">
+	<td class="column-1">117</td><td class="column-2">25:23:51</td><td class="column-3">Bert</td><td class="column-4">Hamson</td><td class="column-5">M</td><td class="column-6">47</td>
+</tr>
+<tr class="row-119 odd">
+	<td class="column-1">118</td><td class="column-2">25:27:58</td><td class="column-3">Stuart</td><td class="column-4">Maxwell</td><td class="column-5">M</td><td class="column-6">37</td>
+</tr>
+<tr class="row-120 even">
+	<td class="column-1">119</td><td class="column-2">25:28:02</td><td class="column-3">Lynn</td><td class="column-4">O'Malley-Yarnall</td><td class="column-5">F</td><td class="column-6">46</td>
+</tr>
+<tr class="row-121 odd">
+	<td class="column-1">120</td><td class="column-2">25:31:24</td><td class="column-3">Tom</td><td class="column-4">Waddell</td><td class="column-5">M</td><td class="column-6">51</td>
+</tr>
+<tr class="row-122 even">
+	<td class="column-1">121</td><td class="column-2">25:53:53</td><td class="column-3">Joseph</td><td class="column-4">Schieffer</td><td class="column-5">M</td><td class="column-6">46</td>
+</tr>
+<tr class="row-123 odd">
+	<td class="column-1">122</td><td class="column-2">25:58:07</td><td class="column-3">Reid</td><td class="column-4">Walden</td><td class="column-5">M</td><td class="column-6">46</td>
+</tr>
+<tr class="row-124 even">
+	<td class="column-1">123</td><td class="column-2">26:08:37</td><td class="column-3">Paul</td><td class="column-4">Quinn</td><td class="column-5">M</td><td class="column-6">35</td>
+</tr>
+<tr class="row-125 odd">
+	<td class="column-1">124</td><td class="column-2">26:17:07</td><td class="column-3">Kristina</td><td class="column-4">Irvin</td><td class="column-5">F</td><td class="column-6">39</td>
+</tr>
+<tr class="row-126 even">
+	<td class="column-1">125</td><td class="column-2">26:20:50</td><td class="column-3">Miles</td><td class="column-4">Krier</td><td class="column-5">M</td><td class="column-6">45</td>
+</tr>
+<tr class="row-127 odd">
+	<td class="column-1">126</td><td class="column-2">26:21:52</td><td class="column-3">Eric</td><td class="column-4">Robinson</td><td class="column-5">M</td><td class="column-6">29</td>
+</tr>
+<tr class="row-128 even">
+	<td class="column-1">127</td><td class="column-2">26:29:02</td><td class="column-3">Bobb</td><td class="column-4">Ankeney</td><td class="column-5">M</td><td class="column-6">44</td>
+</tr>
+<tr class="row-129 odd">
+	<td class="column-1">128</td><td class="column-2">26:30:28</td><td class="column-3">Ken</td><td class="column-4">Greenaway</td><td class="column-5">M</td><td class="column-6">37</td>
+</tr>
+<tr class="row-130 even">
+	<td class="column-1">129</td><td class="column-2">26:36:11</td><td class="column-3">Steven</td><td class="column-4">Burt</td><td class="column-5">M</td><td class="column-6">45</td>
+</tr>
+<tr class="row-131 odd">
+	<td class="column-1">130</td><td class="column-2">26:43:30</td><td class="column-3">Joseph</td><td class="column-4">Pope</td><td class="column-5">M</td><td class="column-6">57</td>
+</tr>
+<tr class="row-132 even">
+	<td class="column-1">131</td><td class="column-2">26:45:00</td><td class="column-3">Akabill</td><td class="column-4">Molmen</td><td class="column-5">M</td><td class="column-6">53</td>
+</tr>
+<tr class="row-133 odd">
+	<td class="column-1">132</td><td class="column-2">26:45:42</td><td class="column-3">Tsutomu</td><td class="column-4">Kajihara</td><td class="column-5">M</td><td class="column-6">45</td>
+</tr>
+<tr class="row-134 even">
+	<td class="column-1">133</td><td class="column-2">26:49:48</td><td class="column-3">Harry</td><td class="column-4">Sloan</td><td class="column-5">M</td><td class="column-6">48</td>
+</tr>
+<tr class="row-135 odd">
+	<td class="column-1">134</td><td class="column-2">26:53:16</td><td class="column-3">Michael</td><td class="column-4">Palmer</td><td class="column-5">M</td><td class="column-6">43</td>
+</tr>
+<tr class="row-136 even">
+	<td class="column-1">135</td><td class="column-2">27:03:06</td><td class="column-3">Robert</td><td class="column-4">Develice</td><td class="column-5">M</td><td class="column-6">43</td>
+</tr>
+<tr class="row-137 odd">
+	<td class="column-1">136</td><td class="column-2">27:08:05</td><td class="column-3">Gail</td><td class="column-4">Bazeley</td><td class="column-5">F</td><td class="column-6">47</td>
+</tr>
+<tr class="row-138 even">
+	<td class="column-1">137</td><td class="column-2">27:08:35</td><td class="column-3">Lee</td><td class="column-4">Fields</td><td class="column-5">M</td><td class="column-6">54</td>
+</tr>
+<tr class="row-139 odd">
+	<td class="column-1">138</td><td class="column-2">27:13:43</td><td class="column-3">Linda</td><td class="column-4">Elam</td><td class="column-5">F</td><td class="column-6">51</td>
+</tr>
+<tr class="row-140 even">
+	<td class="column-1">139</td><td class="column-2">27:18:29</td><td class="column-3">Steve</td><td class="column-4">Heckert</td><td class="column-5">M</td><td class="column-6">37</td>
+</tr>
+<tr class="row-141 odd">
+	<td class="column-1">140</td><td class="column-2">27:19:25</td><td class="column-3">Bob</td><td class="column-4">Lapanja</td><td class="column-5">M</td><td class="column-6">43</td>
+</tr>
+<tr class="row-142 even">
+	<td class="column-1">141</td><td class="column-2">27:22:00</td><td class="column-3">Roger</td><td class="column-4">Boak</td><td class="column-5">M</td><td class="column-6">48</td>
+</tr>
+<tr class="row-143 odd">
+	<td class="column-1">142</td><td class="column-2">27:28:26</td><td class="column-3">Wendell</td><td class="column-4">Robison</td><td class="column-5">M</td><td class="column-6">45</td>
+</tr>
+<tr class="row-144 even">
+	<td class="column-1">143</td><td class="column-2">27:30:49</td><td class="column-3">Frank</td><td class="column-4">Fleetham</td><td class="column-5">M</td><td class="column-6">54</td>
+</tr>
+<tr class="row-145 odd">
+	<td class="column-1">144</td><td class="column-2">27:32:43</td><td class="column-3">Jonathan</td><td class="column-4">Webber</td><td class="column-5">M</td><td class="column-6">44</td>
+</tr>
+<tr class="row-146 even">
+	<td class="column-1">145</td><td class="column-2">27:34:16</td><td class="column-3">Frederick</td><td class="column-4">Stafford</td><td class="column-5">M</td><td class="column-6">40</td>
+</tr>
+<tr class="row-147 odd">
+	<td class="column-1">146</td><td class="column-2">27:37:55</td><td class="column-3">Palen</td><td class="column-4">Scott</td><td class="column-5">M</td><td class="column-6">42</td>
+</tr>
+<tr class="row-148 even">
+	<td class="column-1">147</td><td class="column-2">27:40:33</td><td class="column-3">Tom</td><td class="column-4">Rowe</td><td class="column-5">M</td><td class="column-6">48</td>
+</tr>
+<tr class="row-149 odd">
+	<td class="column-1">148</td><td class="column-2">27:43:26</td><td class="column-3">Jacqueline</td><td class="column-4">Odre</td><td class="column-5">F</td><td class="column-6">29</td>
+</tr>
+<tr class="row-150 even">
+	<td class="column-1">149</td><td class="column-2">27:46:15</td><td class="column-3">Cathy</td><td class="column-4">Tibbetts</td><td class="column-5">F</td><td class="column-6">42</td>
+</tr>
+<tr class="row-151 odd">
+	<td class="column-1">150</td><td class="column-2">27:52:21</td><td class="column-3">Bob</td><td class="column-4">Ulloa</td><td class="column-5">M</td><td class="column-6">47</td>
+</tr>
+<tr class="row-152 even">
+	<td class="column-1">151</td><td class="column-2">27:53:29</td><td class="column-3">Nicholas</td><td class="column-4">Palazzo</td><td class="column-5">M</td><td class="column-6">50</td>
+</tr>
+<tr class="row-153 odd">
+	<td class="column-1">152</td><td class="column-2">27:55:39</td><td class="column-3">Tony</td><td class="column-4">McElligott</td><td class="column-5">M</td><td class="column-6">44</td>
+</tr>
+<tr class="row-154 even">
+	<td class="column-1">153</td><td class="column-2">27:55:51</td><td class="column-3">Marlys</td><td class="column-4">Staley</td><td class="column-5">F</td><td class="column-6">39</td>
+</tr>
+<tr class="row-155 odd">
+	<td class="column-1">153</td><td class="column-2">27:55:51</td><td class="column-3">Reg</td><td class="column-4">Richard</td><td class="column-5">M</td><td class="column-6">45</td>
+</tr>
+<tr class="row-156 even">
+	<td class="column-1">155</td><td class="column-2">27:58:24</td><td class="column-3">Loren</td><td class="column-4">Fitzwater</td><td class="column-5">M</td><td class="column-6">42</td>
+</tr>
+<tr class="row-157 odd">
+	<td class="column-1">156</td><td class="column-2">27:59:19</td><td class="column-3">John</td><td class="column-4">Miller</td><td class="column-5">M</td><td class="column-6">53</td>
+</tr>
+<tr class="row-158 even">
+	<td class="column-1">157</td><td class="column-2">28:00:26</td><td class="column-3">Sarah</td><td class="column-4">Lowell</td><td class="column-5">F</td><td class="column-6">35</td>
+</tr>
+<tr class="row-159 odd">
+	<td class="column-1">158</td><td class="column-2">28:00:54</td><td class="column-3">Gene</td><td class="column-4">Weddle</td><td class="column-5">M</td><td class="column-6">53</td>
+</tr>
+<tr class="row-160 even">
+	<td class="column-1">159</td><td class="column-2">28:01:48</td><td class="column-3">Ron</td><td class="column-4">Behrmann</td><td class="column-5">M</td><td class="column-6">57</td>
+</tr>
+<tr class="row-161 odd">
+	<td class="column-1">160</td><td class="column-2">28:02:08</td><td class="column-3">Gary</td><td class="column-4">Holloway</td><td class="column-5">M</td><td class="column-6">35</td>
+</tr>
+<tr class="row-162 even">
+	<td class="column-1">161</td><td class="column-2">28:02:25</td><td class="column-3">Heike</td><td class="column-4">Pawzik</td><td class="column-5">F</td><td class="column-6">33</td>
+</tr>
+<tr class="row-163 odd">
+	<td class="column-1">162</td><td class="column-2">28:04:45</td><td class="column-3">Ian</td><td class="column-4">Hutcheson</td><td class="column-5">M</td><td class="column-6">41</td>
+</tr>
+<tr class="row-164 even">
+	<td class="column-1">163</td><td class="column-2">28:07:34</td><td class="column-3">Keith</td><td class="column-4">Golding</td><td class="column-5">M</td><td class="column-6">36</td>
+</tr>
+<tr class="row-165 odd">
+	<td class="column-1">164</td><td class="column-2">28:08:21</td><td class="column-3">Dan</td><td class="column-4">Dempster</td><td class="column-5">M</td><td class="column-6">50</td>
+</tr>
+<tr class="row-166 even">
+	<td class="column-1">165</td><td class="column-2">28:12:02</td><td class="column-3">Debra</td><td class="column-4">Moore</td><td class="column-5">F</td><td class="column-6">44</td>
+</tr>
+<tr class="row-167 odd">
+	<td class="column-1">165</td><td class="column-2">28:12:02</td><td class="column-3">Thomas</td><td class="column-4">Bennett</td><td class="column-5">M</td><td class="column-6">50</td>
+</tr>
+<tr class="row-168 even">
+	<td class="column-1">167</td><td class="column-2">28:13:45</td><td class="column-3">Gayla</td><td class="column-4">Johnson</td><td class="column-5">F</td><td class="column-6">33</td>
+</tr>
+<tr class="row-169 odd">
+	<td class="column-1">168</td><td class="column-2">28:13:56</td><td class="column-3">Michael</td><td class="column-4">Lindfield</td><td class="column-5">M</td><td class="column-6">50</td>
+</tr>
+<tr class="row-170 even">
+	<td class="column-1">169</td><td class="column-2">28:16:12</td><td class="column-3">Steven</td><td class="column-4">Boyenger</td><td class="column-5">M</td><td class="column-6">27</td>
+</tr>
+<tr class="row-171 odd">
+	<td class="column-1">169</td><td class="column-2">28:16:12</td><td class="column-3">Howard</td><td class="column-4">Brown</td><td class="column-5">M</td><td class="column-6">41</td>
+</tr>
+<tr class="row-172 even">
+	<td class="column-1">171</td><td class="column-2">28:17:10</td><td class="column-3">Richard</td><td class="column-4">Jones</td><td class="column-5">M</td><td class="column-6">58</td>
+</tr>
+<tr class="row-173 odd">
+	<td class="column-1">172</td><td class="column-2">28:17:35</td><td class="column-3">Paul</td><td class="column-4">Akiyama</td><td class="column-5">M</td><td class="column-6">53</td>
+</tr>
+<tr class="row-174 even">
+	<td class="column-1">173</td><td class="column-2">28:17:40</td><td class="column-3">Sue</td><td class="column-4">Johnston</td><td class="column-5">F</td><td class="column-6">31</td>
+</tr>
+<tr class="row-175 odd">
+	<td class="column-1">174</td><td class="column-2">28:17:58</td><td class="column-3">Martin</td><td class="column-4">Hillyer</td><td class="column-5">M</td><td class="column-6">59</td>
+</tr>
+<tr class="row-176 even">
+	<td class="column-1">175</td><td class="column-2">28:19:39</td><td class="column-3">Milan</td><td class="column-4">Varga</td><td class="column-5">M</td><td class="column-6">52</td>
+</tr>
+<tr class="row-177 odd">
+	<td class="column-1">176</td><td class="column-2">28:20:09</td><td class="column-3">Tommy</td><td class="column-4">Gallagher</td><td class="column-5">M</td><td class="column-6">40</td>
+</tr>
+<tr class="row-178 even">
+	<td class="column-1">177</td><td class="column-2">28:22:48</td><td class="column-3">Paul</td><td class="column-4">Rork</td><td class="column-5">M</td><td class="column-6">50</td>
+</tr>
+<tr class="row-179 odd">
+	<td class="column-1">178</td><td class="column-2">28:23:34</td><td class="column-3">Jan</td><td class="column-4">Schlueter</td><td class="column-5">F</td><td class="column-6">37</td>
+</tr>
+<tr class="row-180 even">
+	<td class="column-1">179</td><td class="column-2">28:26:35</td><td class="column-3">Jason</td><td class="column-4">Hodde</td><td class="column-5">M</td><td class="column-6">27</td>
+</tr>
+<tr class="row-181 odd">
+	<td class="column-1">180</td><td class="column-2">28:28:28</td><td class="column-3">Rich</td><td class="column-4">Limacher</td><td class="column-5">M</td><td class="column-6">47</td>
+</tr>
+<tr class="row-182 even">
+	<td class="column-1">181</td><td class="column-2">28:31:48</td><td class="column-3">Warren</td><td class="column-4">Craddock</td><td class="column-5">M</td><td class="column-6">50</td>
+</tr>
+<tr class="row-183 odd">
+	<td class="column-1">182</td><td class="column-2">28:32:13</td><td class="column-3">Billy</td><td class="column-4">Wise</td><td class="column-5">M</td><td class="column-6">40</td>
+</tr>
+<tr class="row-184 even">
+	<td class="column-1">183</td><td class="column-2">28:34:48</td><td class="column-3">Satoshi</td><td class="column-4">Ando</td><td class="column-5">M</td><td class="column-6">44</td>
+</tr>
+<tr class="row-185 odd">
+	<td class="column-1">184</td><td class="column-2">28:35:06</td><td class="column-3">Michael</td><td class="column-4">Wettergren</td><td class="column-5">M</td><td class="column-6">35</td>
+</tr>
+<tr class="row-186 even">
+	<td class="column-1">185</td><td class="column-2">28:37:19</td><td class="column-3">Raymond</td><td class="column-4">Maranda</td><td class="column-5">M</td><td class="column-6">57</td>
+</tr>
+<tr class="row-187 odd">
+	<td class="column-1">186</td><td class="column-2">28:40:50</td><td class="column-3">James</td><td class="column-4">Dempsey</td><td class="column-5">M</td><td class="column-6">38</td>
+</tr>
+<tr class="row-188 even">
+	<td class="column-1">187</td><td class="column-2">28:41:07</td><td class="column-3">Bob</td><td class="column-4">Eaton</td><td class="column-5">M</td><td class="column-6">43</td>
+</tr>
+<tr class="row-189 odd">
+	<td class="column-1">188</td><td class="column-2">28:41:29</td><td class="column-3">Shirley</td><td class="column-4">Church</td><td class="column-5">F</td><td class="column-6">55</td>
+</tr>
+<tr class="row-190 even">
+	<td class="column-1">189</td><td class="column-2">28:43:19</td><td class="column-3">Patrick</td><td class="column-4">Peters</td><td class="column-5">M</td><td class="column-6">52</td>
+</tr>
+<tr class="row-191 odd">
+	<td class="column-1">190</td><td class="column-2">28:43:57</td><td class="column-3">Brigitta</td><td class="column-4">Biermanski</td><td class="column-5">F</td><td class="column-6">48</td>
+</tr>
+<tr class="row-192 even">
+	<td class="column-1">191</td><td class="column-2">28:47:55</td><td class="column-3">John</td><td class="column-4">Medinger</td><td class="column-5">M</td><td class="column-6">46</td>
+</tr>
+<tr class="row-193 odd">
+	<td class="column-1">192</td><td class="column-2">28:49:52</td><td class="column-3">Thomas</td><td class="column-4">Ludwig</td><td class="column-5">M</td><td class="column-6">30</td>
+</tr>
+<tr class="row-194 even">
+	<td class="column-1">193</td><td class="column-2">28:50:05</td><td class="column-3">Joe</td><td class="column-4">Franko</td><td class="column-5">M</td><td class="column-6">50</td>
+</tr>
+<tr class="row-195 odd">
+	<td class="column-1">194</td><td class="column-2">28:51:07</td><td class="column-3">Susan</td><td class="column-4">Briers</td><td class="column-5">F</td><td class="column-6">41</td>
+</tr>
+<tr class="row-196 even">
+	<td class="column-1">195</td><td class="column-2">28:51:25</td><td class="column-3">Frank</td><td class="column-4">Probst</td><td class="column-5">M</td><td class="column-6">54</td>
+</tr>
+<tr class="row-197 odd">
+	<td class="column-1">196</td><td class="column-2">28:52:43</td><td class="column-3">Kevin</td><td class="column-4">Cassidy</td><td class="column-5">M</td><td class="column-6">36</td>
+</tr>
+<tr class="row-198 even">
+	<td class="column-1">197</td><td class="column-2">28:54:08</td><td class="column-3">Michael</td><td class="column-4">Thomas</td><td class="column-5">M</td><td class="column-6">35</td>
+</tr>
+<tr class="row-199 odd">
+	<td class="column-1">198</td><td class="column-2">28:57:21</td><td class="column-3">Antonio</td><td class="column-4">Robinson</td><td class="column-5">M</td><td class="column-6">29</td>
+</tr>
+<tr class="row-200 even">
+	<td class="column-1">199</td><td class="column-2">28:58:36</td><td class="column-3">Ed</td><td class="column-4">Willson</td><td class="column-5">M</td><td class="column-6">43</td>
+</tr>
+<tr class="row-201 odd">
+	<td class="column-1">200</td><td class="column-2">29:02:12</td><td class="column-3">Kenny</td><td class="column-4">Thompson</td><td class="column-5">M</td><td class="column-6">50</td>
+</tr>
+<tr class="row-202 even">
+	<td class="column-1">201</td><td class="column-2">29:02:28</td><td class="column-3">Glenn</td><td class="column-4">Misono</td><td class="column-5">M</td><td class="column-6">43</td>
+</tr>
+<tr class="row-203 odd">
+	<td class="column-1">202</td><td class="column-2">29:03:15</td><td class="column-3">Axel</td><td class="column-4">Grenner</td><td class="column-5">M</td><td class="column-6">55</td>
+</tr>
+<tr class="row-204 even">
+	<td class="column-1">203</td><td class="column-2">29:04:38</td><td class="column-3">Dennis</td><td class="column-4">Werth</td><td class="column-5">M</td><td class="column-6">55</td>
+</tr>
+<tr class="row-205 odd">
+	<td class="column-1">204</td><td class="column-2">29:04:51</td><td class="column-3">Bill</td><td class="column-4">Close</td><td class="column-5">M</td><td class="column-6">37</td>
+</tr>
+<tr class="row-206 even">
+	<td class="column-1">205</td><td class="column-2">29:06:05</td><td class="column-3">Clark</td><td class="column-4">Bunton</td><td class="column-5">M</td><td class="column-6">53</td>
+</tr>
+<tr class="row-207 odd">
+	<td class="column-1">206</td><td class="column-2">29:06:09</td><td class="column-3">Duncan</td><td class="column-4">Orr</td><td class="column-5">M</td><td class="column-6">46</td>
+</tr>
+<tr class="row-208 even">
+	<td class="column-1">207</td><td class="column-2">29:07:37</td><td class="column-3">Richard</td><td class="column-4">Hughes</td><td class="column-5">M</td><td class="column-6">42</td>
+</tr>
+<tr class="row-209 odd">
+	<td class="column-1">208</td><td class="column-2">29:08:15</td><td class="column-3">Barbara</td><td class="column-4">Elia</td><td class="column-5">F</td><td class="column-6">52</td>
+</tr>
+<tr class="row-210 even">
+	<td class="column-1">209</td><td class="column-2">29:08:51</td><td class="column-3">Beacham</td><td class="column-4">Toler</td><td class="column-5">M</td><td class="column-6">69</td>
+</tr>
+<tr class="row-211 odd">
+	<td class="column-1">210</td><td class="column-2">29:09:46</td><td class="column-3">Michael</td><td class="column-4">Owen</td><td class="column-5">M</td><td class="column-6">31</td>
+</tr>
+<tr class="row-212 even">
+	<td class="column-1">210</td><td class="column-2">29:09:46</td><td class="column-3">James</td><td class="column-4">Owen</td><td class="column-5">M</td><td class="column-6">33</td>
+</tr>
+<tr class="row-213 odd">
+	<td class="column-1">212</td><td class="column-2">29:10:24</td><td class="column-3">Bill</td><td class="column-4">Roehr</td><td class="column-5">M</td><td class="column-6">52</td>
+</tr>
+<tr class="row-214 even">
+	<td class="column-1">213</td><td class="column-2">29:10:51</td><td class="column-3">Burgess</td><td class="column-4">Harmer</td><td class="column-5">M</td><td class="column-6">55</td>
+</tr>
+<tr class="row-215 odd">
+	<td class="column-1">214</td><td class="column-2">29:12:04</td><td class="column-3">Casey</td><td class="column-4">Ruud</td><td class="column-5">M</td><td class="column-6">41</td>
+</tr>
+<tr class="row-216 even">
+	<td class="column-1">215</td><td class="column-2">29:13:18</td><td class="column-3">Terry</td><td class="column-4">Rhodes</td><td class="column-5">F</td><td class="column-6">41</td>
+</tr>
+<tr class="row-217 odd">
+	<td class="column-1">215</td><td class="column-2">29:13:18</td><td class="column-3">John</td><td class="column-4">Rhodes</td><td class="column-5">M</td><td class="column-6">49</td>
+</tr>
+<tr class="row-218 even">
+	<td class="column-1">217</td><td class="column-2">29:15:07</td><td class="column-3">Linda</td><td class="column-4">Parr</td><td class="column-5">F</td><td class="column-6">46</td>
+</tr>
+<tr class="row-219 odd">
+	<td class="column-1">218</td><td class="column-2">29:15:32</td><td class="column-3">Mark</td><td class="column-4">Williams</td><td class="column-5">M</td><td class="column-6">44</td>
+</tr>
+<tr class="row-220 even">
+	<td class="column-1">219</td><td class="column-2">29:16:16</td><td class="column-3">Nigel</td><td class="column-4">Robinson</td><td class="column-5">M</td><td class="column-6">37</td>
+</tr>
+<tr class="row-221 odd">
+	<td class="column-1">220</td><td class="column-2">29:16:49</td><td class="column-3">Bob</td><td class="column-4">Marston</td><td class="column-5">M</td><td class="column-6">46</td>
+</tr>
+<tr class="row-222 even">
+	<td class="column-1">221</td><td class="column-2">29:17:07</td><td class="column-3">Tony</td><td class="column-4">Jankowski</td><td class="column-5">M</td><td class="column-6">44</td>
+</tr>
+<tr class="row-223 odd">
+	<td class="column-1">222</td><td class="column-2">29:17:43</td><td class="column-3">Rena</td><td class="column-4">Lantz</td><td class="column-5">F</td><td class="column-6">36</td>
+</tr>
+<tr class="row-224 even">
+	<td class="column-1">223</td><td class="column-2">29:18:07</td><td class="column-3">Taylor</td><td class="column-4">Liu</td><td class="column-5">M</td><td class="column-6">27</td>
+</tr>
+<tr class="row-225 odd">
+	<td class="column-1">224</td><td class="column-2">29:18:44</td><td class="column-3">Jim</td><td class="column-4">Magill</td><td class="column-5">M</td><td class="column-6">50</td>
+</tr>
+<tr class="row-226 even">
+	<td class="column-1">225</td><td class="column-2">29:18:49</td><td class="column-3">Marie</td><td class="column-4">Gonzales</td><td class="column-5">F</td><td class="column-6">36</td>
+</tr>
+<tr class="row-227 odd">
+	<td class="column-1">226</td><td class="column-2">29:19:37</td><td class="column-3">Jimmy</td><td class="column-4">Davis</td><td class="column-5">M</td><td class="column-6">58</td>
+</tr>
+<tr class="row-228 even">
+	<td class="column-1">227</td><td class="column-2">29:19:43</td><td class="column-3">Kevin</td><td class="column-4">Callaghan</td><td class="column-5">M</td><td class="column-6">41</td>
+</tr>
+<tr class="row-229 odd">
+	<td class="column-1">228</td><td class="column-2">29:21:10</td><td class="column-3">Lorraine</td><td class="column-4">Bunk</td><td class="column-5">F</td><td class="column-6">56</td>
+</tr>
+<tr class="row-230 even">
+	<td class="column-1">229</td><td class="column-2">29:22:27</td><td class="column-3">Richard</td><td class="column-4">Shear</td><td class="column-5">M</td><td class="column-6">48</td>
+</tr>
+<tr class="row-231 odd">
+	<td class="column-1">230</td><td class="column-2">29:24:50</td><td class="column-3">Brick</td><td class="column-4">Robbins</td><td class="column-5">M</td><td class="column-6">38</td>
+</tr>
+<tr class="row-232 even">
+	<td class="column-1">231</td><td class="column-2">29:28:15</td><td class="column-3">Austin</td><td class="column-4">Royle</td><td class="column-5">M</td><td class="column-6">57</td>
+</tr>
+<tr class="row-233 odd">
+	<td class="column-1">232</td><td class="column-2">29:28:39</td><td class="column-3">Richard</td><td class="column-4">Beam</td><td class="column-5">M</td><td class="column-6">48</td>
+</tr>
+<tr class="row-234 even">
+	<td class="column-1">233</td><td class="column-2">29:29:03</td><td class="column-3">Bob</td><td class="column-4">Ross</td><td class="column-5">M</td><td class="column-6">54</td>
+</tr>
+<tr class="row-235 odd">
+	<td class="column-1">234</td><td class="column-2">29:29:06</td><td class="column-3">Mark</td><td class="column-4">Buescher</td><td class="column-5">M</td><td class="column-6">38</td>
+</tr>
+<tr class="row-236 even">
+	<td class="column-1">235</td><td class="column-2">29:29:58</td><td class="column-3">John</td><td class="column-4">Little</td><td class="column-5">M</td><td class="column-6">55</td>
+</tr>
+<tr class="row-237 odd">
+	<td class="column-1">236</td><td class="column-2">29:31:16</td><td class="column-3">Melis</td><td class="column-4">White</td><td class="column-5">F</td><td class="column-6">30</td>
+</tr>
+<tr class="row-238 even">
+	<td class="column-1">237</td><td class="column-2">29:32:10</td><td class="column-3">Karsten</td><td class="column-4">Solheim</td><td class="column-5">M</td><td class="column-6">60</td>
+</tr>
+<tr class="row-239 odd">
+	<td class="column-1">238</td><td class="column-2">29:32:34</td><td class="column-3">Bill</td><td class="column-4">Sublett</td><td class="column-5">M</td><td class="column-6">39</td>
+</tr>
+<tr class="row-240 even">
+	<td class="column-1">239</td><td class="column-2">29:32:46</td><td class="column-3">Debbie</td><td class="column-4">Moss</td><td class="column-5">F</td><td class="column-6">42</td>
+</tr>
+<tr class="row-241 odd">
+	<td class="column-1">240</td><td class="column-2">29:32:51</td><td class="column-3">Douglas</td><td class="column-4">Scott</td><td class="column-5">M</td><td class="column-6">44</td>
+</tr>
+<tr class="row-242 even">
+	<td class="column-1">241</td><td class="column-2">29:34:12</td><td class="column-3">Ian</td><td class="column-4">Parker</td><td class="column-5">M</td><td class="column-6">46</td>
+</tr>
+<tr class="row-243 odd">
+	<td class="column-1">242</td><td class="column-2">29:37:37</td><td class="column-3">Les</td><td class="column-4">Martisko</td><td class="column-5">M</td><td class="column-6">53</td>
+</tr>
+<tr class="row-244 even">
+	<td class="column-1">243</td><td class="column-2">29:37:45</td><td class="column-3">Tom</td><td class="column-4">Weigt</td><td class="column-5">M</td><td class="column-6">45</td>
+</tr>
+<tr class="row-245 odd">
+	<td class="column-1">244</td><td class="column-2">29:37:51</td><td class="column-3">Ray</td><td class="column-4">Krolewicz</td><td class="column-5">M</td><td class="column-6">41</td>
+</tr>
+<tr class="row-246 even">
+	<td class="column-1">245</td><td class="column-2">29:38:52</td><td class="column-3">Bonnelle</td><td class="column-4">Murphy</td><td class="column-5">F</td><td class="column-6">49</td>
+</tr>
+<tr class="row-247 odd">
+	<td class="column-1">245</td><td class="column-2">29:38:52</td><td class="column-3">George</td><td class="column-4">Velasco</td><td class="column-5">M</td><td class="column-6">44</td>
+</tr>
+<tr class="row-248 even">
+	<td class="column-1">247</td><td class="column-2">29:41:55</td><td class="column-3">David</td><td class="column-4">Timmer</td><td class="column-5">M</td><td class="column-6">49</td>
+</tr>
+<tr class="row-249 odd">
+	<td class="column-1">248</td><td class="column-2">29:42:40</td><td class="column-3">Charles</td><td class="column-4">Lawler</td><td class="column-5">M</td><td class="column-6">50</td>
+</tr>
+<tr class="row-250 even">
+	<td class="column-1">249</td><td class="column-2">29:45:10</td><td class="column-3">Ephraim</td><td class="column-4">Romesberg</td><td class="column-5">M</td><td class="column-6">66</td>
+</tr>
+<tr class="row-251 odd">
+	<td class="column-1">250</td><td class="column-2">29:46:22</td><td class="column-3">Kenneth</td><td class="column-4">Mick</td><td class="column-5">M</td><td class="column-6">38</td>
+</tr>
+<tr class="row-252 even">
+	<td class="column-1">251</td><td class="column-2">29:47:44</td><td class="column-3">Bozena</td><td class="column-4">Maslanka</td><td class="column-5">F</td><td class="column-6">30</td>
+</tr>
+<tr class="row-253 odd">
+	<td class="column-1">252</td><td class="column-2">29:48:35</td><td class="column-3">Paul</td><td class="column-4">Selby</td><td class="column-5">M</td><td class="column-6">51</td>
+</tr>
+<tr class="row-254 even">
+	<td class="column-1">253</td><td class="column-2">29:49:16</td><td class="column-3">Steve</td><td class="column-4">Cackley</td><td class="column-5">M</td><td class="column-6">50</td>
+</tr>
+<tr class="row-255 odd">
+	<td class="column-1">254</td><td class="column-2">29:51:28</td><td class="column-3">Katie</td><td class="column-4">Lyonsmith</td><td class="column-5">F</td><td class="column-6">30</td>
+</tr>
+<tr class="row-256 even">
+	<td class="column-1">255</td><td class="column-2">29:54:59</td><td class="column-3">Ron</td><td class="column-4">Vertrees</td><td class="column-5">M</td><td class="column-6">59</td>
+</tr>
+<tr class="row-257 odd">
+	<td class="column-1">256</td><td class="column-2">29:55:59</td><td class="column-3">Famida</td><td class="column-4">Hanif-Weddle</td><td class="column-5">F</td><td class="column-6">43</td>
+</tr>
+<tr class="row-258 even">
+	<td class="column-1">257</td><td class="column-2">29:56:37</td><td class="column-3">Joe</td><td class="column-4">Dana</td><td class="column-5">M</td><td class="column-6">61</td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-68 from cache -->
+			</div>
+
+			<div class="postmetadata">
+							</div>
+
+		</div>
+
+	
+	
+		
+	</div>
+
+
+			</div><!-- / .row -->
+	</div> <!-- end .grid -->
+</div> <!-- end #content -->
+
+<div id="footer">
+
+	<div id="footershadow">
+		<div class="grid">						
+				<div class="slot-0-1-2">
+					<div id="legends-slider">
+					
+										<img src="https://www.wser.org/wp-content/themes/ws100/images/legends/legend11.png" alt="legends" />
+				
+				</div> <!-- end #legends-slider -->								
+				</div> <!-- end .slot-0-1-2 -->
+
+				
+				<div class="slot-3-4-5">
+				  <div id=footer_search>
+					<form action="https://www.wser.org" id="searchform" method="get">
+    <div>
+        <label for="s" class="screen-reader-text">Search for:</label>
+        <input type="text" id="s" name="s" value="" />
+        
+        <input type="submit" value="Search wser.org" id="searchsubmit" />
+    </div>
+</form>				  </div>
+					<img id="sm_foot" src="https://www.wser.org/wp-content/themes/ws100/images/footer_sm.png" alt="profile" />
+				</div> <!-- end .slot-0-1-2 -->
+					
+				<div class="clear"></div>
+				
+				<div class="slot-0-1">
+					<div id="text-12" class="widget widget_text left half"><h3 class="widgettitle">WSER Foundation</h3>			<div class="textwidget"><ul class="footerlink">
+<li><a href="/mission-statement">Mission</a></li>
+<li><a href="/wser-board">Board of Directors</a></li>
+<li><a href="/research">Research</a></li>
+<li><a href="/trail-stewardship">Trail Stewardship</a></li>
+<li><a href="/sustainability">Sustainability</a></li>
+<li><a href="/copyright-information">Intellectual Property</a></li>
+<li><a href="/terms-of-service">Terms of Service</a></li>
+</ul></div>
+		</div>									</div>
+				
+				<div class="slot-2-3">
+					<div id="text-9" class="widget widget_text left half"><h3 class="widgettitle">Contacts</h3>			<div class="textwidget"><ul class="footerlink">
+<li><p>Craig Thornley, Race Director</li>
+<li><p>Topher Gaylord, WSER President<br /></li>
+<li><p>Ian Doremus, Webmaster<br /></li>
+<li><p>John Catts, Trails Manager<br /></li>
+<li><p><a href="/contact-us">Contact Us</a></p></li>
+</ul></div>
+		</div>									</div>
+				
+				<div class="slot-4-5">
+					<div id="text-10" class="widget widget_text left half"><h3 class="widgettitle">Links</h3>			<div class="textwidget"><ul class="footerlink">
+<li><a href="http://wserstore.com/" target="_blank">Western States Store</a></li>
+<li><a href="/frequently-asked-questions">Frequenty Asked Questions</a></li>
+<!-- <li><a href="/sitemap">Site Map</a></li> -->
+<li><a href="/sponsors">Sponsors</a></li>
+<li><a href="/wp-admin">Site Admin</a></li>
+</ul></div>
+		</div>									</div>
+				
+				<div class="clear"></div>
+				
+				<script type="text/javascript" src="https://www.wser.org/wp-includes/js/comment-reply.min.js" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://www.wser.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.wser.org\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.wser.org/wp-content/plugins/contact-form-7/includes/js/index.js" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://www.wser.org/wp-content/plugins/fitvids-for-wordpress/jquery.fitvids.js" id="fitvids-js"></script>
+<script type="text/javascript" src="https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js" id="zoom-social-icons-widget-frontend-js"></script>
+<script type="text/javascript" id="ubermenu-js-extra">
+/* <![CDATA[ */
+var ubermenu_data = {"remove_conflicts":"off","reposition_on_load":"on","intent_delay":"400","intent_interval":"20","intent_threshold":"7","scrollto_offset":"50","scrollto_duration":"1000","responsive_breakpoint":"959","accessible":"on","mobile_menu_collapse_on_navigate":"on","retractor_display_strategy":"responsive","touch_off_close":"on","submenu_indicator_close_mobile":"on","collapse_after_scroll":"on","v":"3.8.5","configurations":["main"],"ajax_url":"https:\/\/www.wser.org\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/www.wser.org\/wp-content\/plugins\/ubermenu\/","disable_mobile":"off","prefix_boost":"","use_core_svgs":"off","aria_role_navigation":"off","aria_nav_label":"off","aria_expanded":"off","aria_haspopup":"off","aria_hidden":"off","aria_controls":"","aria_responsive_toggle":"off","icon_tag":"i","esc_close_mobile":"on","keyboard_submenu_trigger":"enter","theme_locations":{"ubermenu":"UberMenu [Easy Integration]"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.wser.org/wp-content/plugins/ubermenu/assets/js/ubermenu.min.js" id="ubermenu-js"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-202447.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"38750765\",\"post\":\"1210\",\"tz\":\"-8\",\"srv\":\"www.wser.org\",\"j\":\"1:14.0\"}") ]);
+_stq.push([ "clickTrackerInit", "38750765", "1210" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" id="promoslider_main-js-extra">
+/* <![CDATA[ */
+var promoslider_options = {"version":"3.3.4"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.wser.org/wp-content/plugins/promotion-slider/js/promoslider.js" id="promoslider_main-js"></script>
+<script type="text/javascript" src="https://www.wser.org/wp-content/plugins/tablepress-premium/js/jquery.datatables.min.js" id="tablepress-datatables-js"></script>
+		<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery('.embed-youtube, .embed-vimeo').fitVids();
+		});
+		</script><script type="text/javascript">
+jQuery(function($){
+var DT_language={"en_US":{}};
+$('#tablepress-68').DataTable({"language":DT_language["en_US"],"order":[],"orderClasses":false,"stripeClasses":["even","odd"],"paging":false});
+});
+</script>				
+				<div id="footer-text">
+					<div id="text-8" class="widget widget_text left half">			<div class="textwidget"><img style="display:block;margin:10px auto;width:100px;" src="https://www.wser.org/wp-content/uploads/2022/06/WSER_logo_Wht_rd_lrg.png" alt="logo" />
+
+<p>Western States is a registered trademark of the Western States Endurance Run Foundation copyright &copy; <?php echo date("Y"); ?> Western States Endurance Run Foundation.<br /><br /></p></div>
+		</div>									</div> <!-- end #footer-text -->
+			</div> <!-- end .grid -->
+		</div> <!-- end #footershadow -->
+	</div> <!-- end #footer -->
+</body>
+</html>

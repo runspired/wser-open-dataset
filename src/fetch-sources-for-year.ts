@@ -16,7 +16,6 @@ export function fetchSourcesForYear(
       fetchEntrantsData(year, force),
       fetchWaitlistData(year, force),
       fetchFinishersData(year, force),
-      // TODO fetch full result set from ??
       fetchSplitData(year, force),
       fetchLatestLiveLotteryResults(year, force),
     ],

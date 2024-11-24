@@ -4,7 +4,7 @@ export const CURRENT_YEAR = new Date().getFullYear();
 export const CURRENT_MONTH = new Date().getMonth();
 export const NOVEMBER = 10;
 export const NEXT_YEAR =
-  CURRENT_MONTH <= NOVEMBER ? CURRENT_YEAR : CURRENT_YEAR + 1;
+  CURRENT_MONTH < NOVEMBER ? CURRENT_YEAR : CURRENT_YEAR + 1;
 export const FIRST_WAITLIST_YEAR = 2017;
 export const LAST_SPLIT_XLS_YEAR = 2013;
 export const FIRST_SPLIT_XLS_YEAR = 2004;
@@ -60,7 +60,9 @@ export function isSkippedYear(year: number, type: SourceType) {
         year < FIRST_WAITLIST_YEAR || SKIPPED_WAITLIST_YEARS.includes(year)
       );
     case 'split':
-      return year < FIRST_SPLIT_TXT_YEAR || SKIPPED_SPLIT_YEARS.includes(year);
+      // return year !== CURRENT_YEAR;
+      return year < FIRST_SPLIT_XLS_YEAR || SKIPPED_SPLIT_YEARS.includes(year);
+    //return year < FIRST_SPLIT_TXT_YEAR || SKIPPED_SPLIT_YEARS.includes(year);
     case 'finisher':
       return SKIPPED_FINISHERS_YEARS.includes(year);
     case 'live':
@@ -70,13 +72,19 @@ export function isSkippedYear(year: number, type: SourceType) {
   }
 }
 
-function logErrors(errors: PromiseRejectedResult[], depth = 1) {
+function logErrors(errors: PromiseRejectedResult[] | Error[], depth = 1) {
   const prefix = (depth === 1 ? '🔺' : '·').padStart(depth, '\t');
 
   for (const error of errors) {
+    console.log(error);
+    // @ts-expect-error
+    const message = error.message || error.reason?.message;
+    // @ts-expect-error
+    const nested = error.errors || error.reason?.errors;
+    // @ts-expect-error
     console.log(`${prefix} ${error.reason.message}`);
-    if (error.reason.errors) {
-      logErrors(error.reason.errors, depth + 1);
+    if (nested) {
+      logErrors(nested, depth + 1);
       console.log('\n');
     }
   }
@@ -97,5 +105,34 @@ export async function throwIfAnyErrors<T>(
       error.errors = errors;
     }
     throw error;
+  }
+}
+
+export async function GET(url: string) {
+  const urlWithoutProtocol =
+    url.replace(/^https?:\/\//, '').replaceAll('/', '_') + '.cached.txt';
+  const filePath = `./.fetch-cache/${urlWithoutProtocol}`;
+  const file = Bun.file(filePath);
+  const exists = await file.exists();
+  if (exists) {
+    console.log(`\t📦  Using .fetch-cache for: ${url}`);
+    return new Response(file.stream());
+  }
+  const response = await fetch(url);
+  console.log(`\t🔗  Fetching: ${url}`);
+  if (response.ok && response.status < 300) {
+    const content = await response.text();
+    await Bun.write(file, content);
+    return new Response(file.stream());
+  }
+
+  return response;
+}
+
+export function throwIfHttpError(response: Response) {
+  if (response.status >= 400) {
+    throw new Error(
+      `RequestError: [${response.status}] ${response.url} ${response.statusText}`,
+    );
   }
 }

@@ -117,4 +117,15 @@ This will scrape publicly available data from [https://wser.org](https://wser.or
 store it in `.data-cache/raw/`. We keep this under git versioning and only scrape data
 when we don't have an entry for it in the cache already: so unless looking to add data
 to a new year or working to add ingestion of data from new sources and earlier years
-this will likely do-nothing.
+this will likely do-nothing. Setting the `ENV` var `FORCE_GENERATE=true` will cause the
+files in `.data-cache` to rebuild. Note: they will rebuild from the responses stored in
+`.fetch-cache` when possible, see below.
+
+Additionally, we cache any successful raw fetch response that we scraped into `.fetch-cache`.
+This allows us to write tests, work offline, ensures access to the data in the future
+should the `wser` site change, and further reduces server load ensuring we don't accidentally
+put a site we love under undo strain.
+
+When fetching a page to scrape data from, use the `GET` method to participate in the `.fetch-cache`.
+
+To bypass the fetch cache, set the `ENV` var `FORCE_FETCH=true`.

@@ -1,0 +1,1583 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta name="viewport" content="width=device-width, target-densitydpi=device-dpi, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<meta name="google-site-verification" content="1eVMZoCNc9U-OsSIU_btl8xtdZ_qjhSFR_3tfnR4z3I" />
+	
+	
+<title>2013 Entrants List &#8211; Western States Endurance Run</title>
+  
+  
+
+      
+  
+	
+	
+	<link rel="shortcut icon" href="https://www.wser.org/wp-content/themes/ws100/favicon.ico">  
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/ie.css" />
+		<script src="dist/html5shiv.js"></script>
+	<![endif]-->
+  
+    <!-- TypeKit -->
+  <link rel="stylesheet" href="https://use.typekit.net/wpk2rkn.css">
+    <!-- <script src="https://use.typekit.net/wpk2rkn.js"></script> -->
+    <!-- <script>try{Typekit.load({ async: true });}catch(e){}</script> -->
+  
+  <!--[if !IE]><!-->
+  	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/700_grid.css" media="screen and (max-width: 720px)" />
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/705_grid.css" media="screen and (min-width: 700px)" />
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/720_grid.css" media="screen and (min-width: 720px)" />
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/986_grid.css" media="screen and (min-width: 986px)" />
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/1236_grid.css" media="screen and (min-width: 1236px)" />
+	<!--<![endif]-->
+  
+  <!--[if gt IE 8]>
+  	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/700_grid.css" media="screen and (max-width: 720px)" />
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/705_grid.css" media="screen and (min-width: 700px)" />
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/720_grid.css" media="screen and (min-width: 720px)" />
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/986_grid.css" media="screen and (min-width: 986px)" />
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/1236_grid.css" media="screen and (min-width: 1236px)" />
+<![endif]-->
+  
+  
+  
+	<!--<link rel="stylesheet" href="http://f.fontdeck.com/s/css/mCbGq/M3opM6pGpC6bTy55gcPdg/www.wser.org/21417.css" />  -->
+	
+	<link rel="stylesheet" href="https://www.wser.org/wp-content/themes/ws100/style.css">
+	
+	<link rel="pingback" href="https://www.wser.org/xmlrpc.php">
+
+	  
+  
+  
+  
+
+  
+
+	<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel="alternate" type="application/rss+xml" title="Western States Endurance Run &raquo; Feed" href="https://www.wser.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Western States Endurance Run &raquo; Comments Feed" href="https://www.wser.org/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.wser.org\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.wser.org/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='sign-up-sheets-sheet-style-inline-css' type='text/css'>
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/style.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+
+
+</style>
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://www.wser.org/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://www.wser.org/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<style id='jetpack-sharing-buttons-style-inline-css' type='text/css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.wser.org/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpcdt-public-css-css' href='https://www.wser.org/wp-content/plugins/countdown-timer-ultimate/assets/css/wpcdt-public.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://www.wser.org/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-subscriptions-css' href='https://www.wser.org/wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://www.wser.org/wp-content/tablepress-combined.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-datatables-buttons-css' href='https://www.wser.org/wp-content/plugins/tablepress-premium/modules/css/build/datatables.buttons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-responsive-tables-css' href='https://www.wser.org/wp-content/plugins/tablepress-premium/modules/css/build/responsive-tables.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-datatables-columnfilterwidgets-css' href='https://www.wser.org/wp-content/plugins/tablepress-premium/modules/css/build/datatables.columnfilterwidgets.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-css' href='https://www.wser.org/wp-content/plugins/ubermenu/pro/assets/css/ubermenu.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-tt-black-css' href='https://www.wser.org/wp-content/plugins/ubermenu/pro/assets/css/skins/twotone_black_black.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-font-awesome-all-css' href='https://www.wser.org/wp-content/plugins/ubermenu/assets/fontawesome/css/all.min.css' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff2-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff2-css' href='https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.18'  type='font/woff2' crossorigin />
+<link rel='stylesheet' id='promoslider_main-css' href='https://www.wser.org/wp-content/plugins/promotion-slider/css/slider.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.wser.org/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.wser.org/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://www.wser.org/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.wser.org/wp-json/wp/v2/pages/2574" /><link rel="canonical" href="https://www.wser.org/2013-entrants-list/" />
+<link rel='shortlink' href='https://wp.me/P2CAQl-Fw' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.wser.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.wser.org%2F2013-entrants-list%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.wser.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.wser.org%2F2013-entrants-list%2F&#038;format=xml" />
+<style id="ubermenu-custom-generated-css">
+/** Font Awesome 4 Compatibility **/
+.fa{font-style:normal;font-variant:normal;font-weight:normal;font-family:FontAwesome;}
+
+/** UberMenu Custom Menu Styles (Customizer) **/
+/* main */
+ .ubermenu-main .ubermenu-item .ubermenu-submenu-drop { -webkit-transition-duration:300ms; -ms-transition-duration:300ms; transition-duration:300ms; }
+ .ubermenu-main .ubermenu-item-layout-image_left > .ubermenu-target-text { padding-left:35px; }
+ .ubermenu-main .ubermenu-item-layout-image_right > .ubermenu-target-text { padding-right:35px; }
+ .ubermenu-main .ubermenu-item-layout-woocommerce_image_left_price > .ubermenu-target-text { padding-left:35px; }
+ .ubermenu-main .ubermenu-item-level-0 > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0 > .ubermenu-target.ubermenu-item-notext > .ubermenu-icon { line-height:1.3px; }
+ .ubermenu-main .ubermenu-item-level-0 > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0 > .ubermenu-custom-content.ubermenu-custom-content-padded { padding-top:19.6px; padding-bottom:19.6px; }
+
+
+
+/** UberMenu Custom Tweaks - Desktop **/
+@media screen and (min-width:960px){
+.ubermenu .ubermenu-submenu-drop a.ubermenu-target {padding-top:6px;padding-bottom:6px}
+}
+/* Status: Loaded from Transient */
+
+</style>	<style>img#wpstats{display:none}</style>
+		<link rel="icon" href="https://www.wser.org/wp-content/uploads/2024/04/cropped-WSER-logo_Blk-rd_sm-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.wser.org/wp-content/uploads/2024/04/cropped-WSER-logo_Blk-rd_sm-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.wser.org/wp-content/uploads/2024/04/cropped-WSER-logo_Blk-rd_sm-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.wser.org/wp-content/uploads/2024/04/cropped-WSER-logo_Blk-rd_sm-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			iframe {
+    display:block;
+    width:100%;
+    height:100vh;
+}
+
+		</style>
+		</head>
+
+<body class="page-template page-template-nosidebar page-template-nosidebar-php page page-id-2574">
+	
+	<!-- <div id="page-wrap">  -->
+
+		<div id="header">
+			<a href="https://www.wser.org/"><img src="https://www.wser.org/wp-content/uploads/2022/06/WSER_logo_Wht_horiz_lrg.png" alt="Western States Endurance Run" /></a>
+			
+			<div class="hidden">
+				<h1><a href="https://www.wser.org/">Western States Endurance Run</a></h1>
+				<div class="description"></div>
+			</div> <!-- .hidden -->
+				
+				
+<!-- UberMenu [Configuration:main] [Theme Loc:ubermenu] [Integration:api] -->
+<a class="ubermenu-responsive-toggle ubermenu-responsive-toggle-main ubermenu-skin-tt-black ubermenu-loc-ubermenu ubermenu-responsive-toggle-content-align-left ubermenu-responsive-toggle-align-full " tabindex="0" data-ubermenu-target="ubermenu-main-3-ubermenu-2"   aria-label="Toggle Menu"><i class="fas fa-bars" ></i>Menu</a><div id="ubermenu-main-3-ubermenu-2" class="ubermenu ubermenu-nojs ubermenu-main ubermenu-menu-3 ubermenu-loc-ubermenu ubermenu-responsive ubermenu-responsive-default ubermenu-responsive-collapse ubermenu-horizontal ubermenu-transition-slide ubermenu-trigger-hover_intent ubermenu-skin-tt-black  ubermenu-bar-align-full ubermenu-items-align-center ubermenu-bar-inner-center ubermenu-bound ubermenu-sub-indicators ubermenu-retractors-responsive ubermenu-submenu-indicator-closes"><ul id="ubermenu-nav-main-3-ubermenu" class="ubermenu-nav" data-title="UberMenu"><li id="menu-item-35" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-home ubermenu-item-35 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Home</span></a></li><li id="menu-item-110" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-110 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/news/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">News</span></a></li><li id="menu-item-23" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-23 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Entry</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-23 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item ubermenu-autoclear"  ><li id="menu-item-1872" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1872 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/entry-process/"><span class="ubermenu-target-title ubermenu-target-text">Entry Process</span></a></li><li id="menu-item-59" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-59 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/lottery/"><span class="ubermenu-target-title ubermenu-target-text">Lottery</span></a></li><li id="menu-item-66" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-66 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/qualifying-races/"><span class="ubermenu-target-title ubermenu-target-text">Qualifying Races</span></a></li><li id="menu-item-72" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-72 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/automatics/"><span class="ubermenu-target-title ubermenu-target-text">Automatics</span></a></li><li id="menu-item-3874" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-3874 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/special-consideration/"><span class="ubermenu-target-title ubermenu-target-text">Special Consideration</span></a></li><li id="menu-item-11510" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-11510 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/entry-process/pregnancy-deferrals/"><span class="ubermenu-target-title ubermenu-target-text">Pregnancy Entry Deferral</span></a></li><li id="menu-item-13915" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-13915 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/wait-list/"><span class="ubermenu-target-title ubermenu-target-text">Wait List</span></a></li><li id="menu-item-253" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-253 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/raffle/"><span class="ubermenu-target-title ubermenu-target-text">Raffle</span></a></li><li id="menu-item-444" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-444 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/golden-ticket-races/"><span class="ubermenu-target-title ubermenu-target-text">HOKA Golden Ticket Races</span></a></li><li id="menu-item-656" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-656 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/top-ten/"><span class="ubermenu-target-title ubermenu-target-text">Top Ten</span></a></li><li id="menu-item-7614" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-7614 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/silver-legend-entry/"><span class="ubermenu-target-title ubermenu-target-text">Silver Legend Entry</span></a></li></ul></li><li id="menu-item-254" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-254 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Runners</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-254 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item ubermenu-autoclear"  ><li id="menu-item-2538" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-2538 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/participant-guide/"><span class="ubermenu-target-title ubermenu-target-text">2025 Participant Guide</span></a></li><li id="menu-item-448" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-448 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/medical-and-other-risks/"><span class="ubermenu-target-title ubermenu-target-text">Medical and Other Risks</span></a></li><li id="menu-item-39923" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-39923 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/foot-care/"><span class="ubermenu-target-title ubermenu-target-text">Foot Care</span></a></li><li id="menu-item-447" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-447 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/training-for-western-states/"><span class="ubermenu-target-title ubermenu-target-text">Training For Western States</span></a></li><li id="menu-item-1023" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1023 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/training-runs/"><span class="ubermenu-target-title ubermenu-target-text">Training Runs</span></a></li><li id="menu-item-249" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-249 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/awards/"><span class="ubermenu-target-title ubermenu-target-text">Awards</span></a></li><li id="menu-item-450" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-450 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/performance-rules/"><span class="ubermenu-target-title ubermenu-target-text">Performance Rules</span></a></li><li id="menu-item-22021" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-22021 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/international-runners/"><span class="ubermenu-target-title ubermenu-target-text">International Runners</span></a></li><li id="menu-item-38874" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38874 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/utmb-world-series/"><span class="ubermenu-target-title ubermenu-target-text">UTMB® World Series</span></a></li><li id="menu-item-61742" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-61742 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/anti-doping-policy/"><span class="ubermenu-target-title ubermenu-target-text">Anti-Doping Policy</span></a></li><li id="menu-item-15240" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-15240 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/transgender-entrant-policy/"><span class="ubermenu-target-title ubermenu-target-text">Transgender and Nonbinary Entrant Policy</span></a></li><li id="menu-item-619" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-619 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/inspiration-point/"><span class="ubermenu-target-title ubermenu-target-text">Inspiration</span></a></li><li id="menu-item-483" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-483 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1 ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Race Week</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-483 ubermenu-submenu-type-auto ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item"  ><li id="menu-item-487" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-487 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/race-week-agenda/"><span class="ubermenu-target-title ubermenu-target-text">Race Week Agenda</span></a></li><li id="menu-item-486" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-486 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/lodging/"><span class="ubermenu-target-title ubermenu-target-text">Lodging</span></a></li><li id="menu-item-485" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-485 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/finish-line/"><span class="ubermenu-target-title ubermenu-target-text">Finish Line</span></a></li><li id="menu-item-490" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-490 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/food-and-transportation/"><span class="ubermenu-target-title ubermenu-target-text">Food and Transportation</span></a></li></ul></li></ul></li><li id="menu-item-455" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-455 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Crews</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-455 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item ubermenu-autoclear"  ><li id="menu-item-555" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-555 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/pacer-rules/"><span class="ubermenu-target-title ubermenu-target-text">Pacer Rules</span></a></li><li id="menu-item-1816" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1816 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/crew-rules/"><span class="ubermenu-target-title ubermenu-target-text">Crew Rules</span></a></li><li id="menu-item-453" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-453 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/crew-suggestions/"><span class="ubermenu-target-title ubermenu-target-text">Crew Suggestions</span></a></li><li id="menu-item-493" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-493 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/crew-activities/"><span class="ubermenu-target-title ubermenu-target-text">Crew Activities</span></a></li></ul></li><li id="menu-item-472" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-472 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Volunteers</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-472 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item ubermenu-autoclear"  ><li id="menu-item-2501" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-2501 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1 ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#"><span class="ubermenu-target-title ubermenu-target-text">Opportunities</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-2501 ubermenu-submenu-type-auto ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item"  ><li id="menu-item-36787" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-36787 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/i-want-to-volunteer/"><span class="ubermenu-target-title ubermenu-target-text">Volunteer Request</span></a></li><li id="menu-item-2861" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-2861 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/trail-stewardship/trail-work-opportunities/"><span class="ubermenu-target-title ubermenu-target-text">Trail Work Opportunities in 2024</span></a></li><li id="menu-item-1326" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1326 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/medical/"><span class="ubermenu-target-title ubermenu-target-text">Medical</span></a></li><li id="menu-item-468" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-468 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/communication/"><span class="ubermenu-target-title ubermenu-target-text">Communication</span></a></li><li id="menu-item-1655" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1655 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/webcast/"><span class="ubermenu-target-title ubermenu-target-text">Webcast</span></a></li></ul></li><li id="menu-item-469" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-469 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/"><span class="ubermenu-target-title ubermenu-target-text">Information</span></a></li><li id="menu-item-471" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-471 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/friends-of-the-trail/"><span class="ubermenu-target-title ubermenu-target-text">Friends of The Trail</span></a></li><li id="menu-item-470" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-470 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/little-cougar/"><span class="ubermenu-target-title ubermenu-target-text">Little Cougar Award</span></a></li><li id="menu-item-1177" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1177 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/volunteering/stationmaster-award/"><span class="ubermenu-target-title ubermenu-target-text">Stationmaster Award</span></a></li></ul></li><li id="menu-item-28" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-28 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Course</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-28 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item ubermenu-autoclear"  ><li id="menu-item-321" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-321 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/course/"><span class="ubermenu-target-title ubermenu-target-text">Course Description</span></a></li><li id="menu-item-292" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-292 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/course/aid-stations/"><span class="ubermenu-target-title ubermenu-target-text">Aid Stations</span></a></li><li id="menu-item-313" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-313 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/course/maps/"><span class="ubermenu-target-title ubermenu-target-text">Maps</span></a></li><li id="menu-item-3957" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-3957 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/google-earth-trail-flyover/"><span class="ubermenu-target-title ubermenu-target-text">Trail Flyover</span></a></li><li id="menu-item-1891" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1891 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/course/gps-info/"><span class="ubermenu-target-title ubermenu-target-text">GPS Info</span></a></li><li id="menu-item-322" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-322 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/course/snow-routes/"><span class="ubermenu-target-title ubermenu-target-text">Snow Route</span></a></li><li id="menu-item-1299" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1299 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/course/variations-1974-present/"><span class="ubermenu-target-title ubermenu-target-text">Course Variations 1974-present</span></a></li></ul></li><li id="menu-item-26" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-26 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">History</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-26 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item ubermenu-autoclear"  ><li id="menu-item-38" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-38 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/how-it-all-began/"><span class="ubermenu-target-title ubermenu-target-text">How it All Began</span></a></li><li id="menu-item-55" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-55 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/history-year-by-year/"><span class="ubermenu-target-title ubermenu-target-text">Year By Year</span></a></li><li id="menu-item-311" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-311 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/ws-trail-history/"><span class="ubermenu-target-title ubermenu-target-text">WS Trail History</span></a></li><li id="menu-item-82" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-82 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/weather/"><span class="ubermenu-target-title ubermenu-target-text">Weather</span></a></li><li id="menu-item-8109" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-8109 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/snowpack/"><span class="ubermenu-target-title ubermenu-target-text">Snowpack</span></a></li></ul></li><li id="menu-item-24" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-24 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Results</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-24 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item ubermenu-autoclear"  ><li id="menu-item-315" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-315 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/results/"><span class="ubermenu-target-title ubermenu-target-text">Results 1974-present</span></a></li><li id="menu-item-314" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-314 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/splits/"><span class="ubermenu-target-title ubermenu-target-text">Splits</span></a></li><li id="menu-item-631" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-631 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/records/"><span class="ubermenu-target-title ubermenu-target-text">Records</span></a></li><li id="menu-item-310" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-310 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/geeks-only/"><span class="ubermenu-target-title ubermenu-target-text">Geeks Only</span></a></li></ul></li><li id="menu-item-528" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-528 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Galleries</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-528 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item ubermenu-autoclear"  ><li id="menu-item-534" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-534 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/official-photos/"><span class="ubermenu-target-title ubermenu-target-text">Official Photos</span></a></li><li id="menu-item-533" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-533 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.wser.org/contributed-photos/"><span class="ubermenu-target-title ubermenu-target-text">Contributed Photos</span></a></li></ul></li></ul></div>
+<!-- End UberMenu -->
+				
+		</div>  <!-- End #header -->
+
+		<div id="content">
+			<div class="grid">
+						<div class="row">
+
+
+	<div class="slot-0-1-2-3-4-5">
+
+	  <div id="crumbs"><a href="https://www.wser.org">Home</a> &raquo; <span class="current">2013 Entrants List</span></div>	  
+	
+		<div class="post-2574 page type-page status-publish hentry" id="post-2574">
+																				
+																				
+						<h1>2013 Entrants List</h1>
+																
+		  
+			<div class="entry">
+				<p>Last updated: 7:43 AM, Thursday, June 27, 2013
+<table id="tablepress-324" class="tablepress tablepress-id-324 wser-table tablepress-responsive">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">First Name</th><th class="column-2">Last Name</th><th class="column-3">Gender</th><th class="column-4">Age</th><th class="column-5">City</th><th class="column-6">State</th><th class="column-7">Country</th><th class="column-8">Bib</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1">Cowman</td><td class="column-2">A-Moo-Ha's</td><td class="column-3">M</td><td class="column-4">69</td><td class="column-5">Kailua-Kona</td><td class="column-6">HI</td><td class="column-7">United States</td><td class="column-8">00</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">John</td><td class="column-2">Adamof</td><td class="column-3">M</td><td class="column-4">44</td><td class="column-5">Raleigh</td><td class="column-6">NC</td><td class="column-7">United States</td><td class="column-8">40</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">Dennis</td><td class="column-2">Ahern</td><td class="column-3">M</td><td class="column-4">55</td><td class="column-5">Boise</td><td class="column-6">ID</td><td class="column-7">United States</td><td class="column-8">41</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">Gordy</td><td class="column-2">Ainsleigh</td><td class="column-3">M</td><td class="column-4">66</td><td class="column-5">Meadow Vista</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">0</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">Colin</td><td class="column-2">Alley</td><td class="column-3">M</td><td class="column-4">44</td><td class="column-5">San Francisco</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">42</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1">Adam</td><td class="column-2">Allie</td><td class="column-3">M</td><td class="column-4">33</td><td class="column-5">Mt Pleasant</td><td class="column-6">SC</td><td class="column-7">United States</td><td class="column-8">215</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1">Jeremy</td><td class="column-2">Alsop</td><td class="column-3">M</td><td class="column-4">29</td><td class="column-5">Mooresville</td><td class="column-6">NC</td><td class="column-7">United States</td><td class="column-8">43</td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1">Bo</td><td class="column-2">Andersen</td><td class="column-3">M</td><td class="column-4">54</td><td class="column-5">Den Haag</td><td class="column-6">International</td><td class="column-7">Netherlands</td><td class="column-8">44</td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-1">Philip</td><td class="column-2">Anthony</td><td class="column-3">M</td><td class="column-4">42</td><td class="column-5">Costa Mesa</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">46</td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-1">Meghan</td><td class="column-2">Arbogast</td><td class="column-3">F</td><td class="column-4">52</td><td class="column-5">Corvallis</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">F10</td>
+</tr>
+<tr class="row-12 even">
+	<td class="column-1">Barbara</td><td class="column-2">Ashe</td><td class="column-3">F</td><td class="column-4">64</td><td class="column-5">Lotus</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">64</td>
+</tr>
+<tr class="row-13 odd">
+	<td class="column-1">Bob</td><td class="column-2">Ayers Jr.</td><td class="column-3">M</td><td class="column-4">52</td><td class="column-5">Colchester</td><td class="column-6">VT</td><td class="column-7">United States</td><td class="column-8">47</td>
+</tr>
+<tr class="row-14 even">
+	<td class="column-1">Janeth</td><td class="column-2">Badaracco</td><td class="column-3">F</td><td class="column-4">43</td><td class="column-5">Pacifica</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">49</td>
+</tr>
+<tr class="row-15 odd">
+	<td class="column-1">Jeff</td><td class="column-2">Barbier</td><td class="column-3">M</td><td class="column-4">48</td><td class="column-5">Rancho Cordova</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">59</td>
+</tr>
+<tr class="row-16 even">
+	<td class="column-1">Lori</td><td class="column-2">Barekman</td><td class="column-3">F</td><td class="column-4">52</td><td class="column-5">Santa Rosa</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">68</td>
+</tr>
+<tr class="row-17 odd">
+	<td class="column-1">Dan</td><td class="column-2">Barger</td><td class="column-3">M</td><td class="column-4">47</td><td class="column-5">Auburn</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">88</td>
+</tr>
+<tr class="row-18 even">
+	<td class="column-1">Christopher</td><td class="column-2">Barnwell</td><td class="column-3">M</td><td class="column-4">43</td><td class="column-5">Keller</td><td class="column-6">TX</td><td class="column-7">United States</td><td class="column-8">71</td>
+</tr>
+<tr class="row-19 odd">
+	<td class="column-1">Joshua</td><td class="column-2">Barringer</td><td class="column-3">M</td><td class="column-4">30</td><td class="column-5">Vancouver</td><td class="column-6">BC</td><td class="column-7">Canada</td><td class="column-8">206</td>
+</tr>
+<tr class="row-20 even">
+	<td class="column-1">Timothy</td><td class="column-2">Barry</td><td class="column-3">M</td><td class="column-4">52</td><td class="column-5">Colorado Springs</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">72</td>
+</tr>
+<tr class="row-21 odd">
+	<td class="column-1">Adam</td><td class="column-2">Barstad</td><td class="column-3">M</td><td class="column-4">37</td><td class="column-5">Glendale</td><td class="column-6">AZ</td><td class="column-7">United States</td><td class="column-8">417</td>
+</tr>
+<tr class="row-22 even">
+	<td class="column-1">Ben</td><td class="column-2">Bartley</td><td class="column-3">M</td><td class="column-4">29</td><td class="column-5">Bloomington</td><td class="column-6">IN</td><td class="column-7">United States</td><td class="column-8">75</td>
+</tr>
+<tr class="row-23 odd">
+	<td class="column-1">Chris</td><td class="column-2">Basford</td><td class="column-3">M</td><td class="column-4">51</td><td class="column-5">Newport News</td><td class="column-6">VA</td><td class="column-7">United States</td><td class="column-8">81</td>
+</tr>
+<tr class="row-24 even">
+	<td class="column-1">Keith</td><td class="column-2">Bauer</td><td class="column-3">M</td><td class="column-4">34</td><td class="column-5">Folsom</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">84</td>
+</tr>
+<tr class="row-25 odd">
+	<td class="column-1">Quent</td><td class="column-2">Bearden</td><td class="column-3">M</td><td class="column-4">38</td><td class="column-5">Lubbock</td><td class="column-6">TX</td><td class="column-7">United States</td><td class="column-8">87</td>
+</tr>
+<tr class="row-26 even">
+	<td class="column-1">Mark</td><td class="column-2">Becker</td><td class="column-3">M</td><td class="column-4">23</td><td class="column-5">Fergus Falls</td><td class="column-6">MN</td><td class="column-7">United States</td><td class="column-8">90</td>
+</tr>
+<tr class="row-27 odd">
+	<td class="column-1">Jennifer</td><td class="column-2">Benna</td><td class="column-3">F</td><td class="column-4">33</td><td class="column-5">Reno</td><td class="column-6">NV</td><td class="column-7">United States</td><td class="column-8">99</td>
+</tr>
+<tr class="row-28 even">
+	<td class="column-1">Gary</td><td class="column-2">Bennington</td><td class="column-3">M</td><td class="column-4">53</td><td class="column-5">Ste Agathe Des Monts</td><td class="column-6">QC</td><td class="column-7">Canada</td><td class="column-8">337</td>
+</tr>
+<tr class="row-29 odd">
+	<td class="column-1">Vineer</td><td class="column-2">Bhansali</td><td class="column-3">M</td><td class="column-4">47</td><td class="column-5">Laguna Beach</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">444</td>
+</tr>
+<tr class="row-30 even">
+	<td class="column-1">Andy</td><td class="column-2">Black</td><td class="column-3">M</td><td class="column-4">55</td><td class="column-5">Oakland</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">91</td>
+</tr>
+<tr class="row-31 odd">
+	<td class="column-1">Stuart</td><td class="column-2">Blofeld</td><td class="column-3">M</td><td class="column-4">34</td><td class="column-5">Leighton Buzzard</td><td class="column-6">International</td><td class="column-7">Great Britain</td><td class="column-8">92</td>
+</tr>
+<tr class="row-32 even">
+	<td class="column-1">Keith</td><td class="column-2">Blom</td><td class="column-3">M</td><td class="column-4">56</td><td class="column-5">San Jose</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">56</td>
+</tr>
+<tr class="row-33 odd">
+	<td class="column-1">Wade</td><td class="column-2">Blomgren</td><td class="column-3">M</td><td class="column-4">52</td><td class="column-5">San Diego</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">96</td>
+</tr>
+<tr class="row-34 even">
+	<td class="column-1">Jerry</td><td class="column-2">Bloom</td><td class="column-3">M</td><td class="column-4">60</td><td class="column-5">Shingle Springs</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">60</td>
+</tr>
+<tr class="row-35 odd">
+	<td class="column-1">Andre</td><td class="column-2">Blumberg</td><td class="column-3">M</td><td class="column-4">43</td><td class="column-5">Bangkok</td><td class="column-6">International</td><td class="column-7">Thailand</td><td class="column-8">93</td>
+</tr>
+<tr class="row-36 even">
+	<td class="column-1">Jesse</td><td class="column-2">Boisaubin</td><td class="column-3">M</td><td class="column-4">33</td><td class="column-5">Portland</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">94</td>
+</tr>
+<tr class="row-37 odd">
+	<td class="column-1">Rory</td><td class="column-2">Bosio</td><td class="column-3">F</td><td class="column-4">28</td><td class="column-5">Soda Springs</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">F2</td>
+</tr>
+<tr class="row-38 even">
+	<td class="column-1">Denise</td><td class="column-2">Bourassa</td><td class="column-3">F</td><td class="column-4">43</td><td class="column-5">Bend</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">11</td>
+</tr>
+<tr class="row-39 odd">
+	<td class="column-1">West</td><td class="column-2">Bourgault</td><td class="column-3">M</td><td class="column-4">36</td><td class="column-5">Auburn</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">98</td>
+</tr>
+<tr class="row-40 even">
+	<td class="column-1">Dylan</td><td class="column-2">Bowman</td><td class="column-3">M</td><td class="column-4">27</td><td class="column-5">Aspen</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">M7</td>
+</tr>
+<tr class="row-41 odd">
+	<td class="column-1">Sarah</td><td class="column-2">Bradham</td><td class="column-3">F</td><td class="column-4">37</td><td class="column-5">Portland</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">102</td>
+</tr>
+<tr class="row-42 even">
+	<td class="column-1">Bernt</td><td class="column-2">Bratsberg</td><td class="column-3">M</td><td class="column-4">53</td><td class="column-5">Oslo</td><td class="column-6">International</td><td class="column-7">Norway</td><td class="column-8">104</td>
+</tr>
+<tr class="row-43 odd">
+	<td class="column-1">Steve</td><td class="column-2">Bremner</td><td class="column-3">M</td><td class="column-4">58</td><td class="column-5">Manitou Springs</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">58</td>
+</tr>
+<tr class="row-44 even">
+	<td class="column-1">Dan</td><td class="column-2">Brenden</td><td class="column-3">M</td><td class="column-4">62</td><td class="column-5">Phoenix</td><td class="column-6">AZ</td><td class="column-7">United States</td><td class="column-8">105</td>
+</tr>
+<tr class="row-45 odd">
+	<td class="column-1">Trent</td><td class="column-2">Briney</td><td class="column-3">M</td><td class="column-4">34</td><td class="column-5">Boulder</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">23</td>
+</tr>
+<tr class="row-46 even">
+	<td class="column-1">Daniel</td><td class="column-2">Brockman</td><td class="column-3">M</td><td class="column-4">48</td><td class="column-5">Rocklin</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">106</td>
+</tr>
+<tr class="row-47 odd">
+	<td class="column-1">Mike</td><td class="column-2">Brown</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Calgary</td><td class="column-6">AB</td><td class="column-7">Canada</td><td class="column-8">108</td>
+</tr>
+<tr class="row-48 even">
+	<td class="column-1">Ben</td><td class="column-2">Brucker</td><td class="column-3">M</td><td class="column-4">35</td><td class="column-5">Springdale</td><td class="column-6">PA</td><td class="column-7">United States</td><td class="column-8">109</td>
+</tr>
+<tr class="row-49 odd">
+	<td class="column-1">Kerrie</td><td class="column-2">Bruxvoort</td><td class="column-3">F</td><td class="column-4">36</td><td class="column-5">Broomfield</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">54</td>
+</tr>
+<tr class="row-50 even">
+	<td class="column-1">Larry</td><td class="column-2">Buchanan</td><td class="column-3">M</td><td class="column-4">42</td><td class="column-5">Portland</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">112</td>
+</tr>
+<tr class="row-51 odd">
+	<td class="column-1">Matthew</td><td class="column-2">Bucklin</td><td class="column-3">M</td><td class="column-4">33</td><td class="column-5">Missoula</td><td class="column-6">MT</td><td class="column-7">United States</td><td class="column-8">199</td>
+</tr>
+<tr class="row-52 even">
+	<td class="column-1">Jack</td><td class="column-2">Burdick</td><td class="column-3">M</td><td class="column-4">22</td><td class="column-5">Birchwood</td><td class="column-6">WI</td><td class="column-7">United States</td><td class="column-8">110</td>
+</tr>
+<tr class="row-53 odd">
+	<td class="column-1">Denise</td><td class="column-2">Burley</td><td class="column-3">F</td><td class="column-4">42</td><td class="column-5">Portland</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">115</td>
+</tr>
+<tr class="row-54 even">
+	<td class="column-1">John</td><td class="column-2">Burton</td><td class="column-3">M</td><td class="column-4">40</td><td class="column-5">San Jose</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">119</td>
+</tr>
+<tr class="row-55 odd">
+	<td class="column-1">Michael</td><td class="column-2">Campian</td><td class="column-3">M</td><td class="column-4">31</td><td class="column-5">San Diego</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">122</td>
+</tr>
+<tr class="row-56 even">
+	<td class="column-1">Liza</td><td class="column-2">Canowitz</td><td class="column-3">F</td><td class="column-4">37</td><td class="column-5">New Albany</td><td class="column-6">OH</td><td class="column-7">United States</td><td class="column-8">124</td>
+</tr>
+<tr class="row-57 odd">
+	<td class="column-1">Daniel</td><td class="column-2">Cartica</td><td class="column-3">M</td><td class="column-4">25</td><td class="column-5">Camp Pendleton</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">126</td>
+</tr>
+<tr class="row-58 even">
+	<td class="column-1">John</td><td class="column-2">Catts</td><td class="column-3">M</td><td class="column-4">59</td><td class="column-5">Nicasio</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">146</td>
+</tr>
+<tr class="row-59 odd">
+	<td class="column-1">Robert</td><td class="column-2">Chalfant</td><td class="column-3">M</td><td class="column-4">44</td><td class="column-5">Auburn</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">127</td>
+</tr>
+<tr class="row-60 even">
+	<td class="column-1">Michael</td><td class="column-2">Chase</td><td class="column-3">M</td><td class="column-4">43</td><td class="column-5">Centerpoint</td><td class="column-6">AL</td><td class="column-7">United States</td><td class="column-8">128</td>
+</tr>
+<tr class="row-61 odd">
+	<td class="column-1">Rod</td><td class="column-2">Chiasson</td><td class="column-3">M</td><td class="column-4">43</td><td class="column-5">Edmonton</td><td class="column-6">AB</td><td class="column-7">Canada</td><td class="column-8">129</td>
+</tr>
+<tr class="row-62 even">
+	<td class="column-1">Jacqueline</td><td class="column-2">Choi</td><td class="column-3">F</td><td class="column-4">32</td><td class="column-5">Leonia</td><td class="column-6">NJ</td><td class="column-7">United States</td><td class="column-8">314</td>
+</tr>
+<tr class="row-63 odd">
+	<td class="column-1">Sung Ho</td><td class="column-2">Choi</td><td class="column-3">M</td><td class="column-4">37</td><td class="column-5">Jacksonville</td><td class="column-6">FL</td><td class="column-7">United States</td><td class="column-8">130</td>
+</tr>
+<tr class="row-64 even">
+	<td class="column-1">Garret</td><td class="column-2">Christensen</td><td class="column-3">M</td><td class="column-4">33</td><td class="column-5">Swarthmore</td><td class="column-6">PA</td><td class="column-7">United States</td><td class="column-8">133</td>
+</tr>
+<tr class="row-65 odd">
+	<td class="column-1">Esther</td><td class="column-2">Christianson</td><td class="column-3">F</td><td class="column-4">30</td><td class="column-5">Anchorage</td><td class="column-6">AK</td><td class="column-7">United States</td><td class="column-8">134</td>
+</tr>
+<tr class="row-66 even">
+	<td class="column-1">Mary</td><td class="column-2">Churchill</td><td class="column-3">F</td><td class="column-4">37</td><td class="column-5">San Rafael</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">135</td>
+</tr>
+<tr class="row-67 odd">
+	<td class="column-1">Rhonda</td><td class="column-2">Claridge</td><td class="column-3">F</td><td class="column-4">45</td><td class="column-5">Ophir</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">16</td>
+</tr>
+<tr class="row-68 even">
+	<td class="column-1">Nick</td><td class="column-2">Clark</td><td class="column-3">M</td><td class="column-4">39</td><td class="column-5">Fort Collins</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">M3</td>
+</tr>
+<tr class="row-69 odd">
+	<td class="column-1">Cameron</td><td class="column-2">Clayton</td><td class="column-3">M</td><td class="column-4">24</td><td class="column-5">Boulder</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">17</td>
+</tr>
+<tr class="row-70 even">
+	<td class="column-1">John</td><td class="column-2">Cobbs</td><td class="column-3">M</td><td class="column-4">51</td><td class="column-5">Birmingham</td><td class="column-6">AL</td><td class="column-7">United States</td><td class="column-8">151</td>
+</tr>
+<tr class="row-71 odd">
+	<td class="column-1">Lee</td><td class="column-2">Conner</td><td class="column-3">F</td><td class="column-4">40</td><td class="column-5">Cleveland</td><td class="column-6">OH</td><td class="column-7">United States</td><td class="column-8">34</td>
+</tr>
+<tr class="row-72 even">
+	<td class="column-1">Colleen</td><td class="column-2">Conners-Pace</td><td class="column-3">F</td><td class="column-4">56</td><td class="column-5">Tahoe City</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">80</td>
+</tr>
+<tr class="row-73 odd">
+	<td class="column-1">Denis</td><td class="column-2">Cook</td><td class="column-3">M</td><td class="column-4">30</td><td class="column-5">Seattle</td><td class="column-6">WA</td><td class="column-7">United States</td><td class="column-8">136</td>
+</tr>
+<tr class="row-74 even">
+	<td class="column-1">Edwin</td><td class="column-2">Cook</td><td class="column-3">M</td><td class="column-4">58</td><td class="column-5">Chicago</td><td class="column-6">IL</td><td class="column-7">United States</td><td class="column-8">139</td>
+</tr>
+<tr class="row-75 odd">
+	<td class="column-1">Graham</td><td class="column-2">Cooper</td><td class="column-3">M</td><td class="column-4">43</td><td class="column-5">Piedmont</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">29</td>
+</tr>
+<tr class="row-76 even">
+	<td class="column-1">Catra</td><td class="column-2">Corbett</td><td class="column-3">F</td><td class="column-4">48</td><td class="column-5">Fremont</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">333</td>
+</tr>
+<tr class="row-77 odd">
+	<td class="column-1">Tim</td><td class="column-2">Corliss</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Livermore</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">86</td>
+</tr>
+<tr class="row-78 even">
+	<td class="column-1">Carl</td><td class="column-2">Costas</td><td class="column-3">M</td><td class="column-4">45</td><td class="column-5">Roseville</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">141</td>
+</tr>
+<tr class="row-79 odd">
+	<td class="column-1">Robert</td><td class="column-2">Costello</td><td class="column-3">M</td><td class="column-4">32</td><td class="column-5">Dundrum</td><td class="column-6">International</td><td class="column-7">Ireland</td><td class="column-8">143</td>
+</tr>
+<tr class="row-80 even">
+	<td class="column-1">Rafael</td><td class="column-2">Covarrabias</td><td class="column-3">M</td><td class="column-4">44</td><td class="column-5">Huntington Beach</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">144</td>
+</tr>
+<tr class="row-81 odd">
+	<td class="column-1">Skip</td><td class="column-2">Crockett</td><td class="column-3">M</td><td class="column-4">32</td><td class="column-5">Sacramento</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">157</td>
+</tr>
+<tr class="row-82 even">
+	<td class="column-1">Peter</td><td class="column-2">Cross</td><td class="column-3">M</td><td class="column-4">33</td><td class="column-5">La Canada</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">145</td>
+</tr>
+<tr class="row-83 odd">
+	<td class="column-1">Reiko</td><td class="column-2">Cyr</td><td class="column-3">F</td><td class="column-4">45</td><td class="column-5">New York</td><td class="column-6">NY</td><td class="column-7">United States</td><td class="column-8">147</td>
+</tr>
+<tr class="row-84 even">
+	<td class="column-1">Joseph</td><td class="column-2">Czabaranek</td><td class="column-3">M</td><td class="column-4">28</td><td class="column-5">Shalimar</td><td class="column-6">FL</td><td class="column-7">United States</td><td class="column-8">149</td>
+</tr>
+<tr class="row-85 odd">
+	<td class="column-1">Leila</td><td class="column-2">Degrave</td><td class="column-3">F</td><td class="column-4">35</td><td class="column-5">Evergreen</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">15</td>
+</tr>
+<tr class="row-86 even">
+	<td class="column-1">Patrick</td><td class="column-2">Delaney</td><td class="column-3">M</td><td class="column-4">38</td><td class="column-5">Wheatland</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">152</td>
+</tr>
+<tr class="row-87 odd">
+	<td class="column-1">Yassine</td><td class="column-2">Diboun</td><td class="column-3">M</td><td class="column-4">34</td><td class="column-5">Portland</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">12</td>
+</tr>
+<tr class="row-88 even">
+	<td class="column-1">Josh</td><td class="column-2">Dickson</td><td class="column-3">M</td><td class="column-4">29</td><td class="column-5">Washington</td><td class="column-6">DC</td><td class="column-7">United States</td><td class="column-8">153</td>
+</tr>
+<tr class="row-89 odd">
+	<td class="column-1">Randy</td><td class="column-2">Dietz</td><td class="column-3">M</td><td class="column-4">63</td><td class="column-5">Harrisburg</td><td class="column-6">PA</td><td class="column-7">United States</td><td class="column-8">63</td>
+</tr>
+<tr class="row-90 even">
+	<td class="column-1">Franz</td><td class="column-2">Dill</td><td class="column-3">M</td><td class="column-4">37</td><td class="column-5">Montara</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">154</td>
+</tr>
+<tr class="row-91 odd">
+	<td class="column-1">Christopher</td><td class="column-2">Dingman</td><td class="column-3">M</td><td class="column-4">31</td><td class="column-5">Dubois</td><td class="column-6">WY</td><td class="column-7">United States</td><td class="column-8">155</td>
+</tr>
+<tr class="row-92 even">
+	<td class="column-1">Jay</td><td class="column-2">Dobrowalski</td><td class="column-3">M</td><td class="column-4">34</td><td class="column-5">Moorpark</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">156</td>
+</tr>
+<tr class="row-93 odd">
+	<td class="column-1">Jay</td><td class="column-2">Donosky</td><td class="column-3">M</td><td class="column-4">43</td><td class="column-5">Flagstaff</td><td class="column-6">AZ</td><td class="column-7">United States</td><td class="column-8">158</td>
+</tr>
+<tr class="row-94 even">
+	<td class="column-1">Lisa</td><td class="column-2">Downey</td><td class="column-3">F</td><td class="column-4">50</td><td class="column-5">Rancho Cordova</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">316</td>
+</tr>
+<tr class="row-95 odd">
+	<td class="column-1">Randy</td><td class="column-2">Duncan</td><td class="column-3">M</td><td class="column-4">51</td><td class="column-5">Victoria</td><td class="column-6">BC</td><td class="column-7">Canada</td><td class="column-8">160</td>
+</tr>
+<tr class="row-96 even">
+	<td class="column-1">Anthony</td><td class="column-2">Dunnigan</td><td class="column-3">M</td><td class="column-4">40</td><td class="column-5">Palo Alto</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">161</td>
+</tr>
+<tr class="row-97 odd">
+	<td class="column-1">Moondoggy Dean</td><td class="column-2">Dyatt</td><td class="column-3">M</td><td class="column-4">51</td><td class="column-5">Fruit Heights</td><td class="column-6">UT</td><td class="column-7">United States</td><td class="column-8">163</td>
+</tr>
+<tr class="row-98 even">
+	<td class="column-1">James</td><td class="column-2">Ehasz</td><td class="column-3">M</td><td class="column-4">60</td><td class="column-5">Parker</td><td class="column-6">AZ</td><td class="column-7">United States</td><td class="column-8">164</td>
+</tr>
+<tr class="row-99 odd">
+	<td class="column-1">Stephen</td><td class="column-2">England</td><td class="column-3">M</td><td class="column-4">33</td><td class="column-5">Ny</td><td class="column-6">NY</td><td class="column-7">United States</td><td class="column-8">165</td>
+</tr>
+<tr class="row-100 even">
+	<td class="column-1">Emily</td><td class="column-2">Evans</td><td class="column-3">F</td><td class="column-4">36</td><td class="column-5">Flagstaff</td><td class="column-6">AZ</td><td class="column-7">United States</td><td class="column-8">166</td>
+</tr>
+<tr class="row-101 odd">
+	<td class="column-1">Gus</td><td class="column-2">Exarchos</td><td class="column-3">M</td><td class="column-4">44</td><td class="column-5">El Dorado Hills</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">407</td>
+</tr>
+<tr class="row-102 even">
+	<td class="column-1">Peter</td><td class="column-2">Fain</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Truckee</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">167</td>
+</tr>
+<tr class="row-103 odd">
+	<td class="column-1">Traci</td><td class="column-2">Falbo</td><td class="column-3">F</td><td class="column-4">41</td><td class="column-5">Charlestown</td><td class="column-6">IN</td><td class="column-7">United States</td><td class="column-8">170</td>
+</tr>
+<tr class="row-104 even">
+	<td class="column-1">Bruce</td><td class="column-2">Falzarano</td><td class="column-3">M</td><td class="column-4">54</td><td class="column-5">Roseville</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">171</td>
+</tr>
+<tr class="row-105 odd">
+	<td class="column-1">Shannon</td><td class="column-2">Farar-Griefer</td><td class="column-3">F</td><td class="column-4">52</td><td class="column-5">Hidden Hills</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">52</td>
+</tr>
+<tr class="row-106 even">
+	<td class="column-1">Galen</td><td class="column-2">Farris</td><td class="column-3">M</td><td class="column-4">31</td><td class="column-5">Sacramento</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">172</td>
+</tr>
+<tr class="row-107 odd">
+	<td class="column-1">Bradley</td><td class="column-2">Fenner</td><td class="column-3">M</td><td class="column-4">48</td><td class="column-5">Tiburon</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">173</td>
+</tr>
+<tr class="row-108 even">
+	<td class="column-1">Joshua</td><td class="column-2">Finger</td><td class="column-3">M</td><td class="column-4">40</td><td class="column-5">Spring City</td><td class="column-6">PA</td><td class="column-7">United States</td><td class="column-8">174</td>
+</tr>
+<tr class="row-109 odd">
+	<td class="column-1">Michael</td><td class="column-2">Fink</td><td class="column-3">M</td><td class="column-4">44</td><td class="column-5">Lincoln</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">175</td>
+</tr>
+<tr class="row-110 even">
+	<td class="column-1">Timothy</td><td class="column-2">Fitzpatrick</td><td class="column-3">M</td><td class="column-4">52</td><td class="column-5">Larkspur</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">176</td>
+</tr>
+<tr class="row-111 odd">
+	<td class="column-1">David</td><td class="column-2">Flowerday</td><td class="column-3">M</td><td class="column-4">58</td><td class="column-5">County Antrim</td><td class="column-6">International</td><td class="column-7">Ireland</td><td class="column-8">200</td>
+</tr>
+<tr class="row-112 even">
+	<td class="column-1">Lance</td><td class="column-2">Fong</td><td class="column-3">M</td><td class="column-4">52</td><td class="column-5">Piedmont</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">177</td>
+</tr>
+<tr class="row-113 odd">
+	<td class="column-1">Colleen</td><td class="column-2">Ford</td><td class="column-3">F</td><td class="column-4">51</td><td class="column-5">Salt Lake City</td><td class="column-6">UT</td><td class="column-7">United States</td><td class="column-8">178</td>
+</tr>
+<tr class="row-114 even">
+	<td class="column-1">Bruce</td><td class="column-2">Fordyce</td><td class="column-3">M</td><td class="column-4">58</td><td class="column-5">Johannesburg</td><td class="column-6">International</td><td class="column-7">South Africa</td><td class="column-8">25</td>
+</tr>
+<tr class="row-115 odd">
+	<td class="column-1">John</td><td class="column-2">Fors</td><td class="column-3">M</td><td class="column-4">46</td><td class="column-5">Menlo Park</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">179</td>
+</tr>
+<tr class="row-116 even">
+	<td class="column-1">Ryan</td><td class="column-2">Foster</td><td class="column-3">M</td><td class="column-4">32</td><td class="column-5">Bowie</td><td class="column-6">MD</td><td class="column-7">United States</td><td class="column-8">181</td>
+</tr>
+<tr class="row-117 odd">
+	<td class="column-1">Terry</td><td class="column-2">Foust</td><td class="column-3">M</td><td class="column-4">50</td><td class="column-5">Kaysville</td><td class="column-6">UT</td><td class="column-7">United States</td><td class="column-8">182</td>
+</tr>
+<tr class="row-118 even">
+	<td class="column-1">Don</td><td class="column-2">Freeman</td><td class="column-3">M</td><td class="column-4">49</td><td class="column-5">Roseville</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">183</td>
+</tr>
+<tr class="row-119 odd">
+	<td class="column-1">Lon</td><td class="column-2">Freeman</td><td class="column-3">M</td><td class="column-4">38</td><td class="column-5">Kensington</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">184</td>
+</tr>
+<tr class="row-120 even">
+	<td class="column-1">Jamie</td><td class="column-2">Frink</td><td class="column-3">F</td><td class="column-4">40</td><td class="column-5">Folsom</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">185</td>
+</tr>
+<tr class="row-121 odd">
+	<td class="column-1">Chihping</td><td class="column-2">Fu</td><td class="column-3">M</td><td class="column-4">47</td><td class="column-5">Fremont</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">186</td>
+</tr>
+<tr class="row-122 even">
+	<td class="column-1">Frank</td><td class="column-2">Fumich</td><td class="column-3">M</td><td class="column-4">45</td><td class="column-5">Arlington</td><td class="column-6">VA</td><td class="column-7">United States</td><td class="column-8">187</td>
+</tr>
+<tr class="row-123 odd">
+	<td class="column-1">Jared</td><td class="column-2">Gagnon</td><td class="column-3">M</td><td class="column-4">38</td><td class="column-5">Folsom</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">300</td>
+</tr>
+<tr class="row-124 even">
+	<td class="column-1">Susan</td><td class="column-2">Gallup</td><td class="column-3">F</td><td class="column-4">49</td><td class="column-5">Calgary</td><td class="column-6">AB</td><td class="column-7">Canada</td><td class="column-8">188</td>
+</tr>
+<tr class="row-125 odd">
+	<td class="column-1">Chris</td><td class="column-2">Garcia</td><td class="column-3">M</td><td class="column-4">50</td><td class="column-5">Menlo Park</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">189</td>
+</tr>
+<tr class="row-126 even">
+	<td class="column-1">Florencia</td><td class="column-2">Gascon-Amyx</td><td class="column-3">F</td><td class="column-4">48</td><td class="column-5">Mill Valley</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">190</td>
+</tr>
+<tr class="row-127 odd">
+	<td class="column-1">Rick</td><td class="column-2">Gates</td><td class="column-3">M</td><td class="column-4">56</td><td class="column-5">Salt Lake City</td><td class="column-6">UT</td><td class="column-7">United States</td><td class="column-8">192</td>
+</tr>
+<tr class="row-128 even">
+	<td class="column-1">Topher</td><td class="column-2">Gaylord</td><td class="column-3">M</td><td class="column-4">43</td><td class="column-5">Kentfield</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">35</td>
+</tr>
+<tr class="row-129 odd">
+	<td class="column-1">Linda</td><td class="column-2">Gaudette</td><td class="column-3">F</td><td class="column-4">49</td><td class="column-5">Falls Church</td><td class="column-6">VA</td><td class="column-7">United States</td><td class="column-8">193</td>
+</tr>
+<tr class="row-130 even">
+	<td class="column-1">Tim</td><td class="column-2">Gavin</td><td class="column-3">M</td><td class="column-4">45</td><td class="column-5">Jarrettsville</td><td class="column-6">MD</td><td class="column-7">United States</td><td class="column-8">194</td>
+</tr>
+<tr class="row-131 odd">
+	<td class="column-1">Vince</td><td class="column-2">Gerber</td><td class="column-3">M</td><td class="column-4">58</td><td class="column-5">Estes Park</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">195</td>
+</tr>
+<tr class="row-132 even">
+	<td class="column-1">John</td><td class="column-2">Gieng</td><td class="column-3">M</td><td class="column-4">34</td><td class="column-5">San Francisco</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">196</td>
+</tr>
+<tr class="row-133 odd">
+	<td class="column-1">Nicola</td><td class="column-2">Gildersleeve</td><td class="column-3">F</td><td class="column-4">29</td><td class="column-5">North Vancouver</td><td class="column-6">BC</td><td class="column-7">Canada</td><td class="column-8">197</td>
+</tr>
+<tr class="row-134 even">
+	<td class="column-1">Shawn</td><td class="column-2">Goertz</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Columbia</td><td class="column-6">MO</td><td class="column-7">United States</td><td class="column-8">198</td>
+</tr>
+<tr class="row-135 odd">
+	<td class="column-1">Ken</td><td class="column-2">Gordon</td><td class="column-3">M</td><td class="column-4">48</td><td class="column-5">Albuquerque</td><td class="column-6">NM</td><td class="column-7">United States</td><td class="column-8">118</td>
+</tr>
+<tr class="row-136 even">
+	<td class="column-1">Adam</td><td class="column-2">Gothelf</td><td class="column-3">M</td><td class="column-4">33</td><td class="column-5">San Francisco</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">201</td>
+</tr>
+<tr class="row-137 odd">
+	<td class="column-1">Gilbert</td><td class="column-2">Gray</td><td class="column-3">M</td><td class="column-4">51</td><td class="column-5">Greenbelt</td><td class="column-6">MD</td><td class="column-7">United States</td><td class="column-8">202</td>
+</tr>
+<tr class="row-138 even">
+	<td class="column-1">Thomas</td><td class="column-2">Green</td><td class="column-3">M</td><td class="column-4">62</td><td class="column-5">Columbia</td><td class="column-6">MD</td><td class="column-7">United States</td><td class="column-8">203</td>
+</tr>
+<tr class="row-139 odd">
+	<td class="column-1">Ellie</td><td class="column-2">Greenwood</td><td class="column-3">F</td><td class="column-4">34</td><td class="column-5">North Vancouver</td><td class="column-6">BC</td><td class="column-7">Canada</td><td class="column-8">F1</td>
+</tr>
+<tr class="row-140 even">
+	<td class="column-1">Steven</td><td class="column-2">Greuel</td><td class="column-3">M</td><td class="column-4">56</td><td class="column-5">Etna</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">204</td>
+</tr>
+<tr class="row-141 odd">
+	<td class="column-1">Jon</td><td class="column-2">Grindy</td><td class="column-3">M</td><td class="column-4">30</td><td class="column-5">Roseville</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">205</td>
+</tr>
+<tr class="row-142 even">
+	<td class="column-1">Felipe</td><td class="column-2">Guardia</td><td class="column-3">M</td><td class="column-4">37</td><td class="column-5">Medley</td><td class="column-6">International</td><td class="column-7">Costa Rica</td><td class="column-8">207</td>
+</tr>
+<tr class="row-143 odd">
+	<td class="column-1">Michael</td><td class="column-2">Guilford</td><td class="column-3">M</td><td class="column-4">37</td><td class="column-5">Meriden</td><td class="column-6">CT</td><td class="column-7">United States</td><td class="column-8">208</td>
+</tr>
+<tr class="row-144 even">
+	<td class="column-1">Nathan</td><td class="column-2">Hahn</td><td class="column-3">M</td><td class="column-4">42</td><td class="column-5">Portland</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">209</td>
+</tr>
+<tr class="row-145 odd">
+	<td class="column-1">Megan</td><td class="column-2">Hall</td><td class="column-3">F</td><td class="column-4">24</td><td class="column-5">Oak Harbor</td><td class="column-6">WA</td><td class="column-7">United States</td><td class="column-8">19</td>
+</tr>
+<tr class="row-146 even">
+	<td class="column-1">Wouter</td><td class="column-2">Hamelinck</td><td class="column-3">M</td><td class="column-4">31</td><td class="column-5">Merelbeke</td><td class="column-6">International</td><td class="column-7">Belgium</td><td class="column-8">210</td>
+</tr>
+<tr class="row-147 odd">
+	<td class="column-1">Leon Skriver</td><td class="column-2">Hansen</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5"></td><td class="column-6">International</td><td class="column-7">Denmark</td><td class="column-8">212</td>
+</tr>
+<tr class="row-148 even">
+	<td class="column-1">Greg</td><td class="column-2">Harfst</td><td class="column-3">M</td><td class="column-4">35</td><td class="column-5">New York</td><td class="column-6">NY</td><td class="column-7">United States</td><td class="column-8">256</td>
+</tr>
+<tr class="row-149 odd">
+	<td class="column-1">Tim</td><td class="column-2">Harrington</td><td class="column-3">M</td><td class="column-4">43</td><td class="column-5">Conway</td><td class="column-6">AR</td><td class="column-7">United States</td><td class="column-8">213</td>
+</tr>
+<tr class="row-150 even">
+	<td class="column-1">Emily</td><td class="column-2">Harrison</td><td class="column-3">F</td><td class="column-4">27</td><td class="column-5">Front Royal</td><td class="column-6">VA</td><td class="column-7">United States</td><td class="column-8">113</td>
+</tr>
+<tr class="row-151 odd">
+	<td class="column-1">Jeffery</td><td class="column-2">Hart</td><td class="column-3">M</td><td class="column-4">44</td><td class="column-5">State College</td><td class="column-6">PA</td><td class="column-7">United States</td><td class="column-8">214</td>
+</tr>
+<tr class="row-152 even">
+	<td class="column-1">John</td><td class="column-2">Hart</td><td class="column-3">M</td><td class="column-4">46</td><td class="column-5">Missoula</td><td class="column-6">MT</td><td class="column-7">United States</td><td class="column-8">216</td>
+</tr>
+<tr class="row-153 odd">
+	<td class="column-1">G Geraline</td><td class="column-2">Harvey</td><td class="column-3">F</td><td class="column-4">47</td><td class="column-5">Pickering</td><td class="column-6">ON</td><td class="column-7">Canada</td><td class="column-8">217</td>
+</tr>
+<tr class="row-154 even">
+	<td class="column-1">Tony</td><td class="column-2">Hawkes</td><td class="column-3">M</td><td class="column-4">47</td><td class="column-5">Olympia</td><td class="column-6">WA</td><td class="column-7">United States</td><td class="column-8">220</td>
+</tr>
+<tr class="row-155 odd">
+	<td class="column-1">Matt</td><td class="column-2">Hawkins</td><td class="column-3">M</td><td class="column-4">40</td><td class="column-5">Franklin</td><td class="column-6">TN</td><td class="column-7">United States</td><td class="column-8">221</td>
+</tr>
+<tr class="row-156 even">
+	<td class="column-1">Jesse</td><td class="column-2">Haynes</td><td class="column-3">M</td><td class="column-4">40</td><td class="column-5">Capistrano Beach</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">69</td>
+</tr>
+<tr class="row-157 odd">
+	<td class="column-1">Chris</td><td class="column-2">Hays</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Los Angeles</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">224</td>
+</tr>
+<tr class="row-158 even">
+	<td class="column-1">Will</td><td class="column-2">Hayward</td><td class="column-3">M</td><td class="column-4">45</td><td class="column-5">Hong Kong</td><td class="column-6">International</td><td class="column-7">Hong Kong</td><td class="column-8">180</td>
+</tr>
+<tr class="row-159 odd">
+	<td class="column-1">Jonathan</td><td class="column-2">Heinz</td><td class="column-3">M</td><td class="column-4">24</td><td class="column-5">Calgary</td><td class="column-6">AB</td><td class="column-7">Canada</td><td class="column-8">225</td>
+</tr>
+<tr class="row-160 even">
+	<td class="column-1">Jennifer</td><td class="column-2">Henderson</td><td class="column-3">F</td><td class="column-4">54</td><td class="column-5">Barstow</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">226</td>
+</tr>
+<tr class="row-161 odd">
+	<td class="column-1">Rich</td><td class="column-2">Henderson</td><td class="column-3">M</td><td class="column-4">57</td><td class="column-5">Solon</td><td class="column-6">OH</td><td class="column-7">United States</td><td class="column-8">227</td>
+</tr>
+<tr class="row-162 even">
+	<td class="column-1">Stephany</td><td class="column-2">Hiller</td><td class="column-3">F</td><td class="column-4">49</td><td class="column-5">Palo Alto</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">228</td>
+</tr>
+<tr class="row-163 odd">
+	<td class="column-1">Anthony</td><td class="column-2">Holly</td><td class="column-3">M</td><td class="column-4">29</td><td class="column-5">Fair Oaks</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">229</td>
+</tr>
+<tr class="row-164 even">
+	<td class="column-1">Steve</td><td class="column-2">Holman</td><td class="column-3">M</td><td class="column-4">56</td><td class="column-5">Oakland</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">230</td>
+</tr>
+<tr class="row-165 odd">
+	<td class="column-1">Gregory</td><td class="column-2">Holmes</td><td class="column-3">M</td><td class="column-4">50</td><td class="column-5">Antelope</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">74</td>
+</tr>
+<tr class="row-166 even">
+	<td class="column-1">Gregg</td><td class="column-2">Holst</td><td class="column-3">M</td><td class="column-4">54</td><td class="column-5">Newtown</td><td class="column-6">PA</td><td class="column-7">United States</td><td class="column-8">231</td>
+</tr>
+<tr class="row-167 odd">
+	<td class="column-1">Rob</td><td class="column-2">Houghton</td><td class="column-3">M</td><td class="column-4">56</td><td class="column-5">Murphys</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">232</td>
+</tr>
+<tr class="row-168 even">
+	<td class="column-1">Thomas</td><td class="column-2">Huber</td><td class="column-3">M</td><td class="column-4">27</td><td class="column-5">Arllington</td><td class="column-6">VA</td><td class="column-7">United States</td><td class="column-8">315</td>
+</tr>
+<tr class="row-169 odd">
+	<td class="column-1">Jeremy</td><td class="column-2">Humphrey</td><td class="column-3">M</td><td class="column-4">34</td><td class="column-5">McCall</td><td class="column-6">ID</td><td class="column-7">United States</td><td class="column-8">21</td>
+</tr>
+<tr class="row-170 even">
+	<td class="column-1">David</td><td class="column-2">Huss</td><td class="column-3">M</td><td class="column-4">29</td><td class="column-5">Winchester</td><td class="column-6">MA</td><td class="column-7">United States</td><td class="column-8">233</td>
+</tr>
+<tr class="row-171 odd">
+	<td class="column-1">William</td><td class="column-2">Ieuter</td><td class="column-3">M</td><td class="column-4">50</td><td class="column-5">Wilmette</td><td class="column-6">IL</td><td class="column-7">United States</td><td class="column-8">218</td>
+</tr>
+<tr class="row-172 even">
+	<td class="column-1">Koichi</td><td class="column-2">Iwasa</td><td class="column-3">M</td><td class="column-4">42</td><td class="column-5">Kamakura</td><td class="column-6">International</td><td class="column-7">Japan</td><td class="column-8">234</td>
+</tr>
+<tr class="row-173 odd">
+	<td class="column-1">Brian</td><td class="column-2">Janecek</td><td class="column-3">M</td><td class="column-4">36</td><td class="column-5">Hillsboro</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">235</td>
+</tr>
+<tr class="row-174 even">
+	<td class="column-1">Mark</td><td class="column-2">Jaxion</td><td class="column-3">M</td><td class="column-4">33</td><td class="column-5">Bristol</td><td class="column-6">International</td><td class="column-7">Great Britain</td><td class="column-8">424</td>
+</tr>
+<tr class="row-175 odd">
+	<td class="column-1">Donovan</td><td class="column-2">Jenkins</td><td class="column-3">M</td><td class="column-4">31</td><td class="column-5">Los Angeles</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">236</td>
+</tr>
+<tr class="row-176 even">
+	<td class="column-1">Anthony</td><td class="column-2">Johnson</td><td class="column-3">M</td><td class="column-4">47</td><td class="column-5">Citrus Heights</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">237</td>
+</tr>
+<tr class="row-177 odd">
+	<td class="column-1">Jeffery</td><td class="column-2">Johnston</td><td class="column-3">M</td><td class="column-4">48</td><td class="column-5">Lincoln</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">239</td>
+</tr>
+<tr class="row-178 even">
+	<td class="column-1">Charley</td><td class="column-2">Jones</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Folsom</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">260</td>
+</tr>
+<tr class="row-179 odd">
+	<td class="column-1">Jeffrey</td><td class="column-2">Jones</td><td class="column-3">M</td><td class="column-4">39</td><td class="column-5">Birmingham</td><td class="column-6">AL</td><td class="column-7">United States</td><td class="column-8">240</td>
+</tr>
+<tr class="row-180 even">
+	<td class="column-1">Ryan</td><td class="column-2">Jones</td><td class="column-3">M</td><td class="column-4">33</td><td class="column-5">Morrisville</td><td class="column-6">PA</td><td class="column-7">United States</td><td class="column-8">241</td>
+</tr>
+<tr class="row-181 odd">
+	<td class="column-1">Andy</td><td class="column-2">Jones-Wilkins</td><td class="column-3">M</td><td class="column-4">45</td><td class="column-5">Charlottesville</td><td class="column-6">VA</td><td class="column-7">United States</td><td class="column-8">45</td>
+</tr>
+<tr class="row-182 even">
+	<td class="column-1">Will</td><td class="column-2">Jorgensen</td><td class="column-3">M</td><td class="column-4">54</td><td class="column-5">Maryville</td><td class="column-6">TN</td><td class="column-7">United States</td><td class="column-8">242</td>
+</tr>
+<tr class="row-183 odd">
+	<td class="column-1">Boris</td><td class="column-2">Juarez</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Guatemala</td><td class="column-6">International</td><td class="column-7">Guatemala</td><td class="column-8">243</td>
+</tr>
+<tr class="row-184 even">
+	<td class="column-1">Nicholas</td><td class="column-2">Kaiser</td><td class="column-3">M</td><td class="column-4">58</td><td class="column-5">Honolulu</td><td class="column-6">HI</td><td class="column-7">United States</td><td class="column-8">244</td>
+</tr>
+<tr class="row-185 odd">
+	<td class="column-1">Behnam</td><td class="column-2">Kamrani</td><td class="column-3">M</td><td class="column-4">38</td><td class="column-5">Ann Arbor</td><td class="column-6">MI</td><td class="column-7">United States</td><td class="column-8">246</td>
+</tr>
+<tr class="row-186 even">
+	<td class="column-1">Mark</td><td class="column-2">Kauffman</td><td class="column-3">M</td><td class="column-4">42</td><td class="column-5">Roseville</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">248</td>
+</tr>
+<tr class="row-187 odd">
+	<td class="column-1">Mick</td><td class="column-2">Keane</td><td class="column-3">M</td><td class="column-4">46</td><td class="column-5">Reno</td><td class="column-6">NV</td><td class="column-7">United States</td><td class="column-8">89</td>
+</tr>
+<tr class="row-188 even">
+	<td class="column-1">Zachary</td><td class="column-2">Keefer</td><td class="column-3">M</td><td class="column-4">31</td><td class="column-5">Enterprise</td><td class="column-6">AL</td><td class="column-7">United States</td><td class="column-8">249</td>
+</tr>
+<tr class="row-189 odd">
+	<td class="column-1">Kai</td><td class="column-2">Keliikuli</td><td class="column-3">M</td><td class="column-4">44</td><td class="column-5">Waterford</td><td class="column-6">MI</td><td class="column-7">United States</td><td class="column-8">250</td>
+</tr>
+<tr class="row-190 even">
+	<td class="column-1">Matt</td><td class="column-2">Keyes</td><td class="column-3">M</td><td class="column-4">39</td><td class="column-5">Auburn</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">39</td>
+</tr>
+<tr class="row-191 odd">
+	<td class="column-1">Sigurdur</td><td class="column-2">Kiernan</td><td class="column-3">M</td><td class="column-4">43</td><td class="column-5">Reykjavik</td><td class="column-6">International</td><td class="column-7">Iceland</td><td class="column-8">251</td>
+</tr>
+<tr class="row-192 even">
+	<td class="column-1">Nikki</td><td class="column-2">Kimball</td><td class="column-3">F</td><td class="column-4">42</td><td class="column-5">Bozeman</td><td class="column-6">MT</td><td class="column-7">United States</td><td class="column-8">F5</td>
+</tr>
+<tr class="row-193 odd">
+	<td class="column-1">Justin</td><td class="column-2">Klebe</td><td class="column-3">M</td><td class="column-4">40</td><td class="column-5">Laurel</td><td class="column-6">MT</td><td class="column-7">United States</td><td class="column-8">252</td>
+</tr>
+<tr class="row-194 even">
+	<td class="column-1">Hal</td><td class="column-2">Koerner</td><td class="column-3">M</td><td class="column-4">37</td><td class="column-5">Ashland</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">13</td>
+</tr>
+<tr class="row-195 odd">
+	<td class="column-1">Susan</td><td class="column-2">Kokesh</td><td class="column-3">F</td><td class="column-4">46</td><td class="column-5">Lake Oswego</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">253</td>
+</tr>
+<tr class="row-196 even">
+	<td class="column-1">Pete</td><td class="column-2">Korn</td><td class="column-3">M</td><td class="column-4">48</td><td class="column-5">Auburn</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">48</td>
+</tr>
+<tr class="row-197 odd">
+	<td class="column-1">Rob</td><td class="column-2">Krar</td><td class="column-3">M</td><td class="column-4">36</td><td class="column-5">Flagstaff</td><td class="column-6">AZ</td><td class="column-7">United States</td><td class="column-8">33</td>
+</tr>
+<tr class="row-198 even">
+	<td class="column-1">Patrick</td><td class="column-2">Krott</td><td class="column-3">M</td><td class="column-4">29</td><td class="column-5">Fairview</td><td class="column-6">PA</td><td class="column-7">United States</td><td class="column-8">254</td>
+</tr>
+<tr class="row-199 odd">
+	<td class="column-1">Dougie</td><td class="column-2">Kyle</td><td class="column-3">M</td><td class="column-4">28</td><td class="column-5">Napier</td><td class="column-6">International</td><td class="column-7">New Zealand</td><td class="column-8">301</td>
+</tr>
+<tr class="row-200 even">
+	<td class="column-1">Bruce</td><td class="column-2">Labelle</td><td class="column-3">M</td><td class="column-4">57</td><td class="column-5">Davis</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">57</td>
+</tr>
+<tr class="row-201 odd">
+	<td class="column-1">Scott</td><td class="column-2">Laberge</td><td class="column-3">M</td><td class="column-4">56</td><td class="column-5">San Mateo</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">255</td>
+</tr>
+<tr class="row-202 even">
+	<td class="column-1">Daniel</td><td class="column-2">Labrecque</td><td class="column-3">M</td><td class="column-4">57</td><td class="column-5">Chapel Hill</td><td class="column-6">NC</td><td class="column-7">United States</td><td class="column-8">162</td>
+</tr>
+<tr class="row-203 odd">
+	<td class="column-1">Bree</td><td class="column-2">Lambert</td><td class="column-3">F</td><td class="column-4">44</td><td class="column-5">San Jose</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">245</td>
+</tr>
+<tr class="row-204 even">
+	<td class="column-1">Greg</td><td class="column-2">Lanctot</td><td class="column-3">M</td><td class="column-4">44</td><td class="column-5">Los Gatos</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">191</td>
+</tr>
+<tr class="row-205 odd">
+	<td class="column-1">Kathie</td><td class="column-2">Lang</td><td class="column-3">F</td><td class="column-4">63</td><td class="column-5">Klamath Falls</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">257</td>
+</tr>
+<tr class="row-206 even">
+	<td class="column-1">Mark</td><td class="column-2">Lantz</td><td class="column-3">M</td><td class="column-4">47</td><td class="column-5">Gold River</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">20</td>
+</tr>
+<tr class="row-207 odd">
+	<td class="column-1">Aliza</td><td class="column-2">Lapierre</td><td class="column-3">F</td><td class="column-4">33</td><td class="column-5">Williston</td><td class="column-6">VT</td><td class="column-7">United States</td><td class="column-8">F3</td>
+</tr>
+<tr class="row-208 even">
+	<td class="column-1">Jason</td><td class="column-2">Laplant</td><td class="column-3">M</td><td class="column-4">34</td><td class="column-5">Minneapolis</td><td class="column-6">MN</td><td class="column-7">United States</td><td class="column-8">73</td>
+</tr>
+<tr class="row-209 odd">
+	<td class="column-1">Nicholas</td><td class="column-2">Laughton</td><td class="column-3">M</td><td class="column-4">35</td><td class="column-5">Fernley</td><td class="column-6">NV</td><td class="column-7">United States</td><td class="column-8">258</td>
+</tr>
+<tr class="row-210 even">
+	<td class="column-1">Todd</td><td class="column-2">Law</td><td class="column-3">M</td><td class="column-4">45</td><td class="column-5">San Rafael</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">67</td>
+</tr>
+<tr class="row-211 odd">
+	<td class="column-1">Jon</td><td class="column-2">Lawler</td><td class="column-3">M</td><td class="column-4">49</td><td class="column-5">Knoxville</td><td class="column-6">TN</td><td class="column-7">United States</td><td class="column-8">259</td>
+</tr>
+<tr class="row-212 even">
+	<td class="column-1">Adrian</td><td class="column-2">Lazar Adler</td><td class="column-3">M</td><td class="column-4">33</td><td class="column-5">Fourways</td><td class="column-6">International</td><td class="column-7">South Africa</td><td class="column-8">261</td>
+</tr>
+<tr class="row-213 odd">
+	<td class="column-1">Alberto</td><td class="column-2">Lazzerini</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Sesto Fiorentino</td><td class="column-6">International</td><td class="column-7">Italy</td><td class="column-8">262</td>
+</tr>
+<tr class="row-214 even">
+	<td class="column-1">Kenneth</td><td class="column-2">Letterle</td><td class="column-3">M</td><td class="column-4">30</td><td class="column-5">Yanbu</td><td class="column-6">International</td><td class="column-7">Saudi Arabia</td><td class="column-8">263</td>
+</tr>
+<tr class="row-215 odd">
+	<td class="column-1">Tina</td><td class="column-2">Lewis</td><td class="column-3">F</td><td class="column-4">40</td><td class="column-5">Boulder</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">F7</td>
+</tr>
+<tr class="row-216 even">
+	<td class="column-1">Miles</td><td class="column-2">Lilly</td><td class="column-3">M</td><td class="column-4">46</td><td class="column-5">Bend</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">264</td>
+</tr>
+<tr class="row-217 odd">
+	<td class="column-1">Erika</td><td class="column-2">Lindland</td><td class="column-3">F</td><td class="column-4">31</td><td class="column-5">Fairfax</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">131</td>
+</tr>
+<tr class="row-218 even">
+	<td class="column-1">Ron</td><td class="column-2">Little</td><td class="column-3">M</td><td class="column-4">42</td><td class="column-5">Montara</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">265</td>
+</tr>
+<tr class="row-219 odd">
+	<td class="column-1">Henry</td><td class="column-2">Liu</td><td class="column-3">M</td><td class="column-4">37</td><td class="column-5">Fremont</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">266</td>
+</tr>
+<tr class="row-220 even">
+	<td class="column-1">Karen</td><td class="column-2">Lozano</td><td class="column-3">F</td><td class="column-4">54</td><td class="column-5">Modesto</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">267</td>
+</tr>
+<tr class="row-221 odd">
+	<td class="column-1">Andre</td><td class="column-2">Lubeseder</td><td class="column-3">M</td><td class="column-4">44</td><td class="column-5">Hamburg</td><td class="column-6">International</td><td class="column-7">Germany</td><td class="column-8">268</td>
+</tr>
+<tr class="row-222 even">
+	<td class="column-1">Ryan</td><td class="column-2">Lund</td><td class="column-3">M</td><td class="column-4">38</td><td class="column-5">Meridian</td><td class="column-6">ID</td><td class="column-7">United States</td><td class="column-8">269</td>
+</tr>
+<tr class="row-223 odd">
+	<td class="column-1">Dave</td><td class="column-2">Mackey</td><td class="column-3">M</td><td class="column-4">43</td><td class="column-5">Boulder</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">M4</td>
+</tr>
+<tr class="row-224 even">
+	<td class="column-1">Ian</td><td class="column-2">Maddieson</td><td class="column-3">M</td><td class="column-4">70</td><td class="column-5">Albuquerque</td><td class="column-6">NM</td><td class="column-7">United States</td><td class="column-8">70</td>
+</tr>
+<tr class="row-225 odd">
+	<td class="column-1">Glen</td><td class="column-2">Mangiantini</td><td class="column-3">M</td><td class="column-4">55</td><td class="column-5">Bellevue</td><td class="column-6">WA</td><td class="column-7">United States</td><td class="column-8">307</td>
+</tr>
+<tr class="row-226 even">
+	<td class="column-1">Jorge</td><td class="column-2">Maravilla</td><td class="column-3">M</td><td class="column-4">35</td><td class="column-5">Vallejo</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">M8</td>
+</tr>
+<tr class="row-227 odd">
+	<td class="column-1">Dominik</td><td class="column-2">Marfurt</td><td class="column-3">M</td><td class="column-4">29</td><td class="column-5">Reinach</td><td class="column-6">International</td><td class="column-7">Switzerland</td><td class="column-8">270</td>
+</tr>
+<tr class="row-228 even">
+	<td class="column-1">Kelvin</td><td class="column-2">Marshall</td><td class="column-3">M</td><td class="column-4">49</td><td class="column-5">Palm Beach</td><td class="column-6">International</td><td class="column-7">Australia</td><td class="column-8">65</td>
+</tr>
+<tr class="row-229 odd">
+	<td class="column-1">Roger</td><td class="column-2">Martell Jr.</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Beverly</td><td class="column-6">MA</td><td class="column-7">United States</td><td class="column-8">271</td>
+</tr>
+<tr class="row-230 even">
+	<td class="column-1">John</td><td class="column-2">Martinek</td><td class="column-3">M</td><td class="column-4">26</td><td class="column-5">North Richland Hills</td><td class="column-6">TX</td><td class="column-7">United States</td><td class="column-8">272</td>
+</tr>
+<tr class="row-231 odd">
+	<td class="column-1">Pedro</td><td class="column-2">Martinez</td><td class="column-3">M</td><td class="column-4">27</td><td class="column-5">Van Nuys</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">273</td>
+</tr>
+<tr class="row-232 even">
+	<td class="column-1">Alex</td><td class="column-2">May</td><td class="column-3">M</td><td class="column-4">39</td><td class="column-5">Fort Collins</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">274</td>
+</tr>
+<tr class="row-233 odd">
+	<td class="column-1">Steve</td><td class="column-2">McCluhan</td><td class="column-3">M</td><td class="column-4">52</td><td class="column-5">Clayton</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">275</td>
+</tr>
+<tr class="row-234 even">
+	<td class="column-1">Alex</td><td class="column-2">McDaniel</td><td class="column-3">M</td><td class="column-4">35</td><td class="column-5">New Haven</td><td class="column-6">CT</td><td class="column-7">United States</td><td class="column-8">276</td>
+</tr>
+<tr class="row-235 odd">
+	<td class="column-1">Grant</td><td class="column-2">McFadden</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Penrith</td><td class="column-6">International</td><td class="column-7">Australia</td><td class="column-8">277</td>
+</tr>
+<tr class="row-236 even">
+	<td class="column-1">Linda</td><td class="column-2">McFadden</td><td class="column-3">F</td><td class="column-4">50</td><td class="column-5">Modesto</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">278</td>
+</tr>
+<tr class="row-237 odd">
+	<td class="column-1">Tim</td><td class="column-2">McGargill</td><td class="column-3">M</td><td class="column-4">31</td><td class="column-5">Omaha</td><td class="column-6">NE</td><td class="column-7">United States</td><td class="column-8">402</td>
+</tr>
+<tr class="row-238 even">
+	<td class="column-1">Caroline</td><td class="column-2">McKay</td><td class="column-3">F</td><td class="column-4">30</td><td class="column-5">Edinburgh</td><td class="column-6">International</td><td class="column-7">Great Britain</td><td class="column-8">83</td>
+</tr>
+<tr class="row-239 odd">
+	<td class="column-1">Ken</td><td class="column-2">McKee</td><td class="column-3">M</td><td class="column-4">42</td><td class="column-5">Folsom</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">279</td>
+</tr>
+<tr class="row-240 even">
+	<td class="column-1">Mike</td><td class="column-2">McMonagle</td><td class="column-3">M</td><td class="column-4">22</td><td class="column-5">Bel Air</td><td class="column-6">MD</td><td class="column-7">United States</td><td class="column-8">280</td>
+</tr>
+<tr class="row-241 odd">
+	<td class="column-1">Abby</td><td class="column-2">McQueeney penamonte</td><td class="column-3">F</td><td class="column-4">30</td><td class="column-5">Denver</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">281</td>
+</tr>
+<tr class="row-242 even">
+	<td class="column-1">Adam</td><td class="column-2">McRoberts</td><td class="column-3">M</td><td class="column-4">38</td><td class="column-5">Boulder</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">282</td>
+</tr>
+<tr class="row-243 odd">
+	<td class="column-1">Paulo</td><td class="column-2">Medina</td><td class="column-3">M</td><td class="column-4">29</td><td class="column-5">Lima-Brena</td><td class="column-6">International</td><td class="column-7">Peru</td><td class="column-8">100</td>
+</tr>
+<tr class="row-244 even">
+	<td class="column-1">Karl</td><td class="column-2">Meltzer</td><td class="column-3">M</td><td class="column-4">45</td><td class="column-5">Sandy</td><td class="column-6">UT</td><td class="column-7">United States</td><td class="column-8">420</td>
+</tr>
+<tr class="row-245 odd">
+	<td class="column-1">Annette</td><td class="column-2">Mensonides</td><td class="column-3">F</td><td class="column-4">42</td><td class="column-5">Roseville</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">142</td>
+</tr>
+<tr class="row-246 even">
+	<td class="column-1">Kate</td><td class="column-2">Merrill</td><td class="column-3">F</td><td class="column-4">50</td><td class="column-5">Astoria</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">283</td>
+</tr>
+<tr class="row-247 odd">
+	<td class="column-1">Jeremy</td><td class="column-2">Meyers</td><td class="column-3">M</td><td class="column-4">42</td><td class="column-5">Cool</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">284</td>
+</tr>
+<tr class="row-248 even">
+	<td class="column-1">Melanie</td><td class="column-2">Michalak</td><td class="column-3">F</td><td class="column-4">29</td><td class="column-5">Santa Cruz</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">285</td>
+</tr>
+<tr class="row-249 odd">
+	<td class="column-1">Aaron</td><td class="column-2">Miller</td><td class="column-3">M</td><td class="column-4">39</td><td class="column-5">Fair Oaks</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">286</td>
+</tr>
+<tr class="row-250 even">
+	<td class="column-1">Brian</td><td class="column-2">Miller</td><td class="column-3">M</td><td class="column-4">37</td><td class="column-5">El Dorado Hills</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">287</td>
+</tr>
+<tr class="row-251 odd">
+	<td class="column-1">Michael</td><td class="column-2">Miller</td><td class="column-3">M</td><td class="column-4">51</td><td class="column-5">Scottsdale</td><td class="column-6">AZ</td><td class="column-7">United States</td><td class="column-8">288</td>
+</tr>
+<tr class="row-252 even">
+	<td class="column-1">Scott</td><td class="column-2">Mills</td><td class="column-3">M</td><td class="column-4">62</td><td class="column-5">Oceanside</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">62</td>
+</tr>
+<tr class="row-253 odd">
+	<td class="column-1">Mike</td><td class="column-2">Molakides</td><td class="column-3">M</td><td class="column-4">44</td><td class="column-5">San Rafael</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">95</td>
+</tr>
+<tr class="row-254 even">
+	<td class="column-1">Amber</td><td class="column-2">Monforte</td><td class="column-3">F</td><td class="column-4">35</td><td class="column-5">South Lake Tahoe</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">111</td>
+</tr>
+<tr class="row-255 odd">
+	<td class="column-1">Miguel</td><td class="column-2">Montealvo</td><td class="column-3">M</td><td class="column-4">22</td><td class="column-5">Austin</td><td class="column-6">TX</td><td class="column-7">United States</td><td class="column-8">289</td>
+</tr>
+<tr class="row-256 even">
+	<td class="column-1">Deano</td><td class="column-2">Montreuil</td><td class="column-3">M</td><td class="column-4">45</td><td class="column-5">Suwanee</td><td class="column-6">GA</td><td class="column-7">United States</td><td class="column-8">290</td>
+</tr>
+<tr class="row-257 odd">
+	<td class="column-1">Gerardo</td><td class="column-2">Moreno</td><td class="column-3">M</td><td class="column-4">28</td><td class="column-5">Nacogdoches</td><td class="column-6">TX</td><td class="column-7">United States</td><td class="column-8">291</td>
+</tr>
+<tr class="row-258 even">
+	<td class="column-1">Mike</td><td class="column-2">Morton</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Lithia</td><td class="column-6">FL</td><td class="column-7">United States</td><td class="column-8">27</td>
+</tr>
+<tr class="row-259 odd">
+	<td class="column-1">Siamak</td><td class="column-2">Mostoufi</td><td class="column-3">M</td><td class="column-4">39</td><td class="column-5">Chicago</td><td class="column-6">IL</td><td class="column-7">United States</td><td class="column-8">293</td>
+</tr>
+<tr class="row-260 even">
+	<td class="column-1">Chris</td><td class="column-2">Mottola</td><td class="column-3">M</td><td class="column-4">24</td><td class="column-5">Bozeman</td><td class="column-6">MT</td><td class="column-7">United States</td><td class="column-8">406</td>
+</tr>
+<tr class="row-261 odd">
+	<td class="column-1">Simon</td><td class="column-2">Mtuy</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Moshi</td><td class="column-6">International</td><td class="column-7">Tanzania</td><td class="column-8">247</td>
+</tr>
+<tr class="row-262 even">
+	<td class="column-1">Robert</td><td class="column-2">Mueller</td><td class="column-3">M</td><td class="column-4">26</td><td class="column-5">Salt Lake City</td><td class="column-6">UT</td><td class="column-7">United States</td><td class="column-8">294</td>
+</tr>
+<tr class="row-263 odd">
+	<td class="column-1">Sean</td><td class="column-2">Mullett</td><td class="column-3">M</td><td class="column-4">45</td><td class="column-5">Jasper</td><td class="column-6">GA</td><td class="column-7">United States</td><td class="column-8">412</td>
+</tr>
+<tr class="row-264 even">
+	<td class="column-1">Mark</td><td class="column-2">Nassi</td><td class="column-3">M</td><td class="column-4">46</td><td class="column-5">San Francisco</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">296</td>
+</tr>
+<tr class="row-265 odd">
+	<td class="column-1">Nattu</td><td class="column-2">Natraj</td><td class="column-3">M</td><td class="column-4">50</td><td class="column-5">West Sacramento</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">297</td>
+</tr>
+<tr class="row-266 even">
+	<td class="column-1">Olga</td><td class="column-2">Nevtrinos</td><td class="column-3">F</td><td class="column-4">31</td><td class="column-5">Newcastle</td><td class="column-6">WA</td><td class="column-7">United States</td><td class="column-8">298</td>
+</tr>
+<tr class="row-267 odd">
+	<td class="column-1">Jill</td><td class="column-2">Newton</td><td class="column-3">F</td><td class="column-4">41</td><td class="column-5">Kingsburg</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">299</td>
+</tr>
+<tr class="row-268 even">
+	<td class="column-1">John</td><td class="column-2">Nichols</td><td class="column-3">M</td><td class="column-4">48</td><td class="column-5">El Dorado Hills</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">292</td>
+</tr>
+<tr class="row-269 odd">
+	<td class="column-1">Jose</td><td class="column-2">Nicolas</td><td class="column-3">M</td><td class="column-4">45</td><td class="column-5">Singapore</td><td class="column-6">International</td><td class="column-7">Singapore</td><td class="column-8">302</td>
+</tr>
+<tr class="row-270 even">
+	<td class="column-1">Ashley</td><td class="column-2">Nordell</td><td class="column-3">F</td><td class="column-4">33</td><td class="column-5">Sisters</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">F9</td>
+</tr>
+<tr class="row-271 odd">
+	<td class="column-1">Eric</td><td class="column-2">Nordgren</td><td class="column-3">M</td><td class="column-4">28</td><td class="column-5">Duluth</td><td class="column-6">MN</td><td class="column-7">United States</td><td class="column-8">125</td>
+</tr>
+<tr class="row-272 even">
+	<td class="column-1">Chris</td><td class="column-2">O'brien</td><td class="column-3">M</td><td class="column-4">56</td><td class="column-5">Lincoln</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">222</td>
+</tr>
+<tr class="row-273 odd">
+	<td class="column-1">Charles</td><td class="column-2">Oatman</td><td class="column-3">M</td><td class="column-4">61</td><td class="column-5">Etobicoke</td><td class="column-6">ON</td><td class="column-7">Canada</td><td class="column-8">303</td>
+</tr>
+<tr class="row-274 even">
+	<td class="column-1">Octavio</td><td class="column-2">Ocampo</td><td class="column-3">M</td><td class="column-4">36</td><td class="column-5">Guadalajara</td><td class="column-6">International</td><td class="column-7">Mexico</td><td class="column-8">304</td>
+</tr>
+<tr class="row-275 odd">
+	<td class="column-1">Mark</td><td class="column-2">Olson</td><td class="column-3">M</td><td class="column-4">66</td><td class="column-5">Covina</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">305</td>
+</tr>
+<tr class="row-276 even">
+	<td class="column-1">Timothy</td><td class="column-2">Olson</td><td class="column-3">M</td><td class="column-4">29</td><td class="column-5">Ashland</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">M1</td>
+</tr>
+<tr class="row-277 odd">
+	<td class="column-1">James</td><td class="column-2">Opperman</td><td class="column-3">M</td><td class="column-4">46</td><td class="column-5">Sydney</td><td class="column-6">International</td><td class="column-7">Australia</td><td class="column-8">138</td>
+</tr>
+<tr class="row-278 even">
+	<td class="column-1">Joseph</td><td class="column-2">Ortega</td><td class="column-3">M</td><td class="column-4">34</td><td class="column-5">Citrus Heights</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">306</td>
+</tr>
+<tr class="row-279 odd">
+	<td class="column-1">Tony</td><td class="column-2">Overbay</td><td class="column-3">M</td><td class="column-4">43</td><td class="column-5">Lincoln</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">313</td>
+</tr>
+<tr class="row-280 even">
+	<td class="column-1">Josh</td><td class="column-2">Owen</td><td class="column-3">M</td><td class="column-4">34</td><td class="column-5">Beaverton</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">309</td>
+</tr>
+<tr class="row-281 odd">
+	<td class="column-1">Todd</td><td class="column-2">Owens</td><td class="column-3">M</td><td class="column-4">48</td><td class="column-5">San Jose</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">310</td>
+</tr>
+<tr class="row-282 even">
+	<td class="column-1">Mark</td><td class="column-2">Palamar</td><td class="column-3">M</td><td class="column-4">46</td><td class="column-5">New Port Richey</td><td class="column-6">FL</td><td class="column-7">United States</td><td class="column-8">311</td>
+</tr>
+<tr class="row-283 odd">
+	<td class="column-1">Julio</td><td class="column-2">Palma</td><td class="column-3">M</td><td class="column-4">31</td><td class="column-5">Phoenix</td><td class="column-6">AZ</td><td class="column-7">United States</td><td class="column-8">352</td>
+</tr>
+<tr class="row-284 even">
+	<td class="column-1">Mark</td><td class="column-2">Pancake</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Peninsula</td><td class="column-6">OH</td><td class="column-7">United States</td><td class="column-8">312</td>
+</tr>
+<tr class="row-285 odd">
+	<td class="column-1">Argyrios</td><td class="column-2">Papathanasopoulos</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Athens</td><td class="column-6">International</td><td class="column-7">Greece</td><td class="column-8">317</td>
+</tr>
+<tr class="row-286 even">
+	<td class="column-1">Chanwol</td><td class="column-2">Park</td><td class="column-3">F</td><td class="column-4">43</td><td class="column-5">Powell</td><td class="column-6">OH</td><td class="column-7">United States</td><td class="column-8">318</td>
+</tr>
+<tr class="row-287 odd">
+	<td class="column-1">Luanne</td><td class="column-2">Park</td><td class="column-3">F</td><td class="column-4">52</td><td class="column-5">Redding</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">319</td>
+</tr>
+<tr class="row-288 even">
+	<td class="column-1">Scott</td><td class="column-2">Patnode</td><td class="column-3">M</td><td class="column-4">32</td><td class="column-5">Marlboro</td><td class="column-6">MA</td><td class="column-7">United States</td><td class="column-8">320</td>
+</tr>
+<tr class="row-289 odd">
+	<td class="column-1">Kristina</td><td class="column-2">Pattison</td><td class="column-3">F</td><td class="column-4">32</td><td class="column-5">Missoula</td><td class="column-6">MT</td><td class="column-7">United States</td><td class="column-8">321</td>
+</tr>
+<tr class="row-290 even">
+	<td class="column-1">Nick</td><td class="column-2">Pedatella</td><td class="column-3">M</td><td class="column-4">28</td><td class="column-5">Boulder</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">18</td>
+</tr>
+<tr class="row-291 odd">
+	<td class="column-1">Mike</td><td class="column-2">Pelechaty</td><td class="column-3">M</td><td class="column-4">58</td><td class="column-5">Toledo</td><td class="column-6">OH</td><td class="column-7">United States</td><td class="column-8">322</td>
+</tr>
+<tr class="row-292 even">
+	<td class="column-1">Jason</td><td class="column-2">Perez</td><td class="column-3">M</td><td class="column-4">28</td><td class="column-5">Brentwood</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">53</td>
+</tr>
+<tr class="row-293 odd">
+	<td class="column-1">Lewis</td><td class="column-2">Persons</td><td class="column-3">M</td><td class="column-4">64</td><td class="column-5">Reno</td><td class="column-6">NV</td><td class="column-7">United States</td><td class="column-8">323</td>
+</tr>
+<tr class="row-294 even">
+	<td class="column-1">Melanie</td><td class="column-2">Peters</td><td class="column-3">F</td><td class="column-4">29</td><td class="column-5">White Lake</td><td class="column-6">MI</td><td class="column-7">Unitied States</td><td class="column-8">32</td>
+</tr>
+<tr class="row-295 odd">
+	<td class="column-1">Darryl</td><td class="column-2">Peterson</td><td class="column-3">M</td><td class="column-4">35</td><td class="column-5">Jacksonville</td><td class="column-6">NC</td><td class="column-7">United States</td><td class="column-8">324</td>
+</tr>
+<tr class="row-296 even">
+	<td class="column-1">Asvi</td><td class="column-2">Phuong</td><td class="column-3">F</td><td class="column-4">38</td><td class="column-5">West Sacramento</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">325</td>
+</tr>
+<tr class="row-297 odd">
+	<td class="column-1">Anna</td><td class="column-2">Piskorska</td><td class="column-3">F</td><td class="column-4">41</td><td class="column-5">Blandon</td><td class="column-6">PA</td><td class="column-7">United States</td><td class="column-8">117</td>
+</tr>
+<tr class="row-298 even">
+	<td class="column-1">James</td><td class="column-2">Player</td><td class="column-3">M</td><td class="column-4">40</td><td class="column-5">Roseville</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">328</td>
+</tr>
+<tr class="row-299 odd">
+	<td class="column-1">Brian</td><td class="column-2">Polen</td><td class="column-3">M</td><td class="column-4">33</td><td class="column-5">Wooster</td><td class="column-6">OH</td><td class="column-7">United States</td><td class="column-8">356</td>
+</tr>
+<tr class="row-300 even">
+	<td class="column-1">Gary</td><td class="column-2">Poliquin</td><td class="column-3">M</td><td class="column-4">45</td><td class="column-5">Edmonton</td><td class="column-6">AB</td><td class="column-7">Canada</td><td class="column-8">329</td>
+</tr>
+<tr class="row-301 odd">
+	<td class="column-1">Brad</td><td class="column-2">Polman</td><td class="column-3">M</td><td class="column-4">46</td><td class="column-5">Broadview Heights</td><td class="column-6">OH</td><td class="column-7">United States</td><td class="column-8">330</td>
+</tr>
+<tr class="row-302 even">
+	<td class="column-1">Eric</td><td class="column-2">Pope</td><td class="column-3">M</td><td class="column-4">50</td><td class="column-5">Albuquerque</td><td class="column-6">NM</td><td class="column-7">United States</td><td class="column-8">132</td>
+</tr>
+<tr class="row-303 odd">
+	<td class="column-1">Justin</td><td class="column-2">Popov</td><td class="column-3">M</td><td class="column-4">30</td><td class="column-5">Portland</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">331</td>
+</tr>
+<tr class="row-304 even">
+	<td class="column-1">Jenelle</td><td class="column-2">Potvin</td><td class="column-3">F</td><td class="column-4">34</td><td class="column-5">Truckee</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">332</td>
+</tr>
+<tr class="row-305 odd">
+	<td class="column-1">Jeff</td><td class="column-2">Pour</td><td class="column-3">M</td><td class="column-4">52</td><td class="column-5">Ofallon</td><td class="column-6">IL</td><td class="column-7">United States</td><td class="column-8">413</td>
+</tr>
+<tr class="row-306 even">
+	<td class="column-1">Bryon</td><td class="column-2">Powell</td><td class="column-3">M</td><td class="column-4">35</td><td class="column-5">Park City</td><td class="column-6">UT</td><td class="column-7">United States</td><td class="column-8">334</td>
+</tr>
+<tr class="row-307 odd">
+	<td class="column-1">Christopher</td><td class="column-2">Pratt</td><td class="column-3">M</td><td class="column-4">35</td><td class="column-5">Angwin</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">335</td>
+</tr>
+<tr class="row-308 even">
+	<td class="column-1">Jenn</td><td class="column-2">Prewitt</td><td class="column-3">F</td><td class="column-4">36</td><td class="column-5">Laguna Beach</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">223</td>
+</tr>
+<tr class="row-309 odd">
+	<td class="column-1">Mark</td><td class="column-2">Pribramsky</td><td class="column-3">M</td><td class="column-4">44</td><td class="column-5">Vail</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">336</td>
+</tr>
+<tr class="row-310 even">
+	<td class="column-1">John</td><td class="column-2">Price</td><td class="column-3">M</td><td class="column-4">55</td><td class="column-5">Ashland</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">339</td>
+</tr>
+<tr class="row-311 odd">
+	<td class="column-1">Iris</td><td class="column-2">Priebe</td><td class="column-3">F</td><td class="column-4">43</td><td class="column-5">Calgary</td><td class="column-6">AB</td><td class="column-7">Canada</td><td class="column-8">148</td>
+</tr>
+<tr class="row-312 even">
+	<td class="column-1">Peter</td><td class="column-2">Priolo</td><td class="column-3">M</td><td class="column-4">44</td><td class="column-5">Staten Island</td><td class="column-6">NY</td><td class="column-7">United States</td><td class="column-8">340</td>
+</tr>
+<tr class="row-313 odd">
+	<td class="column-1">Joe</td><td class="column-2">Pulver</td><td class="column-3">M</td><td class="column-4">54</td><td class="column-5">Mason</td><td class="column-6">MI</td><td class="column-7">United States</td><td class="column-8">341</td>
+</tr>
+<tr class="row-314 even">
+	<td class="column-1">Tony</td><td class="column-2">Quesada</td><td class="column-3">M</td><td class="column-4">43</td><td class="column-5">Los Angeles</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">342</td>
+</tr>
+<tr class="row-315 odd">
+	<td class="column-1">Mario</td><td class="column-2">Raymond</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Bowie</td><td class="column-6">MD</td><td class="column-7">United States</td><td class="column-8">343</td>
+</tr>
+<tr class="row-316 even">
+	<td class="column-1">Brian</td><td class="column-2">Recore</td><td class="column-3">M</td><td class="column-4">37</td><td class="column-5">Escondido</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">344</td>
+</tr>
+<tr class="row-317 odd">
+	<td class="column-1">Gustavo</td><td class="column-2">Reyes</td><td class="column-3">M</td><td class="column-4">34</td><td class="column-5">Neuqu̩n</td><td class="column-6">International</td><td class="column-7">Argentina</td><td class="column-8">78</td>
+</tr>
+<tr class="row-318 even">
+	<td class="column-1">Kelly</td><td class="column-2">Ridgway</td><td class="column-3">F</td><td class="column-4">55</td><td class="column-5">Santa Rosa</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">51</td>
+</tr>
+<tr class="row-319 odd">
+	<td class="column-1">Thomas</td><td class="column-2">Riley</td><td class="column-3">M</td><td class="column-4">50</td><td class="column-5">Salem</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">345</td>
+</tr>
+<tr class="row-320 even">
+	<td class="column-1">Tom</td><td class="column-2">Riley</td><td class="column-3">M</td><td class="column-4">52</td><td class="column-5">Orinda</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">346</td>
+</tr>
+<tr class="row-321 odd">
+	<td class="column-1">Jose</td><td class="column-2">Rodarte</td><td class="column-3">M</td><td class="column-4">49</td><td class="column-5">Sacramento</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">347</td>
+</tr>
+<tr class="row-322 even">
+	<td class="column-1">Daniel</td><td class="column-2">Roed</td><td class="column-3">M</td><td class="column-4">45</td><td class="column-5">Concord</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">348</td>
+</tr>
+<tr class="row-323 odd">
+	<td class="column-1">Jeffery</td><td class="column-2">Rogers</td><td class="column-3">M</td><td class="column-4">51</td><td class="column-5">Oakland</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">107</td>
+</tr>
+<tr class="row-324 even">
+	<td class="column-1">Benjamin</td><td class="column-2">Rolfe</td><td class="column-3">M</td><td class="column-4">40</td><td class="column-5">Monaco</td><td class="column-6">International</td><td class="column-7">Monaco</td><td class="column-8">169</td>
+</tr>
+<tr class="row-325 odd">
+	<td class="column-1">David</td><td class="column-2">Ross</td><td class="column-3">M</td><td class="column-4">45</td><td class="column-5">Zimbabwe</td><td class="column-6">International</td><td class="column-7">Zimbabwe</td><td class="column-8">349</td>
+</tr>
+<tr class="row-326 even">
+	<td class="column-1">Kevin</td><td class="column-2">Rumon</td><td class="column-3">M</td><td class="column-4">52</td><td class="column-5">San Rafael</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">350</td>
+</tr>
+<tr class="row-327 odd">
+	<td class="column-1">Daniel</td><td class="column-2">Runemalm</td><td class="column-3">M</td><td class="column-4">31</td><td class="column-5">Malmo</td><td class="column-6">International</td><td class="column-7">Sweden</td><td class="column-8">351</td>
+</tr>
+<tr class="row-328 even">
+	<td class="column-1">John</td><td class="column-2">Rutherford</td><td class="column-3">M</td><td class="column-4">33</td><td class="column-5">Yekaterinburg</td><td class="column-6">International</td><td class="column-7">Russian Federation</td><td class="column-8">353</td>
+</tr>
+<tr class="row-329 odd">
+	<td class="column-1">Jacob</td><td class="column-2">Rydman</td><td class="column-3">M</td><td class="column-4">28</td><td class="column-5">Rocklin</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">14</td>
+</tr>
+<tr class="row-330 even">
+	<td class="column-1">Simon</td><td class="column-2">Sandoval</td><td class="column-3">M</td><td class="column-4">40</td><td class="column-5">Makati City</td><td class="column-6">International</td><td class="column-7">Philippines</td><td class="column-8">355</td>
+</tr>
+<tr class="row-331 odd">
+	<td class="column-1">Rick</td><td class="column-2">Santos</td><td class="column-3">M</td><td class="column-4">48</td><td class="column-5">Rancho Cordova</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">357</td>
+</tr>
+<tr class="row-332 even">
+	<td class="column-1">Cassie</td><td class="column-2">Scallon</td><td class="column-3">F</td><td class="column-4">31</td><td class="column-5">Boulder</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">31</td>
+</tr>
+<tr class="row-333 odd">
+	<td class="column-1">Morgan</td><td class="column-2">Schick</td><td class="column-3">M</td><td class="column-4">39</td><td class="column-5">Mississauga</td><td class="column-6">ON</td><td class="column-7">Canada</td><td class="column-8">359</td>
+</tr>
+<tr class="row-334 even">
+	<td class="column-1">Dean</td><td class="column-2">Schorno</td><td class="column-3">M</td><td class="column-4">50</td><td class="column-5">Burlingame</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">360</td>
+</tr>
+<tr class="row-335 odd">
+	<td class="column-1">Steve</td><td class="column-2">Schuman</td><td class="column-3">M</td><td class="column-4">50</td><td class="column-5">Beverly Hills</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">103</td>
+</tr>
+<tr class="row-336 even">
+	<td class="column-1">Geoff</td><td class="column-2">Scott</td><td class="column-3">M</td><td class="column-4">64</td><td class="column-5">Chapel Hill</td><td class="column-6">NC</td><td class="column-7">United States</td><td class="column-8">361</td>
+</tr>
+<tr class="row-337 odd">
+	<td class="column-1">Jim</td><td class="column-2">Scott</td><td class="column-3">M</td><td class="column-4">53</td><td class="column-5">Chico</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">120</td>
+</tr>
+<tr class="row-338 even">
+	<td class="column-1">Robert</td><td class="column-2">Scott</td><td class="column-3">M</td><td class="column-4">43</td><td class="column-5">Diamond Springs</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">354</td>
+</tr>
+<tr class="row-339 odd">
+	<td class="column-1">Terry</td><td class="column-2">Sentinella</td><td class="column-3">M</td><td class="column-4">49</td><td class="column-5">Anacortes</td><td class="column-6">WA</td><td class="column-7">United States</td><td class="column-8">362</td>
+</tr>
+<tr class="row-340 even">
+	<td class="column-1">Jonathan</td><td class="column-2">Shark</td><td class="column-3">M</td><td class="column-4">34</td><td class="column-5">Olympia</td><td class="column-6">WA</td><td class="column-7">United States</td><td class="column-8">326</td>
+</tr>
+<tr class="row-341 odd">
+	<td class="column-1">Ian</td><td class="column-2">Sharman</td><td class="column-3">M</td><td class="column-4">32</td><td class="column-5">Walnut Creek</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">M5</td>
+</tr>
+<tr class="row-342 even">
+	<td class="column-1">John</td><td class="column-2">Shepard</td><td class="column-3">M</td><td class="column-4">36</td><td class="column-5">Falls Church</td><td class="column-6">VA</td><td class="column-7">United States</td><td class="column-8">363</td>
+</tr>
+<tr class="row-343 odd">
+	<td class="column-1">Lisa</td><td class="column-2">Sherak</td><td class="column-3">F</td><td class="column-4">51</td><td class="column-5">Lawrenceville</td><td class="column-6">GA</td><td class="column-7">United States</td><td class="column-8">364</td>
+</tr>
+<tr class="row-344 even">
+	<td class="column-1">Todd</td><td class="column-2">Shipman</td><td class="column-3">M</td><td class="column-4">30</td><td class="column-5">Martinez</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">365</td>
+</tr>
+<tr class="row-345 odd">
+	<td class="column-1">Keith</td><td class="column-2">Shishido</td><td class="column-3">M</td><td class="column-4">35</td><td class="column-5">Milwaukie</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">137</td>
+</tr>
+<tr class="row-346 even">
+	<td class="column-1">Michael</td><td class="column-2">Shoup</td><td class="column-3">M</td><td class="column-4">39</td><td class="column-5">Menlo Park</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">366</td>
+</tr>
+<tr class="row-347 odd">
+	<td class="column-1">Katrin</td><td class="column-2">Silva</td><td class="column-3">F</td><td class="column-4">42</td><td class="column-5">Las Vegas</td><td class="column-6">NM</td><td class="column-7">United States</td><td class="column-8">367</td>
+</tr>
+<tr class="row-348 even">
+	<td class="column-1">Erik</td><td class="column-2">Skaden</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Folsom</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">368</td>
+</tr>
+<tr class="row-349 odd">
+	<td class="column-1">Bettie</td><td class="column-2">Smith</td><td class="column-3">F</td><td class="column-4">61</td><td class="column-5">Cool</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">370</td>
+</tr>
+<tr class="row-350 even">
+	<td class="column-1">Neil</td><td class="column-2">Smith</td><td class="column-3">M</td><td class="column-4">42</td><td class="column-5">Dallas</td><td class="column-6">TX</td><td class="column-7">United States</td><td class="column-8">371</td>
+</tr>
+<tr class="row-351 odd">
+	<td class="column-1">Pam</td><td class="column-2">Smith</td><td class="column-3">F</td><td class="column-4">38</td><td class="column-5">Salem</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">22</td>
+</tr>
+<tr class="row-352 even">
+	<td class="column-1">Brandon</td><td class="column-2">Solomon</td><td class="column-3">M</td><td class="column-4">30</td><td class="column-5">Sacramento</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">372</td>
+</tr>
+<tr class="row-353 odd">
+	<td class="column-1">Alisa</td><td class="column-2">Springman</td><td class="column-3">F</td><td class="column-4">38</td><td class="column-5">Front Royal</td><td class="column-6">VA</td><td class="column-7">United States</td><td class="column-8">85</td>
+</tr>
+<tr class="row-354 even">
+	<td class="column-1">Amy</td><td class="column-2">Sproston</td><td class="column-3">F</td><td class="column-4">39</td><td class="column-5">Portland</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">F8</td>
+</tr>
+<tr class="row-355 odd">
+	<td class="column-1">Craig</td><td class="column-2">Stahl</td><td class="column-3">M</td><td class="column-4">45</td><td class="column-5">Providence</td><td class="column-6">UT</td><td class="column-7">United States</td><td class="column-8">373</td>
+</tr>
+<tr class="row-356 even">
+	<td class="column-1">Brandon</td><td class="column-2">Stapanowich</td><td class="column-3">M</td><td class="column-4">28</td><td class="column-5">Manitou Springs</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">374</td>
+</tr>
+<tr class="row-357 odd">
+	<td class="column-1">Rachael</td><td class="column-2">Stclaire</td><td class="column-3">F</td><td class="column-4">55</td><td class="column-5">Denver</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">123</td>
+</tr>
+<tr class="row-358 even">
+	<td class="column-1">Tim</td><td class="column-2">Steele</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Dallas</td><td class="column-6">TX</td><td class="column-7">United States</td><td class="column-8">308</td>
+</tr>
+<tr class="row-359 odd">
+	<td class="column-1">Jeffrey</td><td class="column-2">Stephens</td><td class="column-3">M</td><td class="column-4">46</td><td class="column-5">Palm Beach Gardens</td><td class="column-6">FL</td><td class="column-7">United States</td><td class="column-8">375</td>
+</tr>
+<tr class="row-360 even">
+	<td class="column-1">Larry</td><td class="column-2">Stephens</td><td class="column-3">M</td><td class="column-4">57</td><td class="column-5">Portland</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">369</td>
+</tr>
+<tr class="row-361 odd">
+	<td class="column-1">Kyle</td><td class="column-2">Stichtenoth</td><td class="column-3">M</td><td class="column-4">32</td><td class="column-5">Pelham</td><td class="column-6">AL</td><td class="column-7">United States</td><td class="column-8">211</td>
+</tr>
+<tr class="row-362 even">
+	<td class="column-1">Keith</td><td class="column-2">Straw</td><td class="column-3">M</td><td class="column-4">58</td><td class="column-5">Malvern</td><td class="column-6">PA</td><td class="column-7">United States</td><td class="column-8">376</td>
+</tr>
+<tr class="row-363 odd">
+	<td class="column-1">Suzannne</td><td class="column-2">Stroeer</td><td class="column-3">F</td><td class="column-4">27</td><td class="column-5">Houston</td><td class="column-6">TX</td><td class="column-7">United States</td><td class="column-8">377</td>
+</tr>
+<tr class="row-364 even">
+	<td class="column-1">Vanessa</td><td class="column-2">Stroud</td><td class="column-3">F</td><td class="column-4">44</td><td class="column-5">Birmingham</td><td class="column-6">AL</td><td class="column-7">United States</td><td class="column-8">378</td>
+</tr>
+<tr class="row-365 odd">
+	<td class="column-1">David</td><td class="column-2">Tarkalson</td><td class="column-3">M</td><td class="column-4">42</td><td class="column-5">Twin Falls</td><td class="column-6">ID</td><td class="column-7">United States</td><td class="column-8">379</td>
+</tr>
+<tr class="row-366 even">
+	<td class="column-1">Kevin</td><td class="column-2">Tenkku</td><td class="column-3">M</td><td class="column-4">51</td><td class="column-5">Mentor</td><td class="column-6">OH</td><td class="column-7">United States</td><td class="column-8">380</td>
+</tr>
+<tr class="row-367 odd">
+	<td class="column-1">Paul</td><td class="column-2">Terranova</td><td class="column-3">M</td><td class="column-4">39</td><td class="column-5">Austin</td><td class="column-6">TX</td><td class="column-7">United States</td><td class="column-8">24</td>
+</tr>
+<tr class="row-368 even">
+	<td class="column-1">Melissa</td><td class="column-2">Terwilliger</td><td class="column-3">F</td><td class="column-4">29</td><td class="column-5">Cleveland Heights</td><td class="column-6">OH</td><td class="column-7">United States</td><td class="column-8">381</td>
+</tr>
+<tr class="row-369 odd">
+	<td class="column-1">Eric</td><td class="column-2">Teti</td><td class="column-3">M</td><td class="column-4">37</td><td class="column-5">Ontario</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">116</td>
+</tr>
+<tr class="row-370 even">
+	<td class="column-1">Karen</td><td class="column-2">Thernka</td><td class="column-3">F</td><td class="column-4">45</td><td class="column-5">Rocklin</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">382</td>
+</tr>
+<tr class="row-371 odd">
+	<td class="column-1">Alexis</td><td class="column-2">Thomas</td><td class="column-3">F</td><td class="column-4">30</td><td class="column-5">Evington</td><td class="column-6">VA</td><td class="column-7">United States</td><td class="column-8">383</td>
+</tr>
+<tr class="row-372 even">
+	<td class="column-1">Blake</td><td class="column-2">Thompson</td><td class="column-3">M</td><td class="column-4">32</td><td class="column-5">Huntsville</td><td class="column-6">AL</td><td class="column-7">United States</td><td class="column-8">384</td>
+</tr>
+<tr class="row-373 odd">
+	<td class="column-1">Paul</td><td class="column-2">Tidmore</td><td class="column-3">M</td><td class="column-4">44</td><td class="column-5">Carrollton</td><td class="column-6">TX</td><td class="column-7">United States</td><td class="column-8">385</td>
+</tr>
+<tr class="row-374 even">
+	<td class="column-1">Brian</td><td class="column-2">Tinger</td><td class="column-3">M</td><td class="column-4">36</td><td class="column-5">Beverly</td><td class="column-6">MA</td><td class="column-7">United States</td><td class="column-8">386</td>
+</tr>
+<tr class="row-375 odd">
+	<td class="column-1">Brian</td><td class="column-2">Tjersland</td><td class="column-3">M</td><td class="column-4">46</td><td class="column-5">Dartmouth</td><td class="column-6">MA</td><td class="column-7">United States</td><td class="column-8">387</td>
+</tr>
+<tr class="row-376 even">
+	<td class="column-1">Nick</td><td class="column-2">Tooker</td><td class="column-3">M</td><td class="column-4">34</td><td class="column-5">Westfield</td><td class="column-6">MA</td><td class="column-7">United States</td><td class="column-8">388</td>
+</tr>
+<tr class="row-377 odd">
+	<td class="column-1">Alex</td><td class="column-2">Tunik</td><td class="column-3">M</td><td class="column-4">47</td><td class="column-5">Hong Kong</td><td class="column-6">International</td><td class="column-7">Hong Kong</td><td class="column-8">389</td>
+</tr>
+<tr class="row-378 even">
+	<td class="column-1">Joe</td><td class="column-2">Uhan</td><td class="column-3">M</td><td class="column-4">35</td><td class="column-5">Eugene</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">M9</td>
+</tr>
+<tr class="row-379 odd">
+	<td class="column-1">Daniel</td><td class="column-2">Uhlir</td><td class="column-3">M</td><td class="column-4">38</td><td class="column-5">Highland</td><td class="column-6">MD</td><td class="column-7">United States</td><td class="column-8">390</td>
+</tr>
+<tr class="row-380 even">
+	<td class="column-1">Mark</td><td class="column-2">Ulfig</td><td class="column-3">M</td><td class="column-4">56</td><td class="column-5">Wylie</td><td class="column-6">TX</td><td class="column-7">United States</td><td class="column-8">391</td>
+</tr>
+<tr class="row-381 odd">
+	<td class="column-1">Randy</td><td class="column-2">Van Dusen</td><td class="column-3">M</td><td class="column-4">38</td><td class="column-5">Roseville</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">392</td>
+</tr>
+<tr class="row-382 even">
+	<td class="column-1">Grae</td><td class="column-2">Van Hooser</td><td class="column-3">M</td><td class="column-4">52</td><td class="column-5">Spanish Springs</td><td class="column-6">NV</td><td class="column-7">United States</td><td class="column-8">393</td>
+</tr>
+<tr class="row-383 odd">
+	<td class="column-1">Nathan</td><td class="column-2">Vannortwick</td><td class="column-3">M</td><td class="column-4">27</td><td class="column-5">Oakland</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">394</td>
+</tr>
+<tr class="row-384 even">
+	<td class="column-1">Geoff</td><td class="column-2">Vaughan</td><td class="column-3">M</td><td class="column-4">48</td><td class="column-5">Corte Madera</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">395</td>
+</tr>
+<tr class="row-385 odd">
+	<td class="column-1">Joelle</td><td class="column-2">Vaught</td><td class="column-3">F</td><td class="column-4">38</td><td class="column-5">Boise</td><td class="column-6">ID</td><td class="column-7">United States</td><td class="column-8">114</td>
+</tr>
+<tr class="row-386 even">
+	<td class="column-1">Eduardo</td><td class="column-2">Vazquez</td><td class="column-3">M</td><td class="column-4">40</td><td class="column-5">Sausalito</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">219</td>
+</tr>
+<tr class="row-387 odd">
+	<td class="column-1">Dan</td><td class="column-2">Vega</td><td class="column-3">M</td><td class="column-4">45</td><td class="column-5">Colorado Springs</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">396</td>
+</tr>
+<tr class="row-388 even">
+	<td class="column-1">Ian</td><td class="column-2">Warner</td><td class="column-3">M</td><td class="column-4">43</td><td class="column-5">San Pedro</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">397</td>
+</tr>
+<tr class="row-389 odd">
+	<td class="column-1">Marcus</td><td class="column-2">Warner</td><td class="column-3">M</td><td class="column-4">42</td><td class="column-5">Sydney</td><td class="column-6">International</td><td class="column-7">Australia</td><td class="column-8">168</td>
+</tr>
+<tr class="row-390 even">
+	<td class="column-1">Nicholas</td><td class="column-2">Warren</td><td class="column-3">M</td><td class="column-4">34</td><td class="column-5">Glen Allen</td><td class="column-6">VA</td><td class="column-7">United States</td><td class="column-8">398</td>
+</tr>
+<tr class="row-391 odd">
+	<td class="column-1">Christopher</td><td class="column-2">Waters</td><td class="column-3">M</td><td class="column-4">34</td><td class="column-5">Rancho Cordova</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">79</td>
+</tr>
+<tr class="row-392 even">
+	<td class="column-1">Henrik</td><td class="column-2">Westerlin</td><td class="column-3">M</td><td class="column-4">38</td><td class="column-5">Ahmedabad</td><td class="column-6">International</td><td class="column-7">India</td><td class="column-8">399</td>
+</tr>
+<tr class="row-393 odd">
+	<td class="column-1">Michael</td><td class="column-2">Weston</td><td class="column-3">M</td><td class="column-4">52</td><td class="column-5">La Honda</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">400</td>
+</tr>
+<tr class="row-394 even">
+	<td class="column-1">Bill</td><td class="column-2">White</td><td class="column-3">M</td><td class="column-4">47</td><td class="column-5">Oakland</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">401</td>
+</tr>
+<tr class="row-395 odd">
+	<td class="column-1">Kimberly</td><td class="column-2">White</td><td class="column-3">F</td><td class="column-4">42</td><td class="column-5">Auburn</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">77</td>
+</tr>
+<tr class="row-396 even">
+	<td class="column-1">Christina</td><td class="column-2">Williams</td><td class="column-3">F</td><td class="column-4">29</td><td class="column-5">Lafayette</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">403</td>
+</tr>
+<tr class="row-397 odd">
+	<td class="column-1">Matt</td><td class="column-2">Wilson</td><td class="column-3">M</td><td class="column-4">51</td><td class="column-5">Downingtown</td><td class="column-6">PA</td><td class="column-7">United States</td><td class="column-8">404</td>
+</tr>
+<tr class="row-398 even">
+	<td class="column-1">David</td><td class="column-2">Winarski</td><td class="column-3">M</td><td class="column-4">39</td><td class="column-5">Columbia</td><td class="column-6">MO</td><td class="column-7">United States</td><td class="column-8">405</td>
+</tr>
+<tr class="row-399 odd">
+	<td class="column-1">Monique</td><td class="column-2">Winkler</td><td class="column-3">F</td><td class="column-4">43</td><td class="column-5">Mill Valley</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">61</td>
+</tr>
+<tr class="row-400 even">
+	<td class="column-1">David</td><td class="column-2">Wise</td><td class="column-3">M</td><td class="column-4">42</td><td class="column-5">Flagtown</td><td class="column-6">NJ</td><td class="column-7">United States</td><td class="column-8">408</td>
+</tr>
+<tr class="row-401 odd">
+	<td class="column-1">Scott</td><td class="column-2">Wolfe</td><td class="column-3">M</td><td class="column-4">39</td><td class="column-5">Bend</td><td class="column-6">OR</td><td class="column-7">United States</td><td class="column-8">30</td>
+</tr>
+<tr class="row-402 even">
+	<td class="column-1">Jeffrey</td><td class="column-2">Wong</td><td class="column-3">M</td><td class="column-4">29</td><td class="column-5">San Francisco</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">410</td>
+</tr>
+<tr class="row-403 odd">
+	<td class="column-1">Chris</td><td class="column-2">Wright</td><td class="column-3">M</td><td class="column-4">41</td><td class="column-5">Grand Junction</td><td class="column-6">CO</td><td class="column-7">United States</td><td class="column-8">411</td>
+</tr>
+<tr class="row-404 even">
+	<td class="column-1">Mike</td><td class="column-2">Wright</td><td class="column-3">M</td><td class="column-4">54</td><td class="column-5">Corralitos</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">414</td>
+</tr>
+<tr class="row-405 odd">
+	<td class="column-1">Di</td><td class="column-2">Wu</td><td class="column-3">M</td><td class="column-4">29</td><td class="column-5">Jilin</td><td class="column-6">International</td><td class="column-7">China</td><td class="column-8">415</td>
+</tr>
+<tr class="row-406 even">
+	<td class="column-1">Johanna</td><td class="column-2">Ylanen</td><td class="column-3">F</td><td class="column-4">31</td><td class="column-5">Santa Clara</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">82</td>
+</tr>
+<tr class="row-407 odd">
+	<td class="column-1">Emily</td><td class="column-2">Yu</td><td class="column-3">F</td><td class="column-4">35</td><td class="column-5">San Francisco</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">66</td>
+</tr>
+<tr class="row-408 even">
+	<td class="column-1">Donn</td><td class="column-2">Zea</td><td class="column-3">M</td><td class="column-4">55</td><td class="column-5">Grass Valley</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">55</td>
+</tr>
+<tr class="row-409 odd">
+	<td class="column-1">John</td><td class="column-2">Zerbe</td><td class="column-3">M</td><td class="column-4">45</td><td class="column-5">San Francisco</td><td class="column-6">CA</td><td class="column-7">United States</td><td class="column-8">416</td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-324 from cache --></p>
+<p><a href="/wp-content/uploads/2013/06/2013WSEntrants.csv">Link to CSV File of this Entrants List</a></p>
+			</div>
+
+			<div class="postmetadata">
+							</div>
+
+		</div>
+
+	
+	
+		
+	</div>
+
+
+			</div><!-- / .row -->
+	</div> <!-- end .grid -->
+</div> <!-- end #content -->
+
+<div id="footer">
+
+	<div id="footershadow">
+		<div class="grid">						
+				<div class="slot-0-1-2">
+					<div id="legends-slider">
+					
+										<img src="https://www.wser.org/wp-content/themes/ws100/images/legends/legend3.png" alt="legends" />
+				
+				</div> <!-- end #legends-slider -->								
+				</div> <!-- end .slot-0-1-2 -->
+
+				
+				<div class="slot-3-4-5">
+				  <div id=footer_search>
+					<form action="https://www.wser.org" id="searchform" method="get">
+    <div>
+        <label for="s" class="screen-reader-text">Search for:</label>
+        <input type="text" id="s" name="s" value="" />
+        
+        <input type="submit" value="Search wser.org" id="searchsubmit" />
+    </div>
+</form>				  </div>
+					<img id="sm_foot" src="https://www.wser.org/wp-content/themes/ws100/images/footer_sm.png" alt="profile" />
+				</div> <!-- end .slot-0-1-2 -->
+					
+				<div class="clear"></div>
+				
+				<div class="slot-0-1">
+					<div id="text-12" class="widget widget_text left half"><h3 class="widgettitle">WSER Foundation</h3>			<div class="textwidget"><ul class="footerlink">
+<li><a href="/mission-statement">Mission</a></li>
+<li><a href="/wser-board">Board of Directors</a></li>
+<li><a href="/research">Research</a></li>
+<li><a href="/trail-stewardship">Trail Stewardship</a></li>
+<li><a href="/sustainability">Sustainability</a></li>
+<li><a href="/copyright-information">Intellectual Property</a></li>
+<li><a href="/terms-of-service">Terms of Service</a></li>
+</ul></div>
+		</div>									</div>
+				
+				<div class="slot-2-3">
+					<div id="text-9" class="widget widget_text left half"><h3 class="widgettitle">Contacts</h3>			<div class="textwidget"><ul class="footerlink">
+<li><p>Craig Thornley, Race Director</li>
+<li><p>Topher Gaylord, WSER President<br /></li>
+<li><p>Ian Doremus, Webmaster<br /></li>
+<li><p>John Catts, Trails Manager<br /></li>
+<li><p><a href="/contact-us">Contact Us</a></p></li>
+</ul></div>
+		</div>									</div>
+				
+				<div class="slot-4-5">
+					<div id="text-10" class="widget widget_text left half"><h3 class="widgettitle">Links</h3>			<div class="textwidget"><ul class="footerlink">
+<li><a href="http://wserstore.com/" target="_blank">Western States Store</a></li>
+<li><a href="/frequently-asked-questions">Frequenty Asked Questions</a></li>
+<!-- <li><a href="/sitemap">Site Map</a></li> -->
+<li><a href="/sponsors">Sponsors</a></li>
+<li><a href="/wp-admin">Site Admin</a></li>
+</ul></div>
+		</div>									</div>
+				
+				<div class="clear"></div>
+				
+				<script type="text/javascript" src="https://www.wser.org/wp-includes/js/comment-reply.min.js" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://www.wser.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.wser.org\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.wser.org/wp-content/plugins/contact-form-7/includes/js/index.js" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://www.wser.org/wp-content/plugins/fitvids-for-wordpress/jquery.fitvids.js" id="fitvids-js"></script>
+<script type="text/javascript" src="https://www.wser.org/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js" id="zoom-social-icons-widget-frontend-js"></script>
+<script type="text/javascript" id="ubermenu-js-extra">
+/* <![CDATA[ */
+var ubermenu_data = {"remove_conflicts":"off","reposition_on_load":"on","intent_delay":"400","intent_interval":"20","intent_threshold":"7","scrollto_offset":"50","scrollto_duration":"1000","responsive_breakpoint":"959","accessible":"on","mobile_menu_collapse_on_navigate":"on","retractor_display_strategy":"responsive","touch_off_close":"on","submenu_indicator_close_mobile":"on","collapse_after_scroll":"on","v":"3.8.5","configurations":["main"],"ajax_url":"https:\/\/www.wser.org\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/www.wser.org\/wp-content\/plugins\/ubermenu\/","disable_mobile":"off","prefix_boost":"","use_core_svgs":"off","aria_role_navigation":"off","aria_nav_label":"off","aria_expanded":"off","aria_haspopup":"off","aria_hidden":"off","aria_controls":"","aria_responsive_toggle":"off","icon_tag":"i","esc_close_mobile":"on","keyboard_submenu_trigger":"enter","theme_locations":{"ubermenu":"UberMenu [Easy Integration]"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.wser.org/wp-content/plugins/ubermenu/assets/js/ubermenu.min.js" id="ubermenu-js"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-202447.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"38750765\",\"post\":\"2574\",\"tz\":\"-8\",\"srv\":\"www.wser.org\",\"j\":\"1:14.0\"}") ]);
+_stq.push([ "clickTrackerInit", "38750765", "2574" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" id="promoslider_main-js-extra">
+/* <![CDATA[ */
+var promoslider_options = {"version":"3.3.4"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.wser.org/wp-content/plugins/promotion-slider/js/promoslider.js" id="promoslider_main-js"></script>
+<script type="text/javascript" src="https://www.wser.org/wp-content/plugins/tablepress-premium/js/jquery.datatables.min.js" id="tablepress-datatables-js"></script>
+		<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery('.embed-youtube, .embed-vimeo').fitVids();
+		});
+		</script><script type="text/javascript">
+jQuery(function($){
+var DT_language={"en_US":{}};
+$('#tablepress-324').DataTable({"language":DT_language["en_US"],"order":[],"orderClasses":false,"stripeClasses":["even","odd"],"paging":false,"scrollX":true});
+});
+</script>				
+				<div id="footer-text">
+					<div id="text-8" class="widget widget_text left half">			<div class="textwidget"><img style="display:block;margin:10px auto;width:100px;" src="https://www.wser.org/wp-content/uploads/2022/06/WSER_logo_Wht_rd_lrg.png" alt="logo" />
+
+<p>Western States is a registered trademark of the Western States Endurance Run Foundation copyright &copy; <?php echo date("Y"); ?> Western States Endurance Run Foundation.<br /><br /></p></div>
+		</div>									</div> <!-- end #footer-text -->
+			</div> <!-- end .grid -->
+		</div> <!-- end #footershadow -->
+	</div> <!-- end #footer -->
+</body>
+</html>

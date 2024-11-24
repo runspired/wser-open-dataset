@@ -1,11 +1,13 @@
 import type { BunFile } from 'bun';
 import { JSDOM } from 'jsdom';
 import {
-  FIRST_SPLIT_XLSX_YEAR,
+  FIRST_SPLIT_XLS_YEAR,
+  GET,
   isSkippedYear,
-  LAST_SPLIT_TXT_YEAR,
   LAST_SPLIT_XLS_YEAR,
+  NEXT_YEAR,
   PayloadType,
+  throwIfHttpError,
   type SourceType,
 } from '../-utils';
 import { styleText } from 'node:util';
@@ -51,6 +53,18 @@ type Info =
     }
   | DomInfo;
 
+async function tryExtract(info: DomInfo, tableSelector: string, year: number) {
+  try {
+    return await extractTableData(info, tableSelector);
+  } catch (error: unknown) {
+    if (year === NEXT_YEAR) {
+      console.log(`\t⚠️ Parse Error: ${asError(error).message}`);
+      return;
+    }
+    throw error;
+  }
+}
+
 export async function extractTableData(
   info: DomInfo,
   tableSelector: string,
@@ -58,7 +72,7 @@ export async function extractTableData(
   labels: string[];
   data: { index: number; data: string[] }[];
 }> {
-  const { html, raw, url } = info;
+  const { html, url } = info;
 
   const table = html.window.document.querySelector(`${tableSelector} tbody`);
   const tableHeader = html.window.document.querySelector(
@@ -66,15 +80,13 @@ export async function extractTableData(
   );
 
   if (!table) {
-    console.log(html.window.document.querySelector(tableSelector));
-    console.log({ html: raw });
+    // console.log(html.window.document.querySelector(tableSelector));
     throw new Error(
       `Unable to find table body "${tableSelector} tbody" for ${url}`,
     );
   }
 
   if (!tableHeader) {
-    console.log({ html: raw });
     throw new Error(
       `Unable to find table header "${tableSelector} thead" for ${url}`,
     );
@@ -175,7 +187,7 @@ export async function getHtmlIfNeeded(
   url: string,
   path: string,
   force: boolean,
-): Promise<Info> {
+): Promise<Info | Response> {
   // we always serve from cache unless asked to force generate
   const file = Bun.file(path);
   const forceGenerate = force || Bun.env.FORCE_GENERATE === 'true';
@@ -193,7 +205,11 @@ export async function getHtmlIfNeeded(
     };
   }
 
-  const response = await fetch(url);
+  const response = await GET(url);
+  // avoid erring for stats that likely just don't exist yet
+  if (response.status >= 400) {
+    return response;
+  }
   const data = await response.text();
   const html = new JSDOM(data);
 
@@ -295,7 +311,7 @@ export function makeUrl(type: SourceType, year: number) {
     case 'split':
       return year > LAST_SPLIT_XLS_YEAR
         ? `https://www.wser.org/wp-content/uploads/stats/wser${String(year)}.xlsx`
-        : year > LAST_SPLIT_TXT_YEAR
+        : year >= FIRST_SPLIT_XLS_YEAR
           ? `https://www.wser.org/wp-content/uploads/stats/wser${String(year)}.xls`
           : `https://www.wser.org/wp-content/uploads/stats/wser${String(year)}.txt`;
   }
@@ -350,6 +366,7 @@ export async function _processStandardWebsiteTable<
   Type extends SourceType,
 >(setup: StandardTableConfig<T, Type>): Promise<void> {
   if (isSkippedYear(setup.year, setup.type)) {
+    console.log(`\t🙈 Skipping ${setup.type} for year ${setup.year}`);
     return;
   }
 
@@ -371,11 +388,27 @@ export async function _processStandardWebsiteTable<
     force,
   );
 
-  if (info.html === null) {
+  if (info instanceof Response) {
+    if (year === NEXT_YEAR) {
+      console.log(
+        `\t⚠️  No ${config.type}s data available at ${info.url} for year ${year}`,
+      );
+      return;
+    }
+    throwIfHttpError(info);
     return;
   }
 
-  const rawJson = await extractTableData(info, config.selector);
+  if (info.html === null) {
+    console.log(`\t♻️ Used ${info.path} for year ${year}`);
+    return;
+  }
+
+  const rawJson = await tryExtract(info, config.selector, year);
+  if (!rawJson) {
+    return;
+  }
+
   const entrants: Resource[] = [];
   const entrantRefs: R[] = [];
   const result: Response = {
@@ -454,11 +487,11 @@ export async function _processStandardWebsiteTable<
   }
 
   if (entrants.length === 0) {
-    console.warn(`⚠️ No ${config.type}s found for year ${year}`);
+    console.warn(`\t⚠️ No ${config.type}s found for year ${year}`);
   }
 
   await Bun.write(info.file, JSON.stringify(result));
   console.log(
-    `✅ Processed ${styleText('cyan', String(year))} ${config.type} | ${styleText('underline', styleText('gray', info.path))}`,
+    `\t✅ Processed ${styleText('cyan', String(year))} ${config.type} | ${styleText('underline', styleText('gray', info.path))}`,
   );
 }

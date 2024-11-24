@@ -1,6 +1,7 @@
 import { JSDOM } from 'jsdom';
-import { isSkippedYear, PayloadType } from '../-utils';
+import { GET, isSkippedYear, PayloadType, throwIfHttpError } from '../-utils';
 import { asError } from './-shared';
+import { styleText } from 'util';
 
 type LotteryPick = {
   type: 'entrant';
@@ -69,9 +70,8 @@ async function __fetchLatestLiveLotteryResults(
   force = false,
 ): Promise<void> {
   // we always serve from cache unless asked to force generate
-  const file = Bun.file(
-    `./.data-cache/raw/${yearHint}/live-lottery-results.json`,
-  );
+  const path = `./.data-cache/raw/${yearHint}/live-lottery-results.json`;
+  const file = Bun.file(path);
   const forceGenerate = force || Bun.env.FORCE_GENERATE === 'true';
   const exists = await file.exists();
 
@@ -83,20 +83,19 @@ async function __fetchLatestLiveLotteryResults(
     return;
   }
 
-  const response = await fetch(`https://lottery.wser.org/`);
+  const response = await GET(`https://lottery.wser.org/`);
+  throwIfHttpError(response);
   const data = await response.text();
 
   const html = new JSDOM(data);
   const header = html.window.document.querySelector('.card-body h4');
   if (!header || header.textContent?.trim() !== 'WSER Lottery') {
-    console.log({ html: data });
     throw new Error(
       'Unable to find the header to validate date of lottery results',
     );
   }
   const dateHeader = header.nextElementSibling;
   if (!dateHeader || dateHeader.tagName !== 'H5') {
-    console.log({ html: data });
     throw new Error(
       'Unable to find the date header to validate date of lottery results',
     );
@@ -112,7 +111,7 @@ async function __fetchLatestLiveLotteryResults(
   const expectedYear = yearHint - 1;
   if (isNaN(year) || year !== expectedYear) {
     throw new Error(
-      `Unexpected year in the date header: parsed "${year}" from "${dateText}" but expected "${expectedYear}"`,
+      `Unexpected year in the date header for live lottery data: parsed "${year}" from "${dateText}" but expected "${expectedYear}"`,
     );
   }
 
@@ -237,4 +236,7 @@ async function __fetchLatestLiveLotteryResults(
   };
 
   await Bun.write(file, JSON.stringify(result, null, 2));
+  console.log(
+    `✅ Processed ${styleText('cyan', String(yearHint))} live | ${styleText('underline', styleText('gray', path))}`,
+  );
 }

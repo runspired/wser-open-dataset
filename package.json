@@ -11,6 +11,8 @@
   "dependencies": {
     "@types/jsdom": "^21.1.7",
     "jsdom": "^25.0.1",
-    "prettier": "^3.3.3"
+    "node-xlsx": "^0.24.0",
+    "prettier": "^3.3.3",
+    "read-excel-file": "^5.8.6"
   }
 }
