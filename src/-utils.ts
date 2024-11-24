@@ -6,7 +6,12 @@ export const NOVEMBER = 10;
 export const NEXT_YEAR =
   CURRENT_MONTH <= NOVEMBER ? CURRENT_YEAR : CURRENT_YEAR + 1;
 export const FIRST_WAITLIST_YEAR = 2017;
-
+export const LAST_SPLIT_XLS_YEAR = 2013;
+export const FIRST_SPLIT_XLS_YEAR = 2004;
+export const FIRST_SPLIT_XLSX_YEAR = 2014;
+export const FIRST_SPLIT_TXT_YEAR = 1986;
+export const LAST_SPLIT_TXT_YEAR = 2007;
+export const PayloadType = Symbol();
 /**
  * NOTES:
  *
@@ -27,6 +32,7 @@ export const FIRST_WAITLIST_YEAR = 2017;
  */
 export const SKIPPED_APPLICANT_YEARS = [2021];
 export const SKIPPED_WAITLIST_YEARS = [2020];
+export const SKIPPED_SPLIT_YEARS = [2008, 2020];
 export const SKIPPED_ENTRANTS_YEARS: number[] = [
   // 2020 // see note above for why we still collect this data
 ];
@@ -36,6 +42,7 @@ export type SourceType =
   | 'entrant'
   | 'applicant'
   | 'waitlist'
+  | 'split'
   | 'live';
 
 export function isSkippedYear(year: number, type: SourceType) {
@@ -52,6 +59,8 @@ export function isSkippedYear(year: number, type: SourceType) {
       return (
         year < FIRST_WAITLIST_YEAR || SKIPPED_WAITLIST_YEARS.includes(year)
       );
+    case 'split':
+      return year < FIRST_SPLIT_TXT_YEAR || SKIPPED_SPLIT_YEARS.includes(year);
     case 'finisher':
       return SKIPPED_FINISHERS_YEARS.includes(year);
     case 'live':

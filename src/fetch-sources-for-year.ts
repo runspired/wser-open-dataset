@@ -4,6 +4,7 @@ import { fetchLatestLiveLotteryResults } from './sources/live';
 import { fetchEntrantsData } from './sources/entrants';
 import { fetchFinishersData } from './sources/finishers';
 import { throwIfAnyErrors } from './-utils';
+import { fetchSplitData } from './sources/split';
 
 export function fetchSourcesForYear(
   year: number,
@@ -16,7 +17,7 @@ export function fetchSourcesForYear(
       fetchWaitlistData(year, force),
       fetchFinishersData(year, force),
       // TODO fetch full result set from ??
-      // TODO fetch split data promises.push(fetchSplitData(year, force));
+      fetchSplitData(year, force),
       fetchLatestLiveLotteryResults(year, force),
     ],
     (errors) =>

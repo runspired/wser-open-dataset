@@ -1,18 +1,73 @@
 import { JSDOM } from 'jsdom';
-import { isSkippedYear } from '../-utils';
+import { isSkippedYear, PayloadType } from '../-utils';
 import { asError } from './-shared';
 
-export async function fetchLatestLiveLotteryResults(year: number, force = false) {
+type LotteryPick = {
+  type: 'entrant';
+  id: string;
+  attributes: {
+    'Pick No': string;
+    Name: string;
+    'City/Country': string;
+    Tickets: string;
+  };
+};
+
+type WaitlistPick = {
+  type: 'waitlist-entrant';
+  id: string;
+  attributes: {
+    'Waitlist No': string;
+    Name: string;
+    'City/Country': string;
+    Tickets: string;
+  };
+};
+
+export type LivePayload = {
+  data: {
+    type: 'lottery-result';
+    id: string;
+    attributes: {
+      year: number;
+      source: string;
+      accessed: string;
+    };
+    relationships: {
+      entrants: {
+        data: Array<{ type: 'entrant'; id: string }>;
+      };
+      waitlist: {
+        data: Array<{ type: 'waitlist-entrant'; id: string }>;
+      };
+    };
+  };
+  included: Array<LotteryPick | WaitlistPick>;
+};
+
+export function fetchLatestLiveLotteryResults(
+  year: number,
+  force = false,
+): Promise<void> & { [PayloadType]: LivePayload } {
+  return _fetchLatestLiveLotteryResults(year, force) as Promise<void> & {
+    [PayloadType]: LivePayload;
+  };
+}
+
+async function _fetchLatestLiveLotteryResults(year: number, force = false) {
   try {
     // only fetch the latest lottery results if the year is the current year
     // or the upcoming year.
-    await _fetchLatestLiveLotteryResults(year, force);
+    await __fetchLatestLiveLotteryResults(year, force);
   } catch (error: unknown) {
     console.log(`\t⚠️ ${asError(error).message}`);
   }
 }
 
-async function _fetchLatestLiveLotteryResults(yearHint: number, force = false) {
+async function __fetchLatestLiveLotteryResults(
+  yearHint: number,
+  force = false,
+): Promise<void> {
   // we always serve from cache unless asked to force generate
   const file = Bun.file(
     `./.data-cache/raw/${yearHint}/live-lottery-results.json`,
@@ -21,11 +76,11 @@ async function _fetchLatestLiveLotteryResults(yearHint: number, force = false) {
   const exists = await file.exists();
 
   if (!forceGenerate && exists) {
-    return await file.json();
+    return;
   }
 
   if (isSkippedYear(yearHint, 'live')) {
-    return null;
+    return;
   }
 
   const response = await fetch(`https://lottery.wser.org/`);
@@ -163,6 +218,8 @@ async function _fetchLatestLiveLotteryResults(yearHint: number, force = false) {
       id: `${yearHint}`,
       attributes: {
         year: yearHint,
+        source: 'https://lottery.wser.org/',
+        accessed: new Date().toISOString(),
       },
       relationships: {
         entrants: {
@@ -180,6 +237,4 @@ async function _fetchLatestLiveLotteryResults(yearHint: number, force = false) {
   };
 
   await Bun.write(file, JSON.stringify(result, null, 2));
-
-  return result;
 }

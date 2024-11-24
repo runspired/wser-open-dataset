@@ -1,6 +1,13 @@
 import type { BunFile } from 'bun';
 import { JSDOM } from 'jsdom';
-import { isSkippedYear, type SourceType } from '../-utils';
+import {
+  FIRST_SPLIT_XLSX_YEAR,
+  isSkippedYear,
+  LAST_SPLIT_TXT_YEAR,
+  LAST_SPLIT_XLS_YEAR,
+  PayloadType,
+  type SourceType,
+} from '../-utils';
 import { styleText } from 'node:util';
 
 // on the 2^(n - 1) formula
@@ -28,19 +35,17 @@ type DomInfo = {
   path: string;
   exists: boolean;
   forceGenerate: boolean;
-  data: null;
   html: JSDOM;
   raw: string;
 };
 
-type Info<T> =
+type Info =
   | {
       file: BunFile;
       url: string;
       path: string;
       exists: boolean;
       forceGenerate: boolean;
-      data: T;
       html: null;
       raw: null;
     }
@@ -166,25 +171,23 @@ export async function extractTableData(
   return { labels: newLabels, data };
 }
 
-export async function getHtmlIfNeeded<T>(
+export async function getHtmlIfNeeded(
   url: string,
   path: string,
   force: boolean,
-): Promise<Info<T>> {
+): Promise<Info> {
   // we always serve from cache unless asked to force generate
   const file = Bun.file(path);
   const forceGenerate = force || Bun.env.FORCE_GENERATE === 'true';
   const exists = await file.exists();
 
   if (!forceGenerate && exists) {
-    const data = (await file.json()) as T;
     return {
       file,
       url,
       path,
       exists,
       forceGenerate,
-      data,
       html: null,
       raw: null,
     };
@@ -200,7 +203,6 @@ export async function getHtmlIfNeeded<T>(
     path,
     exists,
     forceGenerate,
-    data: null,
     html,
     raw: data,
   };
@@ -230,8 +232,11 @@ export function inverseMap<T extends Record<string, string | string[]>>(
 /**
  * Works with most tables on https://wser.org (not the subdomain tables)
  */
-type Attrs = Record<string, string | number | null>;
-type FieldsOfType<T extends Attrs, Type extends string | number | null> = {
+export type Attrs = Record<string, string | number | null>;
+export type FieldsOfType<
+  T extends Attrs,
+  Type extends string | number | null,
+> = {
   [Prop in keyof T & string]: AllowsType<T[Prop], Type> extends true
     ? Prop
     : never;
@@ -250,31 +255,32 @@ type StandardTableConfig<T extends Attrs, Type extends SourceType> = {
   numericFields: FieldsOfType<T, number>[];
 };
 
-type Ref<T extends string> = { type: T; id: string };
-type StandardList<T extends string> = {
+export type Ref<T extends string> = { type: T; id: string };
+export type StandardList<T extends string> = {
   type: `${T}-list`;
   id: string;
   attributes: { year: number; source: string; accessed: string };
   relationships: { [key in `${T}s`]: { data: Ref<T>[] } };
 };
-type StandardResource<T extends string, Fields extends Attrs> = {
+export type StandardResource<T extends string, Fields extends Attrs> = {
   type: T;
   id: string;
   attributes: Fields;
 };
-type StandardResponse<T extends string, Fields extends Attrs> = {
+export type StandardResponse<T extends string, Fields extends Attrs> = {
   data: StandardList<T>;
   included: StandardResource<T, Fields>[];
 };
 
-type FinalizedConfig<T extends Attrs, Type extends SourceType> = Required<
-  StandardTableConfig<T, Type>
->;
+export type FinalizedConfig<
+  T extends Attrs,
+  Type extends SourceType,
+> = Required<StandardTableConfig<T, Type>>;
 const DEFAULT_STANDARD_TABLE_CONFIG = {
   force: false,
   selector: '#content table',
 };
-function makeUrl(type: SourceType, year: number): string {
+export function makeUrl(type: SourceType, year: number) {
   switch (type) {
     case 'finisher':
       return `https://www.wser.org/results/${String(year)}-results/`;
@@ -286,10 +292,16 @@ function makeUrl(type: SourceType, year: number): string {
       return `https://www.wser.org/${String(year)}-wait-list/`;
     case 'live':
       return `https://lottery.wser.org/`;
+    case 'split':
+      return year > LAST_SPLIT_XLS_YEAR
+        ? `https://www.wser.org/wp-content/uploads/stats/wser${String(year)}.xlsx`
+        : year > LAST_SPLIT_TXT_YEAR
+          ? `https://www.wser.org/wp-content/uploads/stats/wser${String(year)}.xls`
+          : `https://www.wser.org/wp-content/uploads/stats/wser${String(year)}.txt`;
   }
 }
 
-function scaffoldResource<T extends Attrs, Type extends SourceType>(
+export function scaffoldResource<T extends Attrs, Type extends SourceType>(
   config: FinalizedConfig<T, Type>,
   index: number,
 ): StandardResource<Type, T> {
@@ -300,7 +312,7 @@ function scaffoldResource<T extends Attrs, Type extends SourceType>(
   };
 }
 
-function isNumberField<
+export function isNumberField<
   T extends Attrs,
   Type extends SourceType,
   Config extends FinalizedConfig<T, Type>,
@@ -311,7 +323,7 @@ function isNumberField<
   return config.numericFields.includes(field as FieldsOfType<T, number>);
 }
 
-function isAllowedBlank<
+export function isAllowedBlank<
   T extends Attrs,
   Type extends SourceType,
   Config extends FinalizedConfig<T, Type>,
@@ -322,7 +334,18 @@ function isAllowedBlank<
   return config.allowNull.includes(field as FieldsOfType<T, null>);
 }
 
-export async function processStandardWebsiteTable<
+export function processStandardWebsiteTable<
+  T extends Attrs,
+  Type extends SourceType,
+>(
+  setup: StandardTableConfig<T, Type>,
+): Promise<void> & { [PayloadType]: StandardResponse<Type, T> } {
+  return _processStandardWebsiteTable(setup) as Promise<void> & {
+    [PayloadType]: StandardResponse<Type, T>;
+  };
+}
+
+export async function _processStandardWebsiteTable<
   T extends Attrs,
   Type extends SourceType,
 >(setup: StandardTableConfig<T, Type>): Promise<void> {
@@ -342,13 +365,13 @@ export async function processStandardWebsiteTable<
   type R = Ref<Type>;
   const RelationshipName = `${config.type}s` as const;
 
-  const info = await getHtmlIfNeeded<StandardResponse<Type, T>>(
+  const info = await getHtmlIfNeeded(
     makeUrl(config.type, year),
     `./.data-cache/raw/${year}/${config.type}.json`,
     force,
   );
 
-  if (info.data) {
+  if (info.html === null) {
     return;
   }
 
