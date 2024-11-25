@@ -384,7 +384,7 @@ export async function _processStandardWebsiteTable<
 
   const info = await getHtmlIfNeeded(
     makeUrl(config.type, year),
-    `./.data-cache/raw/${year}/${config.type}.json`,
+    `./data/raw/${year}/${config.type}.json`,
     force,
   );
 

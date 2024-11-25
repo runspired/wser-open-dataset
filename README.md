@@ -48,7 +48,7 @@ The following data sources are currently available:
 
 - `finishers`
   - source: `https://www.wser.org/results/{YYYY}-results/`
-  - output: `./.data-cache/raw/{YYYY}/finisher.json`
+  - output: `./data/raw/{YYYY}/finisher.json`
 
 > [!TIP]
 > Some early years had starters but no finishers, and some years the race
@@ -60,7 +60,7 @@ The following data sources are currently available:
 
 - `applicants` 
   - source: `https://www.wser.org/lottery{YYYY}.html`
-  - output: `./.data-cache/raw/{YYYY}/applicant.json`
+  - output: `./data/raw/{YYYY}/applicant.json`
 
 > [!TIP]
 > Beginning in 2020 the race began assigning each applicant
@@ -68,7 +68,7 @@ The following data sources are currently available:
 
 - `entrants`
   - source: `https://www.wser.org/{YYYY}-entrants-list/`
-  - output: `./.data-cache/raw/{YYYY}/entrant.json`
+  - output: `./data/raw/{YYYY}/entrant.json`
 
 > [!TIP]
 > The entrants list contains non-lottery entrant data as well
@@ -80,13 +80,13 @@ The following data sources are currently available:
 - `splits`
   - XLSX files from https://www.wser.org/splits/ 
   - source: `https://www.wser.org/wp-content/uploads/stats/wser{YYYY}.xlsx`
-  - output: `./.data-cache/raw/{YYYY}/split.json`
+  - output: `./data/raw/{YYYY}/split.json`
 
 ### 2017 →
 
 - `wait-list`
   - source: `https://www.wser.org/{YYYY}-wait-list/`
-  - output: `./.data-cache/raw/{YYYY}/waitlist.json`
+  - output: `./data/raw/{YYYY}/waitlist.json`
 
 > [!TIP]
 > The waitlist in 2020 became the 2021 waitlist,
@@ -97,7 +97,7 @@ The following data sources are currently available:
 
 - `live` (lottery outcome)
   - source: `https://lottery.wser.org/`
-  - output: `./.data-cache/raw/{YYYY}/live-lottery-results.json`
+  - output: `./data/raw/{YYYY}/live-lottery-results.json`
 
 > [!TIP]
 > The live dataset can only be collected the year of the
@@ -121,11 +121,11 @@ bun run ./index.ts
 ```
 
 This will scrape publicly available data from [https://wser.org](https://wser.org) and
-store it in `.data-cache/raw/`. We keep this under git versioning and only scrape data
+store it in `data/raw/`. We keep this under git versioning and only scrape data
 when we don't have an entry for it in the cache already: so unless looking to add data
 to a new year or working to add ingestion of data from new sources and earlier years
 this will likely do-nothing. Setting the `ENV` var `FORCE_GENERATE=true` will cause the
-files in `.data-cache` to rebuild. Note: they will rebuild from the responses stored in
+files in `data/raw` to rebuild. Note: they will rebuild from the responses stored in
 `.fetch-cache` when possible, see below.
 
 Additionally, we cache any successful raw fetch response that we scraped into `.fetch-cache`.
@@ -136,3 +136,8 @@ put a site we love under undo strain.
 When fetching a page to scrape data from, use the `GET` method to participate in the `.fetch-cache`.
 
 To bypass the fetch cache, set the `ENV` var `FORCE_FETCH=true`.
+
+### Manual Data
+
+For the occasional data with no other available source, we keep manually created
+json in files in`data/manual`.

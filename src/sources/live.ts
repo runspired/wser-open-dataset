@@ -70,7 +70,7 @@ async function __fetchLatestLiveLotteryResults(
   force = false,
 ): Promise<void> {
   // we always serve from cache unless asked to force generate
-  const path = `./.data-cache/raw/${yearHint}/live-lottery-results.json`;
+  const path = `./data/raw/${yearHint}/live-lottery-results.json`;
   const file = Bun.file(path);
   const forceGenerate = force || Bun.env.FORCE_GENERATE === 'true';
   const exists = await file.exists();

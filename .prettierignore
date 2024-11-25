@@ -2,7 +2,8 @@
 /blueprints/*/files/
 /vendor/
 
-.data-cache/raw
+data/raw
+.fetch-cache
 
 # compiled output
 /dist/

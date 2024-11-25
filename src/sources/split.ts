@@ -17,7 +17,7 @@ async function _fetchSplitData(year: number, force = false): Promise<void> {
   const OfficialStarts = (await startsFile.json()) as Record<number, string>;
 
   // we always serve from cache unless asked to force generate
-  const path = `./.data-cache/raw/${year}/split.json`;
+  const path = `./data/raw/${year}/split.json`;
   const file = Bun.file(path);
   const forceGenerate = force || Bun.env.FORCE_GENERATE === 'true';
   const exists = await file.exists();
