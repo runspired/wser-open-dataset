@@ -75,6 +75,13 @@ The following data sources are currently available:
 > as individuals who were selected from the waitlist. It does
 > not represent fully the lottery outcome.
 
+### 2014 →
+
+- `splits`
+  - XLSX files from https://www.wser.org/splits/ 
+  - source: `https://www.wser.org/wp-content/uploads/stats/wser{YYYY}.xlsx`
+  - output: `./.data-cache/raw/{YYYY}/split.json`
+
 ### 2017 →
 
 - `wait-list`
