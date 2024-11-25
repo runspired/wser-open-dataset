@@ -1,7 +1,31 @@
 {
   "name": "wser-open-dataset",
+  "version": "0.1.0",
+  "author": "Chris Thoburn <runspired@users.noreply.github.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:runspired/wser-open-dataset.git",
+    "directory": "/"
+  },
+  "keywords": [
+    "wser",
+    "open data",
+    "western states",
+    "trailrunning",
+    "ultramarathon",
+    "100 mile",
+    "ultra running",
+    "running"
+  ],
   "module": "index.ts",
   "type": "module",
+  "files": [
+    "data",
+    "LICENSE.md",
+    "README.md",
+    "assets"
+  ],
   "devDependencies": {
     "@types/bun": "latest"
   },
